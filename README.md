@@ -10,7 +10,6 @@
       <li>time: used for delay</li>
       <li>Tkinter: to obtain screen height and width</li>
       <li>getpass: to hide user password input</li>
-
     </ul>
   
   </li>

@@ -1,0 +1,40 @@
+Graduate Data Scientist (Remote)
+Medable, Inc
+Dublin, County Dublin, Ireland
+Company Description
+
+Medable's mission is to get effective therapies to patients faster. We provide an end-to-end, cloud-based platform with a flexible suite of tools that allows patients, healthcare providers, clinical research organizations and pharmaceutical sponsors to work together as a team in clinical trials. Our solutions enable more efficient clinical research, more effective healthcare delivery, and more accurate precision and predictive medicine. Our target audiences are patients, providers, principal investigators, and innovators who work in healthcare and life sciences.
+
+Our vision is to accelerate the path to human discovery and medical cures. We are passionate about driving innovation and empowering consumers. We are proactive, collaborative, self-motivated learners, committed, bold and tenacious. We are dedicated to making this world a healthier place.
+
+Job Description
+
+You will join a growing team of passionate Data Scientists, responsible for working directly with project teams to deliver robust data outputs, via custom built programs, across a broad range of clinical trial sponsors, Clinical Indications and Therapeutic Areas. This role will provide the opportunity to develop skills in programming and data analytics within a growing industry.
+
+Main responsibilities will include:
+Support the building of applications under the supervision of Data Scientist
+Support the identification of sources of information and aid in the access under the supervision of Data Scientist
+Program applications and validation of applications in Python and/or R or any other platform
+Timely and quality delivery of external and internal data
+Communicate openly with the Data Science team
+
+Qualifications
+Bachelor’s Degree in Mathematics, Statistics or a related field, preferably Data Science
+Basic knowledge of the design and conduct of clinical trials
+A team player
+Analytical and problem-solving skills
+Familiarity with at least one Data Science/Statistical programming language (eg. R, Python, SAS, MatLab)
+Clinical Trial Systems familiarity (preferred)
+Familiarity with standard working software such as MS Office, Google 365 suite, etc.
+
+Additional Information
+
+All your information will be kept confidential according to EEO guidelines.
+Seniority Level
+Entry level
+Industry
+Internet
+Employment Type
+Full-time
+Job Functions
+Engineering Information Technology

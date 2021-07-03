@@ -1,0 +1,58 @@
+Graduate Data Scientist- AutoEntry
+Sage
+Dublin, County Dublin, Ireland
+Job Description
+
+As a part of our team, you will be contributing to machine learning solutions to help steer the direction of the Autoentry teams Data Science and Machine Learning effort. You will have chances to innovate, contribute and make an impact.
+
+You will help designing, developing, delivering, and maintaining high quality machine learning solutions that contribute to the success of Sage and to develop the Machine Learning (ML) technology to reduce the need for manual processing and data entry.
+
+Key Responsibilities Key Accountabilities And Decision Ownership
+Complete all required training and mentoring sessions
+Look to increase both technical ability and domain knowledge through active participation in the project development life cycle.
+Contribute to developing and maintaining high quality data science and machine learning solutions.
+Work with data scientists to analyze, visualize and extract insights from data.
+Train, test and tune ML models for production.
+Presenting findings and results to the wider team.
+Building and maintaining good working relationships with various members within the team
+Keep up to date with relevant technology areas.
+Seek out and act upon feedback from team members
+Actively contribute to retrospectives/debriefs in areas of responsibility to develop the teams’ abilities
+Key Performance Indicators
+Deliver quality data analytics and ML solutions
+Complete assigned development tasks to agreed level of quality and by the required deadline.
+Complete required training.
+Provide accurate, detailed and timely estimates and track own activities against plan
+Must Have
+
+Skills, know-how and experience:
+Understanding of statistical and machine learning techniques
+Analytical, quantitative, problem-solving and critical thinking skills
+Proficiency in English language, verbal and written
+Articulate with excellent verbal and written communication skills
+Excellent interpersonal skills and the ability to maintain effective working relationships
+Preferred
+1-year practical experience, or professional experience
+Technical / Professional Qualifications
+BS, MS in Data Science, Computer Science, Quantitative Finance, Mathematics, Physics, Statistics, or equivalent quantitative field
+Some experience working on a machine learning project, either as part of your degree, work experience and/or on a personal project (Kaggle, Hackathons, Datathons, etc)
+Familiarity with Python/R, and data science and ML frameworks such as pandas, scikit-learn, or similar.
+Basic knowledge of NLP and Accounting/Finance domain is a plus.
+Entry Requirements
+
+A relevant STEM degree or an alternative degree supported by a keen interest in Data Science.
+
+Our Graduate Recruitment Process
+Apply online with CV
+Complete screening
+Complete video interview (You will receive a link to complete a video interview within 1 week of applying)
+Attend Assessment Centre (Held August 2021)
+If successful, you would join our Graduate Programme on 4th October 2021
+Seniority Level
+Entry level
+Industry
+Marketing & Advertising Computer Software Internet
+Employment Type
+Full-time
+Job Functions
+Engineering Information Technology

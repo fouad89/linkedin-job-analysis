@@ -1,0 +1,64 @@
+Data Scientist
+Stelfox Tech Recruitment
+Limerick, County Limerick, Ireland
+Stelfox is delighted to be partnering with an ambitious and forward thinking U.S Healthcare Tech provider who are entering Limerick/Ireland for the first time with the goal of building a Technology Centre from the ground up to over 100 people in the first 6-18 months. Eventually becoming the main European HQ on new R&D and technology initiatives in the future as well as delivery existing Global BAU programs of work from Limerick.
+
+
+
+Our client is committed to transforming the world of healthcare through operational excellence, innovation, and digital transformation.
+
+They are uniquely positioned to enable enterprises & organisations across technology domains including data analytics, digital technologies, automation & AI and streamlined business processes, with robust infrastructure and fluid operational capacity.
+
+Your role will involve
+
+As a Data Scientist you will be responsible for the development and implementation of predictive modeling algorithms and techniques with moderate complexity, including but not limited to:
+
+
+Execution of algorithms to address specific business problems under direction of team lead or manager.
+Work with datasets of moderate size and complexity.
+Develop visualization of analysis output for business users and publish results under direction of team lead or manager.
+
+Preferred experience
+
+
+Bachelor's degree in Statistics, Computer Science, Mathematics, Machine Learning, Econometrics, Physics, Biostatistics or related Quantitative disciplines.
+1 or more years' experience in predictive analytics or equivalent; or any combination of education and experience, which would provide an equivalent background.
+Must have knowledge of predictive modeling and data modeling concepts, and knowledge of distributed computing environment, such as Hadoop. PhD preferred.
+Experience in Hive, Impala or Apache Spark is preferred.
+
+Please note:
+
+We have several similar positions currently, and in the future, which we would like to discuss with you should you indicate your interest in this role. When we receive your application for this role, we will contact you to advise you of our process for other similar positions.
+
+Stelfox is fully compliant with GDPR regulations and you can read more in our privacy policy here: https://www.stelfox.com/privacy-policy-gdpr/
+
+Your shared data will not be disclosed or transferred to a third party data controller or data processor located outside the EEA unless we have obtained your express consent.
+
+
+We look forward to working with you.
+
+Please note:
+
+
+
+We have a number of similar positions currently, and in the future, which we would like to discuss with you should you indicate your interest in this role. When we receive your application for this role, we will contact you to advise you of our process for other similar positions.
+
+
+
+Stelfox is fully compliant with GDPR regulations and you can read more in our privacy policy here: https://www.stelfox.com/privacy-policy-gdpr/
+
+
+
+Your shared data will not be disclosed or transferred to a third party data controller or data processor located outside the EEA unless we have obtained your express consent.
+
+
+
+We look forward to working with you.
+Seniority Level
+Associate
+Industry
+Computer Software Information Technology & Services Program Development
+Employment Type
+Full-time
+Job Functions
+Information Technology

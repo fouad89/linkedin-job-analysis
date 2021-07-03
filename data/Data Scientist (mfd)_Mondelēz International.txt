@@ -1,0 +1,71 @@
+Data Scientist (mfd)
+Mondelēz International
+Dublin City, County Dublin, Ireland
+Job Description
+
+Are You Ready to Make It Happen at Mondelēz International?
+
+Join our Mission to Lead the Future of Snacking. Make It With Pride.
+
+You will be crucial in supporting our business by creating valuable, actionable insights about the data, and communicating your findings to the business. You will work with various stakeholders to determine how to use business data for business solutions/insights.
+
+How You Will Contribute
+
+You will:
+Analyze and derive value from data through the application methods such as mathematics, statistics, computer science, machine learning and data visualization. In this role you will also formulate hypotheses and test them using math, statistics, visualization and predictive modeling
+Understand business challenges, create valuable actionable insights about the data, and communicate your findings to the business. After that you will work with stakeholders to determine how to use business data for business solutions/insights
+Enable data-driven decision making by creating custom models or prototypes from trends or patterns discerned and by underscoring implications. Coordinate with other technical/functional teams to implement models and monitor results
+Apply mathematical, statistical, predictive modelling or machine-learning techniques and with sensitivity to the limitations of the techniques. Select, acquire and integrate data for analysis. Develop data hypotheses and methods, train and evaluate analytics models, share insights and findings and continues to iterate with additional data
+Develop processes, techniques, and tools to analyze and monitor model performance while ensuring data accuracy
+Evaluate the need for analytics, assess the problems to be solved and what internal or external data sources to use or acquire. Specify and apply appropriate mathematical, statistical, predictive modelling or machine-learning techniques to analyze data, generate insights, create value and support decision making
+Contribute to exploration and experimentation in data visualization and you will manage reviews of the benefits and value of analytics techniques and tools and recommend improvements
+
+What You Will Bring
+
+A desire to drive your future and accelerate your career and the following experience and knowledge:
+Strong quantitative skillset with experience in statistics and ML
+A natural inclination toward solving complex problems
+Knowledge/experience with statistical programming languages including SAS, R, Python, SQL, etc., to process data and gain insights from it
+Knowledge of machine learning techniques including decision-tree learning (R andom Forest, Gradient Boost) clustering, artificial neural networks, etc., and their pros and cons.
+Knowledge and experience in advanced statistical techniques and concepts including, regression, distribution properties, statistical testing, etc.
+Good communication skills to promote cross-team collaboration
+Experience/knowledge in statistics and data mining techniques including random forest, GLM/regression, social network analysis, text mining, etc. Ability to use data visualization tools to showcase data for stakeholders
+
+More About This Role
+
+What you need to know about this position:
+
+The Data Scientist forecasting will be responsible for advanced forecasting methodologies for demand forecasting to generate better forecasting results in terms of accuracy and bias
+Determine, create and maintain the best Statistical models be to be used, by considering SKU demand behavior using segmentation strategy, to generate high quality demand statistical forecast with low forecast error and bias
+Collaborate with Demand Planners to identify right drivers and lever which influences demand and thus incorporate in statistical forecasting process
+Support SAS Implementation for market for demand modelling in SAS and SAS Model Forecast Improvement activity. Keep close liaison with SAS implementation partner to get transitioned process to Central Analytics Team
+Refine forecasting models, by reviewing forecast performance and incorporating feedback from the Demand Planner, to improve forecast error and bias metrics
+Analyze the model performance every month / week (Where MAPE is deteriorating etc) and post process the output and if required finetune the output
+Propose additional data elements which we can consume and work with ETL developer to get those into SAS staging and SAS ABTs
+Run demand-supply segmentation analysis as per defined frequency
+
+Education / Certifications
+
+Either of the following is applicable as educational criteria for the position:
+Degree/Masters in quantitative field of Statistics, Applied Mathematics or Engineering, with specific full-time courses in Analytics
+Certifications any of SAS Base, SAS VF, SAS Visual Statistics, etc
+Strong Applied Knowledge of analytical techniques in statistical modelling, machine learning with exposure to forecasting domain especially driver based forecasting
+Experience on working with FMCG, Food & Beverages, Retail or similar industry data with understanding the business process with be advantage
+Should be able to articulate data science outcome into business understandable language
+Fluent English, other European languages would be an advantage.
+
+The responsibilities of this position are performed within the framework of a regional business model that is defined and managed by Mondelēz Europe GmbH, Switzerland .
+
+No Relocation support available, however for candidates voluntarily moving internationally some minimal support is offered through our Volunteer International Transfer Policy Business Unit Summary At Mondelez Europe, we are proud, not only of the iconic brands we make, but also of the people who make them. Our delicious products are created in 52 plants across Europe by more than 28,000 passionate people. We are the top maker of chocolate and biscuits and a leading maker of gum and candy. We make sure our powerful global brands and local jewels like Cadbury, Milka and Alpen Gold chocolates, Oreo, belVita, LU and Tuc biscuits, and Stimorol and Dirol gums get safely into our customers hands—and mouths. Great people and great brands. That’s who we are. Join us on our journey to continue leading the future of snacking around the world by offering the right snack, for the right moment, made the right way.
+
+Mondelēz International is an equal opportunity employer and all qualified applicants will receive consideration for employment without regard to race, color, religion, gender, sexual orientation or preference, gender identity, national origin, disability status, protected veteran status, or any other characteristic protected by law.
+
+Job Type RegularData ScienceAnalytics & Data Science
+Seniority Level
+Entry level
+Industry
+Food Production Food & Beverages Consumer Goods
+Employment Type
+Full-time
+Job Functions
+Engineering Information Technology

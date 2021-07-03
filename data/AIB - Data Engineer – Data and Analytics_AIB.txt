@@ -1,0 +1,77 @@
+AIB - Data Engineer – Data and Analytics
+AIB
+Ireland
+Posted by
+Caroline Donlon 2nd
+Senior Business Manager at Hays Technology
+Send InMail
+Location: Dublin / Remote / Hybrid
+
+Data and Analytics in AIB
+AIB is a dynamic, diverse, and fun place to work. We are changing from the inside out to become a bank people can believe in. And by people, we mean our employees as well as our customers. We back our customers and employees’ dreams and ambitions! We are investing in the future with a heavy focus on expanding the Data & Analytics Centre of Excellence – so it is a great time to join and help shape and grow this function, as we become a data driven bank with best-in-class analytical capabilities. Within Data & Analytics you will experience a diverse workforce where everyone has the opportunity to reach their potential. We work in an agile environment that empowers its people, where your voice is heard and where you will be invested in to learn and grow along the way.
+The Role
+The Data Engineering team forms part of the Data Engineering and Architecture area within the Centre of Excellence for Data and Analytics at AIB.
+The team developer data pipelines on behalf of Business Stakeholders within a complex IT and data infrastructure.
+This is an exciting and challenging opportunity for the successful candidate to expand the team’s ability to deliver data products in a best-in-class infrastructure where data and analytical tooling integrate deeply.
+ We’re looking for someone who:
+Develops and maintains scalable data pipelines.
+Demonstrates experience in the areas of tool usage with large data structures.
+Implements processes and systems to monitor data quality, ensuring production data is always accurate and available for key stakeholders and business processes that depend on it.
+Follows application design standards and frameworks related to model deployment and execution.
+Collaborates with analytics and business teams to improve data models that feed business intelligence tools, increasing data accessibility, and fostering data-driven decision making across the organisation.
+Ensures data deployments are to the highest quality and standards.
+ A data engineer delivers the designs set by more senior members of the data engineering community.
+At this level, you will be expected to:
+Implement data flows to connect operational systems, data for analytics and business intelligence (BI) systems.
+Document source-to-target mappings
+Re-engineer manual data flows to enable scaling and repeatable use.
+Support the build of data streaming systems.
+Write ETL scripts and code to make sure the ETL process performs optimally.
+Develop business intelligence reports that can be re-used.
+Build accessible data for analysis.
+
+Skills needed for this role.
+Communication skills. You know about the need to translate technical concepts into non-technical language and understand what communication is required for internal and external stakeholders.
+Data analysis and synthesis. You know how to undertake data profiling and source system analysis and can present clear insights to colleagues to support the end use of the data.
+Data development process. You can design, build, and test data products based on feeds from multiple systems using a range of different storage technologies and/or access methods. You know how to create repeatable and reusable products.
+Data innovation. You know about opportunities for innovation with new tools and the use of data.
+Data integration design. You can deliver data solutions in accordance with agreed organisational standards that ensure services are resilient, scalable, and future proof.
+Data modelling. You understand the concepts and principles of data modelling and can produce, maintain and update relevant data models for specific business needs. You know how to reverse-engineer data models from a live system.
+Metadata management. You can work with metadata repositories to complete complex tasks such as data and systems integration impact analysis. You know how to maintain a repository to ensure information remains accurate and up to date.
+Problem resolution. You know about the types of problems in databases, data processes, data products and services.
+Programming and build. You can design, code, test, correct and document simple programs or scripts under the direction of others.
+Technical understanding. You understand core technical concepts related to the role and can apply them with guidance.
+Testing. You can execute test scripts under supervision. You understand the role of testing and how it works.
+
+You will need to show us that you can/have:
+ Minimum of bachelor's degree in a discipline incorporating: information management related disciplines or quantitative analytical techniques, e.g., Software Engineering, Data and Analytics, Mathematics, Statistics.
+2+ years’ experience in a relevant area with knowledge of the software development lifecycle and IT change management, with an understanding of Banking/Risk and/or other model types, and their interdependencies.
+Extensive experience with Data Integration technologies.
+Data management, analytical and reporting skills
+Database experience preferably on Teradata or other Databases (such as Oracle, DB2, Hive, Impala, Kudu, MS SQL Server, Postgres, MongoDB, Cassandra).
+Knowledge of scheduled batch processes within an Enterprise Scheduler.
+Effective communication skills with a proven record of accomplishment of articulating complex concepts/results in simple language.
+  Capabilities:
+Data Analysis*
+Investigating and Reporting
+Numerical Competence*
+Quality Control*
+Requirement Analysis
+
+Why join us?
+In each team you’ll find leaders who focus as much on people as they do on function. Here, anyone who is responsible for managing people is called a people leader, not a manager. That shows our commitment and focus on the development and engagement of the people who work here.
+We call our Diversity & Inclusion plan iMatter – because that is our aim. No matter who we are, where we are from, how we look, we all make a difference. You’ll find a mix of age, race and gender, where everyone has an opportunity to reach their potential. You’ll find a culture of openness, positivity and respect where everyone has a voice.
+
+
+What you need to do next
+If you're interested in this role, click 'apply now' to forward an up-to-date copy of your CV
+
+I am a Senior Business Manager for Hays Technology, working in partnership with AIB for technology roles at AIB Ireland, helping tech professionals develop their careers and ensuring organisations are supported by the top talent. 
+Seniority Level
+Mid-Senior level
+Industry
+Banking
+Employment Type
+Full-time
+Job Functions
+Information Technology

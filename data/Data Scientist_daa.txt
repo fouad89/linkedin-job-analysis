@@ -1,0 +1,40 @@
+Data Scientist
+daa
+Dublin, County Dublin, Ireland
+Posted by
+Elaine Clements 2nd
+Talent Acquisition Partner at daa
+Send InMail
+Want to work for the most innovative analytics team in Ireland? A vacancy has arisen within our Award Winning Analytics department for a Data Scientist.
+
+The Data Scientist will report to the Analytics manager, who reports to the VP of Data & Analytics. The Data Scientist will work across a unique portfolio of analytics challenges across the full daa portfolio (airport operations, security, retail businesses, HR and Commercial). The Data Scientist will work closely with business units to translate business problems into analytics solutions. The Data Scientist will use data cleansing, statistics, machine learning and other advanced data analysis techniques to collect, explore, and extract insights from a wide variety of datasets. The Data Scientist will possess excellent creative thinking skills with emphasis on developing innovative solutions to solve complex problems ensuring analytics is delivered and communicated in a way that is user friendly and easy to interpret for the business. As well as excellent technical skills, the ideal candidate must have strong business acumen and business engagement skills.
+ Key Responsibilities
+Bring advanced analytics thought leadership and innovation to daa and ensure that analytical solutions are developed & utilised to drive business performance.
+Work on all aspects of the design, development, and delivery of analytics solutions, including problem definition, data exploration and visualization, building, evaluating, and deploying models.
+Using data cleansing and preparation, statistics, machine learning and other advanced data analysis techniques to collect, explore, and extract insights from a wide variety of datasets.
+Applying new & novel advanced analytics techniques to daa’s data assets to generate value for the full business e.g. predictive modelling, customer segmentations, optimisation, and what-if scenario analysis.
+Performing deep dive analysis with a view to delivering opportunities for revenue growth, operational efficiencies, and improved customer & passenger experience.
+Collaborating with fellow data scientists, business analysts and business subject matter experts to design and develop working data science solutions.
+Working closely with business units to translate business problems into analytics solutions.
+Excellent creative thinking skills with emphasis on developing innovative solutions to solve complex problems with ambiguities and no obvious solutions.
+Ensuring analytics is delivered and communicated in a way that is business-user friendly and easy to interpret.
+ Knowledge, Skills and Experience
+Hold a relevant primary degree (preferably post-graduate qualification) in a relevant field of study - mathematics, computer science, statistics, operations research, etc.
+Have at least 3+ years’ experience in an analytics role, preferably dealing with large volumes of diverse data e.g. consumer, transactional or operational data
+Strong quantitative, analytical and problem-solving skills. Attention to detail and accuracy are key.
+Passionate about data science and using data to drive better business outcomes.
+Experience building and deploying predictive models and segmentations.
+Experience delivering analytical deep dives on key topics for the business.
+The ability to think creatively and practically to develop effective methods and solutions to address them.
+Proficiency with advanced analytics tools (e.g. R, Python, SPSS, SAS, SQL, etc.) to manipulate data and draw insights from large data sets.
+Knowledge of a variety of machine learning techniques (clustering, decision tree learning, optimisation, etc.).
+Knowledge of advanced statistical techniques and concepts (regression, statistical tests, etc.).
+Excellent interpersonal skills, and the ability to communicate and explain complex technical concepts and quantitative methods to a wide, non-technical audience.
+Seniority Level
+Mid-Senior level
+Industry
+Airlines/Aviation
+Employment Type
+Full-time
+Job Functions
+Engineering Information Technology

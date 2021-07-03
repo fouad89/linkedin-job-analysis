@@ -1,0 +1,39 @@
+Data Scientist, Payments Optimization
+Stripe
+Dublin, County Dublin, Ireland
+Posted by
+Jordan MacDonald
+Leadership Recruiter at Stripe
+Send InMail
+Stripe’s core mission is to reduce the barriers faced by large and emerging businesses around the world by abstracting away the complexities of payments. We are the best software platform for running an internet business and handle billions of dollars every year for hundreds of thousands of businesses around the world.
+We’re looking for a Data Scientist who is passionate about applying their analytical and engineering skills to, without embellishment, increase the GDP of the internet.. Joining the Authentication team, centred in Europe, you will research and build machine learning systems to help businesses maximize their revenue, minimize fraud, and optimize their decision-making around authentication in general.
+
+Data science in Europe is ramping up, and you should be excited to wear many hats and really help scope the role and work we do in this field. You will also be joining an established and rich Global Data Science Community made up of Analysts, Engineers and Scientists, having the opportunity to learn and work together.
+
+You Will
+Research, build, and productize ML models to maximize conversion and reduce fraud for our users
+Collaborate with product and engineering to turn your work into user-facing products
+Build data sets and dashboards that help internal and external users understand payments performance and the impact of your work
+Design and implement experiments to test hypotheses and refine our understanding of the authentication ecosystem
+Influence the product roadmap through rigorous analysis and a scientific mindset
+
+
+We’re Looking For Someone Who Has
+Demonstrated track record of identifying, scoping and leading complex data science projects with cross-functional partners and high business impact
+Expert knowledge of a scientific computing language (such as R or Python) and SQL
+Strong knowledge of statistics, machine learning and optimization
+Familiarity with or a desire to learn a production coding language (Ruby, Scala, or Java)
+Ability to communicate complex quantitative analysis in a clear, precise, and actionable manner
+Ideally 5+ years experience working with and analyzing large data sets
+A PhD or MS in a quantitative field (e.g., Economics, Statistics, Engineering, Natural Sciences, Operations Research, Computer Science, or Mathematics)
+
+Please find our EU applicant personal information notice here
+
+Seniority Level
+Mid-Senior level
+Industry
+Computer Software Financial Services Internet
+Employment Type
+Full-time
+Job Functions
+Engineering Information Technology

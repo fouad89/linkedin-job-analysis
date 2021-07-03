@@ -1,0 +1,40 @@
+Quantitative Researcher- Ultra Low Latency
+Susquehanna International Group, LLP (SIG)
+Dublin, County Dublin, Ireland
+Posted by
+Chris Copp
+Recruitment Manager at Susquehanna International Group, LLP (SIG)
+Send InMail
+SIG’s Quantitative Researchers find solutions to complex problems that occur in the world of trading. They use research as a tool to better understand global markets, varying products, and the network of exchanges on which we trade. Quants move SIG's business forward by improving, identifying, and implementing trading strategies for the firm. 
+ Working on our bleeding-edge ultra-low latency trading platform you will bring your machine learning expertise to bear on all aspects of the trade pipeline including alpha generation, model development and trade execution algorithms by utilizing terabytes of high accuracy trading data recorded across the globe. You will be responsible for not only prototyping and conducting research into various strategy components, but also writing the necessary code to get your ideas into production. Interest and experience in programming is therefore essential.
+ What You’ll Do
+Establish meaningful relations among financial products through machine-driven data analysis and mathematical modelling
+Generate, test, and challenge hypotheses to create or improve low-latency trading strategies
+Work closely with traders to identify new areas of research
+Collaborate with quant developers to build trading systems that execute large-scale strategies independent of human interaction.
+
+What we're looking for:
+
+PhD or equivalent degree in Mathematics, Computer Science, Physics, Statistics, Electrical Engineering, Computer Science.
+Expertise in machine learning
+We are looking for at least one of the following:
+2+ years as a quantitative research analyst in a trading environment (low latency trading is a plus.
+5+ years in a role which involved applying advanced quantitative techniques in order to solve highly complex data intensive problems.
+Strong numerical programming skills essential:
+ Advanced experience in Python for data analysis and machine learning.
+Experience with C++ not essential but would be beneficial.
+Strong communication and interpersonal skills a must. The successful candidate must work well in an interdepartmental setting.
+
+
+
+
+SIG is an equal opportunity employer. If you need assistance and/or a reasonable accommodation due to a disability during the application or recruitment process, please contact us.
+  SIG is not accepting unsolicited resumes from search firms. All resumes submitted by search firms to any employee at SIG via-email, the internet or directly without a valid written search agreement will be deemed the sole property of SIG, and no fee will be paid in the event the candidate is hired by Susquehanna.
+Seniority Level
+Mid-Senior level
+Industry
+Financial Services
+Employment Type
+Full-time
+Job Functions
+Finance Sales

@@ -1,0 +1,26 @@
+Product Security Researcher
+Intel Corporation
+Shannon, County Clare, Ireland
+Job Description
+
+Join Intel's security community as a Product Security Researcher in the Data Platforms Group (DPG) Software Engineering team. You will be part of a global organization delivering E2E platform software for Xeon Platforms and data center workloads. You will have a front-row view of the latest technologies and platforms spanning Cloud, 5G, Edge, AI, and Connectivity. Your role is a critical part of delivering world-class products with robust security. The ideal candidate must have strong industry experience in product security and have a deep technical background in security architecture, design, development and validation. Daily tasks include: � Staying up-to-date on industry security trends and application to Intel product development. Includes participating in industry conferences and publications. � Leading technical security reviews and ratifying architecture, design and implementation of product software � Supporting Software Architects with threat modeling � Leading product hardening activities (Red Teaming, Hackathon, Fuzzing, Pen Testing) � Supporting resolution of post-release security issues � Training and coaching others on best practices for secure product development
+
+Qualifications
+
+Minimum qualifications are required to be initially considered for this position. Preferred qualifications are in addition to the minimum requirements and are considered a plus factor in identifying top candidates. Minimum Qualifications: � Bachelor's degree Computer Science, Computer Engineering, or equivalent, and 8+ years industry experience in systems, hardware, firmware or software security � Ability to critically evaluate products, identify security concerns and recommend appropriate mitigations � Ability to decompose high-level descriptions into technical details and clear requirements for engineering development and validation � Industry experience in security architecture, security design, secure development or penetration testing roles in relevant technology domains � Experience with industry Security Development Lifecycle (SDL) processes, security assurance tasks and in-depth technical security reviews, for enabling continuous delivery using agile development methodologies. � Ability to critically evaluate information gathered from multiple sources, reconcile conflicts, decompose high-level information into details � Excellent communication and interpersonal skills � Team player, collaborative, and ability to thrive in a fast-paced, dynamic environment Preferred Qualifications: � Master's or PhD degree Computer Science, Computer Engineering, or equivalent, and 5+ years industry experience in systems, hardware, firmware or software security � In-depth expertise or experience in one or more of the following areas: Threat modeling, Exploitation and mitigation technique developments, Security testing techniques � Mastery of multiple programming languages Requirements listed would be obtained through a combination of industry relevant job experience, internship experiences and or schoolwork/classes/research.
+
+Inside this Business Group
+
+The Data Center Group (DCG) is at the heart of Intel’s transformation from a PC company to a company that runs the cloud and billions of smart, connected computing devices. The data center is the underpinning for every data-driven service, from artificial intelligence to 5G to high-performance computing, and DCG delivers the products and technologies—spanning software, processors, storage, I/O, and networking solutions—that fuel cloud, communications, enterprise, and government data centers around the world.
+
+Other Locations
+
+Virtual Europe, Middle East and Africa
+Seniority Level
+Associate
+Industry
+Electrical & Electronic Manufacturing Information Technology & Services Computer Software
+Employment Type
+Full-time
+Job Functions
+Information Technology

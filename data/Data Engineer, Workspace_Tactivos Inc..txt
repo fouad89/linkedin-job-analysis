@@ -1,0 +1,62 @@
+Data Engineer, Workspace
+Tactivos Inc.
+Ireland
+MURAL is on a mission to inspire and connect imagination workers globally.
+
+MURAL is a digital workspace for visual collaboration that connects over 75 percent of the Fortune 100. Teams at global enterprises including IBM, USAA, E-Trade, Intuit, SAP, Atlassian, Autodesk, and GitHub embrace visual collaboration to run more productive meetings and workshops. This leads to a more creative, engaging, and fun way of working together, all in a welcoming, simple-to-use online space.
+
+Headquartered in San Francisco, California, MURAL employs over 500 people around the world. In 2020, MURAL raised $118M in a series B round of financing and are working hard to take MURAL to the next level.
+
+YOUR MISSION
+
+The Workspace product group at MURAL helps connect imagination workers globally by making it easy for users to discover content and manage their work and by helping organizations understand and improve collaboration through reporting, analytics, and insights.
+
+We are looking for a Data Engineer to join our Reporting & Analytics team. You have strong technical skills and are excited to create an emerging data ecosystem. You will help build a solid data foundation for the organization. You will help set the direction for data-driven product features at MURAL.
+
+In this role, you will:
+Work closely with Product teams to design and create a data platform to power features
+Design, implement, and build pipelines to deliver data with a focus on data quality
+Work with our Product Managers and Engineers to deliver data sets that are trusted and well understood
+Build the tools and APIs necessary to support data-driven features throughout the product
+Promote data engineering best practices throughout MURAL
+YOUR PROFILE
+You have several years of experience building data pipelines (Spark, Flink, Kafka, Cassandra, Presto, etc) with large scale datasets
+You have demonstrable experience with schema design and data modeling
+You are experienced with JavaScript and Node.js
+You have solid skills with either Python or Java
+You have experience with relational and NoSQL data stores, and understand the benefits of each
+You understand the benefits of the agile development process and value learning from experimentation
+You have effective communication skills; this includes proficiency English, both written and verbal
+You have a bias for action
+What We Offer
+
+In addition to being part of our quest to help people empower their imagination, we offer:
+Competitive salary and benefits
+Flexible working hours
+Ability to work remotely
+Flexible time off
+Professional development opportunities
+Learning stipend
+Wellness stipend
+MURAL free forever plan
+Design Thinking + Facilitation trainings
+OUR VALUES
+
+We bring people to our team that care about our mission to inspire and connect creative people globally, and who feel aligned with our values:
+Make others successful
+Adapt to thrive
+Play to wow
+Think global
+Experiment like an owner
+Practicing equality through imagination work.
+
+MURAL is committed to creating diverse and inclusive workspaces where people can make a positive impact on the world and share their vision of how they achieve it. We are dedicated to working alongside multiple communities to help build this dream and bring it to life.
+
+Seniority Level
+Entry level
+Industry
+Information Technology & Services Computer Software Internet
+Employment Type
+Full-time
+Job Functions
+Information Technology

@@ -1,0 +1,67 @@
+Data Scientist (Data & Analytics)
+Aptiv
+Dublin, County Dublin, Ireland
+Aptiv is seeking a Data & Analytics – Data Scientist to design and implement processes for statistical data exploration, preparation, modeling, prediction, clustering, analysis, and reporting. It will involve automated data profiling and monitoring in accordance with the policies around corporate data governance and security of high-volumes of structured and unstructured data. They will use data-driven methods to detect anomalies, predict KPIs, cluster data samples, explore patterns and simplify the interpretation of complex processes using the data in the Enterprise Data Warehouse, Data Lake and Business Intelligence platforms. They are expected to propose and implement new data processing architectures, systems, workflows and solutions to drive and influence key decisions and actions regarding IT data applications and infrastructure. They will understand the business needs in relation to data life-cycle, governance, modeling and reporting and work to enhance the availability, consistency, quality, understanding, and interpretation of the data using industry best practices. They will employ state of the art machine learning and pattern recognition techniques to assess and propose solutions to complex problems that require automated decision support for continuous optimization of corporate and manufacturing processes, decisions, business services and operations.
+
+Your Role
+
+Primary responsibilities of this position are related to design and implement processes for data processing systems across the organization. Some of the specific responsibilities of this role include:
+Designs and implements high-throughput statistical decision making pipelines connecting data warehouses and data lakes to business intelligence dashboards via AI/ML/NLP engines.
+Facilitates the preparation and delivery of advanced analytics capabilities adhering to standard industry practices such as CRISP-DM using modern enterprise AI platforms and scripting languages.
+Conceive, develop, prove, transition and scale-up successful PoCs on predictive maintenance and quality assessment to manufacturing intelligence portals
+Model business problems using data science principles as delivering capabilities such as root-cause analysis, outlier detection, control, dimensionality-reduction, feature-selection, hypothesis testing, interpolation, conditional relevance, syntactic relevance, error-correction, regression, rule-of-thumb, mixture-modeling, curve-fitting, noise rejection, semantic-inference, exploration, filtering, etc.
+Quantify TIMWOODS wastage and reason root-causes of delays and rework using process mining for global business services.
+Develop predictive models for profitability analysis of product portfolio
+Develop automated methods to detect outliers and cleanup in finance data
+Predict collectability of invoices and extract payment patterns in order-to-cash or procure-to-pay processes
+Architect cloud-based analytics for manufacturing datalake applications
+Design monitoring system for continued compliance of analytics solutions with GDPR, TISAX, CCPA, etc.
+Design solutions for PII data while ensuring mechanism to control and tune reporting performance
+Design centralized cloud-EDW for product engineering, program and financial reporting
+Architect hybrid cloud-data lake and data warehouse for siloed corporate applications.
+Plan and manage cloud-migration processes and perform risk-assessment including TCO analysis for cloud / hybrid
+Design solution with data security and privacy at the forefront
+Answers questions, resolve problems, and responds to requests to accomplish the objectives of the projects and programs of the organization.
+Maintains quality of service by establishing and enforcing organization standards.
+Contributes to team effort by accomplishing high-quality results on time.
+Acquires new skills to meet demands of any new emerging challenges, technologies, tasks, projects, etc.
+
+They will be expected to ensure project plans and project documentation are complete and up-to-date, provide regular project status updates, help acquire the necessary resources and skills, and contribute to the delivery of business systems to meet identified business requirements.
+
+Your Background
+5+ years of work-experience in
+data science, machine learning, natural language processing, data architecture, data engineering, business intelligence design, implementation and operations
+design and implementation of new data-driven capabilities, maintain ongoing analytics projects, and import/export/deliver data for ad hoc or systematic explorations/analysis/reporting.
+commercial design, implementation, deployment and maintenance of data warehouse and BI technology stacks
+database optimizations, scalable computations, programming languages, operating systems, cloud-based deployments.
+a majority of the following: DataOps, MLOps, Git, CI/CD, Hadoop, DevOps, Python, NoSQL, Spark, Hive, HBase, Azure/AWS/GCP, Tableau / Qlik / PowerBI / DundasBI, Teradata, Cloudera, Informatica
+a majority of the following: frameworks and libraries like MXNet, Caffe 2, CNTK, Keras, scikit-learn, caret, mlr, mllib, SpartML, Tensorflow, Theano, etc.
+
+Aptiv Rewards & Advantages
+Competitive compensation package including; Bonus Potential, Healthcare, Pension & TaxSaver schemes.
+Learning, professional growth and development in a world recognized international environment.
+Access to internal & external training, coaching & certifications.
+Recognition for innovation and excellence.
+Opportunities to give back to the community.
+Meaningful work that makes a difference in the world
+
+Some see differences. We see perspectives that make us stronger.
+
+Diversity and Inclusion are sources of innovation and creativity, both of which are essential to Aptiv’s success. Everyday our diverse team comes together, drives innovation, pursues solutions, and meets challenges using their unique abilities, perspectives and talents, changing what tomorrow brings. When you join our team, you’ll get encouraged to think boldly, express your viewpoint and innovate as a matter of habit.
+
+Some See Technology. We See a Way to Make Connections.
+
+At Aptiv, we don’t just see the world differently; we work to change reality. That means developing technology that rewrites the rules of what’s possible in the pursuit of making transportation safer, greener and more connected. Today there are more than 180,000 of us globally, located in 44 countries, and united by one mission. Join the movement and together, let’s change tomorrow.
+
+Privacy Notice - Active Candidates: https://www.aptiv.com/privacy-notice-active-candidates
+
+Aptiv is an equal employment opportunity employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, national origin, sex, gender identity, sexual orientation, disability status, protected veteran status or any other characteristic protected by law.
+
+Seniority Level
+Entry level
+Industry
+Information Technology & Services Computer Software Automotive
+Employment Type
+Full-time
+Job Functions
+Engineering Information Technology

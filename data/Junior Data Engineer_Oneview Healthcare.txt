@@ -1,0 +1,47 @@
+Junior Data Engineer
+Oneview Healthcare
+Dublin, County Dublin, Ireland
+Posted by
+Lorraine Morrin 2nd
+Human Resources Manager at Oneview Healthcare
+Send InMail
+Description
+The Company
+Oneview Healthcare is a global software company, working with hospitals and senior care facilities around the world. Our platform helps caregivers to make real-time care decisions while improving care coordination and workflows. At Oneview, we empower patients to become active participants in their own health care. With hospital installations all over the globe, we know what it takes to organize systems, data, and people to add value and improve the quality of the healthcare experience.
+
+The Role
+The successful candidate will join our engineering team based in Blackrock, Melbourne & Kyiv.
+ Data is recognised as being extremely invaluable in what we deliver as a product. We are building a solid, automated data platform that will deliver data to both clients and internal customers. The successful candidate will be involved in building a quality data product that will make a positive impact for our customers, our patients and our product team. Our products are all about making patients’ stay in a hospital better, we want to use data to drive our decision making.
+ You should be really interested in technology. You are naturally curious, like to learn and love solving problems. You will challenge the status quo, look for opportunities for improvement everywhere and become a great team member.
+ Focusing on best practice we operate in agile, cross functional teams who are empowered to make decisions and deliver fast and often, trying to make the gap between deliveries smaller and smaller with each release of our data platform.
+ Responsibilities & Accountabilities:
+ Our data sits in multiple client sites all over the world. We are centralizing this, bringing it together to garner real value. You’ll take direction and be able to help us do this.
+You will start to learn about how we Implement ETL applications with SSIS / Informatica / Talend & Data warehousing principles (Kimball Methodology).
+Once we have the data we want to mine, we will create new models and visualizations telling more complete and better stories. You’ll be able to contribute in big way to how this happens.
+Business as usual needs to happen, so we’re looking for someone with an inquisitive mindset who just wants to get the job done.
+You will begin to generating metrics and reports and learn how to present them periodically
+You will take the analytics methods you have learnt in college and combine them with your visualisation skills in order to start building out dashboards using third party tools.
+You will be working within an Agile Environment, therefore the nature of our work can pivot. You are not afraid of this! You are ready for it.
+ Requirements
+ You have a strong grasp of basic Database and data warehouse development with an awareness of how to create functions, stored procedures, materialized views, and partition schemes
+If you have any previous experience with RDBS (SQL Server, Oracle, Sybase, PostgresSQL) or MPP (Teradata, Netezza) or NoSql (Azure HDInsight, Azure Data warehouse, Cloudera Impala) it will be beneficial
+Exposure to NoSql database tools (Azure HDInsight , Data Lake, Spark)
+Understanding of columnar oriented data format (Parquet / ORC) for supporting the advanced data science Production experience in Microsoft / .Net development
+Working knowledge of OLAP and data visualization (Power BI, Tableau)
+Experience with basic DBA tasks (DR, indexing, performance tuning, partitioning)
+Experience with data blending tools (e.g. SAS, SPSS, Dataiku, Alteryx)
+Experience with OLAP technology on HDInsight Experience with Azure event / Queues
+Good communication skills (ability to present reports and findings) is a must
+Appreciation of data and knowing how valuable good data can benefit us as a business.
+Experience in data cleansing; identifying gaps and making these gaps historical.
+Strong Attention to detail in all elements of what you’re doing
+Degree in Computer Science or a similar related discipline
+Good English skills are essential
+Seniority Level
+Associate
+Industry
+Information Technology & Services
+Employment Type
+Full-time
+Job Functions
+Information Technology

@@ -1,0 +1,46 @@
+Senior Data Engineer
+Vela Games
+Dublin, County Dublin, Ireland
+Vela Games is looking for a talented Senior Data Engineer to help build our New Multiplayer Game.
+
+At Vela we love games of every type, but we know that multiplayer, when done well, has a special ability to bring people together. Unforgettable moments are created through the power of playing together. It allows players to keep in touch with old friends regardless of distance, and to forge new friendships that will last lifetimes. Vela was created with these moments in mind, and our focus every day is thinking about how we can create impactful gaming experiences that inspire gamers around the world to play and win collectively.
+
+We are looking for someone who wants to be part of the core foundation of Vela Games; someone who is enthusiastic about being part of an early tight-knit team laser-focused on creating a game from the ground up. As a Data Engineer, you have the ability to shape and build the Vela Games’ data lake and supporting systems for years to come. We can rely on your deep expertise in the design, creation, management, and business use of large datasets, across a variety of data platforms.You are passionate about working with huge data sets and enjoy bringing these together to answer business questions to help drive growth and optimize player experience.
+
+If this sounds like you, please apply, we would love to speak with you !
+
+What You Will Do
+Architect and build the infrastructure required for the optimal ETL’ of data from a wide variety of data sources using SQL and AWS ‘big data’ technologies.
+Build, optimize and maintain data pipelines and applications to stream and process large datasets at low latencies.
+Provide analytics tools that utilize the data pipeline to provide actionable insights into player metrics, gameplay insights and other key business performance metrics.
+Keep our data separated and secure across national boundaries (or EEA) through multiple data centers and AWS regions.
+Work with data and insights experts to strive for greater functionality in our data systems.
+
+
+Requirements
+A number of years working knowledge with ETL, Data Modeling, and Data Architecture.
+Expert-level skills in writing and optimizing SQL.
+Experience with Big Data technologies such as Hadoop/Hive/Spark.
+Excellent communication skills Ability to effectively converse with technical & non-technical team members.
+Self-motivated / have a growth mindset Ability to team up, but also take the lead and work independently when needed.
+Start-up orientation Strong technical focus, but also able to jump on and contribute to work outside specialization.
+Deep passion for multiplayer games and player experience.
+
+Bonus Points
+Proven Understanding operating very large data warehouses or data lakes.
+Familiarity with programming languages (e.g., Python, Golang).
+Previous AAA PC or console game development experience.
+Previous experience working on an online multiplayer service game.
+
+
+At Vela Games we are committed to creating a workplace where everyone feels safe, respected & valued. We continue to create a culture where everyone has equal opportunities to thrive in a fully inclusive environment. Diversity & Inclusion is embedded in everything we do and we are dedicated to creating a unique and welcoming environment to all who apply and ultimately join our team!
+
+Covid-19 Hiring Update We’ve transitioned to a work-from-home model and we’re continuing to interview and hire during this time. This role is expected to begin as a remote position but transition to full time in Dublin, Ireland at a later date. We Appreciate each person’s circumstances may be unique and will work with you to explore possible interim options.
+Seniority Level
+Associate
+Industry
+Design Entertainment Computer Games
+Employment Type
+Full-time
+Job Functions
+Engineering

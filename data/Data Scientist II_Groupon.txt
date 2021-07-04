@@ -1,0 +1,41 @@
+Data Scientist II
+Groupon
+Dublin, County Dublin, Ireland
+Groupon is based in Chicago and operates in major regions globally. We are a local e-commerce marketplace where people discover and save on amazing things to do, see, eat and buy in their neighborhoods. We're enabling real-time commerce across local businesses, travel destinations, consumer products and live events. At the same time, we provide merchants with the resources and tools to grow and manage their businesses. Culturally, we believe that great people make great companies and that starting with the customer and working backward moves us forward.
+
+Marketing Analytics is a key element in Groupon’s Marketing and as a team we develop new data requirements, maintain automated dashboards and analyze marketing performance to helps improve marketing strategies and customer insights to make Groupon engaging for both merchants and consumers.
+
+This position based out of our Dublin office will be part of our International Marketing Analytics team supporting Groupon’s Marketing efforts. The successful candidate will be responsible for understanding, measuring, testing and reporting on the fundamental success factors that drive our drive Marketing success.
+
+You’ll Spend Time On The Following
+You will collaborate with marketing team and other stakeholders across Groupon, with an understanding of the diverse needs of each stakeholder
+You will gather data, build, and maintain data science backed solution that can address a few areas such as user segmentation, churn, and media measurement
+You will work with product and marketing teams to identify questions and issues for data analysis and experimentation
+You will design and develop processes and systems to consolidate and analyze unstructured, diverse data sources to generate actionable insights
+You will work with internal and external partners to measure the effectiveness of marketing campaigns and provide recommendations to the marketing team
+You will identify meaningful insights from large data and metadata sources; interpret and communicate insights and findings from analysis and experiments to partners across the organization
+You will work closely with data engineers and analytics team to ensure the ongoing evolution and improvement of our data assets
+We’re Excited About You If You Have
+3-5 years work experience as a data scientist or a related role
+BS or MS degree in a quantitative discipline (e.g. Mathematics, Economics, Statistics, Computer Science, Engineering)
+Top decile SQL skills a must (experience in Hive is strongly preferred)
+Understanding of applied math topics, such as probability and statistics, linear algebra, basic optimization techniques, etc.
+You have hands-on experience with predictive analytics tools and techniques like Predictive Modeling, Regression, Cluster Analysis, Factor Analysis, etc
+Experience automating analysis using analytics packages in languages like R or Python
+Experience with Tableau or other Data Visualisation tools would be advantageous
+Ability to thrive in a fast-paced start-up environment, and to manage multiple, competing priorities simultaneously. Must be comfortable in ambiguity and constantly evolving environment
+Proven ability to perform data driven analyses including problem statement, data discovery, and result communication
+Excellent presentation and communication skills; comfortable explaining technical topics to non-technical users
+Experience in experimentation and hypothesis testing a plus
+Prior experience in e-commerce, consumer insights, or marketing campaign effectiveness a plus
+Groupon's purpose is to build strong communities through thriving small businesses. To learn more about the world's largest local ecommerce marketplace, click here for the latest Groupon news. Plus, be sure to check out the values that shape our culture, guide our strategy and make our company a great place to work. And just don't take our word for it. Hear from real Groupon team members and learn more about our inclusive employee groups. If all of this sounds like something that's a great fit for you, then click apply and let's see where this takes us.
+
+Groupon is an Equal Opportunity Employer
+
+Qualifications for employment, promotion, and other terms and conditions of employment are based upon the ability to perform the job. Equal-employment opportunities are provided to all applicants and employees without regard to race, creed, religion, color, age, national origin, sex, disability, medical condition, sexual orientation, gender identity or expression, genetic information, ancestry, marital status, military discharge status (excluding dishonorable discharge), veteran status, citizenship status, or other legally protected status. We are all responsible for maintaining this policy. Groupon is committed to providing reasonable accommodations for qualified individuals with disabilities and disabled veterans in our job application procedures. If you need assistance or an accommodation due to a disability, you may email us at hraccommodations at groupon.com. If you have concerns related to Groupon’s equal employment opportunities, you may contact Groupon's Ethics Reporting Service Ethicspoint.
+Industry
+Internet
+Employment Type
+Full-time
+Job Functions
+Engineering Information Technology

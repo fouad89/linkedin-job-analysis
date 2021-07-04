@@ -1,0 +1,67 @@
+Data Engineer
+Verizon Connect
+Dublin City, County Dublin, Ireland
+Posted by
+Ian Cummins 2nd
+Senior Technical Recruiter at Verizon Connect
+Send InMail
+Data Engineer for Data Products
+
+Verizon Connect is guiding a connected world on the go by automating, optimizing and revolutionizing the way people, vehicles and things move through the world. Our full suite of industry-defining solutions and services put innovation, automation and connected data to work for customers and help them be safer, more efficient and more productive. With more than 3,500 dedicated employees in 15 countries, we deliver leading mobile technology platforms and solutions.
+ As a SaaS leader, we know our talent is the most important component to our success. We hire top talent and empower them to do their best work. As a division of Verizon, we combine the fun and excitement of a start-up environment with the resources, operational excellence, and brand recognition of an established tech giant.
+
+What you’ll be doing…
+
+Verizon Connect is looking for an experienced Data Software Engineer to join the Data Products organization in our office in Florence, Italy or Dublin, Ireland. The successful candidate will join an expanding BI & Data warehouse team, in charge of managing the VZC Data Platform. Our data warehouse stack is built on AWS for data storage, SSIS/Glue for ETL and Tableau for data visualisation. The candidate must have practical hands-on experience with each of these tools.
+
+Responsibilities:
+Actively break down tasks, provide estimates and track and manage requirements, dependencies and progress of assigned stories in Jira.
+Create and maintain Entity relationship diagrams, source to target mappings
+Enter and maintain metadata in Data Cataloging tools
+Develop and maintain ETL pipelines from internal and external sources all the way through to S3 and Redshift
+Develop and maintain SSIS packages through BIML and C# extensions
+Develop and maintain ETL workflows orchestrated on AWS with Apache Airflow
+Create and maintain the assigned pipelines across Dev, Test and Prod environments (supported by CI/CD engineers)
+Ensure all developed solutions include unit tests and integration with the teams test suite.
+Ensure proper monitoring of all developed production applications.
+
+What we’re looking for...
+
+You’ll need to have:
+Degree in Computer Science or other technical subject.
+5+ years proven experience working with SSIS ETL tools. Experience programming with T-SQL and PG-SQL is essential.
+2+ years proven experience with Redshift and S3.
+2 + years C# development Experience
+Advanced knowledge of Python Programming
+Experience developing and maintaining E2E ETL/ELT pipelines and best practices for them
+Excellent communicator with the ability and experience to coordinate work directly with multiple internal team members.
+Documentation skills with ability to create Entity Relationship Diagrams and Source to Target mappings.
+Must have worked with automated CI/CD tools and patterns.
+
+Even better if you have:
+Experience working with Agile and Lean methodologies.
+Experience with Airflow or similar orchestration & ingestion tools.
+Project leadership experience.
+Tableau and other BI visualization tools familiarity, especially within self hosted AWS implementations.
+Experience with Hadoop framework, EMR, Spark development.
+Experience implementing and using Enterprise Data Catalog tools.
+Experience with Qlik Replicate / Qlik Compose or similar tools.
+Experience with APM solutions
+
+Why Verizon?
+
+Verizon is committed to maintaining a Total Rewards package which is competitive, valued by our employees, and differentiates us as an Employer of Choice.
+
+We are a ‘pay for performance’ company and your contribution is rewarded through competitive salaries, performance-based incentives and an employee Stock Program. We create an opportunity for us all to share in the success of Verizon and the value we help to create through this broad-based discretionary equity award program.
+Your benefits are market competitive and delivered by some of the best providers.
+You are provided with a full spectrum of health and wellbeing resources, including a first in-class Employee Assistance Program, to empower you to make positive health decisions.
+Verizon provides training and development for all levels, to help you enhance your skills and develop your career, from funding towards education assistance, award-winning training, online development tools and access to industry research.
+You will be able to take part in volunteering opportunities as part of our environmental, community and sustainability commitment.
+Seniority Level
+Mid-Senior level
+Industry
+Information Technology & Services
+Employment Type
+Full-time
+Job Functions
+Information Technology

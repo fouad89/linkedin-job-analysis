@@ -1,0 +1,55 @@
+Senior Machine Learning Engineer
+Tigera
+Cork, County Cork, Ireland
+Our Company
+
+Description
+
+Tigera is the industry leader in Kubernetes security and observability and is also the inventor and maintainer of open-source Calico. We help organizations of all sizes in various industries to secure, observe, and troubleshoot cloud-native applications in Kubernetes environments. Our newest offering, Calico Cloud, is a next-generation, Kubernetes-native cloud service that extends the declarative nature of Kubernetes to specify "security and observability as code," which ensures consistent enforcement of security policies and compliance, and provides observability and troubleshooting across multi-cluster, multi-cloud, and hybrid deployments.
+
+Our software powers over a million Kubernetes nodes across 166 countries, and all of the major public cloud providers use it for their own managed Kubernetes services. Tigera's solutions are used by some of the world's leading companies, including HanseMerkur, Merck, Mindbody, RealPage, L3Harris, Discover, AT&T, and ServiceNow.
+
+As our team grows, we are looking for colleagues who not only share our passion for this work and growing our company, but who will also strengthen our company values and help ensure that Tigera remains a great place to work. At our core, our focus is on our customers, who are the heroes of our story; on aiming high and staying nimble in how we get there; on continuous learning to drive our success; and on respecting, collaborating, and supporting each other on a daily basis.
+
+You will be joining a team that is highly engineering-focused with a culture that values diversity, collaboration, agility and innovation, keeping us one step ahead in the exciting and fast-moving cloud-native technology space. If you are looking to help make a substantial impact, and our values and products align with your vision of career growth, we want to hear from you!
+
+You Will
+
+As a software engineer specializing in machine learning, you will:
+Build product features that detect security threats in our customer's clusters, networks, and applications
+Work with our threat research team to build analysis pipelines to identify the newest and most advanced threats
+Build automated production systems to train our threat detection capabilities and push updates to our customers
+
+As an early-stage startup, everyone is expected to pitch in and wear multiple hats. If you are interested, there are ample opportunities for you to connect with our community and customers, including meetups, conferences, developer summits, and sale engagements.
+
+You Have
+8+ years of product-oriented software engineering experience
+Experience with multiple machine learning techniques and expert-level experience in at least one area
+Extensive experience building systems that collect, store, and analyze data at scale
+Solid programming and testing skills (Python experience is highly desirable)
+A drive to get things done in a highly collaborative, agile development environment
+BS in CS or related/similar degree (equivalent experience may suffice)
+
+
+Nice to Have
+Experience with container-based clusters like Kubernetes, Docker, or Mesos
+Experience building applications in public clouds like AWS, Azure, or GCE
+Experience in time-series, forecasting, anomaly detection algorithms
+Experience in an early-stage startup
+Experience contributing to open-source projects
+Experience with network security
+Experience with extract-transform-load (ETL), streaming data processing, data aggregation or summarization, query optimization
+Experience with distributed processing, e.g. Hadoop, Spark
+
+
+Why Join Us
+
+With offices in San Francisco, San Jose, Vancouver (Canada), Cork (Ireland), and London (England), we have a thriving team of diverse individuals from all over the world. We believe in a collaborative, flexible work environment based on respect for, and commitment from, every employee. We also offer a competitive compensation package along with full health, vision, and dental benefits. These benefits, coupled with an amazing team of individuals who believe in our mission and value openness, collaboration, and teamwork, make Tigera an awesome place to work.
+Seniority Level
+Associate
+Industry
+Information Technology & Services Computer Software Internet
+Employment Type
+Full-time
+Job Functions
+Engineering Information Technology

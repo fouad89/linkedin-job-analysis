@@ -1,0 +1,51 @@
+Data Analyst
+Amazon
+Dublin, County Dublin, Ireland
+Description
+
+Amazon is looking for a highly analytical Data Analyst / Business Intelligence Engineer to join the AWS Data Center Engineering Team.
+
+The AWS Data Center Engineering team: owns the availability of AWS data centers, and has a direct impact on the customer experience. We obsess over customers by developing the most advanced engineering solutions that result in world class uptime, while continuously reducing costs for our customers. Amazon offers a fast paced, fun, and exciting work environment. We continue to grow at exponential rates and are looking for individuals that can support our speed to market, enjoy a challenge, and have a desire for professional growth and continuous learning experiences.
+
+Our Data Analyst / Business Intelligence Engineers
+partner with Data Engineers and partner teams to harness the vast amount of operational data from the AWS fleet, and will use these data to generate insights that will guide engineering excellence and improvements on behalf AWS customers.
+Data analysis is at the core Amazon’s culture, and your work will have a direct impact on decision making and strategy for our organization.
+Have excellent analytical abilities, outstanding business acumen and judgment, intense curiosity, strong technical skills, and superior written and verbal communication skills. T
+Have a strong bias toward data driven decision making.
+Self-starters; comfortable with ambiguity; able to think big and be creative, while exercising strong judgment and good instincts to be right a lot.
+Motivated by delivering high-quality and innovative solutions within timeframes that most think are impossible.
+If you are excited about using data to look around corners and drive engineering solutions that are the foundation of AWS data centers, this role is for you!
+
+In This Role You Will
+Collaborate with engineering stakeholders, partner technical teams, and business stakeholders, to gather business and functional requirements, and translate these requirements into robust, scalable, and operable solutions that work well within the overall AWS data architecture, and lead to improved engineering decisions.
+Develop a deep understanding and awareness of operational data from the AWS fleet, and look around corners to recommend analytical solutions for improving engineering decision making and results.
+In partnership with team Data Engineers, design, develop and maintain user-friendly systems, reports, dashboards, etc., which are automated and continuously scale to meet the pace of AWS growth.
+Apply deep analytic and business intelligence skills to extract meaningful insights and learning from large and complicated data sets.
+Build various data visualizations to tell the story of operational trends, patterns, and outliers through rich visualizations.
+Insist on the highest standards by recognizing and adopting best practices in reporting and analysis: data integrity, test design, analysis, validation, and documentation.
+
+Basic Qualifications
+BA/BS in Computer Science, Engineering, Mathematics or related experience
+3+ years of relevant work experience in data science, business analytics, business intelligence (BI), or comparable experience in big data environments
+3+ years of experience with Salesforce, Tableau, Amazon QuickSight, and other relevant data visualization software
+Preferred Qualifications
+5+ years of experience in a BIE role with a technology company
+Graduate degree in Computer Science, Engineering, Mathematics, or related technical field
+Be self-driven, detail-oriented, and show ability to deliver on ambiguous projects with incomplete or dirty data
+Knowledge of data warehouse technical architecture, infrastructure components, and extract, transform, load (ETL) procedure
+Proficient with Structured Query Language (SQL)
+Proficient with Python or other relevant scripting language
+Strong verbal/written communication and data presentation skills, including an ability to effectively communicate with Data Engineering team members, engineering stakeholders, partner technical teams, and business stakeholders
+Familiarity with AWS services including Glue, Redshift, EMR, S3, EC2, and Lambda.
+Experience conducting large scale and complex data analysis to support business decision making.
+Amazon is an Equal Opportunity-Affirmative Action Employer – Minority / Female / Disability / Veteran / Gender Identity / Sexual Orientation / Age
+
+
+Company - Amazon Data Srvcs Ireland Ltd
+Job ID: A1489560
+Industry
+Computer Software Information Technology & Services Internet
+Employment Type
+Full-time
+Job Functions
+Strategy/Planning Analyst Information Technology

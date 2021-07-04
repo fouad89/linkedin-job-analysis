@@ -1,0 +1,69 @@
+Principal Data Scientist (Fidelity Labs Start-up)
+Fidelity Investments
+Dublin, County Dublin, Ireland
+Job Description
+
+Principal Data Scientist (Fidelity Labs Start-up)
+
+Fidelity Labs is looking for a Principal Data Scientist to join a new start-up. The start-up’s focus is building innovative technology for financial services. This role will be responsible for working closely with Data Scientists and Engineering product managers to bring game-changing ideas to market.
+
+The Team
+
+We are Fidelity Labs, Fidelity Investments’ in-house fintech incubator with a mission to build new businesses to drive growth for Fidelity. We seek to shape the future of our industry by building new products and services to improve the lives of the diverse set of customers, businesses, and financial institutions we serve.
+
+Fidelity Labs is a dynamic workplace that combines the best parts of start-up life—building from scratch, adapting quickly, and moon-shot ambition—with the scale and stability of an industry leader. We provide a safe space for start-up teams to explore new business ideas, quickly test them with customers, and scale the most promising concepts within an existing business unit, or as a new venture. Learn more at labs.fidelity.com.
+
+The Expertise You Have
+Post-graduate degree or equivalent experience working as a key contributor in a data science team
+You will apply your data science and data wrangling skills to improve NLU-driven products.
+Experience with Computer Vision is a big plus.
+
+The Skills You Bring
+Experience delivering an NLU commercial product architecture centered around AWS services
+Familiarity with AI/ML libraries and transformer based DNN models is a requirement.
+Knowledge of Docker and AWS container orchestration is plus.
+Knowledge of pre-processing and normalization pipeline for unstructured textual data
+Experience with Python, PyTorch, TensorFlow and GPU deployment of DNN models
+Direct experience in Agile, SCRUM, SaFE, etc. and use of the Atlassian tool suite
+Knowledge of core NLU concepts and techniques (e.g., classification, feature engineering, XAI, etc.)
+
+The Value You Deliver
+You work well in a small team and collaborative environment. We make team based decisions.
+You are client focused and passionate about using design thinking
+
+This opportunity is brought to you by Fidelity Labs. Learn more at labs.fidelity.com.
+
+Fidelity will reasonably accommodate applicants with disabilities who need adjustments to participate in the application or interview process. To initiate a request for an accommodation please contact AccommodationsIreland@fmr.com.
+
+Company Culture
+
+At Fidelity, you can find it all here. We reward results-oriented, hardworking individuals with a work environment that champions diversity, partnership and collaboration as well as encourages innovative ideas and fresh thinking. We recognize the value that employees’ individual differences can add to the forward-thinking and strong future of our company.
+
+Company Overview
+
+At Fidelity, we are focused on making our financial expertise broadly accessible and effective in helping people live the lives they want. We are a privately held company that places a high degree of value in creating and nurturing a work environment that attracts the best talent and reflects our commitment to our associates. Fidelity established an Ireland presence in 1996 and we currently employ 1000 staff across IT and shared services, with offices in Dublin (City West) and Galway (Parkmore East).
+
+For information about working at Fidelity, visit www.fidelityinvestments.ie.
+
+Fidelity Investments is an equal opportunity employer.
+
+Certifications
+
+Company Overview
+
+At Fidelity, we are focused on making our financial expertise broadly accessible and effective in helping people live the lives they want. We are a privately held company that places a high degree of value in creating and nurturing a work environment that attracts the best talent and reflects our commitment to our associates. We are proud of our diverse and inclusive workplace where we respect and value our associates for their unique perspectives and experiences. Fidelity established an Ireland presence in 1996 and we currently employ 1000 staff across IT and shared services, with offices in Dublin (City West) and Galway (Parkmore East). For information about working at Fidelity, visit FidelityInvestments.ie.
+
+Fidelity Investments is an equal opportunity employer.
+
+We believe that the most effective way to attract, develop and retain a diverse workforce is to build an enduring culture of inclusion and belonging.
+
+Fidelity will reasonably accommodate applicants with disabilities who need adjustments to participate in the application or interview process. To initiate a request for an accommodation, contact AccommodationsIreland@fmr.com.
+
+Seniority Level
+Mid-Senior level
+Industry
+Financial Services
+Employment Type
+Full-time
+Job Functions
+Project Management General Business Analyst

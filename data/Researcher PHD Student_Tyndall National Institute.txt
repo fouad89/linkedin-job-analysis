@@ -1,0 +1,45 @@
+Researcher PHD Student
+Tyndall National Institute
+Cork, County Cork, Ireland
+PhD Scholarship in Mixed-Signal Design for Precision Circuits
+
+Microelectronic Circuits Centre Ireland (MCCI) is an EI / IDA technology centre hosted at Tyndall National Institute. Its mission is to carry out industry-led world-class Analog, Mixed-Signal and RF integrated circuit research and to deliver trained people and IP to industry. 
+
+MCCI is already collaborating with 35 companies and many of the staff eventually transfer into the thriving microelectronics industry in Ireland. MCCI targets real-life applications with its research and currently has projects in diverse topics such as DNA detection for food safety, next generation optical communications, bio-sensing, imaging for security applications and early cancer detection.
+
+MCCI is opening up a number of PhD scholarship positions in the area of Analogue Mixed-Signal Design for Precision Circuits: These will encompass a number of areas including:
+Analogue to Digital Converters
+Sensor Interfaces
+Cryogenic Circuits
+
+Key Responsibilities
+Carry out innovative research in Analogue Mixed-Signal IC Design, with a focus on taking advantage of deep-submicron CMOS technologies.
+Perform modelling and analysis on the limitations of existing solutions.
+Participate on research projects under the direction of a project team leader to design and develop new architectures and circuits in areas such as Data Converters, Precision Circuits, Sensor Interfaces and Cryogenic Circuits.
+With guidance, implement the solution on an integrated circuit. This may include system level simulation, algorithm development, schematic design, layout and validation of manufactured silicon. 
+Work on collaborative research projects with MCCI industry partners. 
+Engage in the dissemination of the results of the research, as directed by and with the support of senior MCCI research staff.
+
+Essential Criteria
+The minimum academic qualification is a first or upper second class honours degree (or an equivalent international degree) in electrical engineering, electronic engineering, physics or related relevant discipline.
+The successful candidate will be highly innovative with a strong desire to create world-beating integrated circuits research for real-life applications.
+The successful candidate will be highly analytical with good interpersonal and organizational skills.
+
+Desirable Criteria
+A Master’s Degree in Electronic/Electrical Engineering
+Good mathematical ability and knowledge of statistics
+Circuit knowledge on Analogue to Digital converters and Phase Locked Loops
+Experience in the area of Analog, Mixed-Signal or RF circuit design
+Knowledge of mathematical modelling tools such as MATLAB.
+
+An annual student stipend of €18,500 applies for this successful candidate for this position. Yearly University academic fees will paid by the Tyndall National Institute.
+
+For any informal queries, please contact Prof Ivan O’Connell at ivan.oconnell@mcci.ie
+Seniority Level
+Entry level
+Industry
+Research Higher Education
+Employment Type
+Contract
+Job Functions
+Research Engineering Science

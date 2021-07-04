@@ -1,0 +1,57 @@
+Data Scientist (Data Analytics)
+Regeneron
+Limerick, County Limerick, Ireland
+COVID-19 Hiring Update--
+As the health and safety of our candidates and our employees come first, we're excited to provide virtual experiences for interviews and new hire on-boarding.
+
+Who We Are
+
+Dataminr puts real-time AI and public data to work for our clients, generating relevant and actionable alerts for global corporations, public sector agencies, newsrooms, and NGOs. Our leading AI platform detects the earliest signals of high-impact events and emerging risks from vast amounts of publicly available information. Our real-time alerts enable tens of thousands of users at hundreds of public and private sector organizations to learn first of breaking events around the world, develop effective risk mitigation strategies, and respond with confidence as crises unfold.
+
+Dataminr is making its mark for growth and innovation, recently earning recognition on the Deloitte Technology Fast 500, Forbes AI 50 and Forbes Cloud 100 lists. We also earned accolades for ‘Most Innovative Use of AI’ from the 2020 AI & Machine Learning Awards.
+
+Join our team and help the world manage risk in real time. You’ll work with 600+ talented people across seven offices, united by our passion to collaborate, make a difference, and have fun while doing it!
+
+Who You Are
+
+You’re a research scientist who has published in top tier conferences and are passionate about having a positive impact on the world. You are enthusiastic about working on some of the most challenging problems in AI and directly contributing to products while advancing the state of the art. You are very creative, can work independently, and are an excellent collaborator and communicator.
+
+Responsibilities
+Perform research to advance the state of the art and solve specific problems at scale in one or more of the following areas: Information Retrieval, Complex Networks, Recommender Systems.
+Work closely with a diverse, interdisciplinary team to deliver value to customers (existing and new products).
+Contribute to the research community via publications in top tier venues, participation in program committees, etc.
+Excel in placing a human-centered focus on the work (context, end-user impact, etc), finding solutions that work in practice and have significant impact.
+Productionize and ship research into Dataminr’s products, and thus to its users worldwide.
+Senior candidates are expected to lead technical areas and/or people.
+Minimum Qualifications
+Ph.D. in Computer Science or related fields
+Experience in one or more of the following topics: topic detection & tracking, text classification, summarization, knowledge extraction/representation/management, trending topic detection, search, machine learning and deep learning, etc.
+Outstanding publication record (CIKM, WSDM, ICWSM, ICML, KDD, NeurIPS, RecSys, SIGIR, WWW, etc.).
+Demonstrated ability to work independently, set up experiments and demonstrate progress through principled use of metrics.
+Experience in Python, Java, Scala, Python, or similar languages.
+Experience with machine learning and deep learning tools (TensorFlow, PyTorch, Scikit-learn, etc)
+Professional experience in industry (requirement varies depending on level; recent graduates must have had relevant internships).
+Why You Should Work Here
+We recognize and reward hard work with:
+company paid benefits for employees and their dependents, including medical, dental, vision, disability and life insurance
+401(k) savings plan with company matching
+flexible spending account for out-of-pocket medical, transit, parking and dependent care expenses
+We want you to be your best, authentic self by supporting you with:
+a diverse, driven, and passionate team of coworkers who want you to succeed
+individual learning and development fund and professional training
+generous paid time off; including sick leave and 100% company paid parental leave
+remote working friendly perks such as expanded telehealth options for mental and physical well being, virtual yoga, meditation and health and fitness app reimbursements
+…and this is just to name a few!
+
+Note: For this role, only candidates with Ph.D.s in the areas above will be considered. If you do not meet that requirement please consider either the Data Scientist or other positions.
+
+Dataminr is an equal opportunity and affirmative action employer. Individuals seeking employment at Dataminr are considered without regards to race, sex, color, creed, religion, national origin, age, disability, genetics, marital status, pregnancy, unemployment status, sexual orientation, citizenship status or veteran status.
+
+Seniority Level
+Associate
+Industry
+Information Technology & Services Computer Software Internet
+Employment Type
+Full-time
+Job Functions
+Other

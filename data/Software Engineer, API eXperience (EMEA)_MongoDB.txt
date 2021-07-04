@@ -1,0 +1,75 @@
+Software Engineer, API eXperience (EMEA)
+MongoDB
+Dublin, County Dublin, Ireland
+Available positions: We are considering applications from Mid level to Senior level for this team
+
+About The Team
+
+The Cloud API eXperience team's mission is to create delightful experiences that bring developers along on the journey from eager beginner to sophisticated MongoDB expert.
+
+We are part of the larger Cloud Services team, a diverse group of individuals who develop software to run MongoDB globally (see MongoDB Atlas). Our software and services allow users to deploy fault-tolerant, scalable, globally distributed MongoDB clusters in minutes.
+
+As part of our team, you will propose, design, and build a modern technical design (including but not limited to authentication, documentation, testing, and versioning) for our REST APIs to ensure MongoDB users and developers have a best-in-class onboarding experience. You will also have the opportunity to write open-source software (e.g., MongoCLI) that support our mission.
+
+We are looking for talented and passionate engineers who are self-driven and consistently work to grow their careers! We pride ourselves on our team's culture and for being an inclusive and collaborative group that Builds Together.
+
+During the interview process, you will meet most of our team and have the opportunity to ask questions about working at MongoDB.
+
+You Are a Phenomenal Fit For This Role If
+You love programming and technology! You enjoy working with others to achieve a common goal.
+You are passionate about building and shipping software with Java, but also interested with Python and Golang!
+You're flexible. You're willing to tackle a wide variety of responsibilities, learning as you go. You think conceptually and design sophisticated modular systems.
+You're a self-starter. You're comfortable coordinating your own time, prioritizing, and acting on multiple tasks concurrently without manager oversight.
+You have good knowledge of Computer Science fundamentals (Data structures and Algorithms) and Object Orientation concepts.
+
+
+Responsibilities In This Role Include
+Apply our core values to your work in planning, design, and coding.
+Design, implement, test, and release features for our REST API.
+Build tools that enable MongoDB users and developers to be successful.
+Incrementally ship elements of sophisticated projects.
+Assist with investigating and solving problems experienced by our customers.
+
+What is in it for you?
+Generous compensation package (top-range salary, equity, comprehensive benefits)
+Flexible working options (not a strict 9-6 role, focus on results, not the appearance of work)
+High-level of independence in your day-to-day work. Propose innovative solutions to existing problems and own the delivery from start to finish.
+Opportunities to learn on the job (time and support to upskill in new technologies and learn new programming languages)
+You'll be joining a good-humored encouraging team that deeply cares about its culture and wants to combine work and fun!
+Upon joining, you will have the opportunity to learn everything there is to know about MongoDB via specialized training on the MongoDB University platform.
+
+You should definitely apply if you meet one or more of the following criteria:
+You have experience building multi-threaded, asynchronous, distributed systems.
+You have worked directly with production systems.
+You have experience working on, or with, a remote team (Cloud Services Engineers are split between multiple locations and timezones)
+You are familiar with cloud infrastructure platforms and concepts (Amazon AWS, Google Cloud Platform, Microsoft Azure, etc.)
+
+Not convinced yet? Here's a summary of our ethos and benefits:
+A gender-neutral approach is the best way to promote gender equality, which is something MongoDB feels strongly about! Our parental leave policy gives both mothers and fathers 20+ weeks of paid leave, enabling new parents to share caregiving responsibilities.
+MongoDB also helps our employees transition into parenthood with the help of CLEO, a fully personalized and customizable session plan spanning pregnancy through baby's first year.
+Employees also have access to quality fertility care, adoption, and surrogacy assistance tailored to their family planning and preservation needs.
+MongoDB will contribute 5% of the value of your base salary into a group personal pension scheme on your behalf. You can make voluntary contributions on top if you wish.
+To give our best at work and live a well-balanced life, we all need to take time off for rest, relaxation, and rejuvenation! In MongoDB Ireland, you are entitled to 27 days’ vacation (aka “annual leave”) per year. In addition, MongoDB observes 10 Irish holidays.
+As an employee of MongoDB, you will have access to several affinity groups supporting our larger commitment to a diverse and inclusive community. Our affinity groups include: the Underrepresented People of Color (TUPOC), Queeries, Underrepresented Genders in Tech (UGT), MDBWomen + Allies, Veterans, and the Green Team. These groups provide a safe space for employees to create, ideate, mentor, and connect through a common interest or identity.
+Access to Private Medical Insurance, Vision, and Dental Insurance for you and your dependents, at no cost. This benefit includes Online Doctor, access to Swiftcare clinics, maternity/fertility benefits, second opinion pediatric service, 24/7 Nurseline, Visioncare, overseas cover.
+Life Insurance and Income Protection, giving you and your dependents peace of mind in the unlikely occurrence of an adverse life event
+Access to an Employee Stock Purchase Program, allowing you to participate in the growth of MongoDB by purchasing company stock at a discounted rate.
+Access to a complimentary subscription to Headspace, which provides hundreds of themed meditation sessions on everything from sleep to focus to reducing stress.
+24-hour access to an Employee Assistance Program offering confidential guidance on any life matters from family support, mental health, legal assistance, fitness resources, and more.
+Accrue significant tax savings on your public transportation benefits via Taxsaver.
+Make use of the Bike to Work Scheme, a government initiative offering tax-free bikes for cycling to work.
+
+
+About MongoDB
+
+The database market is massive (the IDC estimates it to be $106B+ by 2024!), and MongoDB is at the head of its disruption. The MongoDB community is transforming industries and empowering developers to build amazing apps that people use every day. We are the leading modern data platform and the first database provider to IPO in over 20 years. Join our team and be at the forefront of innovation and creativity.
+
+MongoDB is an equal opportunities employer! We will ensure that individuals with disabilities are provided reasonable accommodation to participate in the job application or interview process, perform essential job functions, and receive other benefits and privileges of employment. Please contact us to request accommodation!
+Seniority Level
+Mid-Senior level
+Industry
+Information Technology & Services Computer Software Internet
+Employment Type
+Full-time
+Job Functions
+Engineering Information Technology

@@ -1,0 +1,40 @@
+Data Scientist
+arvoia
+Killarney, County Kerry, Ireland
+Posted by
+Dr Susie Harding 2nd
+VP Data Science at arvoia
+Send InMail
+About Arvoia
+Arvoia is an advanced Artificial Intelligence and Travel Technology company. We are a successful high growth technology company with offices in Kerry and Dublin. Our approach to analytics at the core, makes this a unique opportunity for a Data Scientist to work in an advanced, AI driven environment. We strive on creativity and the successful growth and development of our team. Our technology, our team and our products are gaining global acclaim for our innovation and approach. Every new team member is carefully selected to ensure not only that Arvoia will continue to disrupt the travel industry but that each new member has a clear path to grow and develop.
+Arvoia has a unique approach which combines Data Science and Customer Experience techniques to increase short term conversions & revenue and the long-term customer performance of our partners.
+
+Job Description
+The position requires a Data Scientist with strong experience building predictive models in high volume transaction environments.
+
+The responsibilities include:
+• Design & development of predictive models and algorithms
+• Integration of models into the Arvoia applications framework
+• Providing insights to Arvoia & our clients using various statistical methods such as clustering
+• Creating & maintaining datasets for modelling purposes
+• Managing data science assets to company standards
+• Working closely with Product Management on developing new product capabilities
+• Working closely with application development on joint developments
+• Advising the wider organisation on opportunities for data science to be applied in new areas
+
+The Arvoia office is located in Killarney, Co. Kerry, but our workforce has been fully remote for over a year. On occasion, there may be a need to travel to Dublin or Killarney for face-to-face meetings but this is not envisioned to be more than once every quarter.
+
+Skills & Experience
+• High quality Masters or PhD in numerate field
+• 3+ years’ experience in data science using machine learning methods such as predictive modelling
+• Experience in analytics frameworks & platforms such as Knime, Spark, Mahout, TensorFlow etc.
+• Programming experience in one of Python, R, Java, Scala etc.
+• Ability to work well in an agile team while taking responsibility for core development decisions
+Seniority Level
+Mid-Senior level
+Industry
+Information Technology & Services
+Employment Type
+Full-time
+Job Functions
+Engineering Information Technology

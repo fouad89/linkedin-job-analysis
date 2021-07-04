@@ -1,0 +1,48 @@
+Machine Learning Engineer
+2K
+Dublin, County Dublin, Ireland
+Who We Are
+
+2K Games Dublin is a hub passionate about performance marketing, commercial strategy, data engineering and data science/analytics and is part of the 2K Games group of companies. We develop and publish interactive entertainment globally for console systems, handheld gaming devices and personal computers, including smartphones and tablets. We are a leading publisher of today’s most popular gaming genres and most well-known for critically acclaimed game franchises like NBA 2K, WWE 2K, BioShock, Borderlands, Evolve, XCOM and the beloved Sid Meier’s Civilization.
+
+2K is looking for an experienced and skillful machine learning engineer to join a rapidly growing team at the groundbreaking edge of innovation in the central Data & Analytics Organization. This team brings AI, machine learning, statistics, operations research, and economics to the design, operation, and optimization of 2K’s games. This covers the application of algorithmic solutions to areas such as matchmaking, in-game experience personalization, in-game economy, content, and fraud.
+
+What You Will Do
+Collaborate with machine learning scientists, data engineers, backend engineers, and game studios to deploy machine learning models as production-grade intelligent decision services and integrate with larger systems or products.
+Build out robust MLOps practices for the team and larger data science group. Advocate and foster engineering best practices within data science community. Emphasize reliability and quality.
+Design and quickly prototype AI/ML powered products and services for various applications including recommenders, matchmaking, cheat/toxicity intervention, and economy balancing.
+Work closely with game studio devs and central tech to plan and execute on integration solutions of AI/ML applications into games in time for launch.
+
+
+What We Need
+
+Our machine learning engineer is not expected to take prototype code and rewrite it for production, but instead to build the platform to enable multiple data/ML scientists to deploy their code upon. They’ll work with our data engineering and DevOps departments to do so (not building a stack in a silo). They’ll also be expected to be a senior collaborator for data/ML scientists for coding best practices, and more advanced (e.g., real-time) algorithm development and deployment.
+
+First, this person will have to be an excellent software engineer. On top of that, the ideal candidate will have track record of deploying and productizing machine learning models, especially experience with deployment as prediction services. The candidate should also have exposure and understanding of machine learning lifecycle, including different types and tasks of ML, algorithms, ML workflow, and common modeling/computing frameworks. Being a solution oriented, creative problem solver; a self-starter with the passion and enthusiasm to drive results for meaningful change, meet deadlines, and build whatever is necessary along the way is critical for this role. Capable and comfortable making architectural choices when working on complex solutions consisting of multiple components.
+
+Needed
+Advanced degree (Master+) in Computer Science, Computer Engineering, Electrical Engineering, or related STEM fields.
+Strong programming skill. Proficient in Python, plus at least one high performance system programming language (C, C++, Java, Rust, …). Skilled with object-oriented and functional programming paradigms. Adaptable and quick to pick up new language if needed.
+2+ Years of experience with machine learning deployment in production systems and running MLOps
+Familiarity with common ML tasks, including supervised, unsupervised, and with reinforcement learning as a plus. Understanding of commonly used ML algorithms (traditional ML and deep learning).
+Good stack architecture skills, experience writing infra as code and deploying.
+Ability to learn, understand, and implement ML and optimization algorithms.
+Working knowledge on machine learning modeling/computation frameworks such as scikit-learn, PyTorch, Tensorflow, or Spark ML
+Experience with big data technologies such as Relational and NoSQL databases, Hadoop, or Apache Spark.
+Readiness for collaboration with machine learning model developers, data engineers, and game developers.
+Technically not a "skill", but, you are comfortable with working hours 10am-6:30pm enabling greater connection with our US HQ.
+
+
+Nice To Have
+Recommender systems, search engine, information retrieval, matchmaking, or reinforcement learning technologies
+Cloud computing platforms such as AWS, GCP, or Azure. Containers, container orchestration, serverless deployment, microservice architecture.
+Stream data processing and related tools such as Apache Kafka, Kinesis, Spark Streaming
+Major game engines such as Unreal or Unity.
+Seniority Level
+Entry level
+Industry
+Marketing & Advertising Information Technology & Services Computer Software
+Employment Type
+Full-time
+Job Functions
+Engineering Information Technology

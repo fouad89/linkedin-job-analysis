@@ -1,0 +1,55 @@
+Senior Data Engineer
+Distilled SCH
+Dublin, County Dublin, Ireland
+Posted by
+Marwa Hughes
+Talent Acquisition Partner at Distilled SCH
+Send InMail
+About Distilled
+Distilled SCH combines Irish owned Distilled Media Group and Adevinta from Barcelona. Together we command No. 1 positions in real estate, motors and general buy and sell with our hugely popular online marketplaces Daft.ie, DoneDeal.ie and Adverts.ie.
+Our goal is to win in our core markets and grow our positions as the leading Irish websites for our advertising brand partners. By working closely with brands we seek to connect advertisers with our broad audience and deliver on their key marketing objectives in a smart and engaging way.
+
+What’s the opportunity:
+We’re looking for an experienced Senior Data Engineer to provide technical leadership for how we ingest, store, process and secure data across Distilled. In this role, you’ll collaborate with all engineering teams to improve the quality, reliability and compliance of our data and to set architectural patterns for data across our organisation.
+
+What you will be doing
+Partnering with the engineering, product & commercial teams to build and evolve data models and data flows to accelerate data-driven decision-making at Distilled
+Designing the pipeline and ingestion systems coupled with alerting and testing processes to ensure the accuracy and timeliness of our data
+Designing, building, and maintaining highly available data infrastructure systems for data sharing & consumption at all levels of the organisation
+Designing and implementing architectural patterns for getting data into the data lake or data warehouse and processed data out to internal and external customers
+Getting hands on with day-to-day data challenges and delivering real impact for customers and colleagues by improving the architecture of our data systems
+
+We’re looking for someone who has:
+Proficiency in one programming language such as Java or Python (Most of our production systems are Java based, but we have a number of data related Python based services too)
+Experience building/operating highly available, distributed systems for the processing of large data sets
+Experience with relational and non-relational databases - technology such as Redshift, Postgres, MySQL, MongoDB, DynamoDB
+Experience delivering large-scale data warehousing and analytics projects, including using AWS technologies – Redshift, Athena, S3, Kinesis, Glue, Data-pipeline, GA/GTM
+Experience providing technical leadership and mentoring other engineers in best practices in the data engineering space
+Experience with data compliance issues such as GDPR or PCI
+
+What’s it like to work here?
+You will have the opportunity to work with one of Ireland's fastest growing Internet companies. You will get the opportunity to make a significant contribution to our future direction. Projects are exciting and employees are given wide scope for creativity and innovation.
+
+Our Values
+Our values give us a framework for leadership and daily decision making, they are what make us an excellent place to work. Although we hail from all walks of life and speak dozens of languages, our staff share and work towards a common goal and vision for the company. These values are the embodiment of how we as a company and individually behave and present ourselves both internally and externally for our colleagues, our users and our customers.
+We have a blackbelt mindset, we like to simplify things, we make things happen, we collaborate across teams, business divisions & brands, and we're passionate about what we do.
+
+Our benefits
+Competitive salary in a dynamic and technology driven environment
+We help you plan for your future by offering 5% contribution towards your pension
+Peace of mind with life assurance and fully paid healthcare
+Focused career development and progression opportunities
+If you’re commuting or cycling, we’ve got you covered with taxsaver tickets and the cycle-to-work scheme.
+Employee wellbeing is top of our agenda, we have lots of talks and events
+MacBooks are our standard, but we’re happy to get you whatever equipment you need to do your job
+Our biggest benefit is our friendly and hardworking people!
+
+We are a diverse bunch of people here in Distilled SCH, and we want to continue to attract and retain a diverse range of people into our Company. We do not discriminate based on gender, marital status, family status, sexual orientation, religion, age, disability, race and membership of the Traveller community.
+Seniority Level
+Mid-Senior level
+Industry
+Online Media
+Employment Type
+Full-time
+Job Functions
+Information Technology

@@ -1,0 +1,53 @@
+Data Engineer - AI Analytics - Cork
+Jefferson Frank
+Cork, County Cork, Ireland
+Data Engineer
+
+Cork - Flexible Remote Working
+
+The Company
+
+This client is one of the leaders in AI data analytics backed by huge Environment Investors! Their SaaS platform provides companies with the data needed to be more predictive, proactive and connected to their customers, helping them better manage risk, improve profitability, maintain grid reliability and anticipate sustainability trends.
+
+They are currently looking for Mid to senior level Data Engineers to develop and maintain scalable data pipelines working with both the analytical and business teams to improve data models.
+
+Responsibilities
+Working with open source and vendor tools for data lineage.
+Working with various teams to develop strategies for long term data platform architecture.
+Designs data integration's and data quality framework.
+Implements processes and systems to monitor data quality, ensuring production data is always accurate.
+Writes unit/integration tests, contributes to engineering wiki, and documents work.
+Performs data analysis required to troubleshoot data related issues and assist in the resolution of data issues.
+Work with frontend and backend engineers, product managers, and analysts.
+Defines company data assets to populate data models.
+Experience Required
+Data analytics experience in a distributed computing environment plus data maintainence.
+Automating analyses and authoring pipelines via SQL/python based ETL framework
+SQL programming skill.
+ETL tools and database architecture understanding.
+Data warehousing knowledge.
+Understanding of code and programming concepts.
+Kubernetes deployments and DevOps
+Python: Data Models, Object-Oriented Programming, Testing
+Database: Window Functions, Partitioning/Indexes, Relational & Non-Relational
+Big Data: Hadoop, Spark, DataFrame API
+Performance Benchmarking: Cluster Configuration/Optimization, Spark Optimzation
+Version Control, CI/CD: Git, Jenkins, Drone
+Cloud Experience: AWS (primary) + Azure, Google Cloud
+Benefits & Additional Perks
+Fast paced, collaborative and fun environment
+Work with data and latest technology to transform industry
+Competitive salary and bonus
+Medical, dental, vision, life and long-term disability insurance
+Paid Time Off
+To apply for this role, please send an up-to-date CV to a.quigley@jeffersonfrank.com or call 0191 300 9229 for a confidential chat. LinkedIn = https://www.linkedin.com/in/adam-quigley-945824203/
+
+Jefferson Frank is the Amazon Web Services (AWS) recruiter of choice. We work with organizations worldwide to find and deliver the best AWS professionals on the planet. Backed by private equity firm TPG Growth, we have a proven track record servicing the AWS recruitment market and, to date, have worked with over 30,000 organizations globally.
+Seniority Level
+Entry level
+Industry
+Information Technology & Services Staffing & Recruiting Human Resources
+Employment Type
+Full-time
+Job Functions
+Information Technology

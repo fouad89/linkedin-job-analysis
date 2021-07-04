@@ -1,0 +1,38 @@
+Data Scientist
+Abbott
+Donegal, County Donegal, Ireland
+About Abbott
+
+Abbott is a global healthcare leader that helps people live more fully at all stages of life. Our portfolio of life-changing technologies spans the spectrum of healthcare, with leading businesses and products in diagnostics, medical devices, nutritionals and branded generic medicines. Our 109,000 colleagues serve people in more than 160 countries.
+
+Abbott serves the Irish market with a diverse range of healthcare products including diagnostics, medical devices and nutritionals products. In Ireland, Abbott employs over 4,000 people across nine sites. We have six manufacturing facilities located in Clonmel, Cootehill, Donegal, Longford and Sligo and a third-party manufacturing management operation in Sligo. Abbott has commercial, support operations and shared services in Dublin and Galway. We have been operating in Ireland since 1946.
+
+Abbott Ireland Diabetes Care Division Donegal
+
+The Abbott Diabetes Care division based in Donegal Town manufactures FreeStyle blood glucose test strips and FreeStyle Sensors for use in diabetes management. Among Abbott Diabetes Care leading brands are the FreeStyle Precision, FreeStyle Lite and FreeStyle Libre system.
+
+Purpose Of The Job
+
+Provide real time data analysis support to manufacturing in terms of process adjustments, material performance, investigations, programming and yield analysis.
+
+Major Responsibilities
+Ability to independently data mine multiple large, complex datasets to answer specific research / investigation questions. Curiosity to dig deeper and access other documentation sources to understand the data.
+The ability to strategically interpret statistical findings into a business significant context.
+Develop and lead projects focused on enhancing statistical methodologies. This includes providing input to the site data strategy and ensure delivery of the strategy
+Provide consulting on data analysis and statistical tools in support of trend analysis, root cause analysis, failure investigation, risk assessment, data management and data visualization to junior team members and engineers.
+Develop automated solutions that address specific analytical objectives and facilitate report generation and distribution of analyses.
+Highly effective in presenting and communicating statistical results to lay audiences is required.
+Education And Competencies Required
+Bachelor's Degree or higher in a quantitative field (i.e. Mathematics, Data Science, Statistics, Applied Statistics, Biostatistics etc.) preferred. Will consider relevant industry experience.
+Proficient in a programming language such as python, R, SAS, JMP or similar.
+Experience with relational databases (for example: Oracle Databases, MySQL, Microsoft Access, etc.) is desirable.
+An understanding of probability, statistical process control, hypothesis testing, non-parametric statistics, time series analysis, linear and logistic regression etc.
+Connect with us at www.abbott.com or https://www.ie.abbott/, on LinkedIn at www.linkedin.com/company/abbott-/, on Facebook at www.facebook.com/Abbott and on Twitter @AbbottNews.
+Seniority Level
+Associate
+Industry
+Hospital & Health Care
+Employment Type
+Full-time
+Job Functions
+Customer Service

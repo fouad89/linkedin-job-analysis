@@ -1,0 +1,34 @@
+Data Engineer, Analytics
+Facebook
+Dublin, County Dublin, Ireland
+Facebook's mission is to give people the power to build community and bring the world closer together. Through our family of apps and services, we're building a different kind of company that connects billions of people around the world, gives them ways to share what matters most to them, and helps bring people closer together. Whether we're creating new products or helping a small business expand its reach, people at Facebook are builders at heart. Our global teams are constantly iterating, solving problems, and working together to empower people around the world to build community and connect in meaningful ways. Together, we can help people build stronger communities - we're just getting started.
+
+Every month, billions of people leverage Facebook products to connect with friends and loved ones from across the world. On the Data Engineering team, our mission is to support these products both internally and externally by delivering the best data foundation that drives impact through informed decision making. As a highly collaborative organization, our data engineers work cross-functionally with software engineering, data science, and product management to optimize growth, strategy, and experience for our 3 billion plus users, as well as our internal employee community. In this role, you will see a direct correlation between your work, company growth, and user satisfaction. Beyond this, you will work with some of the brightest minds in the industry, and you'll have a unique opportunity to solve some of the most interesting data challenges around efficiency and integrity, at a scale few companies can match. As we continue to expand and create, we have a lot of exciting work ahead of us!
+
+Responsibilities
+Manage and execute data warehouse plans for a product or a group of products to solve well-scoped problems.
+Identify the data needed for a business problem and implement logging required to ensure availability of data, while working with data infrastructure to triage issues and resolve.
+Collaborate with engineers, product managers and data scientists to understand data needs, representing key data insights visually in a meaningful way.
+Build data expertise and leverage data controls to ensure privacy, security, compliance, data quality, and operations for allocated areas of ownership.
+Design, build and launch new data models and visualizations in production, leveraging common development toolkits.
+Independently design, build and launch new data extraction, transformation and loading processes in production, mentoring others around creating efficient queries.
+Support existing processes running in production and implement optimized solutions with limited guidance.
+Define and manage SLA for data sets in allocated areas of ownership.
+Minimum Qualification
+2+ years experience in the data warehouse space.
+2+ years experience in custom ETL design, implementation and maintenance.
+2+ years experience with object-oriented programming languages.
+2+ years experience with schema design and dimensional data modeling.
+2+ years experience in writing SQL statements.
+Experience analyzing data to identify deliverables, gaps and inconsistencies.
+Experience managing and communicating data warehouse plans to internal clients.
+Preferred Qualification
+BS/BA in Technical Field, Computer Science or Mathematics.
+Experience working with either a MapReduce or an MPP system.
+Knowledge and practical application of Python.
+Industry
+Internet
+Employment Type
+Full-time
+Job Functions
+Information Technology

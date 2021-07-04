@@ -1,0 +1,49 @@
+Senior Data Engineer
+Eolas Recruitment
+Dublin, County Dublin, Ireland
+Posted by
+Sean Prendergast 2nd
+Technical Consultant at Eolas Recruitment
+Send InMail
+Our Dublin based client are looking for a Senior Data Engineer to join their team on a permanent basis.
+Excellent opportunity join with a well known brand who operate on a global scale.
+They have invested in building an EMEA IT Hub in Dublin and this position is the latest hire.
+
+Job Responsibilities
+Support the Enterprise Analytics solution by ensuring data is clear, mapped properly and efficiently and processed according to business needs and requirements at that time.
+Develop technology initiatives to deliver analytics’ and capabilities from data perspective.
+Ensure integrity and scalability of implemented solutions
+Understanding of EPD information and needs in the context of the business group and overall strategy
+Capable of participating in business workshops, leading data streams to help define the data needs
+Work closely with various business users and outside vendors to understand business needs
+Draw up the following: data definitions, data models, data flows and transformations as required 
+Identify, gather and obtain data from multiple sources
+Interpret and transform data into expected formats that the business require
+Continuous improvement of the user experience and suggest adjustments and alterations based on the data you have gathered
+Actively manage the full data lifecycle on a regular basis
+Ensure accurate and up-to-date project information with real time data and results
+Cooperate in normalizing existing data sets and helping to create rich dimension tables that can be maintained by third parties
+
+Experience Required
+Extensive experience in SQL and one of the following databases: Oracle, MSSQL, DB2, PostgreSQL.
+Extensive experience in working in AWS environment,
+Knowledge of Glue and Redshift would be a big advantage
+Experience with ETL (IICS, IDQ) and DWH/ BI projects.
+Knowledge and working experience with Informatica technology (Informatica IDQ, MDM, PowerCenter, IICS)
+Knowledge and working experience with BI tools (PowerBI, Tableau, Qlik etc.)
+Knowledge and working experience of AI / Machine Learning solutions would be an asset
+
+Essential and Desirable Skills
+Need to have 3-4 years’ experience working as DWH/BI senior analyst or a similar role
+Ideally completed two full cycles of global analytics projects.
+An advantage if you’re certified in one SAP functional module.
+Advantage if you have completed one end-to-end ERP SAP implementation cycle.
+Experience in Data Governance projects would be a plus
+Seniority Level
+Mid-Senior level
+Industry
+Information Technology & Services
+Employment Type
+Full-time
+Job Functions
+Information Technology

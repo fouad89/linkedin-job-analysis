@@ -1,0 +1,36 @@
+Data Analyst
+Johnson & Johnson
+Cork, County Cork, Ireland
+Data Analyst, Technical Operations (Global)
+
+Cork, remote working
+
+6 months
+
+€22 PAYE/ €27 LTD per hour
+
+Designing, modeling, testing, implementing a Power BI database utilizing multiple excel documents.
+
+Goal
+Drive analytical capability development and subsequently converge onto the future state tech stack.
+Develop Project plans, support the project management for the analytics capability development on the Discovery platform.
+Collaborate with analytics and platform teams to support platform roadmap & strategy
+Help in identifying the right partners, process and technology capabilities that are needed to drive increased data and analytics maturity.
+Connect & influence supply chain & analytical stakeholders to drive the integration of data analytics into the End-to-End Supply Chain Processes.
+Data exploration for new capabilities, knowledge of data sources (ERPs, PLAN systems etc.), functional interpretation, knowledge of Data Engineering - the design, development, validation, scaling and delivery of analytical solutions
+A system that would host large databases with multiple tables, allow for user inputs, and the possibility of visual reports
+
+Requirements
+Power BI is a possible solution, as it is more user-friendly than MS Access and SQL Server. Create a user interface to the data (Utilising power tools) and integrate excel reporting.
+6 months experience in a Data Analytics role
+Degree Educated (Business Information Systems/ Business/ Commerce)
+Database creation: built from multiple forms, spreadsheets, and documents hosted in a SharePoint or local drive(s)
+User interface: forms would collect info from users and feed the database. With the expectation of around 300 users, is recommended to use multiple forms to minimize issues with SharePoint capacity;
+Seniority Level
+Entry level
+Industry
+Medical Device Financial Services Pharmaceuticals
+Employment Type
+Full-time
+Job Functions
+Information Technology

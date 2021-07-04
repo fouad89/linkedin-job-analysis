@@ -1,0 +1,55 @@
+Data Engineer
+Verizon
+Dublin, County Dublin, Ireland
+Job # 563996
+
+When you join Verizon
+
+Verizon is a leading provider of technology, communications, information and entertainment products, transforming the way we connect across the globe. We’re a diverse network of people driven by our ambition and united in our shared purpose to shape a better future. Here, we have the ability to learn and grow at the speed of technology, and the space to create within every role. Together, we are moving the world forward - and you can too. Dream it. Build it. Do it here.
+
+What You’ll Be Doing...
+
+Verizon Connect is looking for an experienced Data Software Engineer to join the Data Products organization in our office in Florence, Italy or Dublin, Ireland. The successful candidate will join an expanding BI & Data warehouse team, in charge of managing the VZC Data Platform. Our data warehouse stack is built on AWS for data storage, SSIS/Glue for ETL and Tableau for data visualisation.
+Actively break down tasks, provide estimates and track and manage requirements, dependencies and progress of assigned stories in Jira.
+Create and maintain Entity relationship diagrams, source to target mappings.
+Enter and maintain metadata in Data Cataloging tools.
+Develop and maintain ETL pipelines from internal and external sources all the way through to S3 and Redshift.
+Develop and maintain SSIS packages through BIML and C# extensions.
+Develop and maintain ETL workflows orchestrated on AWS with Apache Airflow.
+Create and maintain the assigned pipelines across Dev, Test and Prod environments (supported by CI/CD engineers).
+Ensure all developed solutions include unit tests and integration with the teams test suite.
+Ensure proper monitoring of all developed production applications.
+You’ll Need To Have
+
+What we’re looking for...
+Bachelor's degree in Computer Science or other technical subject, or relevant work experience.
+Experience working with SSIS ETL tools.
+Experience programming with T-SQL and PG-SQL.
+Experience with Redshift and S3.
+C# development Experience.
+Advanced knowledge of Python Programming.
+Experience developing and maintaining E2E ETL/ELT pipelines and best practices for them.
+Experience with automated CI/CD tools and patterns.
+Willingness to travel.
+Even better if you have one or more of the following:
+Experience working with Agile and Lean methodologies.
+Excellent communicator with the ability and experience to coordinate work directly with multiple internal team members.
+Documentation skills with ability to create Entity Relationship Diagrams and Source to Target mappings.
+Experience with Airflow or similar orchestration & ingestion tools.
+Project leadership experience.
+Tableau and other BI visualization tools familiarity, especially within self hosted AWS implementations.
+Experience with Hadoop framework, EMR, Spark development.
+Experience implementing and using Enterprise Data Catalog tools.
+Experience with Qlik Replicate / Qlik Compose or similar tools.
+Experience with APM solutions.
+Job Family: TEC
+
+Business Unit: VZBIN
+Seniority Level
+Mid-Senior level
+Industry
+Telecommunications Information Technology & Services Computer & Network Security
+Employment Type
+Full-time
+Job Functions
+Information Technology

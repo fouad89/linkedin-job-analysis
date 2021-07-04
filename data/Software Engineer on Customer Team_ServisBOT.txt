@@ -1,0 +1,33 @@
+Software Engineer on Customer Team
+ServisBOT
+Waterford, County Waterford, Ireland
+Posted by
+Adam Fothergill
+Senior Solutions Specialist at ServisBOT
+Send InMail
+ServisBOT is seeking a Software Engineer on the Customer Delivery Team to help implement full-stack solutions for our customers.
+
+We are seeking candidates based in Waterford, Ireland.
+
+The Role
+The Software Engineer is responsible for:
+Leveraging Node.js and AWS stack to deploy and manage solutions
+Writing Javascript to extend the platform and address customer needs
+Integrating with RESTful services
+Help take existing custom solutions and standardize them
+
+The Qualifications
+Has a minimum of 2 years of professional Node.js experience
+Is a self-starter, resourceful, and solutions focused
+Has a passion for working with customers to drive a great experience
+Has a solid working knowledge of technologies like REST integration, AWS, etc
+Has a Bachelor of Science, Bachelor of Engineering with Engineering or Science degree in Computing or Related field (level 8)
+Is interested in developing expertise in Cloud development and Natural Language Processing (NLP)
+
+We Offer
+The opportunity to build your resume via direct contact with the hottest tech trends (Cloud, Chatbots, Automation, Mobile, etc)
+Work in an international business environment
+The opportunity to help shape ServisBOT's business and contribute learnings that will help shape product development
+Competitive salary and OTE with good career prospects
+Employment Type
+Full-time

@@ -1,0 +1,47 @@
+Application Data Engineer
+ClickDimensions
+Cork, County Cork, Ireland
+Posted by
+Sophie McGinnis 2nd
+Office Manager at ClickDimensions
+Send InMail
+Application Data Engineer
+ ClickDimensions is looking for an Application Data Engineer to join the team on a full-time basis. We are looking for a technical individual to own and manage the execution of the daily data pipelines operations. In undertaking this challenge, you will use the latest distributed computing technologies to run our data pipeline processes on large-scale data across multiple Public Clouds. These pipeline processes span ingesting, staging, cleansing, deduplicating, mapping, and publishing. You will also oversee the provisioning new customers, loading and cleansing the historical data.
+  Key Objectives/Duties:
+·        Coordinating customer provisioning 
+·        Communicating with different teams to orchestrate the process whenever is needed
+·        Building automated reports 
+·        Shaping dashboards that bring clarity around operational status, health and COGS. 
+·        Daily health and issue triage 
+·        Triage and resolve data pipeline issues 
+·        Run data quality reports and perform data improvement interventions 
+·        Monitoring and alert detection 
+·        Monitor the progress of data flow and report status to a broader team 
+·        Desing and help preemptive alert system based on data sampling 
+
+Requirements:
+·        Solid programming and engineering background. 
+·        +2 years' experience programming with Python and SQL. 
+·        +2 year experience using cloud services, preferably Azure. 
+·        +2 year experience using monitoring tools, either Grafana, LogAnalytics, Kibana or similar. 
+·        +2 year experience using PowerBI. 
+·        Strong verbal and written communication skills. 
+·        Strong analytical, organizational, and problem-solving skills. 
+·        Self-motivated and results-oriented person. 
+·        Worked remotely in the past. 
+
+Nice to have: 
+·        Acted as a project manager or team lead, showing skills to prioritize and organize tasks across different people. 
+·        Some Azure Databricks, Datafactory experience or exposure. 
+·        Experience modeling data. 
+·        Experience building monitoring artifacts, including the usage of Kusto. 
+
+ ClickDimensions is an Equal Opportunity Employer and Prohibits Discrimination and Harassment of Any Kind. ClickDimensions is committed to the principle of equal employment opportunity for all employees and to providing employees with a work environment free of discrimination and harassment. All employment decisions at ClickDimensions are based on business needs, job requirements and individual qualifications, without regard to race, color, religion or belief, national, social or ethnic origin, sex (including pregnancy), age, physical, mental or sensory disability, HIV Status, sexual orientation, gender identity and/or expression, marital, civil union or domestic partnership status, past or present military service, family medical history or genetic information, family or parental status, or any other status protected by the laws or regulations in the locations where we operate. ClickDimensions will not tolerate discrimination or harassment based on any of these characteristics.
+Seniority Level
+Mid-Senior level
+Industry
+Computer Software
+Employment Type
+Full-time
+Job Functions
+Engineering

@@ -1,0 +1,56 @@
+Software Engineer
+Smartbox Group
+Dublin, County Dublin, Ireland
+Department: Technology
+
+Reporting to: Software Development Manager
+
+Location: Dublin, Ireland
+
+Contract/Permanent: Permanent
+
+Smartbox is seeking an exceptional and passionate back-end Software Engineer to contribute to the success of their Dublin HQ IT team. You will be part of the team building the e-commerce platform that will allow Smartbox to bring online its success in retail. If you’re ready to take on a huge challenge in a company where you can make a great impact, we want to hear from you.
+
+Key Responsibilities/Skills:
+
+Contribute to a variety of projects within the web team, from websites, APIs, bug fixing, building new features, testing all in collaboration with our product teams.
+Help enhancing Agile / Lean processes and methodologies to ensure stability, performance and continuous improvement.
+Collaborate with members of other departments to transform Smartbox’s IT platform into a state-of-the-art SOA platform.
+Provide technical leadership and mentor other members of the team in a very collaborative environment
+Develop new features
+Develop platform improvements
+Improve platform security
+Participate in the creation of our system’s architecture
+Participate in the maintenance of our systems
+Support your code writing unit/integration/api/contract testing
+Solve issues and ensure solutions work via automated testing
+Participate in regular code reviews and team knowledge sharing activities
+Participate in agile ceremonies on a daily basis
+Drive code releases
+Monitor systems health check
+
+Essential Competencies/Skills:
+
+Considerable experience working as a web developer, you speak PHP better than your mother language, and you love it as much as you hate it
+You have extensive experience with Symfony/Laravel/Zend frameworks and you have worked building interfaces to provide reliable SaaS to your clients
+You understand that software needs to be properly tested, you think that creating proper automated testing is part of the development. The terms TDD, BDD, unit/contract/api/integration tests are familiar to you, most of them are part of your day to day.
+You have deep understanding of the software development lifecycle and have extensive knowledge of relational databases like MySQL, queueing solutions like RabbitMQ, in-memory data structure storage like Redis, sync and async software execution and how to handle high traffic.
+Excellent communication skills (fluency in English both written and spoken essential)
+Proven stakeholder management experience with the ability to build strong working relationships
+Optimistic person, where others see problems you see opportunities.
+Strong influencing and negotiation skills – you fight for your ideas, but you also take other peoples opinion into account
+Optimistic person, where others see problems you see opportunities.
+You are a team player and you like to share your knowledge with your peers.
+You challenge yourself every day to make things in a better way, you always try to find an excuse to use a new technology or tool.
+You love having fun at work so you strive to create a positive atmosphere.
+Bonus points if you are a Symfony expert
+
+*As duties and responsibilities of the post holder change, the job description may be reviewed and amended as appropriate.
+Seniority Level
+Associate
+Industry
+Leisure, Travel & Tourism Hospitality
+Employment Type
+Full-time
+Job Functions
+Engineering Information Technology

@@ -1,0 +1,92 @@
+Senior Data Scientist - Real World Evidence
+Novartis
+Dublin, County Dublin, Ireland
+Job Description
+
+Novartis continues to accelerate its growth in the digital world. As part of our continued growth we're hiring a Senior Data Scientist, Real World Evidence (RWE).
+
+The Senior Data Scientist will lead programming activities aligned with Novartis RWE strategies and implement these strategies at country level, including the programming and statistical analysis for RWE studies and dashboards.
+
+In this role, you'll improve efficiency and quality by conducting RWE projects (including NIS) in support of Novartis products, helping us to reduce external spend on RWE projects. A key element to this role is the interpretation of payer research results to develop solid insights on explicit and implicit needs of payers, then using this payer environment knowledge to develop, optimal brand pricing, market-positioning and partner influence strategies. We'd love you to help us present our data using innovative visualisation methods.
+
+Our Senior Data Scientist also contributes to the timely listings, contract renewals of Novartis brands in addition to delivering high quality, impactful, product listing agreements and develops negotiation strategies in collaboration with the Health Policy and/or Access Team. You'll also manage multi-functional teams in the development and submission of evidence dossiers to HTA and/or P&R bodies.
+
+Your responsibilities include but are not limited to;
+Lead projects in the development of programming routines (such as SAS, R, Python) along with sophisticated SQL queries to extract, clean, manage, and analyze large databases for health outcomes research. Data sources include medical and pharmacy claims data, hospital data, electronic medical record data, and prospective observational study data
+Provide your expertise across analytical/technical aspects of the team including; machine learning, deep learning, data mining techniques, statistical techniques, dimensional reduction, R, Git and JIRA
+Provide leadership on the team on observational data analyses including data management and statistical programming involving new creative approaches, as well as the design and development of RWE dashboards and visualisations
+Be a key contact for customer engagement, ensure customer satisfaction and support department leadership on business development activities, presenting results, project summaries and analytical solutions to internal or external customers and partners
+Collaborate with the RWE Research Analysts to scope and design projects, interact with Regional Account Directors (RAD) medical specialists and strategy directors
+Drive consistency and compliance with company standards regarding project documentation for observational studies and interactive data visualization tools, including programming, specifications of analysis datasets, tables, figures and listings
+Provide support in the development of strategies to improve standardization techniques in order to improve efficiency
+Ensure the team’s success by strategically growing current team talent and supporting the team’s expansion by hiring new talent, nurturing and upskilling junior talent
+Manage the outsourcing of programming activities from Data Science to an approved vendor in accordance with Novartis vendor management procedures
+
+
+Minimum Requirements
+
+What you'll need:
+Bachelor’s degree in Computer Science, Bio-Informatics, Biostatistics, Statistics or similar field
+Extensive experience in programming or data science in the pharmaceutical industry, contract research organization or academic institute
+Proven technical abilities with data manipulation, analysis and visualisation including SAS or R, Python, SQL and other statistical software
+Knowledge of RWE data sources and standards such as MarketScan, CPRD, JMDC, Optum, PharMetrics, OMOP
+Solid experience in SQL querying using at least one of the following Hive, Impala, MySQL, OracleSQL or similar
+Good knowledge of machine learning and big-data platforms, e.g. Hadoop or Apache Spark
+Strong expertise in version control tool such as Git or JIRA
+Solid ability to communicate effectively with senior business partners, highly effective at prioritising and project manging in a supportive team environment
+Proficiency in English (oral and written)
+
+
+Nice to have:
+An open to experimentation and taking smart risks to support creative thinking that leads to practical solutions to healthcare and business challenges
+MA or PhD in a relevant field
+
+
+Why consider Novartis?
+
+799 million. That’s how many lives our products touched in 2019. And while we’re proud of that fact, in this world of digital and technological transformation, we must also ask ourselves this: how can we continue to improve and extend even more people’s lives?
+
+We believe the answers are found when curious, courageous and collaborative people like you are brought together in an inspiring environment. Where you’re given opportunities to explore the power of digital and data. Where you’re empowered to risk failure by taking smart risks, and where you’re surrounded by people who share your determination to tackle the world’s toughest medical challenges.
+
+Imagine what you could do at Novartis!
+
+Commitment to Diversity & Inclusion:
+
+Novartis embraces diversity, equal opportunity and inclusion. We are committed to building diverse teams, representative of the patients and communities we serve, and we strive to create an inclusive workplace that cultivates bold innovation through collaboration, and empowers our people to unleash their full potential.
+Join our Novartis Network: If this role is not suitable to your experience or career goals but you wish to stay connected to learn more about Novartis and our career opportunities, join the Novartis Network here: https://talentnetwork.novartis.com/network
+
+Division
+NBS
+
+Business Unit
+NBS CONEXTS
+
+Country
+Ireland
+
+Work Location
+Dublin
+
+Company/Legal Entity
+
+Novartis Ireland Limited
+
+Functional Area
+Market Access
+
+Job Type
+Full Time
+
+Employment Type
+Regular
+
+Shift Work
+No
+Seniority Level
+Associate
+Industry
+Pharmaceuticals
+Employment Type
+Full-time
+Job Functions
+Engineering Information Technology

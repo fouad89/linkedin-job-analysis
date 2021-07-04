@@ -1,0 +1,55 @@
+Machine Learning Scientist - Ireland
+Overstock.com
+Sligo, County Sligo, Ireland
+Overstock Ireland is the European software development hub for Overstock.com, a technology driven online retailer. Based in Sligo, Ireland, we offer a diverse, secure and flexible career. Take advantage of our amazing location along the Wild Atlantic Way and enjoy the ride in the fast paced world of e-commerce.
+
+As a Senior Machine Learning Scientist, you will work in an Agile environment, on a collaborative team and work on the latest technologies. We value intelligence, creativity, quality, technical leadership, and a strong interest to learn. Our team focuses on development projects for customer facing websites, international projects and cutting-edge technologies areas such as machine learning and continuous deployment.
+
+Joining our award-winning Machine Learning team, you will have a strong background in AI/ Analytics and Machine Learning. Overstock uses machine learning to drive dynamic one-to-one engagement and customer experiences.
+
+What You Will Do
+Design and implement core machine learning algorithms used by different product teams, included but not limited to; search ranking, recommender systems, natural language processing, computer vision, deep learning, fraud and abuse detection, advertising technologies, personalization, marketing, CRM and supply chain
+Design A/B tests across various products to validate the performance of machine learning models
+Offline evaluation of machine learning models and establish correlation between online A/B tests and offline metrics
+Implement machine learning models in production using various in house and on cloud technologies available to the machine learning team
+Report results of machine learning models in peer-reviewed papers and technical manuals.
+Build cutting-edge e-commerce technologies in all areas and apply ideas in different products across our platform
+
+What You Should Have
+Minimum of three years of industry experience as a Machine Learning Scientist or a Data Scientist
+Strong analytical and quantitative skills: You are familiar with techniques in machine learning, deep learning, NLP, computer vision and or related fields.
+Strong technical and programming skills.
+Experience in machine learning, data mining, recommendation systems, learning to rank, deep learning, natural language processing and related fields.
+Strong technical skills in programming. Especially writing production quality code.
+Excellent collaborator and communicator and are eager to learn and grow!
+
+What We Hope You Have
+Familiarity with relevant technologies (e.g. Python, Java, and etc.).
+Experience with big data technologies such as Hadoop/Spark
+Previous history of writing and reviewing technical papers
+Ability to come up with creative solutions and quickly prototype them
+Strong desire to collaborate and develop new technologies
+Willingness to learn new tools and flexibility to adapt to different deployment pipelines
+Strong communication abilities and willingness to lead and inspire other engineers
+Education
+
+Ph.D. or Masters degree in in computer science, natural language processing, deep learning, computer vision or a related field .
+
+What We Value
+Life/Work Balance
+Pride in Production
+Trust
+Challenge yourself, inspire others
+Success through diversity
+
+Equal Employment Opportunity
+
+It is our commitment to ensure that all employment decisions are made without regard to gender, civil status, family status, sexual orientation, age, disability, race, religion and membership of the Traveller community, (protected characteristics under the Employment Equality Acts 1998-2011).
+Seniority Level
+Associate
+Industry
+Information Technology & Services Computer Software Internet
+Employment Type
+Full-time
+Job Functions
+Other

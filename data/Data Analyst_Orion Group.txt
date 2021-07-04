@@ -1,0 +1,38 @@
+Data Analyst
+Orion Group
+Dublin, County Dublin, Ireland
+Orion Group Life Sciences have an exciting opportunity for a Data Analysts for our Multinational Biopharmaceutical client in North Dublin on an initial 12-month contract.
+
+Responsible for importing, cleansing, validating and analyzing data with the purpose of understanding or drawing conclusions from the data. May consolidate and/or present data in charts, graphs, or tables. Focused on improving data quality. Works with moderate work direction and is skilled and knowledgeable to the position. The role will report to the Digital & Instrumentation Lead,
+
+Responsibilities
+Querying and processing data from primary or secondary data sources.
+Create and maintain rich interactive visualizations through data interpretation and analysis.
+Integrating various reporting components from multiple data sources
+Review system(s) documentation so as to identify important metrics and relationships between them.
+Filter and clean data by reviewing system(s) documentation and performance indicators.
+Identify, analyze, and interpret trends or patterns in complex data sets.
+Working alongside teams within the business or the management team to establish data analysis & visualisation needs and building the tools to support them.
+Create documentation and train users on how to use developed reports.
+
+Qualifications
+Level 8 Qualification in Engineering or Computer Science or Statistics discipline or equivalent
+2+ years' experience in a data analysis or data scientist role
+
+Required Skills
+Strong analytical skills with the ability to collect, organize, analyze, and disseminate significant amounts of information with attention to detail and accuracy.
+Experience with visualisation tools such as Microsoft PowerApps, TIBCO Spotfire, PowerBI
+Adept at queries, report writing and presenting findings.
+Strong communications, organizational and analytical skills
+
+Desirable Skills
+Working with both structured and unstructured databases
+Experience with applying machine learning techniques to classification, clustering & prediction problems.
+Seniority Level
+Entry level
+Industry
+Staffing & Recruiting Oil & Energy Pharmaceuticals
+Employment Type
+Contract
+Job Functions
+Information Technology

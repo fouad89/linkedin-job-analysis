@@ -1,0 +1,26 @@
+Data Analyst (Bio) Carlow
+Claran Consultants
+Carlow, County Carlow, Ireland
+Summary
+
+Data Analyst required for a leading Bio facility in Carlow. Responsible for importing, cleansing, validating and analyzing data with the purpose of understanding or drawing conclusions from the data. May consolidate and/or present data in charts, graphs, or tables. Focused on improving data quality. Initially an 11 month contract. Contact Ann 021 4701100 or email ann.laide@claran.ie
+
+Role
+Developing and implementing a strategy for process data compilation from various platforms and aggregation of the data into a format suitable for searching and analysis
+Developing and implementing a strategy for statistical process control (SPC) and Overall Equipment Effectiveness (OEE)
+Collaborating with commercial manufacturing teams to support facility start-up activities and providing on-the-floor support for drug substance manufacturing
+Leading assignment execution against accelerated, critical-path timelines in a right-first-time manner
+Develop templates for all SDLC deliverables, compliant with company standards, to ensure consistent implementation of the validation strategy.
+Requirements:
+Relevant Computer Science or Engineering degree or equivalent
+Minimum of 5 years’ experience in a similar role, ideally in the Pharmaceutical industry.
+Expert knowledge of GAMP5.
+Strong experience in one or all the following systems: OSI PI, Hadoop (and related components), Spotfire, QLIK.
+Seniority Level
+Entry level
+Industry
+Medical Device Biotechnology Pharmaceuticals
+Employment Type
+Full-time
+Job Functions
+Information Technology

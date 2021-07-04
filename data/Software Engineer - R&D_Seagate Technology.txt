@@ -1,0 +1,45 @@
+Software Engineer - R&D
+Seagate Technology
+Dublin, County Dublin, Ireland
+About Our Group
+
+The Seagate Systems EU R&D group explores possibilities and develops prototypes of next gen. distrubited storage system technology primarily enabled by software. The group collaborates with key technology vendors, OEMS, research and academic institutions in Europe
+
+About The Role - You Will
+Participate in collaborative R&D projects and initiatives, and research consortia within the European Union representing Seagate
+Work closely with the technology, developer and user communities in the EU to understand the requirements for building storage systems technology for upcoming use cases (AI, HPC, IT4.0, Edge, etc).
+Be responsinble for developing the architecture and design specifications for new upcoming distributed storage technology oriented software features
+Implement the features as full fledged working software prototypes, proof of concepts and/or to alpha/beta readiness level suitable for inclusion in future products
+Research the state of the art and the research literature for the underlying feature/technology
+Contribute to enhancing Seagate’s IP portfolio
+Provide top quality documention for the architectures, designs, implementations and investigations - including suitability for publication in international peer reviewed conferences and journals
+Work with internal Seagate product and development teams, its customers, and the Network Storage industry to contribute to developing high performance, resilient storage systems for next generation workloads
+Complete deliverables (both software delivery and reporting) on budget and in time
+About You
+Passionate with an ambition of developing cutting edge techology solutions ( enabled by storage systems technology and data management techniques) needed for next generation storage
+Very highly motivated to solve complex technical challenges in the area of distributed storage systems
+Extremely good team player -understanding the nuances of dealing with external partners, research collaborators and understanding the collaborative culture that this entails
+Good understanding of the technology landscape for computing and data storage
+Highly self driven and works through hard technical problems with minimal assistance
+Highly capable to adapting new technologies and using that in potentially novel and different ways
+Be always ready to learn and be willing to accept that change is the only constant in the technology world!
+Respect for different technical and cultural view points
+Your Experience Includes
+Design principles and development of distributed systems, Object storage & Parallel File systems (Lustre, Ceph, etc)
+Bachelors/Masters/PhDegree and/or equivalent experience
+Understanding of Linux based kernels
+Expertise in at least one programming language (C preferred) with Software development life-cycle (git, code reviews, Jira)
+Understanding of storage system architectures and communication protocols (iSCSI, NVMe, NVMeoF)
+Contribution to open source projects
+Basic level appreciation of AI tools (Pytorch, TensorFlow, Caffe)
+Location:
+
+Location: Dublin, Ireland - Remote, Ireland
+
+Travel: Up to 25% - Readiness to travel for consoritum meetings, conferences, etc
+Industry
+Computer Hardware Computer Software Information Technology & Services
+Employment Type
+Full-time
+Job Functions
+Engineering

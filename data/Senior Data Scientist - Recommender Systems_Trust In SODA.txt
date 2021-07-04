@@ -1,0 +1,48 @@
+Senior Data Scientist - Recommender Systems
+Trust In SODA
+Dublin, County Dublin, Ireland
+Posted by
+Ben Prince 2nd
+Recruitment Consultant at Trust In SODA Ltd
+Send InMail
+Senior Data Scientist - Recommender Systems
+
+(12 Month Contract)
+
+€400 - €480 per day
+
+Dublin - Remote start - Dublin office post covid restrictions
+
+
+
+My client is on a mission to become a recognized technology leader and a global provider of ICT solutions. To reach this status they are building an industry leading Research Centre of experts with focus on medium-term to long-term issues. The RC will work closely with an open innovative ecosystem with business customers to address real-world issues. The RC will also engage with key European universities to build a basic research capability to support technical projects.
+
+In this role, you will have the chance to work on projects that impacting millions of people, explore novel ways to build recommender systems, provide the most relevant items to users while preserving user privacy (for example, by keeping user data on user device).
+
+Responsibilities
+
+Build a new recommender systems algorithms that works, while preserving user privacy
+Literature review and investigate the state of the art
+Dataset acquisition
+Build models with novelty, applicability, and practicality in mind.
+Model evaluation and iteration
+Write documentation, papers, or patent application (whichever applicable)
+Navigate ambiguity that might occur in the projects or relationship with stakeholders
+Building a demonstration system to showcase the value of strength
+Requirements
+
+Passionate about data and machine learning
+Experience in recommender systems and distributed, decentralized, or federated learning
+Programming experience in Python, R, C, or C++
+Research experience, you have PhD in computing-related fields (such as Computer Science, Engineering, Mathematics, Physics)
+Software engineering background, e.g., you have a Computer Science background, or software engineering working experience
+Able to work independently and as a team, and drive a project from its inception to the finish line on time
+Publication track records in top tier computing conferences or journals
+Seniority Level
+Associate
+Industry
+Information Technology & Services
+Employment Type
+Contract
+Job Functions
+Information Technology

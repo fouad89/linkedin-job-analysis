@@ -1,0 +1,42 @@
+UX Researcher
+Diligent Corporation
+Galway, County Galway, Ireland
+Description
+
+Position at Diligent Corporation
+
+The Company
+
+Diligent is the pioneer in modern governance. We empower leaders to turn governance into a competitive advantage through unparalleled insight and highly secure, integrated SaaS applications, helping organizations thrive and endure in today’s complex, global landscape. The largest global network of corporate directors and executives, Diligent is relied on by more than 19,000 organizations and nearly 700,000 leaders in over 90 countries. With award-winning customer service, Diligent serves more than 50% of the Fortune 1000, 70% of the FTSE 100, and 65% of the ASX. Our passionate, smart, and creative employees support customers around the globe.
+
+Position Overview
+
+We are happy to introduce a new position as a full-time User Experience Researcher (UXR) at Diligent. You will be a core member of the UXR Team, working closely with UX/UI Design, Product and Engineering fellows across all of our product clusters, helping us bring the voice of the user into our 1st class Governance, Risk & Compliance product suite.
+
+We are looking for a very motivated, empathetic and innovative researcher, with the ability to work in a truly collaborative, generative, and fast-paced research environment. This is an ideal opportunity for a person experienced in qualitative-ethnographic techniques, that feels passionate when taking on a challenge at scales that have real impact on actual products, as well as for other teammates to work better together. If you’re serious about multiple methods research, and ready to understand our diverse users's most complex issues and practices, this role is for you.
+
+Key Responsibilities
+Expert Users Interviews & Surveying — You are expected to have a deep understanding of cognitive biases and empathetic interviewing skills, having structured knowledge on how to generate solid heuristic question flows and manage answers, both with internal and external user pools. You will work mainly through remote international interviews, and on-site ones.
+HCI Mapping & Affective Labelling — User Journey Mapping (building and assessing UI Panels Flow), User Mental Models (building and assessing User Practices & Preferences), Customer Stories, Onboarding Learning Curve/Ladders assessment.
+Design Audits & Behavioural Usability Testing (Monitored) — You are expected to have a neat knowledge on how to plan, design and execute research relating task-driven User Interviews, gathering value data on users's performance and experience issues via specific usability rates, further on being able to analyse and showcase results and interpretations, and to evaluate the impact of your work.
+A/B Testing & Focus Groups Monitoring — New features decision-making via Parallel Usability Testing.
+Collaborate on Metrics Analysis — Experience with at least one of the following tools will be taken into account: Qualtrics, Optimal Workshop, SuprQ, Grafana, Kibana, MongoDB, SurveyMonkey, TypeForm.
+Active collaboration in growing our UXR Repository.
+Collaborate on Re-Ops & Recruitment via Internal & External Tools/Networks — You'll not be alone in this, no worries!
+
+Required Experience & Skills
++2 years of experience in mixed methods research, behavioural-quantitative, ethnographic and qualitative research, and measurement of usability metrics.
+Proven dexterity with remote behavioural testing, surveying/tracking and design tools (experience with at least Qualtrics and Figma is required).
+Master Degree in Design, UX/UI, Cognitive Ergonomics, Psychology, Social Sciences, Anthropology, Human-Computer Interaction or similar degree preferred (or equivalent work experience). Postgrads & PhD students or doctorates in related fields are a plus.
+You are confident with autonomy: you are well able to manage your schedule and workloads.
+Experience in several industry fields (Service Design, FinTech, Games, EdTech, Gamification...) and diversity of projects is a plus, showcasing you can glide through a wide range of interests and different company needs and profiles.
+Experience with Desktop Apps and Tool Usability Assessment is a plus.
+Profiles prone to mix qualitative-narrative methods with Data Science, Blockchain Tech, AI Tech, Statistics or Economics are a plus.
+You have developed a grown-up taste for great design and the dexterity for straightforward software interaction evaluation, evolving a pragmatic mindset, synthesis skills, innovative and disruptive thinking.
+You have grown deep social skills, showcasing your ability to work within a team cooperating with other professional profiles: you work flexibly, collaboratively, transparently, orderly and empathetically. As a UX Researcher, you are curious, humble and confident, able to observe, listen and understand different kinds of personalities, needs, subtle situations and interaction issues.
+Industry
+Information Technology & Services Computer Software Financial Services
+Employment Type
+Contract
+Job Functions
+Information Technology

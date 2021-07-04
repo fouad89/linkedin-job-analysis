@@ -1,0 +1,49 @@
+Lead Data Scientist
+Circle
+Dublin, County Dublin, Ireland
+Circle is a global financial technology firm that enables businesses of all sizes to harness the power of digital currency and public blockchains for payments, commerce and financial applications worldwide. Circle's platform has supported over 100 million transactions worth tens of billions of dollars, with nearly 10 million retail customers, over a thousand businesses, while storing and securing more than $5 billion in digital currency assets. Circle is also the creator of USD Coin (USDC), the fastest growing, regulated, dollar, which now stands at 4.3+ billion in circulation. Today, Circle's transactional services, business accounts, and platform APIs are giving rise to a new generation of financial services and commerce applications that hold the promise of raising global economic prosperity for all through programmable internet commerce.
+
+What you'll be part of:
+
+With the mission "To raise global economic prosperity through programmable internet commerce," Circle was founded on the belief that blockchains and digital currency will rewire the global economic system, creating a fundamentally more open, inclusive, efficient and integrated world economy. We envision a global economy where people and businesses everywhere can more freely connect and transact with each other with new technologies for digital money. We believe such a system can raise prosperity for people and companies everywhere. Our mission is powered by the values we espouse and which we expect all Circlers to respect. We are Multistakeholder, serving the needs of our customers, our shareholders, our employees and families, our local communities and our world. Furthermore, we are also Mindful, Driven by Excellence, and High Integrity.
+
+What you'll be responsible for:
+
+As a Data Scientist at Circle, you'll work closely with Engineers productizing machine learning solutions and scalable data pipelines that support these solutions. You'll have the opportunity to significantly impact internal data consumption and decision making within fraud risk. We are a passionate team with a deeply analytical mindset, and your work will support us in our mission to be a world-class company driven by data.
+
+What you'll work on:
+
+Partner with product and operations teams to identify and resolve analytical problems at scale in a variety of domains, including fraud detection, risk management and customer support optimization
+Create and manage predictive models using a variety of machine-learning techniques that guide our fraud prevention and compliance guidelines
+Implement, maintain and optimize model deployment lifecycle
+Contribute to analytics projects across Circle teams, with involvement from data collection all the way to presentation and decision support
+Partner with engineers to ensure that data is appropriately identified, recorded, transformed, and furnished for consumption
+Become an expert on data sources and flows at Circle
+Lead payments risks projects
+Evangelize the power of analytics to improve our business and operations.
+
+You will aspire to our four core values:
+
+Multistakeholder - you have dedication and commitment to our customers, shareholders, employees and families and local communities.
+Mindful - you seek to be respectful, an active listener and to pay attention to detail.
+Driven by Excellence - you are driven by our mission and our passion for customer success which means you relentlessly pursue excellence, that you do not tolerate mediocrity and you work intensely to achieve your goals.
+High Integrity - you seek open and honest communication, and you hold yourself to very high moral and ethical standards. You reject manipulation, dishonesty and intolerance.
+
+What you'll bring to Circle:
+
+7+ years of industry experience working with and analyzing large data sets to build models
+Expert knowledge of a scientific computing language (Python) and SQL
+Theoretical and applied expertise in statistics, machine learning and experimental design
+Hands-on experience with common software development flows and tools (Linux, git, AWS), as well as deploying models into production (Spark, MLeap and PMML)
+Experience designing and implementing complex modeling solutions from ideation to production at scale
+Ability to understand complex business problems and break down analytics projects into a structured approach.
+
+We are an equal opportunity employer and value diversity at Circle. We do not discriminate on the basis of race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status.
+Seniority Level
+Associate
+Industry
+Computer Software Internet Financial Services
+Employment Type
+Full-time
+Job Functions
+Engineering Information Technology

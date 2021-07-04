@@ -1,0 +1,55 @@
+Data Scientist
+LiveScore Group
+Galway, County Galway, Ireland
+The Role
+
+The LiveScore Data Team is a cross-functional and diverse team of analysts, engineers, developers and data scientists that supports all aspects of the LiveScore business by implementing data driven solutions. We do this using a tech stack based on, but not limited to, Google Cloud Platform. We use a combination of SQL and NoSQL based datastores (BigQuery, FireStore, Redis, ElasticSearch) for both batch and real-time streaming data pipelines.
+
+As a Data Scientist at LiveScore Labs, you will be a key part of our quickly expanding Data Team. Right now, we're building solutions for every facet of the business, from customer satisfaction, to trading efficiency, to social responsibility, all with the goal of bringing our audiences closer than ever to the sports they love with our best-in-class products.
+
+If this sounds like a team you'd like to join, we want to hear from you.
+
+Key Responsibilities
+Discover the information hidden in vast amounts of data and help the business make smarter decisions to deliver the best experience to our customers.
+Mine and analyse data from various sources to apply machine learning techniques to optimise customer experiences, revenue generation, ad targeting and other business outcomes.
+Work closely with stakeholders throughout the organization to identify opportunities for leveraging company data to drive business solutions.
+Join us in a fast-paced, agile environment, where we take complex business problems, and design and implement simple, elegant solutions.
+
+
+Key Skills/Experience
+A degree in Computer Science, Mathematics, Statistics, Physics or equivalent experience
+Extensive knowledge of ML frameworks, libraries, data structures, data modelling and software architecture
+Ability to write robust code in Python
+Proficiency in using SQL in addition to analytical and problem-solving abilities
+In-depth knowledge of mathematics, statistics and algorithms
+Ability to understand complex business workflows and translate them into solvable data problems
+Familiarity with software best practices, including agile methodologies, coding standards, code reviews, source management, build processes, testing, and operations
+
+The Person
+Creative problem-solving skills. We're a team who value fresh ideas and new perspectives, and want to hear yours
+A learning mindset, regardless of level of experience
+
+What Can We Offer?
+Competitive salary based on experience with annual compensation reviews
+Performance bonus, twice yearly
+Flexible holidays – 25 days annual leave + bank holidays + 1 day life event
+Private Healthcare Scheme
+Life Assurance & Contributory Pension Plan
+MacBooks are our default, but we're happy to get you whatever equipment enables you to do your best work
+
+
+About Us
+
+Welcome to LiveScore Group. We are home to LiveScore, LiveScore Bet and Virgin Bet, three of the most exciting brands in the sports and gaming industries today.
+
+Whether it is LiveScore delivering real-time sports scores or free-to-air live streams to its 56 million monthly users across 200 territories, or LiveScore Bet and Virgin Bet offering innovative and trusted sportsbook betting opportunities, we bring our audiences closer than ever to the sports they love with our best-in-class products.
+
+This is a truly exciting time to consider joining our team within the LiveScore Group. We are offering the chance to work in the heart of the sports industry, as we look to quickly expand our successful, privately-owned business. With offices and roles based in London, Stoke, Galway, Vienna, Gibraltar, Lagos, and Prague, our staff are part of a truly international business that is training and growing together, and empowered to build a bright and rewarding future.
+Seniority Level
+Entry level
+Industry
+Marketing & Advertising Computer Software Financial Services
+Employment Type
+Full-time
+Job Functions
+Engineering Information Technology

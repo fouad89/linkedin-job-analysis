@@ -1,0 +1,53 @@
+Software Developer - Global Fintech Startup
+Crypto.com
+County Dublin, Ireland
+Posted by
+Mandy Ho
+Talent Acquisition Specialist at Crypto.com
+Send InMail
+About our team
+The operations team is responsible for the token price page, internal portal and custom tooling used at Crypto.com. We are constantly collaborating with all other teams at Crypto.com to streamline workflows and ensure we are compliant with industry standards.
+A high degree of autonomy is given and expected from us in order to meet the demands of all our stakeholders. We are expected to drive the implementation of technical improvements for complex business requirements.
+
+Projects and teams we collaborate with include
+Token Price Page development with Product Team
+Onboarding and continued KYC for customers - Compliance Team
+Marketing and CRM tooling - Growth Team
+Improving performance of crypto deposits and withdrawals - Blockchain/Payments Team
+UI/UX design, business requirements - Product Team
+
+Our Team's Core Values:
+Always be learning
+Professional and well crafted code
+Aggressive problem solving mindset
+
+Requirements
+Our ideal candidate will have experience in:
+End-to-end web application development
+At least one backend language
+At least one modern Javascript framework (React, Vue, Angular, etc)
+Git
+Test
+English Communication
+Bonus experience:
+Node.js experience
+JAMStack
+gatsbyjs
+Prismic API integration
+Account Auditing
+Teaching coding
+Less experienced candidates are welcome to apply.
+
+Your Responsibilities
+Work with tech and product teams to deliver industry-leading features to our customers
+Collaborate with non-technical teams on improvements to internal tooling
+Maintain operations portal with high availability requirements
+Build out MVP's and experiments to validate/test ideas and products
+Seniority Level
+Associate
+Industry
+Financial Services Information Technology & Services
+Employment Type
+Full-time
+Job Functions
+Analyst Engineering Information Technology

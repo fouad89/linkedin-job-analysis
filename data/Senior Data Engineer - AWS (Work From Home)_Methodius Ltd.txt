@@ -1,0 +1,43 @@
+Senior Data Engineer - AWS (Work From Home)
+Methodius Ltd
+Dublin, County Dublin, Ireland
+Posted by
+David Coyle 2nd
+Senior Recruitment Consultant at Methodius Ltd. david@methodius.com
+Send InMail
+My client is currently looking to hire an experienced Senior Data Engineer with Cloud experience. They build, deliver and manage a portfolio of data management platforms and mobile offerings in support of their core businesses. You’ll work in a dynamic high-growth environment and empowered to excel, take informed risks, and drive ingenuity across the enterprise.
+ Their MedTech products leverage big data to derive insights in support of clinical outcomes for patients and business outcomes for partners – a key component of their strategy. The Advanced Analytics team is responsible for leading the way in executing this. You’ll work with the data science and analyst teams to build the systems and capabilities to discover these insights and deliver them in impactful ways.
+
+You will partner with cross functional teams and work backwards from business requirements to deliver scalable solutions that enable self-service and accelerate the access to insights. The Lead Data Engineer will support architects, data analysts and data scientists on data initiatives and will ensure optimal data delivery architecture is consistent throughout ongoing projects. Reporting to the Manager of Data Engineering, you will play a key role of developing, constructing, testing and maintaining data on the AWS platform.
+
+The Job
+
+Build and/or lead the creation and maintenance of optimal data pipeline architectures. Stay abreast of industry trends and enable successful data solutions by leveraging best practices. Partnering effectively with stakeholders and business users. Participate and provide Proof of Concepts (POCs) to demonstrate proposed solutions. Enable team members in the data engineering space through training, culture, and team building. You’ll have a good understanding of a wide-variety of big data tools and technologies which you can implement to achieve target business outcomes. 
+Assemble large, complex data sets that meet functional / non-functional business requirements. Identify, design, and implement internal process improvements: automating manual processes, optimizing data delivery, re-designing infrastructure for greater scalability. Build the infrastructure required for optimal extraction, transformation, and loading of data from a wide variety of data sources using SQL and AWS ‘big data’ technologies.
+
+Build analytics tools that use the data pipeline to provide actionable insights into customer acquisition, operational efficiency and other key business performance metrics. Work with stakeholders including the Executive, Product, Data and Design teams to assist with data-related technical issues and support their data infrastructure needs. Keep company data separated and secure across national boundaries through multiple data centers and AWS regions. Create data tools for analytics and data scientist team members that assist them in building and optimizing their products into an innovative industry leader. Work with data and analytics experts to strive for greater functionality in their data systems. Participate in Code Review and process improvement 
+
+Experience
+
+Degree in IT or Computer Science or relevant field. 10+ years of relevant experience. AWS Certified Solutions Architect - Professional level is a plus. Advanced working SQL and python knowledge and experience. Experience building and optimizing ‘big data’ data pipelines, architectures and data sets, preferably on AWS data lake. Experience performing root cause analysis on internal and external data and processes to answer specific business questions and identify opportunities for improvement. Strong analytic skills related to working with unstructured datasets.
+Build processes supporting data transformation, data structures, metadata, dependency and workload management. Experience manipulating, processing and extracting value from large disconnected datasets. Working knowledge of message queuing, stream processing, and highly scalable ‘big data’ data stores. Actively handle escalated incidents to resolution and suggest solutions to limit future exposure.
+
+Good project management and organizational skills. Experience Leading, supporting and working with cross-functional teams.
+
+5+ years of experience in a Data Engineer role. Experience with big data tools: Hadoop, Spark, Kafka, etc. Experience with relational SQL and NoSQL databases and with data pipeline/workflow management tools: Azkaban, Luigi, Airflow or similar.
+
+Experience with AWS cloud services: Glue, Lambda, EMR, RDS or similar. Experience with stream-processing systems: Spark-Streaming, etc. Experience with object-oriented/object function scripting languages: Python, Scala etc
+
+Ability to work independently and to fit into an ever-expanding international company. Ability to demonstrate proactivity and strength of proposal. Good Organizational and negotiation skills and /written communication. Good analytical skills
+
+Permanent full time position in Sandyford, Dublin. The candidate can work remotely if wanted.
+Excellent salary. Benefits include; 15% Bonus, Pension Scheme, Health Insurance, Long Term Disability Plan, Life Assurance, 25 days Annual Leave plus additional Service Leave, Share options,  Continuous Training and Development, Educational Assistance and other. Family Friendly Working Policies - Teleworking. Excellent room for promotion and to learn,
+Please do not hesitate to Contact David Coyle at 01 6351748 or email david@methodius.com
+Seniority Level
+Mid-Senior level
+Industry
+Computer Software Information Technology & Services Information Services
+Employment Type
+Full-time
+Job Functions
+Information Technology Health Care Provider Analyst

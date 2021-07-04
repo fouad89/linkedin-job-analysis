@@ -1,0 +1,37 @@
+Software Engineer
+GemPool Recruitment
+Dublin City, County Dublin, Ireland
+GemPool is currently recruiting a Software Engineer - Back End for a client located around Dublin City Center. Our client has been in the Aesthetic industry for almost 20 years and has now been recognised as Europe's No 1 provider for laser hair removal treatment.
+Our client value collaboration over competition across production teams.They offer some options for working remotely but promote their office environment. To find out more, please get in touch with Sean Whelan, for a confidential conversation on 019052421 or email sean.whelan@gempool.ie.
+
+Ideal Candidate:
+The ideal candidate for this role will have a minimum of 3+ years of experience in Software Engineering who is cross functional with a good knowledge of multiple programming languages. 
+The ideal candidate will be working as part of a software engineering team that will be dedicated to research,experiment and of course propose new features and influence our product. You will be working closely with product managers, designers and test engineers. We are part of one team pushing forward to achieve the same goal. 
+
+Soft Skills:
+Team Driven
+Clear Communication skills
+Problem-Solver
+Time Management
+
+Technical Skills:
+Experience with Java and Scala or Kotlin
+Experience with certain infrastructures like CI/CD, DevOps, GitOps and Code.
+Certain familiarity with the Event driven Architecture paradigm.
+Experience in Cloud computing platform, API’s and Serverless Services.
+Having the ability to manipulate, transform and analyze data.
+Contribute to open source projects. 
+ Benefits:
+Private Health Care Cover.
+Matched Pension Contribution.
+Equipment provided: Macbook (or equivalent).
+ Please feel free to get in touch if you would like to learn more about this job opportunity.
+Contact Sean Whelan on 019052421 or email sean.whelan@gempool.ie
+Seniority Level
+Mid-Senior level
+Industry
+Information Technology & Services
+Employment Type
+Full-time
+Job Functions
+Information Technology

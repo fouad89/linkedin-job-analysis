@@ -1,0 +1,53 @@
+Software Engineer
+Intercom
+Dublin, County Dublin, Ireland
+Communication has changed for people. It’s changed for businesses, too.
+
+Intercom is the only suite of customer messaging products that drives growth at every stage of the customer lifecycle—across acquisition, engagement, and support. Today more than 30,000 businesses use Intercom to connect with a billion people worldwide.
+
+Join the company helping businesses grow revenue through live chat, and so much more.
+
+What's the opportunity? 🤔
+
+At Intercom, you will be a product engineer - someone who solves real customer problems through a smart and efficient application of your technical knowledge and your tools. You’ll be part of one of our multidisciplinary product teams, where you will build both back-end and front-end systems, and work closely with designers, product managers, researchers, and data analysts.
+
+Our growth rate is faster than almost every other Saas company, ever and we’ve recently announced a $125 million Series D investment round. We’re facing many exciting scaling challenges and we’re building a robust platform where your expertise can be applied to areas such as building a beautiful messenger composer, rule matching, deliverability, security, app availability and machine learning, to name a few.
+
+Learn more about our engineering culture at intercom.engineering
+
+What will I be doing? 🚀
+
+As An Experienced Engineer You Will
+Develop technical plans and contribute to our technical architecture as we scale our products to serve tens of millions of people every day.
+Write Ruby code, which knits together a lot of AWS, infrastructure, platform and SaaS technologies that form the core of Intercom’s backend infrastructure
+Ship a change to production on your first day and a feature in your first week. That “day one” change is automatically deployed to production along with 100 other deployments (on average) each weekday
+Grow your team’s capacity by mentoring other engineers and interviewing candidates. This is a chance to be an integral part of building and growing a team.
+What skills do I need? 📖
+2+ years of industry experience in a software engineering role, preferably building a SaaS product. You can demonstrate significant impact that your work has had on the product and/or the team.
+Deep knowledge of a high-level programming language (for example, Ruby, Python, Javascript etc.) but it doesn’t need to be a language that we use here! Great people are effective and learn what we use quickly (or introduce us to better ways of working)
+Experience collaborating directly with product teams and designers, and a proven track record of delivering value to customers or users. Engineers at Intercom are pragmatists who work closely with others on cross-disciplinary teams
+Experience with Distributed systems
+What happens when I apply? 🤓
+
+First, apply so we can review your CV :) As the next step, we will send you our take-home test to work on in your own time. You can find more details on the questions and how we evaluate answers here. The following step will be a phone interview with one of our engineers which will focus on technical and culture contribution questions (this step is sometimes broken down into 2 interviews). The final step is a virtual onsite interview.
+
+Benefits 😍
+
+We are a well treated bunch, with awesome benefits! If there’s something important to you that’s not on this list, talk to us! :)
+Competitive salary and equity in a fast-growing start-up
+We serve lunch every weekday, plus a variety of snack foods and a fully stocked kitchen
+Regular compensation reviews - we reward great work!
+Peace of mind with life assurance, as well as comprehensive health and dental insurance for you and your dependents
+Open vacation policy and flexible holidays so you can take time off when you need it
+Paid maternity leave, as well as 6 weeks paternity leave for fathers, to let you spend valuable time with your loved ones
+If you’re cycling, we’ve got you covered on the Cycle-to-Work Scheme. With secure bike storage too
+MacBooks are our standard, but we’re happy to get you whatever equipment helps you get your job done
+We are a diverse bunch of people and we want to continue to attract and retain a diverse range of people into our organisation. We're committed to an inclusive and diverse Intercom! We do not discriminate based on gender, ethnicity, sexual orientation, religion, civil or family status, age, disability, or race.
+Seniority Level
+Entry level
+Industry
+Marketing & Advertising Computer Software Internet
+Employment Type
+Full-time
+Job Functions
+Engineering Information Technology

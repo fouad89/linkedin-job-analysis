@@ -1,0 +1,42 @@
+Software Developer
+Uber
+Waterford, County Waterford, Ireland
+About The Role
+
+Collaborates with stakeholders within the team to build and maintain backend services and solutions to support user-facing products, downstream services, or infrastructure tools and platforms used across Uber.
+
+About The Team
+
+Uber Transit is the leading provider of intelligent transit solutions (ITS) spanning demand response, fixed route, payment, mobility, and on-demand transit solutions. We blend powerful technology and excellent service to equip transit agencies with the right tools to provide accessibility and mobility for every rider in their community. When everyone has access to transportation, individuals, communities, and societies thrive.
+
+We're inspiring change in the transit world with new and improved products and top-notch service. We're hiring energetic, positive professionals to contribute their talents and creativity to solutions that empower people to change their lives and get moving. Uber is a place where you can honestly say "my work matters".
+
+Core Competencies
+Technical Competency: Maintains and applies relevant knowledge to build and maintain backend services and solutions to support user-facing products, downstream services, or infrastructure tools and platforms used across Uber, which could include developing and maintaining large-scale multi-tenant services and/or customized solutions based on existing backend infrastructure; monitoring on-prem or cloud-hosted software and infrastructure operations and detecting outages/issues in network or server environments; identifying, analyzing, and resolving system availability, reliability, and performance issues. Learns and applies Uber standards, best practices, and industry standards to own work. Helps define Uber technical standards for the team.
+Coding: Writes high-quality code (i.e., reliable, readable, efficient, testable), provides quality code reviews, and creates comprehensive tests and quality documentation to solve moderately complex problems. This includes knowledge of data structures, algorithms, programming and associated programming languages and frameworks, and major phases/activities of the software research and development life cycle (e.g., requirements, design, build, experiment, test, debug, deploy, monitor). Monitors, reports, and ensures resolution of technical problems according to standards and best practices.
+Design & Architecture: Works with stakeholders to understand customer and/or business requirements. Applies knowledge of software design principles and methods and evaluates trade-offs of different architectural decisions to contribute to the translation of requirements into effective design documents.
+Efficiency & Being a Force Multiplier: Creates and promotes efficiency and speed within a team by leveraging and improving existing solutions. Proactively improves the performance and efficiency of own software and systems.
+Operational Execution: Executes well-defined technical projects and solutions with drive and appropriate sense of urgency to deliver technical and business impact. Plans, organizes, and manages their own tasks, resources, and timelines to accomplish work accurately and on time. Defines and diagnoses problems and determines an appropriate solution, recommendation, or decision while logically evaluating alternatives and factors (e.g., resources, costs, tradeoffs).
+Collaboration: Respects, listens to, and considers ideas/opinions of others from diverse backgrounds and experiences. Builds and maintains collaborative and trusting relationships with stakeholders within the team. Recognizes conflict or disputes among people and situations; seeks feedback and engages in open communication to resolve conflicts. Provides constructive and actionable feedback to others.
+Citizenship: Seeks out and actively participates in engineering excellence as well as culture-related activities. Contributes to the team’s health by improving documentation, and scripts. Onboards and mentors new team members, and helps to proactively shape and evolve the culture of the team.
+Minimum Qualifications
+Bachelor’s degree or equivalent in Computer Science, Engineering, Mathematics or related field OR 3+ years full-time Software Engineering work experience, WHICH INCLUDES 1-year total technical software engineering experience in one or more of the following areas:
+Go or other statically typed, compiled programming language
+Note the 1-year total of specialized software engineering experience may have been gained through education and full-time work experience, additional training, coursework, research, or similar (OR some combination of these). The year of specialized experience is not necessarily in addition to the years of Education & full-time work experience indicated.
+Preferred
+
+TECHNICAL SKILLS:
+Scalability engineering
+Distributed systems
+At Uber, we ignite opportunity by setting the world in motion. We take on big problems to help drivers, riders, delivery partners, and eaters get moving in more than 10,000 cities around the world.
+
+We welcome people from all backgrounds who seek the opportunity to help build a future where everyone and everything can move independently. If you have the curiosity, passion, and collaborative spirit, work with us, and let’s move the world forward, together.
+
+Uber is proud to be an Equal Opportunity/Affirmative Action employer. All qualified applicants will receive consideration for employment without regard to sex, gender identity, sexual orientation, race, color, religion, national origin, disability, protected Veteran status, age, or any other characteristic protected by law. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. If you have a disability or special need that requires accommodation, please let us know by completing this form.
+
+Industry
+Computer Software Consumer Services Information Technology & Services
+Employment Type
+Full-time
+Job Functions
+Engineering Information Technology

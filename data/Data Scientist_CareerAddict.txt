@@ -1,0 +1,28 @@
+Data Scientist
+CareerAddict
+Dublin, County Dublin, Ireland
+Data Scientist
+
+Contract
+
+Dublin
+
+My client, is currently looking for a Data Scientist for an initial 6 month contract. The Data Scientist will be reporting into the Analytics Manager.
+
+The Job
+
+Develop and maintain new and existing forecasting models for forecasting Developing new data sources, testing models enhancements, monitoring modelling performance Working with the data engineering platforms team to ensure best practices are applied Working across all aspects of the design, development and delivery of forecasting models.
+
+Have you?
+
+3+ years experience in an analytics role - dealing with large volumes of data. For example: consumer, transactional or operational data. Previous forecasting experience using R and Python for analysing data and building both statistical and machine learning models Experience using SQL for data extraction and feature development. Degree in maths, computer science, data
+
+This is an excellent opportunity to join an established organization at the forefront of innovation.
+Seniority Level
+Entry level
+Industry
+Information Technology & Services
+Employment Type
+Contract
+Job Functions
+Engineering Information Technology

@@ -1,0 +1,64 @@
+Software Engineer
+Hewlett Packard Enterprise
+Galway, County Galway, Ireland
+Hewlett Packard Enterprise advances the way people live and work. We bring together the brightest minds to create breakthrough technology solutions, helping our customers make their mark on the world.
+
+Our new innovative IT services organization is HPE Pointnext. We have the expertise to advise, integrate, and accelerate our customers’ outcomes from their digital transformation.
+
+At Hewlett Packard Enterprise (HPE), we put our customers first, we partner, innovate and act with uncompromising integrity. These values combine to help us to advance the way people live and work, by engineering experiences that unlock your full potential.
+
+Responsibilities
+Develops high quality software using agile techniques
+Provides technical leadership and contributes to the application architecture
+Drives technology and software development best practices into the team
+Works with the team, architects and the product owner to understand, estimate and refine the product backlog
+Participates in all Scrum ceremonies including planning, refinement and sprint demos
+Contributes to the Scrum team by providing ideas to improve product quality, process improvements, guidelines and standards
+Knowledge & Skills
+Strong understanding and working knowledge of core Java
+Strong Software Engineering skills – Design Patterns, Unit Testing, Refactoring, Code structuring.
+Good knowledge of relational databases
+Experience in developing web applications with JEE
+Web technologies such as AngularJS or JSF
+Experience with Web APIs (SOAP / REST) development and consumption
+Good knowledge about Integration Test concepts and tools (project uses Cucumber)
+Unit testing frameworks
+Strong verbal and written communication skills through English
+Strong analytical and problem solving skills; technical curiosity
+Self-motivated, accountable and having a sense of ownership; take pride in what you code
+Desirable (but Not Essential) Skills
+Software Build and Continuous Integration Tools (e.g. Jenkins, Maven, Sonar)
+Agile software development methodologies like Scrum , Kanban and SAFe
+Cucumber
+MS SQL Server Database
+MS Excel
+JMeter
+Software Test Automation experience.
+Ability to work as part of a globally distributed team
+Education And Experience
+Bachelor's or Master's degree in Computer Science or equivalent
+5+ years of related software development experience
+Join us and make your mark!
+
+We Offer
+A competitive salary and extensive social benefits
+Diverse and dynamic work environment
+Work-life balance and support for career development
+An amazing life inside the element! Want to know more about it?
+Then let’s stay connected!
+
+https://www.facebook.com/HPECareers
+
+https://twitter.com/HPE_Careers
+
+HPE is an Equal Employment Opportunity/ Veterans/Disabled/LGBT and Affirmative Action employer. We are committed to diversity and building a team that represents a variety of backgrounds, perspectives, and skills. We do not discriminate and all decisions we make are made on the basis of qualifications, merit, and business need. Our goal is to be one global diverse team that is representative of our customers, in an inclusive environment where we can continue to innovate and grow together.
+
+1083466
+
+HPE is an equal opportunity employer/Female/Minority/Individual with Disabilities/Protected Veteran Status
+Industry
+Information Technology & Services
+Employment Type
+Full-time
+Job Functions
+Engineering Information Technology

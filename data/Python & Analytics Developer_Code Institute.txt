@@ -1,0 +1,73 @@
+Python & Analytics Developer
+Code Institute
+Dublin, County Dublin, Ireland
+The Python & Analytics Developer will work as part of Code Institute's Engineering team and contribute to the development and maintenance efforts of all our internal and student-facing software systems, with the aim of promoting the most effective learning journeys for Code Institute's students. In particular, the Python & Analytics Developer will focus on continuously improving the infrastructure and systems used to analyse and provide insights on the learning journeys of students on Code Institute's platform, and take part in the software development lifecycle processes around that.
+
+The Python & Analytics Developer will report to the Director of Engineering and will work closely with the Learning Operations and Programme teams.
+
+Objectives
+
+Develop and Maintain the LMS, Data pipeline and other Software Systems
+
+Collaborate with other team members in gathering requirements for, architecting, prototyping, developing, maintaining and supporting business critical systems including our Open edX LMS, AMOS analytics platform and many other systems.
+
+Your main focus in this would be on the back-end and analytics components, including data pipelines, dashboards and business logic related to deriving actionable indicators from the data and presenting them to the students and other stakeholders, with the aim of improving student outcomes on the programme. In particular, this would include the productisation of Machine Learning models prototyped by our Data Scientist.
+
+Manage Software Development Lifecycle processes
+
+Collaborate with other team members in setting up and managing an effective continuous integration and delivery process, with the aim of improving our ability to consistently and reliably improve the value provided by our software systems and the data flowing therein. Put in place security measures to keep students' personal data safe.
+
+Support contributions from other developers
+
+Support the development efforts of other developers contributing to the above systems. Perform code reviews and mentor more junior developers in the company in regards to your areas of expertise.
+
+Participate in Programme content development
+
+Consult our Programme team in the creation and improvement of lessons related to your expertise and/or participate in creating student facing content yourself.
+
+Required
+5 years industry experience with web technologies.
+Strong Python skills centered on back-end web development, preferably with the Django framework.
+Experience in system design and being the technical owner/lead of a project.
+Industry experience with data analytics in a production environment.
+Fluency in both verbal and written technical English.
+Also very useful
+Experience with very large Django projects
+Experience with Docker.
+Experience with cloud-based architecture (we use AWS).
+Experience with CI/CD processes.
+Experience in DevOps processes and agile development.
+Experience with Machine Learning.
+Development experience with the open-edX project or similar Learning Management Systems
+Experience with front-end development using vanilla Javascript
+Experience in automating workflows
+
+Behaviors
+
+Effective time management and planning
+
+Maintain awareness of the different tasks that need to be performed and the priorities of each. Utilise your understanding of the value and technical difficulty of tasks to contribute to the project planning, both on a quarterly level and on the fortnightly sprint planning. Tackle tasks according to the priorities defined, and be able to switch between tasks effectively if and when these priorities change, maintaining the operational aspects in order, while continuously making progress on tasks with long-term value. When an important task might not be completed on time, flag and communicate it early to the stakeholder(s).
+
+Practicing and promoting collaboration
+
+Create an environment for honest and open discussion of all issues. Promote the use of own and others’ capabilities to other functions. Promote a team culture, recognizing the contributions of all team members.
+
+Effective communication
+
+Communicate in a clear and honest manner with colleagues and stakeholders. Demonstrate ability and willingness to teach others. Provide constructive, actionable feedback and guidance.
+
+Ownership and accountability
+
+Live up to commitments. Seek feedback from others on how to be more effective.
+
+Innovation
+
+Create an environment that encourages risk-taking and innovation. Support new ideas and initiatives offered by others. Drive key change initiatives to completion. Pursue challenging assignments that stretch and build capabilities.
+Seniority Level
+Entry level
+Industry
+Information Technology & Services Computer Software Internet
+Employment Type
+Full-time
+Job Functions
+Engineering Information Technology

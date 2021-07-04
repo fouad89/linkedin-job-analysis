@@ -1,0 +1,85 @@
+Data Analyst (Extract, Cleanse & Transform)
+Sandvik
+Dublin, County Dublin, Ireland
+DON’T BE IN THE DARK ABOUT YOUR CAREER…….
+
+WE WANT YOU TO HELP US CREATE THE DIGITAL FUTURE OF OUR COMPANY
+
+We are embarking on an eight year global Business Transformation programme enabled by SAP S/4HANA. This is a greenfield implementation for Sandvik, a large Swedish multinational group. Ireland has been chosen as the central hub location for this business digitalisation initiative which we call the “Seamless Flow Programme”. We will create a SAP Centre of Excellence (CoE) with responsibility to run the programme and manage the application thereafter.
+
+We are looking for exceptional people to join our multi-cultural team located in Dublin. This is a fantastic opportunity to create the digital future for our organisation using the very latest SAP technologies, creating sustainable business benefits and supporting the execution of Divisional strategies.
+
+As we are creating a new internal SAP competency, this presents a great opportunity for learning and career development in this full-time position.
+
+Sandvik is a global, high-tech engineering group, providing front-line products and services for the mining and construction industries. The Sandvik Group has been in operation since 1862 and today employs some 40,000 people, working in approximately 160 countries. Our diverse solutions delivered by our highly qualified and proficient employees enhance our customers’ productivity, safety and their profitability.
+
+We are now recruiting for a Data Analyst (P2) for a permanent role in our Dublin Office.
+
+JOB PURPOSE
+
+The Data Analyst will be responsible for supporting Sandvik’s S/4HANA transformation programme with design and technical execution of data migration ETL processes. The individual will be working in a team of Data Analysts responsible for securing efficiency and quality in data extraction routines from the source applications, conversion between data structures and secure data load into the SAP target application. The role will work closely with business analysts through testing cycles communicating error logs and supporting root cause analysis of load failures.
+
+The role requires technical experience of working with large data sets and typical data management tools used to manage extraction, cleansing, transformation and loading of these data sets. Excellent communication (verbal and written), teamwork, and organizational skills will also be critical to executing the role successfully.
+
+Main Responsibilities
+Work with the SAP functional teams to scope and analyse the data migration requirements, including analysis of source system data structures and quality
+Support the business in the cleansing of data in the source systems
+Implement the data migration framework as per data migration architecture using SAP Data Services (Enterprise edition) and SAP Migration Cockpit
+Design the Extract, Transform and Load routines maximizing the use of the technology to achieve a high degree of automation in a performant way
+Build, test, execute and manage the data migration routines
+Execute preload and post load data validation of migration results, handle error logs and advise on data cleansing requirements
+Support the functional teams with the data reconciliation process
+Perform migration rehearsals, migration cutover tasks and post go-live support
+Create technical specification documents by utilizing data migration experience and computer programming knowledge
+Develop ongoing data quality monitoring procedures and reporting in S/4HANA utilising SAP Information Steward
+Provide advisory services to the business to understand their data management issues and advising on appropriate data management strategies
+Other tasks as required by your line manager
+
+Your Profile
+
+You are a highly motivated, delivery focused self-starter with exceptional analytical and problem solving capabilities. You have a can-do attitude and thrive on working in a multi-cultural team. You have 3+ years of experience working in a similar role with participation in at least one full SAP implementation and data migration cycle. You have meticulous attention to detail and set high standards for the quality of your work. You are a good communicator and can collaborate effectively with business and functional team members. You have deep functional knowledge of SAP data structures, elements and concepts (ECC or S/4HANA). You have hands-on experience with SAP Data Services, SAP Migration Cockpit and SAP Information Steward. SAP functional knowledge across one or more modules is an advantage. You are educated to degree level or equivalent
+
+Training in S/4HANA and SAP Data Services will be provided to a candidate with a background in SAP ECC.
+
+Some international travel may be required.
+
+What We Offer
+22 days annual leave
+4 Company Days
+Defined Contribution Pension
+VHI Health Insurance
+Life & Disability Insurance
+Health & Wellbeing Initiatives – gym membership, wellbeing seminars, bike to work scheme
+Flexible start & Finish times
+
+Diversity, Inclusion & Sustainability
+
+Sandvik has a developed belief in conducting our business in a sustainable and responsible manner, both for our employees and the environment; wherever in the world we operate.
+
+Our high ethical standards determine our policy of putting Safety at a premium, acknowledging and respecting the communities and giving due consideration to the environment in the areas we operate.
+
+These core values, to prioritise the safety and well-being of our employees, are the foundation of how we work today. We also recognise the importance on inter-personal relationships and how those based on honesty, respect and trust, enhance our working lives and help each other’s growth and career development.
+
+Equality of opportunity is fully supported and endorsed as an employer by Sandvik, while also welcoming the additional strength that diversity brings, by providing a work environment where everyone is included, treated fairly and with respect.
+
+Location: Dublin, Ireland
+
+Reporting to: Reporting to: The Data Management Lead / SMRT IT Global Technical Services Manager
+
+How to apply? Interested in the challenge? Please apply directly via the Workday Employee Self Service with the reference [O/S]. For further information regarding the recruitment process contact HRIreland@Sandvik.com.
+
+Prior to this recruitment, we have already decided which advertising channels and marketing campaigns we wish to utilize, and we respectfully decline any contact from marketing or recruitment agencies regarding additional channels or campaigns.
+
+The closing date for applications is 20th July 2021
+
+Applicants must be eligible to work in the EU or hold a valid permit to work in the EU.
+
+Please click on Sandvik Home for more information about our company.
+Seniority Level
+Associate
+Industry
+Construction Mechanical Or Industrial Engineering Staffing & Recruiting
+Employment Type
+Full-time
+Job Functions
+Information Technology

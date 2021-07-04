@@ -1,0 +1,37 @@
+Software Developer
+Cisco
+Galway, County Galway, Ireland
+Tomorrow's world-class collaboration products are developed in-house at Cisco Galway, and we are now looking for someone to join our team. Are you a person who likes to get stuff done, enjoys exploring technology, and is always looking for ways to improve it? Do you enjoy writing code? Perhaps this is a role for you!
+
+We are a team of 200 Engineers in Galway and part of the larger Webex engineering group focused on Collaboration and empowering the world to work better. You will work on Webex Rooms, the world leader in Meeting Room experience, focused on intelligent video collaboration systems, bringing your meeting rooms to life.
+
+Cisco plays a crucial role in driving next generation software innovations including cloud, mobile, hardware, embedded, desktop and security spaces. From our offices in Oranmore, on the outskirts of Galway, you will create breathtaking collaboration products using bleeding edge technology in order to make it easier for people to connect.
+
+You will build applications that make technology accessible to people on a variety of devices. Imagine, design, and create solutions to transform how we work, live, learn and play. We use different programming languages for different use cases where C/C++ is primarily used, as well as Java and Python.
+
+As you will be embedded in one of our scrum teams, you are going to be in the middle of all of the exciting technology and ideas that are developed here. You will have close and everyday contact with software developers, product owners, UX designers, as well as other stakeholders – and therefore, good interpersonal skills are key for your success in the role.
+
+Our dream candidate has
+Relevant education (bachelor's or higher)
+Strong knowledge of C++
+4+ years of working experience in a similar role
+Having experience with UI frameworks is a benefit, preferably with Qt/QML.
+Possess creative problem solving skills and excellent troubleshooting skills
+An interest in product development and team dynamics
+An urge for continuous product and process improvement
+Great interpersonal skills
+A knowledge-sharing mentality
+A willingness to learn and adapt
+Your opportunities – why Cisco
+At Cisco Webex Devices you can have your cake and eat it too. You will get the creative vigor of a medium-sized company with close colleagues and proximity to the decision-makers. At the same time, you will have access to the resources of one the largest technology companies in the world.
+
+You will join the Webex Rooms team, known for exciting, fast-paced, innovative and agile engineering culture. We offer a competitive combination of compensation and benefits including five days to dedicate to volunteer work, a day off on your birthday, good pension benefits, insurances and, of course, joining Cisco Ireland which has just been voted Irelands Best Place to Work 2021 for Large Business, and Best Workplaces for Women 2021.
+
+Have a closer look at the products we have developed in Galway as part of the Webex Rooms Family
+
+Industry
+Computer Hardware Computer Software Computer Networking
+Employment Type
+Full-time
+Job Functions
+Engineering Information Technology

@@ -1,0 +1,103 @@
+Data Scientist
+Fiserv
+County Tipperary, Ireland
+Posted by
+Philip Gale
+IT Recruitment Consultant at CPL
+Send InMail
+Data Scientist
+Our client, a global provider of financial services technology, who are going through an exciting phase of expansion are now looking for a Data Scientist to join the team in Tipperary.
+The Data Scientist is a technical expert with deep statistics knowledge who will contribute to the design and implementation of high performance analytics solutions across our Big Data analytics landscape.
+
+What you will be doing:
+•Contribute to the design the next generation analytics platform and services that will support a
+range of future data driven products.
+
+•Use advanced statistics to deliver accurate measures of the performance of AI in complex systems
+
+•Collaborate with data scientists, developers and product teams to design, building and optimize
+innovative new products and services.
+
+•Develop and optimize classifiers and recommenders using machi
+ne learning techniques, including feature engineering
+
+•Conduct testing and evaluation of models and approaches, suggesting improvements and
+optimizations as well as exploring alternative approaches.
+
+•Enrich local data with third party sources where available
+
+•Apply best practice data governance, and ensure data is secured in all times and manners.
+
+•Process, clean, and verify the integrity of data used for analysis
+
+•Carry out ad-hoc analysis and presenting results in a clear manner
+
+•Define ways of working so that
+complex algorithms developed by data science teams can be effectively productionised.
+
+•Initiate and follow through on complex projects of both short and long term duration required
+
+•Work directly with enterprise systems engineering and architects for integration and consolidation.
+
+•Collaborate within the broader organization on both a technology and business level.
+
+•Support keeping teams current with technological developments within the industry
+
+•Provide knowledge transfer associates across the organization
+
+•Collaborate with others and work as part of a team
+
+•Be a role model in terms of behaviours and actions that will proactively and positively support the
+culture that we are building.
+
+Knowledge & Skills:
+
+•Bachelor’s Degree in mathematics, engineering, computer science, physics or related discipline.
+
+•Master’s or PhD in statistics or other mathematical discipline would be an advantage
+
+•The Data Scientist must a have strong understanding and previous hands-on working knowledge
+within a large enterprise environment with similar technology landscape as outlined below.
+
+•Excellent oral, written, analytical, problem solving, governance and presentation skills
+
+•Able to quickly assess new projects, propose high level solutions, understand project complexity &
+risks and map required capabilities.
+
+•Strong knowledge of fintech and payments industry would be a distinct advantage
+
+•Knowledge of software development processes and programming –Python and/or R
+
+•Proficient in relational databases and SQL query development and
+data manipulation
+
+•Experience with Python data science stack including sci-kit learn, pandas, numpy and tensorflow
+frameworks and libraries
+
+Desired experience:
+At least 3 years’ experience working in a technology organisation
+
+•At least 2 years’ experience with advanced statistics.
+
+•Experience of working in high trust, high performing diverse technical teams with a people first
+mind-set and focus on a positive company culture
+
+•Experience with processing and storage of large, complex data sets to satisfy functional and technical business requirements
+
+•Experience of working with teams operating in an Agile environment
+
+•Experience with Business intelligence software platforms –Tableau, PowerBI, Qlik
+
+•Experience with Integration of data science solutions into production systems, with appreciation for scalability and robustness of proposed approaches
+
+•Experience with Big Data tools such as Hive, Impala, PySpark, Hadoop
+
+•Appreciation of technical security as it applies to data
+Seniority Level
+Mid-Senior level
+Industry
+Information Technology & Services
+Employment Type
+Full-time
+Job Functions
+Engineering Information Technology

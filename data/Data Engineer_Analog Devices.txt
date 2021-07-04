@@ -1,0 +1,46 @@
+Data Engineer
+Analog Devices
+Limerick, County Limerick, Ireland
+Analog Devices (NASDAQ: ADI) designs and manufactures semiconductor products and solutions. We enable our customers to interpret the world around us by intelligently bridging the physical and digital worlds with unmatched technologies that sense, measure and connect.
+
+Data Scientist – Digital Platforms
+
+The newly formed Digital Platform team requires an experienced Data Scientist to work on an exciting new project. In this role you will deliver insights and smart customer experiences leveraging AI, ML and NLP. You will oversee the data infrastructure of this new digital platform to drive rich analytics and achieve profitable revenue growth. You will also set the process and standards of data collection, storage and usage.
+
+This position requires the ability to navigate technical themes, be and excellent communicator and have a consistent track record of delivery. We are looking for a highly motivated individual who is looking to grow their career in a fast-paced environment.
+
+Responsibilities
+Drive a strategy to leverage new opportunities to apply machine learning and computational techniques to improve our sales, marketing, and business results
+Work with the development team to develop smart solutions for our customers; from smart support to product selection.
+Apply a wide array of advanced data mining techniques (including supervised and unsupervised methods, NLP, and social network analysis methods) in support of research and operational analytic projects
+Identify and implement internal process improvements: automating manual processes, optimizing data delivery, re-designing infrastructure for greater scalability, etc.
+Develop proper control of the data to allow for versioning management, tracking against actuals and gap analysis
+Integrate data from multiple disparate systems using APIs, Webhooks, JSON, REST, SOAP, SFTP, etc.
+Work with 3rd parties integrations to enhance the capability of the platform.
+Develop processes and tools to perform data analysis, monitor and remediate data quality issues with closed feedback loop
+Work with different functional team to assist with data-related technical issues and support their data infrastructure needs.
+Desired Qualifications
+Bachelor or Master’s degree in Physics, Math, Computer Science, Statistics, or related field, plus 3+ years of related work experience
+3+ years of industry experience with a proven track record of delivery.
+Strong experience with programming language, such as SAS, Python and/or R
+Experience integrating third party APIs & Web services and solid programming background.
+General Data Science knowledge (basic AI + Machine learning concepts)
+Strong understanding and experience with Cloud Storage infrastructure, and operationalizing storage services & solutions (Designing and implementing data solution in AWS, Azure or Google Cloud will be plus)
+Demonstrated business and strategy acumen
+Must be able to learn quickly, think independently, and thrive in a fast-paced environment
+Familiar with No SQL databases (i.e. MongoDB, Hadoop, Hive Spark, etc.), data streaming and integrating unstructured data will be plus.
+Strong technical communication skills and ability to engage a variety of business and technical audiences explaining features, metrics of Big Data technologies
+Must be eager to learn new tools and technologies
+For positions requiring access to technical data, Analog Devices, Inc. may have to obtain export licensing approval from the U.S. Department of Commerce - Bureau of Industry and Security and/or the U.S. Department of State - Directorate of Defense Trade Controls. As such, applicants for this position – except US Citizens, US Permanent Residents, and protected individuals as defined by 8 U.S.C. 1324b(a)(3) – may have to go through an export licensing review process.
+
+Analog Devices, Inc. is an Equal Opportunity Employer Minorities/Females/Vet/Disability
+
+Education Level: Bachelor's Degree
+Travel Required: Yes, 10% of the Time
+
+Industry
+Electrical & Electronic Manufacturing Semiconductors
+Employment Type
+Full-time
+Job Functions
+Information Technology

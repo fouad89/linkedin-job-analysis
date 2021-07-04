@@ -1,0 +1,35 @@
+Data Scientist
+Cpl
+Tipperary, County Tipperary, Ireland
+Data Scientist
+
+Reporting into the EMEA lead for Strategy & Data Science, the Data Scientist will have demonstrable experience in data analysis & strategy and will ensure the EMEA business has a robust data driven business strategy.
+
+Key Responsibilities, But Not Limited To
+Work closely with business leads to identify issues and use data to propose solutions for effective decision making.
+Business lead for data driven projects to build EMEA in-house data lake encompassing of all key metrics across all business verticals.
+Build algorithms and design experiments to merge, manage, interrogate and extract data to supply tailored reports to senior management or the wider organisation.
+Create clear reports that tell compelling stories about how customers or clients work with the business.
+Assess the effectiveness of data sources and data-gathering techniques and improve data collection methods.
+Use machine learning tools and statistical techniques to produce solutions to problems
+Stay curious and enthusiastic about using algorithms to solve problems and enthuse others to see the benefit of your work.
+Skills/Experience
+Excellent analytical and problem-solving skills.
+Experience in database interrogation and analysis tools, such as Hadoop, SQL and Snowflake.
+Experience in data visualisation tools, such as Power BI, Qlik Sense, Tableau and Sigma.
+Exceptional communication and presentation skills in order to explain your work to people who don't understand the mechanics behind data analysis.
+Effective listening skills in order to understand the requirements of the business.
+Drive and the resilience to try new ideas if the first one doesn't work - you'll be expected to work with minimal supervision, so it's important that you're able to motivate yourself.
+Planning, time management and organisational skills.
+The ability to deliver under pressure and to tight deadlines.
+Great attention to detail.
+Teamworking skills and a collaborative approach to sharing ideas and finding solutions.
+For more details contact Fiona at fiona.kealey@cpl.ie
+Seniority Level
+Entry level
+Industry
+Staffing & Recruiting Financial Services Hospital & Health Care
+Employment Type
+Full-time
+Job Functions
+Engineering Information Technology

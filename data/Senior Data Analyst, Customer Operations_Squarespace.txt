@@ -1,0 +1,54 @@
+Senior Data Analyst, Customer Operations
+Squarespace
+Dublin, County Dublin, Ireland
+At Squarespace, Customer Operations empowers users via scalable self-help tools, personalized support and customer advocacy. As a Senior Data Analyst, you will develop insights and reports to support our customers and advisors' needs. You will work with the Customer Operations leadership team to set KPIs, build dashboards, unlock insights to improve our product, and evaluate the effectiveness of current strategies and workflows. You will also work closely with the Product and Data Engineering teams to help shape our data infrastructure and drive the business forward.
+
+You will be based in our Dublin office and report to the Manager of Insights & Analytics, Customer Operations.
+
+All Squarespace employees are working remotely at this time. We are closely monitoring the status of COVID-19 as we continue our work to build a return-to-work plan that ensures a safe return to our offices and provides flexibility for our employees.
+
+Responsibilities
+Develop KPIs, reports, and dashboards using BI/data visualization tools
+Perform and communicate impactful analyses, using SQL and R/Python to improve the customer experience and influence Customer Operations and Product roadmap
+Raise the skill level of the analytics team through reviewing code, organizing training sessions, and introducing new methods and tools
+Analyze text conversations to uncover opportunities to improve conversion and satisfaction
+Partner with the Customer Operations and Product teams
+Partner with the Data Engineering team in pursuit of better data modeling and data quality
+
+
+Qualifications
+4 + years of experience as a data analyst, data scientist, or in a relevant field
+Hands-on experience working with large datasets to transform data to meaningful insights
+Mastery of SQL, and experience with R/Python
+Experience with dashboarding/BI tools like Chartio, Looker, Tableau
+Experience with data cleaning, analysis, and presentation to non-technical partners
+Bachelor's degree in a quantitative or logic-driven discipline
+Preferred: Advanced degree (Master’s or PhD) in quantitative field
+Preferred: Experience with topic modeling and text analytics
+
+
+About Squarespace
+
+Squarespace makes beautiful products to help people with creative ideas succeed. By blending elegant design and sophisticated engineering, we empower millions of people — from individuals and local artists to entrepreneurs shaping the world’s most iconic businesses — to share their stories with the world. Squarespace’s team of more than 1,200 is headquartered in downtown New York City, with offices in Dublin and Portland. For more information, visit www.squarespace.com/about.
+
+Benefits & Perks
+Health insurance with 100% premium covered for you and your dependent children
+Flexible vacation & paid time off
+Up to 20 weeks of paid family leave
+Equity plan for all employees
+Retirement benefits with employer match
+Fertility and adoption benefits
+Free lunch and snacks at all offices
+Education reimbursement
+Dog-friendly workplace in New York office
+Commuter benefit in the form of reduced tax (Ireland) and pretax (US)
+
+Today, more than a million people around the globe use Squarespace to share different perspectives and experiences with the world. Not only do we embrace and celebrate the diversity of our customer base, but we also strive for the same in our employees. At Squarespace, we are committed to equal employment opportunity regardless of race, color, ethnicity, ancestry, religion, national origin, gender, sex, gender identity or expression, sexual orientation, age, citizenship, marital or parental status, disability, veteran status, or other class protected by applicable law. We are proud to be an equal opportunity workplace.
+Seniority Level
+Mid-Senior level
+Industry
+Computer Software Internet
+Employment Type
+Full-time
+Job Functions
+Customer Service

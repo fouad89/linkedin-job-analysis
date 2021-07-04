@@ -1,0 +1,38 @@
+Senior Data Scientist
+Alldus
+Dublin, County Dublin, Ireland
+Posted by
+Anthony Heaphy 2nd
+Co-Organizer at Ai in Action | Data and AI Recruiter | Helping Leaders connect with the Top talent in Data Analytics and Artificial Intelligence | Germany | Ireland
+Send InMail
+Senior Data Scientist
+HealthTech
+Dublin, Ireland
+
+*please note , due to internal restrictions , visa's cannot be issued right now and only Stamp 4 or EU passport holders will be eligible for shortlisting*
+
+About the company:
+A start up in healthcare who builds meaningful solutions that impact peoples lives. They are helping to reduce risk to peoples health by using data and machine learning to help recommend data driven decisions , over all improving a major part of your everyday life.
+
+Responsibilities:
+End to end development of Machine Learning product and features to help improve their over all portfolio of solutions using the latest techniques in machine learning
+Work with a cross functional team to deliver scalable solutions 
+Use your Machine Learning , Statistics and Analytics skills to deep dive on data , recognize patterns , find the causation and inference of those patterns on complex data sets. 
+Work on adhoc tasks for product support like delivering insights
+Work on areas like user behaviour and content generation ( NLP ) on a variety of data sets
+
+Requirements:
+Min of 3+ years experience developing and deploying machine learning solutions that have added tangible impact.
+Min of a Msc in Statistics , Maths , Computer Science or similar quant area
+Experienced using Python and SQL over the last 3-5 years
+Experience with big data tools like Spark and MLOps like CI/CD , Docker etc
+
+For more information please feel free to contact me at anthonyh@alldus.com
+Seniority Level
+Mid-Senior level
+Industry
+Information Technology & Services Computer Software Health, Wellness & Fitness
+Employment Type
+Full-time
+Job Functions
+Information Technology Engineering

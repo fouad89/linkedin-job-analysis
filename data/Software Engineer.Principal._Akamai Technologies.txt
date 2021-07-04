@@ -1,0 +1,63 @@
+Software Engineer.Principal.
+Akamai Technologies
+Dublin, County Dublin, Ireland
+Job Description
+
+Do you enjoy working on complex Big Data problems?
+
+Would developing the next generation of Akamai cloud technologies excite you?
+
+Join our Analytics Team
+
+The Team develops and supports the big-data systems that power the rich reporting and deep insight capabilities of Akamais global analytics platform. Our systems use the latest technologies to provide operational as well as customer-focussed analytics capabilities, at global-scale. This is a great opportunity to be at the bleeding edge in a recognised industry leader.
+
+Shape the future of our cutting-edge products
+
+You will be developing software that powers our cloud-native analytics platform. You will work with product management, architecture, quality assurance, and support teams throughout the software lifecycle. You will be self-motivated and bring practical and demonstrable experience with Big Data systems (e.g. Hadoop (EMR/Cloudera/Hortonworks/Databricks), NoSQL, Spark, Nifi, Hive, Kafka, Oozie, Elasticsearch, Tableau, Power BI etc). You will develop new services and capabilities that internal teams and our customers will rely on.
+
+As a Senior Software Engineer in the Analytics team you will be responsible for-
+Developing and supporting new services, from ideation to rollout, including Data Modelling and Design, Implementation and Deployment.
+Developing and supporting data pipelines using tools including Oozie, Hive, Spark, Kafka, Nifi, DynamoDB.
+Writing complex SQL and Hive queries. Developing and supporting batch Spark & Hive-based jobs.
+Collaborating and potentially leading integration of external data sources into our platform as required.
+Do What You Love
+
+To be successful in this role you will-
+Have demonstrable experience with Big Data stacks and Distributed Systems in production.
+Be proficient in Java, Scala, SQL and script programming.
+Have experience with SQL and NoSQL databases such as MySQL, DynamoDB, Cassandra, HBase, Elasticsearch.
+Be comfortable in AWS - working with technologies such as EMR, Athena, S3, Lambda. Familiarity with Docker and/or Kuberbetes is desirable.
+Be self-motivated, enjoy challenges and solving complex problems on a daily basis.
+Work in a way that works for you
+
+We recognize that everyone is different and that the way in which people want to work and deliver at their best is different for everyone too. In this role, we can offer the following flexible working patterns-
+
+We are happy to discuss flexible working options in this role, please discuss your requirements with the recruiter when you apply.
+
+Working with us
+
+At Akamai, were curious, innovative, collaborative and tenacious. We celebrate diversity of thought and we hold an unwavering belief that we can make a meaningful difference. Our teams use their global perspectives to put customers at the forefront of everything they do, so if you are people-centric, youll thrive here.
+
+Working for you
+
+At Akamai, we will provide you with opportunities to grow, flourish, and achieve great things. Our benefit options are designed to meet your individual needs for today and in the future. We provide benefits surrounding all aspects of your life-
+Your health
+Your finances
+Your family
+Your time at work
+Your time pursuing other endeavors
+Our benefit plan options are designed to meet your individual needs and budget, both today and in the future.
+
+About Us
+
+Innovating on a global scale, we deliver our customers a fast, smart and secure intelligent edge platform. Working against a backdrop of digital collaboration, our highly skilled teams build progressive solutions that have the scope to transform entertainment, business, and life in ways that we have yet to imagine.
+
+Join us
+
+Are you seeking an opportunity to make a real difference in a company with a global reach and exciting services and clients? Come join us and grow with a team of people who will energize and inspire you!
+Industry
+Computer Networking Computer Software Internet
+Employment Type
+Full-time
+Job Functions
+Engineering Information Technology

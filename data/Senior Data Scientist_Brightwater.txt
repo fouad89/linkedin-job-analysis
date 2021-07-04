@@ -1,0 +1,42 @@
+Senior Data Scientist
+Brightwater
+Dublin, County Dublin, Ireland
+Posted by
+John Howe 2nd
+Manager - Data Science & Analytics at Brightwater
+Send InMail
+Salary: €75,000-€85,000
+Bonus: 10%
+
+Description
+My client is a global supply chain technology company and they are looking to hire a Senior Data Engineer to join the Research and Development team.
+ PURPOSE
+The person will be involved as part of a team in creating and executing an overall data strategy for the organization. The ideal candidate will be adept at using data sets to find opportunities to enhance the product capabilities. They will be responsible for finding trends in data sets and developing algorithms to help make raw data more useful to the organisation and its customers. As a Data Engineer the individual will be required to design, develop, and deploy data related solutions for the business and share the results with stakeholders.
+
+This candidate will be required to work under pressure to meet tight deadlines and will need to work with other teams in the organisation to help meet the needs of our customers.
+
+Responsibilities 
+Work with stakeholders to determine how to use business data for valuable business solutions
+Use predictive models to improve customer experience, product functionality and revenue generation
+Manipulate large data sets and use them to identify trends and reach meaningful conclusions to inform strategic business decisions
+Set up and maintain the data infrastructures that support business information systems and applications
+Provide training and backup to our Service Delivery and Customer project teams who will support our customer base
+Actively participate with the wider teams in the organisation (e.g. Management, Sales, Marketing, R&D and Services) to build out the data strategy
+  SKILLSETS/COMPETENCIES
+Bachelor's degree in mathematics, statistics, engineering, computer science or a related discipline
+Proven experience as a Data Engineer
+Experience in building Data Lakes and Data Warehouses
+Familiarity and experience working with unstructured data that comes from different channels and source
+Ability to write robust code (e.g. Python, Java and R) would be desirable
+Knowledge of databases (e.g. ORACLE, SQL SERVER, Cassandra, MariaDB) and PL/SQL would be advantageous
+Knowledge of the Supply Chain/Logistics industry would be beneficial
+Experience of building and applying machine learning techniques and predictive modelling algorithms to business problems.
+Knowledge of Machine Learning techniques, including decision tree learning, clustering, artificial neural networks, linear regression etc., and their pros and cons
+  Seniority Level
+Mid-Senior level
+Industry
+Logistics & Supply Chain
+Employment Type
+Full-time
+Job Functions
+Information Technology

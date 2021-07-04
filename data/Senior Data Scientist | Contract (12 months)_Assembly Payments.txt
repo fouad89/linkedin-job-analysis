@@ -1,0 +1,70 @@
+Senior Data Scientist | Contract (12 months)
+Assembly Payments
+Dublin, County Dublin, Ireland
+Posted by
+Nicolas J. 2nd
+Hiring Top Talent @Assembly Payments
+Send InMail
+Position Title: Senior Data Scientist
+Reporting Line: Chief Marketing Officer
+Contract Type: Contract (12 months) 
+Location: Ideally Dublin, Ireland, yet remote location is possible
+Starting Date: ASAP
+
+About Assembly Payments and CurrencyFair
+
+Assembly Payments is one of the fastest growing FinTechs with a presence in Australia, Singapore, the Philippines and the US. We help our customers build automated payment workflows & payment gateways through APIs, pushing the boundaries of what’s possible & reducing the complexity of running both classic and digital-native businesses. 
+
+We recently announced our merger with Currency Fair, a global cross-border payments platform which allows individuals and SMEs to manage their international payments through a digital self-service account, with offices in Ireland, UK, Hong-Kong, Singapore & Australia. 
+
+Our combined structure of 170 people, now plans to expand our presence across APAC, Europe, the Middle-East, and the US. We are therefore looking for skilled, motivated & passionate people who want to be part of the next generation of global payments.
+
+The Marketing Team
+
+The marketing team has the exciting job of bringing the Assembly Payments and CurrencyFair brands to the world. We are a smart, fun and dynamic team of content marketers, product marketers, digital marketers, inbound marketers and marketing operation whizes. Our valued customers are global consumers and businesses and we take great care to ensure that their experience with us is exceptional. But we don’t do this alone, we work very closely with our friends and colleagues in Product, Compliance, Customer Experience and other departments to build and refine a truly superb customer journey. 
+
+About The Role
+This is a role in the business intelligence function helping to deliver insights that contribute to the operational, tactical and strategic decision making across the company. 
+
+Key Responsibilities
+
+Provide actionable insights to the business, in particular Marketing and Sales, enabling the company to better understand, target, and grow our customer base. 
+Maintain data models, reporting systems, data automation systems, dashboards and performance metrics, using SQL, Python and Tableau, that support key business decisions and maximise efficiencies for the Data Team and wider company.
+Communicate results and business impacts to stakeholders across the business including but not limited to sales, marketing, compliance, operations and finance.
+Utilise analytical expertise and industry knowledge to proactively seek out areas for improvement within the business. 
+
+Mandatory Skills & Experience
+
+Minimum 5 years of relevant experience in a fast pace environment 
+Strong knowledge of SQL, and working knowledge of Python 
+Experience with data visualisation tools, e.g. Tableau  
+Expertise with fundamental statistical analysis
+Ability to solve problems using data and clearly communicate the results
+Strong ability to multi-task / balance conflicting priorities and work with tight deadlines.
+
+Ideal Additional Skills & Experience
+
+Experience working with AWS EC2 Linux instances 
+Experience working in a scaling startup environment
+Former Fintech experience (FX/PaaS/API Gateways)
+
+In return Assembly and CurrencyFair are offering
+
+Global market exposure in an agile & flat organization where your ideas and contributions will have strong impacts on the company’s growth and success
+A company culture with an innovative, inclusive & collaborative mindset where you will learn something new everyday, alongside amazing professionals 
+A fun and flexible work environment. Work remotely or in our creative and vibrant offices in Melbourne, Sydney, Singapore, Hong Kong, Dublin, India and Manila
+Competitive salary packages & benefits while ensuring constant professional development with your line manager & our L&D programs
+
+Additional information
+
+Assembly and CurrencyFair are equal opportunity employers committed to creating a diverse environment for its workforce. All qualified applicants will receive consideration without bias to education, race, religion, gender, gender identity or expression, sexual orientation, national origin, genetics, disability or age.
+
+Learn more about us visit our website www.assemblypayments.com and www.currencyfair.com.
+Seniority Level
+Mid-Senior level
+Industry
+Internet Financial Services Information Technology & Services
+Employment Type
+Contract
+Job Functions
+Analyst Consulting Marketing

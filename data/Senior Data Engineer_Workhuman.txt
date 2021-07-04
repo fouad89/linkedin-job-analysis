@@ -1,0 +1,78 @@
+Senior Data Engineer
+Workhuman
+Dublin, County Dublin, Ireland
+Job Description
+
+The Opportunity:
+
+We are making the world of work more human. Through our product capabilities, our customers are boosting employee engagement, building more inclusive and connected workforces, and increasing performance & retention.
+
+Our Human Engagement team uses a data-informed approach to drive product adoption. They enable all product teams to deliver user communications, in-app guidance, in the right context, when users need it most. Our customers are seeing significant uplift on engagement as a result of the work the team are doing.
+
+We are looking for an experienced Senior Data Engineer. How would you like to put your experience to good use, applying your skills to build a product that will have a direct impact on people’s lives by enabling them to feel included and valued? One of the benefits of working on this team is that results of our work are measurable, and we can see tangible proof of the impact of our work.
+
+We operate in a highly collaborative environment, where multi-disciplined people come together to make things happen. Working within an agile, highly collaborative team, you will contribute to value that is released quickly and continuously into our user community’s hands.
+
+We are a purpose driven organization making the world of work more human. Our environment is based on a culture of recognition, celebration, and conversations. Our people are our greatest assets. We celebrate them. We thank them. We support their growth and development.
+
+If this sounds like your kind of thing, apply today! We would love to give you a bit more context around who we are & what we are building!
+
+Our Tech stack:
+
+AWS, Java, Python, React, Fargate , ActiveMQ, Oracle/PostgreSQL/Redshift.
+
+We are interested in you because you want to build applications that deliver business value, are continuously learning, curious and committed to building great software.
+
+
+
+The Value You Will Deliver
+You will drive the strategy and technology to provide user data throughout our engagement tech stack.
+You will be responsible for ingesting data into our data lake and provide frameworks and services for operating on that data.
+You will build data pipelines and dataflows
+You will work with other technology teams to extract, transform, and load data from a wide variety of data sources using SQL and AWS big data technologies.
+You will develop and implement processes to ensure data accuracy and integrity.
+You will work closely with architects, engineers, and product owners to ensure that the product being built is of the highest quality and meets the needs of the customer.
+You will collaborate closely and communicate well with our cloud infrastructure team on shared items of work.
+
+The Skills You Will Bring
+5+ years of industry experience in in software development, data engineering, business intelligence, data science, or related field.
+A track record of manipulating, processing, and extracting value from large datasets.
+Strong hands-on experience with data processing tools/platforms/languages such as (Py)Spark, SQL, Hadoop etc.
+You have an innovative mindset and hands-on experience with AWS services such as Elastic MapReduce, Glue, S3 etc.
+Redshift , Kafka and Kinesis knowledge and experience is a plus.
+Hands-on software development experience
+Experience in performing data quality analysis, and presentation of findings, to key stakeholders.
+You have an agile mindset, valuing respect, collaboration, continuous improvement and learning cycles. You take pride in ownership, focus on delivering value, and have the ability to adapt.
+You have good communication and stake-holder engagement skills.
+
+Benefits
+25 days annual leave, increasing with years of service
+Company plan VHI Health Care & Dental cover for employee and dependencies
+A Pension commencing after probation period
+Participation in Workhuman’s employee recognition programs
+Discounted gift certificates
+Discounted TaxSaver Travel cards/free car parking (subject to availability)
+Income Protection
+Life Assurance
+Access to our Tuition Reimbursement Scheme
+Access to Workhuman University
+Additional ‘perks’ - Free breakfast cereal, fruit, tea/coffee, fantastic catered events and wellness activities throughout the year etc.
+
+Check out our careers page to find out more about #LifeatWorkhuman
+
+Did You Know
+We have an award winning culture, we were named as #2 Great Place to Work in Ireland in 2021 large-sized workplace, up from #4 in 2020 in the same category having previously placed #1 in the medium-sized workplace category in 2019. We are also recognised as one of Irelands Best Workplaces for Women by Great Place to Work in both 2021 and 2020.
+There are currently over 5 million users on Workhuman® across 160 countries.
+In 2020 Workhuman became only the third Irish founded company to achieve Unicorn Status .
+Our core values are; Respect, Determination, Innovation and Imagination.
+At Workhuman, we love what we do because we’re shaping the future of work through our people and our technology. Our human cloud-based applications are helping some of the world’s leading global brands connect culture to shared purpose. The Workhuman Cloud empowers employees to thank, talk and celebrate each other, creating an environment that sparks gratitude and human connection while increasing employee engagement and productivity.
+
+Workhuman is an Equal Opportunity Employer and is committed to the principle of equal employment opportunity for all employees. We proudly provide a work environment free of discrimination and harassment. Employment decisions at Workhuman are based on solely on business needs, job requirements and individual qualifications, without regard to race, color, religion or belief, national, social or ethnic origin, sex (including pregnancy), age, sexual orientation, gender identity and/or expression, marital, civil union or domestic partnership status, past or present military service, or any other status protected by the laws or regulations in the locations where we operate. Workhuman believes that diversity and inclusion among our teammates is critical to our success as a global company, and we seek to recruit, develop and retain the most talented people from a diverse candidate pool.
+Seniority Level
+Associate
+Industry
+Marketing & Advertising Information Technology & Services Computer Software
+Employment Type
+Full-time
+Job Functions
+Information Technology

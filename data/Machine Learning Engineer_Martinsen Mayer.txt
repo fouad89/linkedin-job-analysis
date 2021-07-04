@@ -1,0 +1,27 @@
+Machine Learning Engineer
+Martinsen Mayer
+Dublin, County Dublin, Ireland
+We are working with one of the most advanced Data companies in Ireland who are looking to add a Machine Learning Engineer to their team –
+
+Our client has been through Series A funding and is on their growth journey
+
+If you want to work with complex, large-scale engineering problems with millions upon millions of data points and pieces of content then this role is for you!
+
+Our client is looking for a Machine learning engineer who has worked on a variety of complex and diverse tasks and someone who focuses on finding the best tool for every problem.
+
+Requirements
+
+Key aspects -
+Knowledge of the scientific Python stack
+Ability to write robust code in Python
+Knowledge of machine learning foundations and experience with its applications
+Relevant experience in Natural Language Processing.
+Infrastructure is based on Docker and Kubernetes and is defined by Terraform
+Seniority Level
+Mid-Senior level
+Industry
+Information Technology & Services Computer Software Financial Services
+Employment Type
+Full-time
+Job Functions
+Information Technology

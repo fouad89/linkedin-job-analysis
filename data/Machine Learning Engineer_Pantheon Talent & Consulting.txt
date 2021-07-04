@@ -1,0 +1,31 @@
+Machine Learning Engineer
+Pantheon Talent & Consulting
+Ireland
+Posted by
+Keith McClelland 😎☀️ 2nd
+Client Centric Technology Recruitment Evangelist & Solutions Guy at Pantheon Talent & Consulting
+Send InMail
+Pantheon Talent & Consulting are engaged with an innovative and very ambitious start-up in the Automotive space. Established back in 2018, leveraging AI, ML coupled with a superior-tech stack, our client develops life-saving software that will change the way we drive our cars. Our client has recently secured substantial investment and is now on a journey that will see new product development and growth across all business areas. As part of this growth, they are looking to hire talented professionals across all areas. One role they are hiring for at the moment is an experienced AI/ML Engineer. This role can be carried out remotely from anywhere in Ireland or office-based. 
+
+As the AI/ML Engineer, you play a vital role in an innovative team to help develop, test and implement AI/ML algorithms to implement onto functional imaging radar systems. 
+
+Some of your responsibilities will include 
+Generate new ML algorithms for processing imaging radar data, implement in real-time software, and conduct tests for validation
+Design, execute, train, and optimise deep learning models for 3D / 4D datasets from automotive radar systems
+Develop scalable toolchain to manipulate specified dataset from simulated and field-collected data for training deep learning-based perception and control algorithms sets
+
+So you will have 
+Degree in Electrical & Electronic Engineering, Software Engineering, Computer Science or related discipline
+3 - 5 years experience in AI/machine learning/deep learning
+ You will have experience in either Python, C or C++ 
+ You will have good knowledge and experience with the standard deep learning frameworks, API services and libraries such as Tensorflow, PyTorch, Keras or OpenCV 
+You will have experience implementing AI/ML for real-time applications 
+You will have experience with signal processing principles in one or more radar systems, autonomous vehicle and robotics
+Seniority Level
+Mid-Senior level
+Industry
+Automotive Computer Software Computer Hardware
+Employment Type
+Full-time
+Job Functions
+Engineering Information Technology Other

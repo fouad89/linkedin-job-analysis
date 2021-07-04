@@ -1,0 +1,37 @@
+Data Scientist
+Trane Technologies
+Galway, County Galway, Ireland
+At Trane Technologies® we Challenge Possible. Our brands - including Trane® and Thermo King® - create access to cooling and comfort in buildings and homes, transport and protect food and perishables, connect customers to elevated performance with less environmental impact, dramatically reduce energy demands and carbon emissions, and innovate with a better world in mind. We boldly challenge what’s possible for a sustainable world.
+
+Job Summary：
+
+Research and create data driven solutions that enhance our product lines and service offerings.
+
+Responsibilities
+
+Responsible for the creatiom of data driven solutions for our customers
+
+Qualifications
+Degree/Masters in Data Science, Mathematics, Physics
+Strong analytical skills relating to unstructured data sets
+Strong experience modelling machine and behavioural data
+Proficient with machine learning techniques
+Experience with a wide avriety of statistical computer languiages and data mining tools
+
+
+Key Competencies
+Breath ands depth of knowledge in the areas of Statistical computing languages ans tools, conventional languages (C, Java, Pythomn, SQL)
+Hands on experience with cloud based architechtures and software stacks
+Deep understanding of large always on enterprise system architechture
+Algorithim optimisation proficiency
+
+
+We offer competitive compensation and comprehensive benefits and programs that help our employees thrive in both their professional and personal lives. We are proud of our winning culture which is inclusive and respectful at its core. We share passion for serving customers, caring for others, and boldly challenging what’s possible for a sustainable world.
+
+We are committed to achieving workforce diversity reflective of our communities. We are an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identify, national origin, pregnancy, age, marital status, disability, status as a protected veteran, or any legally protected status.
+Industry
+Industrial Automation
+Employment Type
+Full-time
+Job Functions
+Engineering

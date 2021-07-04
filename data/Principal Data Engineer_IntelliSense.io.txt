@@ -1,0 +1,69 @@
+Principal Data Engineer
+IntelliSense.io
+Cork, County Cork, Ireland
+IntelliSense.io is looking for leaders and technical experts to guide our software & data engineering teams through the next phase of our company's growth. You will play a vital role in delivering projects, making architectural decisions & mentoring other engineers in the team. This role will also be ‘hands-on’ so we are looking for exceptional coders to lead by example and promote best practices. We feel this position will be key by helping us own and drive our technical vision.
+
+Why you’ll love IntelliSense.io
+
+About Us
+
+With offices worldwide, IntelliSense.io is a fast-growing Technology Company using multi-disciplinary teams to build Technology solutions that support industrial companies making the transition to a highly optimised, sustainable and safe operating reality. We offer our Customers a real time decision-making technology platform, brains.app and specific AI enabled applications which mirror the value chain. Our products allow operators to understand more deeply the value drivers of their industrial process, increasing output, reducing cost and minimising environmental impact.
+
+IntelliSense.io’s headquarters are in Cambridge, UK, with technology centres in Barcelona, and Cork. We have field offices in Chile, Kazakhstan, and Australia.
+
+Our Mission
+
+Making Mining Operations Efficient, Sustainable and Safe through trusted and open Artificial Intelligence (AI) solutions.
+
+What You Will Contribute To
+
+As a Principal Data Engineer reporting to our Engineering Lead, you will be working in our software engineering team to extend and build out our data processing platform for giving insights into the current operation of equipment, and giving control recommendations based on predicted performance. As a Lead, you will also support other data/backend engineers in the team in their development via coaching and mentoring. You will be a technical expert for internal stakeholders but also in meetings with clients.
+
+What you’ll do
+Be responsible for extending our data processing pipeline to be more configurable to be able to handle future applications, owning the Data Pipeline Architecture.
+Lead the review of existing data infrastructure and propose to carry out improvements to support the robustness of the processes, failure tolerance and scalability.
+Lead and organise the data operations necessary to ingest and process customer data
+Develop ETL systems to handle both structured and unstructured data sets.
+Use your expert coding skills across languages – Java, Spring, Node.js, Apache Flink or other big data languages
+Be our technical expert on all aspects of Big Data, including championing what we do with clients and in product releases
+Maintain an in-depth understanding of current and emerging technologies that will support the business to continue to be at the forefront of real time data handling and analysis
+Coach other members of the team to help them figure out complex problems
+Partner with DevOps teams to ensure instrumentation, logging, and monitoring is in place
+
+
+Requirements
+
+Our technology stack
+
+We are using the latest tools for development (GitLab, Docker, Kubernetes) and modern software development methodologies with Scrum. Our application currently uses Java, Spring, Node.js, PlottableJS, D3.js, React, Redux, MongoDB, PostgreSQL, Redis, Apache Flink, and Microservices based on Node.js, and Java.
+
+Requirements
+You have worked on backend services, data pipelines and/or microservices
+Big Data experience - Apache Flink, Java, and MongoDB. Alternatively other frameworks like Apache Spark.
+Front end frameworks like React, AngularJS, D3 are a bonus.
+Experience working with any database technologies from an application programming perspective - Oracle, MySQL, MongoDB, PostgreSQL etc.
+You write clean, maintainable code and love working on interesting problems
+You have a passion for building products which will be used every day
+You’re interested in building resilient software
+Experience in ETL design, implementation and maintenance
+Experience building & constructing data pipelines
+Cloud platform experience
+Developing API’s on microservice architecture
+You have experience writing Java and using open-source frameworks, preferably Apache Flink
+
+
+Benefits
+Unlimited Holidays
+Truly flexible working conditions (flexible hours, working from home, including some support for home office set up)
+Performance bonuses through annual and quarterly CEO awards
+Possibility to join our Management Share Option Scheme
+Opportunities for career progression through annual personal improvement plan (PIP)
+The opportunity to make your mark in a highly successful growing Technology company
+Seniority Level
+Mid-Senior level
+Industry
+Information Technology & Services Computer Software Internet
+Employment Type
+Full-time
+Job Functions
+Engineering

@@ -1,0 +1,52 @@
+Energy and Sustainability Data Analyst
+Savills
+Dublin, County Dublin, Ireland
+Energy and Sustainability Data Analyst
+
+Savills Property Management Division is seeking an experienced Data Analyst to join their Energy and Sustainability team.
+
+The candidate will need to be experienced having worked with data management systems and be comfortable in managing and interpreting large volumes of data. The successful candidate will be developing our data systems both internally and externally as a service offering to clients.
+
+Ideally with some prior experience in business development and fee generation and coming from a background in energy and utility type businesses, but not essential.
+
+The successful candidate will join a growing dynamic team, with real opportunity for development and progression. Your permanent location will be our Dublin city head office, and the role will include some limited travel to client’s properties and Savills offices throughout the country.
+
+Duties & Responsibilities
+
+Support to our Data Management system for our energy, utilities & sustainability management platform through:
+
+Onboarding of new properties to our portfolio;
+Collection & verification of historic data;
+Maintain all data in relation to energy, water & waste;
+Implementation of a cost data validation system;
+Regular in-depth analysis of consumption and trends;
+Review & analyse consumption patterns verify data accuracy;
+Write reports on consumption at tenancy, property & portfolio level;
+Engage with clients & be key point of contact for sustainability data records;
+Build effective relationships with external clients, through email and face to face meetings;
+Interact with other members of the business internally.
+
+Requirements
+
+Experience in the energy industry would be an advantage but not an absolute requirement;
+Demonstrated knowledge and applied usage of Microsoft Database, ETL and reporting technologies (SQL Server / SSIS/ SSRS), Tableau;
+Good working knowledge of SQL coding, scheduling tasks, Python, Java, R, advanced skills in excel;
+Working knowledge of API set up, scripting and troubleshooting;
+Experience in MS Azure DevOps (implementation/ scripting/ merging pipelines/ repos/ releases);
+Working with various data formats, sources and transfer protocols;
+Ability to modify the data load ETL processes as needed to Extract, Transform and Load data from various data sources into the data warehouse;
+Analytical and troubleshooting skills with complex technical subjects and tasks;
+Ability to present and explain complex technical topics, problems, alternative solutions to others;
+Third level qualification.
+A high level of numeracy and an excellent attention to detail;
+Ability to be flexible and to be able to multi-task and prioritise when necessary;
+Ideally familiar with building certification tools such as LEED, BREEAM, WELL – not essential;
+Excellent presentational, verbal and written communication skills.
+Seniority Level
+Entry level
+Industry
+Construction Financial Services Real Estate
+Employment Type
+Full-time
+Job Functions
+Information Technology

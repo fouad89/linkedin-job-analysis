@@ -1,0 +1,42 @@
+Senior Machine Learning Engineer, SEO  Channels
+Reddit, Inc.
+Dublin, County Dublin, Ireland
+Senior Machine Learning, Guest Experience (remote available in Ireland and the UK)
+
+The front page of the internet, Reddit brings over 430 million people together each month through their common interests, inviting them to share, vote, comment, and create across thousands of communities. Come for the cats, stay for the empathy.
+
+Reddit is growing fast and we are looking for an experienced Machine Learning Engineer to add fuel to the fire. Reddit is among the most visited websites in the world, and web continues to be our highest traffic platform.
+
+We are establishing our engineering footprint in Dublin as we look to expand our international presence. Reddit is poised to rapidly innovate and grow like no other time in its history. This is a unique opportunity to leave your mark on one of the most influential and trafficked corners of the internet.
+
+The Guest Experience team within Growth Engineering has the mission of helping millions of guest users find relevant content and start a rich journey towards becoming Redditor!
+
+Search experience optimisation is one of the strongest opportunities for bringing in new users and the guest experience is critical in helping them continue to explore and engage with Reddit. Reddit’s users have created posts, discussions, and communities covering a diversity of topics. The huge volume of content creates an opportunity to grow our user base by connecting new users with engaging content.
+
+If you're the kind of person who is motivated by rapid development, new product initiatives, users and content recommendations, and content classification we’re interested in speaking with you.
+
+What We’re Working On
+
+You will be in the unique position to revolutionise personalised content discovery using Machine Learning techniques including Deep Learning, Natural Language Processing, Recommendation Systems, Representation Learning and Computer Vision.
+
+Responsibilities
+Apply Machine Learning / Artificial Intelligence to retrieve relevant results with optimal ranking.
+Design Machine Learning solutions for Reddit’s unique product challenges.
+Extract intelligence from data by applying analysis and feature-engineering techniques.
+Iterate on Machine Learning products based on the feedback from A/B experiments and product managers.
+Deploy your model to serve millions of users.
+Participate in the full software development cycle: design, develop, QA, deploy, experiment, and analyze.
+Requirements
+4+ years of work experience as a Machine Learning Scientist or Machine Learning Engineer and a Bachelors Degree; or a combination of experience and education within Machine Learning, Data Science or Statistics.
+Solid theoretical knowledge of Machine Learning and Statistical concepts, including Deep Learning, common Neural Network architectures as well as performance tradeoffs.
+Experience with at least 2 of: Tensorflow, Keras, PyTorch and Sklearn
+Comfortable with distributed learning, big data (Petabyte scale) and data-intensive systems
+The ability to extract insight from data
+Proficient in Python and SQL
+Passionate about building delightful products for users
+Industry
+Marketing & Advertising Computer Software Internet
+Employment Type
+Full-time
+Job Functions
+Engineering Information Technology

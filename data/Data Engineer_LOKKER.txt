@@ -1,0 +1,52 @@
+Data Engineer
+LOKKER
+Dublin City, County Dublin, Ireland
+Posted by
+Rob Shannon
+Helping tech startups scale
+Send InMail
+Martinsen Mayer are delighted to partner with Lokker.com as they build out their core engineering function in Ireland. Check out their Data Engineer role below:
+
+At Lokker, we believe freedom and security rely on our collective ability to protect privacy. Furthermore, we believe we have the right to control who sees our private data online and restrict how it is being used because this level of control is required to keep the internet a vital resource for good.
+
+Lokker gives companies instantaneous control over third-party data collection and risk so they can protect their customers’ privacy and comply with new privacy laws like GDPR and CCPA. Lokker provides the most effective solutions to control unauthorized sharing of private data online. By offering diagnostic scans, privacy management tools, and data access governance, we help companies see and act more decisively concerning their privacy management capabilities. We strive to enhance the privacy standards of all companies so that they can earn higher degrees of trust with their customers and add more value to their brands.
+
+Lokker has successfully complete Series A funding on the 31st Dec 2020 raising $5.6M across 3 investors. Lokker CEO Ian Cohen has held recent positions as GM and CPO at Experian’s Consumer Services Division as well as CEO of Credit.com. Lokker VP of Engineering Derek Murphy has held recent positions as VP Software Engineering at Forcepoint and Director Software Engineering at McAfee.
+
+Job Description
+We are looking for a software engineer with experience developing web services with a significant focus on data processing and storage. You will be part of a new team that is building the Irish entity for Lokker EMEA. You will be working on greenfield projects that focuses on privacy as a core principal of its offering. Our ideal candidate has a keen interest in technology, work well within high performing teams and has a passion for creating software that solves the customer’s problems. The successful candidate will work as part of a global team to scope, build and release the Lokker privacy web services.
+
+Responsibilities
+Partake in the design, development and modifications of services that deliver the core Lokker privacy web services
+Assess the data flows and storage access patterns of the technology to give optional access within a manageable cost structure
+Build implementations that derive the value from the service’s data that is in line with the designs of the business
+Build reusable code and/or use existing code or libraries to solve problem
+Write supporting test artefacts that allows software to be managed using Continuous Integration
+Focus away from complexity as core principal
+Follows and helps shape an iterative approach to software development that assists the engineering team’s consistency and quality
+
+
+Skills
+5+ years Software development experience using supporting toolsets
+Practical development experience in database technologies such as Postgres
+Practical development experience with NodeJS, JavaScript, REST API and Docker
+Exposure to OOM technologies such as Sequelize
+Experience with data streaming technologies such as Fluentd and Fluent Bit
+Public Cloud platforms;  with or without usage of managed services
+Practical usage of Linux in developing and troubleshooting products and/or service
+
+Nice to have skills
+Bash/Python development and/or scripting
+Exposure to Redis, NGINX, Lua, Kubernetes or a similar technology
+Practical usage of Google Cloud Platform and/or AWS in developing web services
+Exposure to Google BigQuery and/or Google BigTable
+Usage of tooling for Infrastructure as code in a product and/or service deployment
+Exposure with networking protocols in developing and troubleshooting products and/or services
+Seniority Level
+Mid-Senior level
+Industry
+Computer & Network Security
+Employment Type
+Full-time
+Job Functions
+Information Technology

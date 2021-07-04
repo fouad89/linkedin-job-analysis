@@ -1,0 +1,28 @@
+Senior Data Engineer
+Apex Systems
+Ireland
+Posted by
+Maria Gaura
+Recruiting the very best talent throughout Europe.
+Send InMail
+SENIOR DATA ENGINEER - Remote
+ Start Date: mid-June onwards
+Duration: 6 months rolling project
+
+
+Key Requirements
+Senior level SQL experience – database design
+Object oriented programming in Python, Go, Java, C++, or other similar language
+Strong algorithm / data structures experience
+Cloud experience: Azure (Databricks, Synapse, SQL DW, Data Factory, Analysis Services, Logic Apps, Storage Account, ML) or AWS (services on AWS side that are similar to the Azure ones mentioned)
+Spark, Kafka, Hadoop or related data engineering systems
+Software Engineering principles at foundation…merging strong software engineering background with data experience
+Computer Science or Software Engineering degree (bachelor’s at minimum, additional degrees or certifications would be great)
+Seniority Level
+Associate
+Industry
+Information Technology & Services
+Employment Type
+Contract
+Job Functions
+Information Technology

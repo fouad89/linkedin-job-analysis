@@ -1,0 +1,55 @@
+AI Researcher -Video Generation (Contract)
+Huawei Ireland Research Center
+Dublin, County Dublin, Ireland
+We are seeking a talented AI Researcher for an exciting opportunity our Video Core AI team in Dublin.
+
+We are looking for a talented AI Researcher to be part of the Video Core AI team at the Huawei Ireland Research Centre. The candidate will be part of a team applying Computer Vision and AI technologies to expand the capabilities of our consumer product portfolio.
+
+The candidate will be part of a project that seeks to build an industry-leading cloud-based video generation platform capable of synthesising photo-realistic video for a range of applications accessible across Huawei mobile devices.
+
+The candidate will work within an international and fast-paced team of expert researchers and engineers, working on deeply technical problems in direct collaboration with leading international academics in the field.
+
+Check out the Life at Huawei Ireland Research Centre https //lnkd.in/eZVSjvT
+
+Responsibilities
+Design, implement, analyse and deploy computer vision and deep learning algorithms for Huawei's HMS Core AI products.
+Identify key developments and trends in the research, in the video analysis and video generation fields as well as in the wider machine learning field. Communicate these findings clearly and informatively to colleagues and stakeholders.
+Propose technical solutions to challenges and drive novel improvements to current AI algorithms according to business requirements and scope. Devise a technical implementation plan based on these proposals and take responsibility for ensuring that it is successful and converted into production.
+Maintain communication with academia and industry partners, with a view to analysing potential benefits to product goals from collaboration.
+Cooperate with management and stakeholders to fulfil product specifications and documentation, while continuously increasing the overall technical competitiveness of Huawei HMS Core AI products.
+
+
+Requirements
+MSc. or PhD in Computer Science, Computer Vision, Deep Learning, Machine Learning or related fields.
+Deep understanding of deep learning algorithms applied to computer vision in both image and video domains. (Experience with deep generative models like Auto-Encoders or GANs is a major plus).
+Solid experience designing, training and evaluating deep learning models.
+Excellent coding skills with 3+ years of experience in software engineering (Python, C++)
+Hands-on experience building deep learning models from scratch (Pytorch, Tensorflow).
+A record of publications in top-tier conferences and journals is an advantage.
+Ability to translate research paper ideas into working code and solve complex problems while considering end-user requirements.
+Excellence in communicating results and drawing actionable insights.
+Strong collaborative and team working skills.
+Passion for AI.
+
+
+Benefits
+
+Location
+
+This is a full-time position at our Ireland Research Center based at Townsend Street in Dublin 2, Ireland.
+
+ONLY CANDIDATES WHO MAY LIVE AND WORK IN IRELAND WITHOUT RESTRICTION CAN BE CONSIDERED FOR THIS POSITION.
+
+DUE TO THE HIGH VOLUME OF REPLIES, ONLY CANDIDATES WHO ARE SHORTLISTED FOR INTERVIEW WILL BE CONTACTED.
+
+Recruitment Privacy Notice
+
+http //career.huawei.com/reccampportal/portal/hrd/weu_rec_all.html
+Seniority Level
+Associate
+Industry
+Information Technology & Services Computer Software Telecommunications
+Employment Type
+Contract
+Job Functions
+Information Technology

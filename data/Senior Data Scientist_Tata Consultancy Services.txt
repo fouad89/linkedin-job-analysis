@@ -1,0 +1,72 @@
+Senior Data Scientist
+Tata Consultancy Services
+Letterkenny, County Donegal, Ireland
+Posted by
+Mahendran CV
+Talent Acquisition (UK& Europe)-Global Talent Acquisition Group-UK at Tata Consultancy Services
+Send InMail
+Who we are
+
+With TCS you will be exposed to the future of technology, work with some of the brightest global minds in the industry, and support many of the biggest brands in the UK and worldwide. Recognized as an employer of choice, having won numerous awards in the UK and Ireland, TCS is a fast-growing global IT powerhouse at the forefront of innovation and transformation.
+ 
+What we need 
+We are looking for Senior Data Scientist for TCS Ireland.
+ 
+Job Purpose and Primary Objectives:
+The ideal person for this role will possess analytical prowess, problem-solving and management consulting skills.
+An all-rounder who can think out of the box on daily basis and can help solve business problems with the help of data.
+Majority of the role will involve problem understanding, data acquisition, data understanding, model development, model operationalization, stakeholder management and consulting.
+ 
+Key Responsibilities:
+Understand and manipulate large amounts of raw data into actionable insights.
+Able to quickly experiment and identify hidden relationship among the data sources.
+Identify new potential business opportunities while working on the project.
+Build best in class solutions leveraging advanced machine learning and statistical algorithms.
+Able to simplify and present the analytical insights to project stakeholders with analytical and non-analytical backgrounds.
+Heavily focused on key development in the analytics research field and able to experiment and implement them in real project scenarios.
+Work as a torch bearer for the junior members of the team
+Able to take the ownership of multiple projects end to end without external supervision.
+Manage projects plans and timelines to ensure that projects are delivered with the highest quality and on time.
+Able to quantify the actual impacts of the projects delivered.
+Build Data products in collaboration with other areas such as Visualization, Data Engineering, and IT.
+ 
+Key Skills/Knowledge:
+Expertise in statistical modelling techniques such as linear regression, logistic regression, generalized linear models, SVM, ensemble model (Random Forest, XGBoost), cluster analysis, PCA.
+Expertise in the end-to-end model developments process
+Expertise in Hypothesis Testing and AB testing – design of experiments
+Exposure to deep learning within computer vision and natural language processing areas.
+Experience in solving business problems with advanced analytical solutions.
+Experience in putting the statistical models into production and measure the impact.
+Experience in working with structured data as well as unstructured data sources.
+Strong Programming experience with SQL and Python/R and libraries like NumPy, pandas, scikit-learn, stats models, Tens or Flow etc.
+Well-developed written and oral communication skills, with ability to present and explain data to business managers, with fluency in Microsoft business applications (Word/PowerPoint/Excel)
+ 
+Experience required:
+Advanced experience in core advanced analytics / Data Science in consulting space or with reputed organizations
+Degree in Mathematics, Statistics, Engineering, Computer Science, or a quantitative discipline.
+Proven experience with building and deploying machine learning models in a commercial setting.
+ 
+Person Specification:
+Manage projects plans and timelines to ensure that projects are delivered with the highest quality and on time.
+Able to quantify the actual impacts of the projects delivered.
+Help build the Data Science capability.
+Work on internal project and sales support.
+ 
+What you get
+TCS is one of the fastest growing companies in the UK & Ireland. Joining TCS at this pivotal time will expose you to numerous domains and projects. We are consistently voted number one in customer satisfaction and Top Employer in the UK and globally.
+
+We provide competitive salaries which include pension, health care, life insurance, laptop, phone, access to extensive training resources, and discounts within the larger Tata network.
+ Our internal volunteering and social network allowing you to take at least one paid volunteering day per year, as well as take part in social networks, Health and wellness initiatives such as fit4life and purpose4life internal sports events, we also sponsor Marathons internationally, Initiatives in mental health, LGBTQ among other diversity and inclusion awareness and support.
+ 
+Explore more about Tata Consultancy Services - who we are, what we do for our customers, our people, and our communities. 
+
+Explore the world of TCS here Link: https://www.paperturn-view.com/?pid=MTA108652
+ Due to a high volume of applications, we will be unable to contact each applicant individually regarding the status of their application. If you have not received a direct response within 30 days, then the application should be deemed unsuccessful.
+Seniority Level
+Mid-Senior level
+Industry
+Information Technology & Services
+Employment Type
+Full-time
+Job Functions
+Information Technology

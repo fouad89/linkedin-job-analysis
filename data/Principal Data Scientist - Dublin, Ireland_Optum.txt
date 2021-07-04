@@ -1,0 +1,47 @@
+Principal Data Scientist - Dublin, Ireland
+Optum
+Dublin, County Dublin, Ireland
+This role is based within Optum Insight as part of Payer Decision Intelligence. Optum is the technology and services division of UnitedHealth Group, the leading international health insurer. The primary function of the Data Science team within Payer Decision Intelligence is to build machine learning solutions and put them into production.
+
+We are looking for a Principal Data Scientist to enhance our capacity to develop the analytics in support of our business insights. As a key member of the Data Science Team, you will be part of UnitedHealth Group's mission of helping people live healthier lives. You will work with other Data Scientists and subject matter experts to conduct and manage outcomes of various analytic studies. As part of this team, you will be empowered to analyze data, create solutions and build production-ready models. Join us! There's never been a better time to do your life's best work℠
+
+Primary Responsibilities
+Analyze, review and interpret complex data through the development of case-studies, enabling the data to tell a story
+Build and maintain production-ready machine-learning models
+Identify drivers of patterns/behaviors uncovered in data
+Contribute to the design and realization of analytical based tools/assets to identify and monitor non-standard claim patterns
+Engage with subject-matter experts to explore business problems and design solutions
+Present analysis and interpretation for both operational and business review and planning
+Support short and long term operational and strategic business activities through the use of data and develop recommended business solutions through research, analysis and implement when appropriate
+
+You will be rewarded and recognized for your performance in an environment that will challenge you and give you clear direction on what it takes to succeed in your role, as well as providing development for other roles you may be interested in
+
+Required Qualifications
+Degree in Analytics, Statistics, Physics, Mathematics, Engineering, etc with a significant quantitative aspect
+Data Science experience with Python or R
+Experience developing machine learning models
+A history of working on Analytical Projects, for example; exploratory data analysis, feature engineering, fitting, tuning, evaluating and comparing models etc
+Ability to communicate effectively to clients and the business in writing and verbally
+
+
+Preferred Qualifications
+Experience with relational databases
+Experience with Spark/PySpark
+Experience in at least one data visualization tool for displaying and exploring analytic results such as Plotly, R Shiny, Matplotlib or similar
+
+
+Please note you must currently be eligible to work and remain indefinitely without any restrictions in the country to which you are making an application. Proof will be required to support your application.
+
+Careers with Optum. Here's the idea. We built an entire organization around one giant objective; make the health system work better for everyone. So when it comes to how we use the world's large accumulation of health-related information, or guide health and lifestyle choices or manage pharmacy benefits for millions, our first goal is to leap beyond the status quo and uncover new ways to serve. Optum, part of the UnitedHealth Group family of businesses, brings together some of the greatest minds and most advanced ideas on where health care has to go in order to reach its fullest potential. For you, that means working on high performance teams against sophisticated challenges that matter. Optum, incredible ideas in one incredible company and a singular opportunity to do your life's best work.SM
+
+Diversity creates a healthier atmosphere: UnitedHealth Group is an Equal Employment Opportunity/Affirmative Action employer and all qualified applicants will receive consideration for employment without regard to race, color, religion, sex, age, national origin, protected veteran status, disability status, sexual orientation, gender identity or expression, marital status, genetic information, or any other characteristic protected by law.
+
+Keywords: Data science, Data Scientist, Machine Learning, R, Python , Senior Data Science, #RPO
+Seniority Level
+Entry level
+Industry
+Information Technology & Services Computer Software Hospital & Health Care
+Employment Type
+Full-time
+Job Functions
+Engineering Information Technology

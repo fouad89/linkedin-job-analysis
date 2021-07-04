@@ -1,0 +1,37 @@
+Senior Data Scientist
+Sabeo
+Dublin, County Dublin, Ireland
+Posted by
+Brian Cassidy 2nd
+Senior IT Recruitment Consultant at Sabeo
+Send InMail
+We have a great opportunity for a Senior Data Scientist to join our client on an early-stage green-field project in an exciting field, using modern technologies (they use Snowflake as our data warehouse and Python as their main programming languages). You will get to shape the technical development and data science practices within the team from the start.
+  Key Accountabilities
+Lead the design and development of analytical solutions to deliver enhanced customer experiences, creating personalised data driven experiences for our customers at customer interaction.
+Collaborate with the Data Engineering team to ensure the data architecture and platform is in place to develop solutions for the data science consumers.
+Work closely with the Head of Data Insights and other key stakeholders and subject matter experts on the definition, design and implementation of these analytics and personalised solutions.
+Work with Head of Data Insights to create processes to measure the value of modelling to the organisation with clear targets, KPIs and measurement in place.
+Lead and Mentor junior Data Scientists. Be a lead in the organisation for data modelling and machine learning and lead by example with industry experience and best practice.
+Lead on the development and implementation of a Data Science and Data Visualisation platform to enable production strength modelling techniques.
+Build relationships with divisional I.T. and Data teams to work collaboratively on cross-divisional solutions.
+Manage and administer the Data and analytical systems as required.
+
+Desired Knowledge / Experience / Skills
+At least 5 years of experience leading a Data Science/Analytics team.
+Proven experience delivering analytics solutions in propensity modelling, cross-sell modelling, recommender systems and next best action.
+Skilled in use of statistical analysis, predictive analytics, clustering and machine learning to deliver actionable insights for the organisation.
+Deep experience of technologies used for data manipulation, statistical analysis and data visualisation – (SQL, Python, R and Power BI/Tableau)
+Excellent communication skills and demonstrable experience in working with teams across business and technical functions to deliver solutions that drive value as measured against the core KPI’s within the business.
+Proven experience in delivering solutions in the area of Customer Analytics and engagement.
+Experience in working in a cloud-based environment such as Azure, AWS or GCP.
+Financial Services experience is desirable.
+Knowledge of visualisation tools such as Power BI, Tableau.
+Strong proclivity for automation and DevOps practices.
+Seniority Level
+Mid-Senior level
+Industry
+Information Technology & Services Financial Services
+Employment Type
+Full-time
+Job Functions
+Engineering Information Technology

@@ -1,0 +1,52 @@
+Software Engineer
+Square
+Dublin, County Dublin, Ireland
+Company Description
+
+Square builds common business tools in unconventional ways so more people can start, run, and grow their businesses. When Square started, it was difficult and expensive (or just plain impossible) for some businesses to take credit cards. Square made credit card payments possible for all by turning a mobile phone into a credit card reader. Since then Square has been building an entire business toolkit of both hardware and software products including Square Capital, Square Terminal, Square Payroll, and more. We’re working to find new and better ways to help businesses succeed on their own terms—and we’re looking for people like you to help shape tomorrow at Square.
+
+Job Description
+
+Risk Engineering works to protect Square and our customers from fraud and payment disputes. We keep our customers safe while €20B+ flows through Square annually, and we allow the entire company to take risks and grow. To do this, we build systems to detect and respond to potential fraud threats, provide outstanding tools to agents for investigating fraud events, and give our customers seamless web and mobile experiences to manage and fight payment disputes. Our mission is to protect Square, protect our customers, and make a complicated and sometimes painful process understandable to all.
+
+This is an exciting time for Square as we have recently launched within the Irish market as part of our plans to continue growing our merchant network globally. We're now looking for multiple full-stack and backend engineers to join our new Risk team in Dublin, Ireland. You 'd be among the first engineers joining us in Dublin, establishing a team that is committed to keeping our customers safe from fraud and mitigating the impact of financial loss. You'd work with other engineering teams, and our Risk Operations and Policy team here in Dublin, and you'd work on a global scale to strategize on and provide the product roadmap. As part of this growth we need to ensure that our protection scales to meet this new demand.
+
+You Will
+
+Qualifications
+Be one of the original members of a new Risk team responsible for the delivery and success of essential fraud and disputes products and prevention. You'll help to establish the new team's operating rhythm!
+Work with teams across Square to develop new features and improve existing processes.
+Build systems that manage customers' sensitive data and hold Square to the highest standards for security and compliance
+Design fault-tolerant systems so the team can be brave, move fast, and break things, without ever showing a negative impact to customers
+Build great user experiences in all web applications
+
+You Have
+Interest in working full-stack across multiple technical domains, including backend microservices and -facing tools
+Passion for managing a project from end to end - working with product managers to determine requirements, writing the design doc, building the code and writing unit tests.
+Data-oriented mindset: you want your work to be measurable and impactful
+Customer empathy: you understand your customers' requirements
+Interest in working in a modern development environment using the latest DevOps technologies
+Software development skills and computer science fundamentals
+
+Additional Information
+
+At Square, our purpose is to empower – within and outside of our walls. In order to build the best tools for the businesses and customers we support all over the world, we have to start at home with a workforce as diverse and empowered as our sellers. To this end, we take great care to evaluate all employees and job applicants equally, based on merit, competence, and qualifications. We do not discriminate on the basis of race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, disability status, or any other characteristic protected by law. We encourage candidates from all backgrounds to apply. Applicants in need of special assistance or accommodation during the interview process or in accessing our website may contact us by sending an email to assistance(at)squareup.com. We will treat your request as confidentially as possible. In your email, please include your name and preferred method of contact, and we will respond as soon as possible.
+
+Perks
+
+At Square, we want you to be well and thrive. Our global benefits package includes:
+Healthcare coverage
+Retirement Plans
+Employee Stock Purchase Program
+Wellness perks
+Paid parental leave
+Paid time off
+Learning and Development resources
+Seniority Level
+Associate
+Industry
+Computer Software Internet Financial Services
+Employment Type
+Full-time
+Job Functions
+Engineering

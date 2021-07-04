@@ -1,0 +1,45 @@
+Senior Data Scientist
+Zazzle
+Cork, County Cork, Ireland
+Why Zazzle?
+
+Creativity. Customization. Connection, through Products and Designs
+
+We are a People-Powered Design Platform.
+
+At Zazzle, our people are our passion. We seek talented and innovative thinkers in the industry that we love.
+
+Zazzle is a global marketplace where designers and makers converge to make one-off custom products. Zazzle enables world-class brands and independent designers & artists to unlock their entire libraries of content, making it available for purchase and customization by consumers. Zazzle’s innovative on-demand retail and technology platform creates a marketplace where users can instantly create, personalize, purchase and sell a near infinite array of products online.
+
+We are looking for a talented Senior Data Scientist to help steer Zazzle’s data-driven growth. As a senior member of the Data Science team, you will be leading projects from ideation to product launch. You will use disparate and unstructured data-sources (ranging in size from kilobytes to terabytes) to help acquire and retain customers, drive pricing optimizations, and improve onsite user and bot experiences. Given the cross-functional nature of these projects, you will work closely with Engineering, Product, Marketing (SEO, SEM, email, etc.) and more. Great communication is crucial.
+
+Responsibilities
+Collaborate with Product & Marketing managers to help build scalable solutions that contribute to Zazzle’s Growth.
+Create and maintain predictive models which help us solve key business problems around audience (segmentation), personalization (recommendations), discount optimization and attribution modelling.
+Design and execute experiments to measure the revenue impact of Data Science initiatives (AB Tests, Causal Impact, etc)
+Oversee the process of building entire data products to get your work in front of millions of Zazzle Members.
+Providing coaching and mentorship to more junior members of the Data Science and Analytics teams.
+Key Requirements
+4+ years previous experience in a Data Science role.
+Proven track record of building end-to-end data products using Machine Learning.
+A background building customer-focused models such as LTV & churn prediction, or propensity modelling.
+Expert knowledge of both Python and SQL, and fluency working with data in both.
+Great understanding of software development practices and version control (git).
+Exposure to cloud-based infrastructure (AWS, GCP)
+Experience working in an AGILE team (Sprints, JIRA, User Stories).
+Nice to Have
+Past work experience in the e-Commerce sector, or in other online businesses.
+Knowledge of Docker and CICD systems such as Jenkins.
+Background automating complex data pipelines and ETL processes, with tools such as Airflow.
+Experience with building recommendation systems at scale (content based or collaborative)
+Experience optimizing pricing or promotions (uplift modelling, pricing elasticity).
+Experience with Natural Language Processing (bag of words, TF-IDF, topic modelling).
+We celebrate and embrace the uniqueness and creativity of our teammates, designers, makers, and partners! We strive to continuously build a diverse and inclusive culture and community that empowers all of our teammates to be authentic and achieve their true potential. You'll be joining Zazzle at a very exciting time in our growth and playing a significant role in our success. This is a true opportunity for your own personal growth, an opportunity to be innovative and creative, and truly make a difference in our future.
+Seniority Level
+Associate
+Industry
+Marketing & Advertising Internet Retail
+Employment Type
+Full-time
+Job Functions
+Engineering Information Technology

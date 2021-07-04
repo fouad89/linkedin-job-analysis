@@ -1,0 +1,38 @@
+Data Engineer
+HubSpot
+Dublin, County Dublin, Ireland
+HubSpot’s Business Intelligence (BI) team is chartered with making HubSpot smarter through enabling an ever-deeper understanding of its customers. We’re not a centralized reporting-only team, we’re a team of data model developers who partner with our business leaders to understand the nuances of the data and HubSpot systems as well as provide access to the data they need to manage our business intelligently. We tackle HubSpot’s most complex data challenges, manage our BI data infrastructure, and provide leverage to each other and to a network of business analysts throughout the company. You will get to work in a best of breed tech stack that includes Airflow, Snowflake, dbt, and Looker. If you are looking for a place where you’ll tackle big problems alongside some of the most talented and dynamic people you’ve ever worked with, HubSpot might just be the place for you.
+
+In This Role, You’ll Get To
+Participate in the technical execution of business intelligence and analytics related projects of large scope and complexity
+Translate business use cases into a set of technical deliverables
+Work with columnar databases (Snowflake)
+Build data pipelines and data ingestions in Java (or some Python)
+Work with industry standard ETL and data orchestration tools such as Airflow, Stitch, or Fivetran
+Build and scale a robust data infrastructure that serves the entire organization
+We’re Looking For People Who
+Can contribute to the codebase! Most of our codebase is in Java, but we also have elements written in Python and on top of open-source frameworks such as Airflow and dbt.
+Can collaborate/influence across all levels of the organization.
+Are remarkable at building relationships with the Software Engineering teams and work with them to define standards and best practices for data ingestions from their systems.
+Forge strong partnerships with Product Managers, Technical Leads, and teammates in translating business requirements into technical vision
+Bring industry best practices to help us improve our existing data infrastructure, and continue to scale it with the growth of the business
+Are committed to data quality, security, and privacy
+We know the confidence gap and imposter syndrome can get in the way of meeting spectacular candidates, so please don’t hesitate to apply — we’d love to hear from you.
+
+About HubSpot
+
+HubSpot (NYSE: HUBS) is a leading customer relationship management (CRM) platform that provides software and support to help businesses grow better. We build marketing, sales, service, and website management products that start free and scale to meet our customers’ needs at any stage of growth. We’re also building a company culture that empowers people to do their best work. If that sounds like something you’d like to be part of, we’d love to hear from you.
+
+You can find out more about our company culture in the HubSpot Culture Code, which has more than 5M views, and learn about our commitment to creating a diverse and inclusive workplace, too. Thanks to the work of every employee globally, HubSpot was named the #4 Best Place to Work on Glassdoor in 2021, and has been recognized for award-winning culture by Great Place to Work, Comparably, Fortune, Entrepreneur, Inc., and more.
+
+Headquartered in Cambridge, Massachusetts, HubSpot was founded in 2006. Today, thousands of employees work across the globe in HubSpot offices and remotely. Visit our careers website to learn more about culture and opportunities at HubSpot.
+
+By submitting your application, you agree that HubSpot may collect your personal data for recruiting, global organization planning, and related purposes. HubSpot's Privacy Notice explains what personal information we may process, where we may process your personal information, our purposes for processing your personal information, and the rights you can exercise over HubSpot’s use of your personal information.
+Seniority Level
+Entry level
+Industry
+Information Technology & Services Computer Software Internet
+Employment Type
+Full-time
+Job Functions
+Information Technology

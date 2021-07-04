@@ -1,0 +1,51 @@
+Senior Data Scientist - Growing US Tech Company
+e-Frontiers
+Dublin, County Dublin, Ireland
+We are currently on the lookout for a Senior Data Scientist to join a mature US start up. They have signed a number of long term multi project contracts and are looking to grow their team here in Dublin.
+
+
+In this position you will be responsible for developing, implementing and monitoring innovative Machine Learning/AI solutions to achieve various goals.
+
+
+Responsibilities:
+
+Design, implement and launch innovative AI solutions to improve millions of lives.
+Work closely Engineers, Product Owners and Domain Experts to realize the goals of particular projects.
+Derive meaningful insights from complex datasets
+Stay current with innovations in the field and share knowledge with the team as a whole
+Contribute to papers and publications.
+
+What you need to bring:
+
+A passion for problem solving
+3+ years' developing and deploying machine learning solutions at scale
+Practical experience developing consumer facing applications.
+MS or higher in a quantitative or technical field (e.g. Economics, Statistics, Sciences, Engineering, CS).
+Practical experience with machine learning frameworks (i.e. Scikit-Learn, Pytorch, fastai, Tensorflow).
+Experience of database technologies such as MS SQL, Azure Table Storage.
+Excellent communications skills with technical and non-technical audiences.
+
+Desirable skills:
+
+Experience developing and deploying Neural Networks, particularly in the areas of Image Recognition, Audio Recognition and NLP.
+Experience with Spark and Spark ML.
+Knowledge of software development practices and use of Version Control Systems (particularly Git).
+Have worked in an Agile environment.
+Experience within Microsoft stack / Azure cloud.
+
+Get in touch if you feel this is an opportunity of interest to you. I can provide you with more details about the company and what they are looking to achieve.
+
+
+Email: derek.mccormack@e-frontiers.ie
+
+
+Client is open to sponsorship for candidates who are based in Ireland with the right level of commercial experience.
+
+Seniority Level
+Mid-Senior level
+Industry
+Computer Hardware Information Technology & Services Market Research
+Employment Type
+Full-time
+Job Functions
+Analyst Engineering Information Technology

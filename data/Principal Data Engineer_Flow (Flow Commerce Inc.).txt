@@ -1,0 +1,34 @@
+Principal Data Engineer
+Flow (Flow Commerce Inc.)
+Dublin, County Dublin, Ireland
+This role is a key part of our Foundation Engineering team and will be responsible for implementing, expanding and optimizing our data platform architecture. This role will provide tooling and support for various internal teams at Flow including data analysts and supporting external data driven use cases.
+
+This role reports to the Director of Engineering responsible for our Foundation Engineering team and is based out of either our Hoboken, NJ or Dublin, Ireland offices, with flexible remote work options.
+ You will: 
+Design, build, and maintain the core tools and products used by all of our product engineering teams to ensure data is made available reliably
+Design and implement how data is extracted, transformed and made available for various use cases such as business intelligence, observability, federation to external 3rd parties.
+Improve and optimize our data pipeline for scalability, performance and reliability.
+Work with cloud based environments such as Kubernetes and AWS.
+Share your expertise by providing guidance and direction to more junior members of the team.
+Work closely with our data analysts to efficiently leverage the data in the data lake.
+
+You are:
+Strong experience in data warehousing (we use AWS Firehose, Athena, Redshift). 
+Familiar with business intelligence tools like Domo and Looker
+A deep problem solver – the ability to analyze tough business/technical problems and iteratively delivering high quality solutions
+A great verbal and written communicator - you’ll be part of a team and will be collaborating with Stakeholders across the business
+A strong believer that great teams are necessary to create world class products. Willing to invest the time to build strong relationships and help others on the team grow.
+
+You have:
+Strong experience developing and operating data platforms, optimizing data retrieval and building systems to enable easier access to raw data.
+Deep knowledge of database design.
+Experience with real time event streaming (our pipeline runs on Kinesis)
+Experience with well designed micro services architectures, or curiosity to learn
+Seniority Level
+Mid-Senior level
+Industry
+Internet
+Employment Type
+Full-time
+Job Functions
+Engineering

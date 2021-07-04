@@ -1,0 +1,59 @@
+Postdoctoral Researcher
+Royal College of Surgeons in Ireland
+Dublin City, County Dublin, Ireland
+Title:  Postdoctoral Fellow in Cancer Bioinformatics
+Department: Physiology and Medical Physics
+Tenure: Specified purpose contract for 1 year
+Location: York House, Dublin 2
+Salary: Post Doctorate scale (Level 2) point 1-7 (€37,874 - €45,041) subject to experience
+Reporting to: Dr. Simon Furney
+
+Purpose of the post
+This is an exciting opportunity to join the Genomic Oncology research group of Dr. Simon Furney. I am seeking an ambitious, motivated and meticulous Postdoctoral Fellow in Cancer Bioinformatics with a passion for cancer biology and genomics. The successful candidate will be involved in the analysis of whole genome sequences of patient tumours and the development of a novel bioinformatic method for the clinical interpretation of tumour genomes using cancer genomic data. The current research strategy of the group is to use next generation sequencing technologies to identify mechanisms of tumour development and evolution, and to develop novel approaches for the interpretation of cancer genomes. The group is involved in multiple national and international research collaborations. Dr. Furney has been funded by the European Commission, the SFI-HRB-Wellcome Trust Biomedical Research Partnership, and the Irish Cancer Society, and has published his research in journals including Nature, Cancer Discovery, Nature Methods, Annals of Oncology and Genome Research.
+
+Specifically, the duties of the post are:
+Bioinformatic analysis of cancer whole genome / exome sequencing data
+Bioinformatic analysis of tumour RNA-seq data
+Participation in the development of a novel bioinformatic method for the clinical interpretation of tumour genomes
+Analysis of tumour heterogeneity and mutational signatures using cancer next generation sequencing data
+Preparation of research manuscripts
+
+Qualifications
+First class Bachelor’s degree (or equivalent) in relevant science discipline
+Ph.D. degree in bioinformatics / computational biology / genomics or a related discipline
+
+Knowledge & Experience – (Essential)
+The job holder should normally have the following knowledge and experience:
+Expertise in large-scale Next Generation Sequencing data analysis
+Expertise in analysis of publically available -omics data sets
+Excellent programming and scripting skills (in R and in any high-level programming language e.g. C/C++, Perl or Python)
+Expertise in using *NIX systems and compute clusters
+Experience in research manuscript drafting
+
+Knowledge & Experience (Desirable)
+Expertise in the bioinformatic analysis of cancer whole genome, whole exome and RNA sequencing data
+Knowledge of cancer genomics
+Track record of publication
+
+Skills & Competencies
+Communication Skills: Proven ability to communicate complex ideas.
+Project Management Skills: Ability to ensure that project plans are communicated and that all timelines are met.
+Self-starter with the ability to work as part of a team: Ability to operate effectively as part of a team – is cordial, tolerant and willing to help others, is co-operative and patient; shares work and information; establishes rapport, can influence and develop effective networks
+I.T. skills: Knowledge of MS Office suite.
+Conscientious: Have a pro-active approach to work, anticipating and resolving problems in advance; have keen attention to detail - from anticipating and addressing issues in advance to understanding requests and delivering quality work with minimal errors.
+Flexibility: Can operate flexibly within a busy environment; can shift focus when required.
+Customer Focus: Have strong customer service skills. Be able to communicate with a high level of initiative, tact, diplomacy and confidentiality.
+Motivated: Display a ‘can-do’ attitude, be committed to RCSI ORI and its development; demonstrate enthusiasm and passion for the role.
+
+Application Process
+Please apply online by the closing date with your CV, Covering Letter and the details of two referees.
+
+Informal enquiries can be directed to Dr. Simon Furney: simonfurney@rcsi.ie
+Seniority Level
+Associate
+Industry
+Education Management
+Employment Type
+Full-time
+Job Functions
+Analyst Research Science

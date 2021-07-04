@@ -1,0 +1,34 @@
+Data Scientist, Trust & Safety
+TikTok
+Dublin, County Dublin, Ireland
+Posted by
+Max Lane 2nd
+Trust & Safety Talent Acquisition at TikTok
+Send InMail
+TikTok is the leading destination for short-form mobile video. Our mission is to inspire creativity and bring joy.
+
+Building a world where people can safely discover, create and connect. The Trust & Safety team at TikTok help ensure that our global community is safe and empowered to create and enjoy content across all of our applications.
+
+As a Data Scientist on our Trust & Safety team, you will work closely with product managers, program managers and the algorithm team to identify root causes and appropriate strategies. You will be proactively researching, analysing and providing key metrics and dashboards that will influence trust and safety decisions, and together with the team protect our communities on the platform.
+
+Responsibilities:
+- Drive quantitative analysis projects from start to finish, including developing metrics and analytical frameworks and distilling complex results into clear and concise insights;
+- Support the strategic planning and execution for long term business plans through in-depth research, industry studies and the study of market trends;
+- Design and establish indicator systems for safety and risks of the platform, monitor and optimize risk coverage in each link, measure the performance of content safety strategies and facilitate decision-making.
+- Think proactively to identify, detect, and mitigate risks in our community ecology, and help devise strategies to combat them.
+
+Qualifications:
+- Proven background in quantitative analysis
+- Experience solving analytical problems using quantitative approaches (e.g. Python, R)
+- Proven experience leading data-driven projects from definition to execution, from defining metrics to communicating actionable insights.
+- Expert experience pulling large and complex data using SQL & data visualization tools (Mode Analytics, Chartio, Tableau)
+
+TikTok is committed to creating an inclusive space where employees are valued for their skills, experiences, and unique perspectives. Our platform connects people from across the globe and so does our workplace. At TikTok, our mission is to inspire creativity and bring joy. To achieve that goal, we are committed to celebrating our diverse voices and to creating an environment that reflects the many communities we reach. We believe individuals shouldn't be disadvantaged because of their background or identity, but instead should be considered based on their strengths and experience. We are passionate about this and hope you are too.
+Seniority Level
+Mid-Senior level
+Industry
+Internet
+Employment Type
+Full-time
+Job Functions
+Information Technology

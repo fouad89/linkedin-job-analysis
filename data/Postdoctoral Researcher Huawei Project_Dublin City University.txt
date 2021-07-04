@@ -1,0 +1,103 @@
+Postdoctoral Researcher Huawei Project
+Dublin City University
+Dublin, County Dublin, Ireland
+Research Centre
+
+Insight SFI Research Centre for Data Analytics
+
+Post Title
+
+Postdoctoral Researcher Huawei Project
+
+Level on Framework
+
+Level 1.
+
+Post Duration
+
+Fixed-Term Contract up to 12 Months
+
+Overview
+
+Dublin City University www.DCU.ie is a young, ambitious and vibrant University, with a mission ‘to transform lives and societies through education, research, innovation and engagement’. Known as Ireland’s ‘University of Enterprise and Transformation’, it is committed to the development of talent, and the discovery and translation of knowledge that advances society and the economy. DCU is the Sunday Times Irish University of the Year 2021.
+
+The University is based on three academic campuses in the Glasnevin-Drumcondra region of north Dublin. It currently has more than 18,000 students enrolled across five faculties – Science and Health, DCU Business School, Computing and Engineering, Humanities and Social Sciences and DCU Institute of Education. DCU is committed to excellence across all its activities. This is demonstrated by its world-class research initiatives, its cutting-edge approach to teaching and learning, its focus on creating a transformative student experience, and its positive social and economic impact. This exceptional commitment on the part of its staff and students has led to DCU’s ranking among the top 2% of universities globally. It also consistently features in the world’s Top 100 Young Universities (currently in QS Top 70 Under 50, Times Higher Top 150 Under 100).
+
+DCU is placed 84th in the world, in the Times Higher Education University Impact Rankings – measuring higher education institutions’ contributions towards the UN Sustainable Development Goals. Over the past decade, DCU has also been the leading Irish university in the area of technology transfer, as reflected by licensing of intellectual property.
+
+As part of this role the researcher will be required to participate in the DCU Research Career Framework. This framework is designed to provide significant professional development opportunities to Researchers and offer the best opportunities in terms of a wider career path. The role may include teaching duties to assist with module delivery.
+
+Insight SFI Research Centre for Data Analytics
+
+The Insight SFI Research Centre for Data Analytics ( http://www.Insight-centre.org ) is an SFI funded Research Centre which brings together researchers from University College Dublin, NUI Galway,
+
+University College Cork, and Dublin City University, as well as other partner institutions, Trinity College Dublin (TCD), University of Limerick (UL), Maynooth University (MU) and Tyndall National Institute. It creates a critical mass of more than 400 researchers from Ireland's leading ICT clusters to carry out research on a new generation of data analytics technologies in a number of key application domain areas, such as Health and Human Performance, Smart Communities, Internet of Things, Enterprise and Services and Sustainability and Operations.
+
+The €150m Centre is funded by Science Foundation Ireland and a wide range of industry and European Union partners. Insight's research focus encompasses a broad range of data analytics technologies from machine learning, decision analytics and social network analysis to linked data, recommender systems and the sensor web. Together, with more than 220 partner companies, Insight researchers are solving critical challenges in the areas of Connected Health and the Discovery Economy.
+
+The Project
+
+The proposed project is collaborative between the Insight SFI Research Centre for Data Analytics at DCU and the Site Reliability Engineering (SRE) lab at Huawei Ireland Research Centre in Dublin. The overarching goal of the project is to evaluate the scalability of various microservices in the Huawei cloud system with an intention to devise intelligent prediction models and detection algorithms using machine learning and deep learning techniques to effectively assess system performance when cloud-based services go beyond their limits in terms of resource consumption. The developed algorithms, models and tools will be integrated and implemented with links to real-world production system in Huawei to further enhance reliability and scalability of its cloud services.
+
+The Role
+
+This position is for a postdoctoral researcher who will be recruited on a fixed term contract basis to be responsible for the research design, model and tool development, performance evaluation and experimental validation of data for Huawei cloud. The postdoctoral researcher will be working closely with a full-time research assistant who will also be recruited for the whole cycle of the project. Both researchers will collaborate deeply with the PI and the international experts in the Huawei teams.
+
+Principle Duties And Responsibilities
+
+Specific duties of this post include but are not limited to:
+Develop algorithms for scalability assessment of microservices.
+Develop AI-learning models for prediction of workload and resource consumption.
+Validate algorithms and models on the available datasets.
+Develop algorithms and software components to detect bottlenecks of systems.
+Compare resource consumption of microservices in its architecture and releases.
+Provide support and advice to the research assistant working on the project.
+Assist with presentation and demonstrate research outcome to the industry partner.
+Carry out documentation and reports for project deliverables in a timely manner.
+Produce top quality journal and conference publications, in collaboration with the PI and the industry partner.
+Participate in Insight Centre activities, including industry showcases, annual reviews and industry and agency visits to the Insight labs.
+Engage in administrative work associated with the programme of research as necessary.
+Engage in other tasks relevant to successfully implementing the project.
+
+
+Qualifications And Experience
+
+Minimum criteria
+
+The ideal candidate will have a PhD in Computer Science, Software Engineering or a related discipline with strong software and programming skills and relevant experience in cloud services and operational principles, data modelling, analytics and machine learning.
+
+In addition to the above it is desirable that the candidate possess a subset of the following skills.
+Excellent written and oral proficiency in English (essential).
+Excellent written and verbal communication and interpersonal skills.
+Proven ability to prioritize workload and work to strict deadlines.
+Ability to work in a team and to take responsibility to contribute to the overall success of the team.
+Strong problem solving abilities.
+Proven programming skills in two or more: Bash, Perl, Python, Ruby, PHP, Java, Shell, C.
+Familiar with Docker, microservices, Kubernetes and other software technologies.
+Ability to debug and optimize code and automate routine tasks.
+Experience in processing and analysis of large datasets.
+Good knowledge of machine/deep learning techniques, packages and frameworks.
+Previous SRE experience in the ICT industry or European projects (preferable).
+Experience in using machine learning to analyse and forecast key site metrics, and detect anomalies (preferable).
+
+Mandatory Training
+
+The post holder will be required to undertake the following mandatory compliance training: Orientation, Health and Safety and Intellectual Property and Data Protection training. Other training may need to be undertaken when required.
+
+Candidates Will Be Assessed On The Following Competencies
+
+Discipline knowledge and Research skills – Demonstrates knowledge of a research discipline and the ability to conduct a specific programme of research within that discipline.
+
+Understanding the Research Environment – Demonstrates an awareness of the research environment (for example funding bodies) and the ability to contribute to grant applications.
+
+Communicating Research – Demonstrates the ability to convey their research with their peers and the wider research community (for example presenting at conferences and publishing research in relevant journals) and the potential to teach and tutor students.
+
+Managing & Leadership skills - Demonstrates the potential to manage a research project including the supervision of undergraduate students.
+Seniority Level
+Entry level
+Industry
+Higher Education Education Management Research
+Employment Type
+Contract
+Job Functions
+Research Analyst Information Technology

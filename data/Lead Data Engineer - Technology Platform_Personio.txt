@@ -1,0 +1,62 @@
+Lead Data Engineer - Technology Platform
+Personio
+Dublin, County Dublin, Ireland
+The Role
+At Personio we are on the amazing journey of exponential customer and product growth. After our recent $125M Series D funding we are the most valuable HR tech company in Europe and we are investing heavily in our Technology Platform.
+
+The mission of the Technology Platform tribe is to ensure Personio is built and operated with excellence. We are responsible for ensuring our application adheres to the highest technical standards, and ensuring our engineers have the tools and infrastructure to achieve this. We measure engineering excellence through core metrics of software development delivery. We use these metrics to drive initiatives that enable our peer engineering teams to build, test, deploy, monitor and operate Personio to the highest industry standards. We believe that technical engineering excellence is the foundation for product development excellence and the foundation of Personio’s success as a company.
+
+Responsibilities
+
+You will be responsible for building data pipelines, tools, libraries and microservices which enable the discovery, visualization, and analysis of data to fuel a data driven organization
+
+We crave data driven decisions and we are creating a new Data Engineering team to fulfill this need. We are looking for a Lead Engineer to set the foundations for this team and shape the data and engineering culture for our platform. You will work in an effective, autonomous enablement team, where you will have the freedom to define and build a high-impact driven environment.
+Architecting and creating data pipelines is your primary responsibility. You will design, build and manage data pipelines which consist of a series of stages through which data flows.
+You will select and use modern tools, techniques and architectures to partially or completely automate the common, repeatable data preparation to minimize manual and error prone processes.
+You will need strong stakeholder skills to work with varied partners. In particular, you will work in close relationships with other product engineering and business intelligence teams in refining their data requirements.
+You will ensure compliance with data classification and handling guidelines
+
+What You Need To Succeed
+At least four years professional experience in data management, data architecture, data integration, modelling, optimization, and data quality and other relevant to data engineering tasks.
+At least two years of experience working in teams with collaborators to support a cross-team data management and analytics initiative.
+Experience with advanced analytics tools or scripting using languages such as Go or Python, potentially hosted on AWS EC2 or Lambda
+Experience with design and management of data pipelines for data structures encompassing data extraction, load, transformation, data models, schemas, and metadata.
+Experience analysing and optimizing existing ETL processes, data integration, data preparation flows and moving them in production.
+Experience working with a some or all of these technologies: NoSQL, RDBMS, AWS Redshift, Athena, PostgreSQL, MySql and DynamoDB
+
+How We Work
+We want to build a category leader for HR software in Europe. You should bring passion for making the lives of others (in our case: Employees and HR professionals) better
+We are experiencing rapid growth and are “building our plane while flying it”. So bring your agile mindset to the table!
+Embrace feedback - no one is perfect, neither are we. So let’s make this an opportunity to praise and learn from each other
+Proactive problem solver. You are willing to leave code and engineering practices in a better shape than when you first encountered them
+Let’s grow together - share your knowledge, we will share ours!
+Humour. Have fun with us, learn with us from mistakes and bring your good vibes
+Why Personio
+
+Work With Us And Receive
+
+Aside from our people, culture, and mission, there are a variety of additional benefits that help make Personio a great place to work.
+Competitive compensation package that includes salary, benefits, and pre-IPO equity
+Two Impact days you can use to have an impact on the environment and society. One day is for an individual project and one for a company-wide initiative! #SocialResponsibility
+26 days of paid vacation + 2 days off for Christmas and New Year's Eve (because we love what we do, but we also love vacation!)
+Annual personal development budget of €1,500 for conferences, courses, books, career coach, etc.
+Regular company and team events like Oktoberfest, ski trips, Christmas parties, and more! (COVID permitting)
+Flexibility to balance work between remote and in the office
+Comprehensive healthcare scheme covered for each permanent employee (excl. taxes).
+Pension scheme with up to 5% matching contribution
+Discounts across a range of brands so you can save money while shopping at Adidas, LG, Bosch, Apple, Dia, etc.
+Mental health support, as we know that mental wellbeing plays a major role in both our personal and professional success. #PersonioCares
+
+The well-being of our employees is paramount. Although we’ve recently opened our Dublin office in the City Centre area, all employees are currently working from home, the office or a combination of the two at their discretion due to Covid-19.
+
+Personio is an equal opportunities employer and does not discriminate on the grounds of gender, civil status, family status, sexual orientation, religion, age, disability, race or being a member of the traveller community.
+
+Apply for this position
+Seniority Level
+Associate
+Industry
+Information Technology & Services Computer Software Internet
+Employment Type
+Full-time
+Job Functions
+Information Technology

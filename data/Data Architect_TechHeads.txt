@@ -1,0 +1,62 @@
+Data Architect
+TechHeads
+County Limerick, Ireland
+Posted by
+Eoin Coonan
+Principal Recruiter at ERS Recruitment
+Send InMail
+Data Architect
+Permanent
+ The Role:
+Responsible for evaluating the current state of the company’s databases and data systems. Analyse, identify new solutions to increase efficiency, performance and data insights . Designs database solutions to ensure company information is stored effectively and securely. Defines the overall data structure, including recovery, security, integration, backup, and capability specifications.
+Responsible for design and maintenance of Enterprise Data Model. Developing database solutions to store and retrieve company information data strategy. Analysing structural requirements for new software and applications. Works closely with data engineers in designing and building company data.
+
+We are looking for a Data Architect to build, optimize and maintain conceptual and logical database models. Creates database solutions, evaluates requirements, documents systems, designs integrations and data consumption layers including interfaces and reports. 
+
+Primary Objectives:
+Design and Maintenance of Enterprise data model
+Analyses system requirements
+Architectural designs of integration and migration methods for data
+Develop database solutions to store and retrieve company information
+Optimize new and current data systems
+Design and implement effective database solutions and models to store and retrieve company data
+Examine and identify database structural necessities by evaluating client operations, applications, and programming
+Prepare accurate database design and architecture reports for management and executive teams
+Recommend solutions to improve new and existing database systems
+Educate staff members through training and individual support
+Work as bridge between BA and developers translating BA requirements into technical solutions
+Analysing and documenting business processes, system architecture and business/functional requirements
+Creating standards, structures and data governance
+Designing integration architecture including: data flow, process flow and ETL integrations
+Documentation and design of data consumption layer including definition of reports, interfaces and Rest API architecture
+Defining and supervising implementation of Enterprise Data Standards and good practices
+Redesign the Integration, Rest API layer, Web services, Data flows between applications
+ Knowledge & Skills
+Proven 7+ years work experience as a Data Architect, Data Scientist, Data/System Analyst or similar role
+In-depth understanding of database structure principles
+Experience gathering and analysing system requirements
+Knowledge of data mining and segmentation techniques
+Expertise in SQL and Oracle
+Knowledge of DB tuning
+Proven analytical skills
+Familiarity with data visualization tools
+Problem-solving attitude
+Strong knowledge of database structure systems and data mining
+Excellent organizational and analytical abilities.
+Outstanding problem solver
+Good written and verbal communication skills.
+Experience in working across multiple business processes, systems and platforms
+Experience with business process mapping/documentation, developing use cases, documenting system architecture and creating concept and context diagrams
+Strong process documentation skills
+Hands-on experience with Enterprise Architect or similar tool for UML modelling
+Experience in designing Enterprise Solutions
+   Desirable:
+·      Knowledge of big data tools i.e Kafka, Spark, Mongo DB
+Seniority Level
+Mid-Senior level
+Industry
+Staffing & Recruiting
+Employment Type
+Full-time
+Job Functions
+Engineering Information Technology

@@ -1,0 +1,53 @@
+Machine Learning Engineer
+Rent The Runway
+Galway, County Galway, Ireland
+Posted by
+Eileen McNicholas
+Technical Recruiting at Rent The Runway
+Send InMail
+Machine Learning Engineer About Us
+
+Rent the Runway (RTR) is transforming the way we get dressed by pioneering the world’s first Closet in the Cloud. Founded in 2009, RTR has disrupted the $2.4 trillion fashion industry by inspiring women with a more joyful, sustainable and financially-savvy way to feel their best every day. As the ultimate destination for circular fashion, the brand now offers infinite points of access to its shared closet via a fully customizable subscription to fashion, one-time rental or ownership. RTR offers designer apparel, accessories and home decor from 700+ brand partners and has built in-house proprietary technology and a one-of-a-kind reverse logistics operation. Under CEO and Co-Founder Jennifer Hyman’s leadership, RTR has been named to CNBC’s “Disruptor 50” five times in ten years, and has been placed on Fast Company’s Most Innovative Companies list multiple times, while Hyman herself has been named to the “TIME 100" most influential people in the world and as one of People magazine’s “Women Changing the World.”
+
+About The Team
+
+Recognising Ireland’s significant technology talent, Rent The Runway established its first operation outside of the U.S, creating an E.U Software Development and Technology hub in the historic Claddagh area of Galway city centre in 2019. The growing team of software engineers and data scientists tackle core technology challenges critical to Rent the Runway’s overall success and the future of the next generation of services. Our employees have the opportunity to launch and grow their careers across a number of exciting roles in Data Science, Machine Learning, engineering and technology.
+
+About The Role
+
+Machine Learning Engineers at Rent the Runway create data products that have tangible effects on our customer experience and internal operations. You will own projects end to end, from framing which problems to tackle through transforming information from our massive data ecosystem into actionable insights, and ultimately building & integrating algorithms into our network of services in collaboration with our product & software engineering teams.
+
+You will have the opportunity to impact all parts of our business: determining what inventory assortment to buy, optimizing the lifespan of that inventory, establishing the right network of warehouses & transportation methods to best serve our customers, personalizing the user experience, optimizing user acquisition & retention, investigating how we can improve customer service by serving the right information at the right time, optimally pricing clothing rentals and sales, forecasting demand and more.
+
+What You’ll Do
+Work on a team of peers in an environment that will keep you constantly challenged and learning new things every day.
+Develop and deploy performant algorithms powering customer-facing applications that are core to our business and success.
+Collaborate closely in an equal partnership with our business, product and engineering teams.
+Have a significant voice both in what you work on and how the work is carried out.
+About You
+5+ years work experience building data products, preferably with Python , and integrating them into internal and customer-facing applications in production environments. Bonus points if you’ve: built & maintained services using AWS, GCP ; deployed & maintained production deep learning models using frameworks such as Tensorflow, PyTorch, Keras in a business environment.
+Ability and desire to own your project through its entire lifecycle, from data exploration and analysis to modeling, experimentation, production implementation, monitoring, and communication with stakeholders.
+Experience transforming vague problems into algorithmic solutions
+Desire to drive serious business impact and a bias to action. You like to move fast, you follow through, and you’re accountable to the results.
+Owner’s mindset. No job is too big or too small, and you always leave things better than you found them.
+An innate curiosity and an open mind.
+Benefits
+
+At Rent the Runway, we’re committed to the happiness and wellbeing of our employees, and aim to create a workplace that fosters both personal and professional growth. Our inclusive benefits include, but are not limited to:
+Generous Paid Time Off including annual leave, paid bereavement, and family sick leave - every employee needs time to take care of themselves and their family.
+Universal Paid Parental Leave for both parents + flexible return to work program - because we know your newest family member(s) deserve your undivided attention.
+Paid Sabbatical after 5 years of continuous service - Unplug, recharge, and have some fun!
+Competitive Stakeholder Pension - taking care of your future.
+Comprehensive health, dental care and dependents care from day 1 of employment - Your health comes first and we’ve got you covered.
+Company wide events and outings - our team spirit is no joke - we know how to have fun!
+Hybrid Work - when our corporate employees return to the office post COVID they will have the option to work remotely 2-3 days a week, in accordance with Company policies.
+Rent the Runway is an equal opportunity employer. In accordance with applicable law, we prohibit discrimination against any applicant or employee on any legally-recognised basis, including, but not limited to: gender, marital status, family status, age disability, sexual orientation, race, religion, and membership of the Traveller community.
+
+Seniority Level
+Mid-Senior level
+Industry
+Marketing & Advertising Internet Retail
+Employment Type
+Full-time
+Job Functions
+Strategy/Planning Analyst Information Technology

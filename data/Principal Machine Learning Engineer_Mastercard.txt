@@ -1,0 +1,66 @@
+Principal Machine Learning Engineer
+Mastercard
+Dublin, County Dublin, Ireland
+Our Purpose
+
+We work to connect and power an inclusive, digital economy that benefits everyone, everywhere by making transactions safe, simple, smart and accessible. Using secure data and networks, partnerships and passion, our innovations and solutions help individuals, financial institutions, governments and businesses realize their greatest potential. Our decency quotient, or DQ, drives our culture and everything we do inside and outside of our company. We cultivate a culture of inclusion for all employees that respects their individual strengths, views, and experiences. We believe that our differences enable us to be a better team – one that makes better decisions, drives innovation and delivers better business results.
+
+Job Title
+
+Principal Machine Learning Engineer
+
+Mastercard is a global technology company. Our mission is to connect and power an inclusive, digital economy that benefits everyone, everywhere by making payment and data transactions safe, simple, smart, and accessible. Using secure data and networks, partnerships and passion, our innovations and solutions help individuals, financial institutions, governments, and businesses realize their greatest potential.
+
+Overview
+
+ML Engineering team leads AI/ML deployments across Mastercard platforms. The team is responsible for leading the implementation of AI/ML based solutions, proposing the right architecture & technologies, and evaluating the evolution of the architecture as the needs change.
+
+For this team, MasterCard is seeking a Principal Software Engineer who is passionate about implementation of AI/ML assets across platform (on premise, on cloud, hybrid). The person would be working closely with Product, Program as well Data Science teams.
+
+Responsibilities
+Responsible for presenting AI/ML architecture design/details to Data Science,
+Program, Product and Architect group.
+Responsible to advance, improve, stand-up AI/ML framework over K8S based
+platform with architect and engineering groups.
+Responsible for accelerating modern architecture-based development or
+deployment of AI/Machine Learning solutions using light weight stack and
+scaled version of modelling techniques.
+Provide service to other engineering teams across organization, cross
+functions to deliver quality architecture for AI/ML model deployments or
+serving.
+
+Experience
+8-10-year experience working in AI/ML technology domain or similar.
+Experience in building and deploying AI/ML models in enterprise production
+environments/large scale projects with modern light weight design (API,
+Microservices etc.)
+Hands on experience in standing up K8S based AI/ML platform as well as
+working with workloads inside Kubernetes environment is required.
+Good knowledge of Machine learning —bias-variance trade off,
+exploration/exploitation—and understanding of various model families,
+including neural net, decision trees, Bayesian models, deep learning
+algorithms.
+Experience with ML frameworks and libraries like TensorFlow, Keras, Pytoch,
+Kubeflow etc.
+Prior experience with Enterprise AI/ML Architecture pillars– BDAT
+Ability to learn new technologies quickly and mentor other team members in
+AI/ML domain.
+Proven track record of delivering and willingness to roll up sleeves to get the
+job done.
+Current with industry trends on On-premise or Cloud native deployments.
+Proficiency with cloud technologies (IaaS, PaaS, serverless technology) micro-
+service design, CI/CD, DevOps.
+Excellent communication/presentation skills
+Due to COVID-19, most of our employees are working from home. We’ve implemented a virtual hiring process and continue to interview candidates by phone or video and are onboarding new hires remotely. We value the safety of each member of our community because we know we’re all in this together.
+
+Mastercard is an inclusive Equal Employment Opportunity employer that considers applicants without regard to gender, gender identity, sexual orientation, race, ethnicity, disabled or veteran status, or any other characteristic protected by law.
+
+If you require accommodations or assistance to complete the online application process, please contact reasonable.accommodation@mastercard.com and identify the type of accommodation or assistance you are requesting. Do not include any medical or health information in this email. The Reasonable Accommodations team will respond to your email promptly.
+Seniority Level
+Associate
+Industry
+Financial Services Information Technology & Services Internet
+Employment Type
+Full-time
+Job Functions
+Engineering Information Technology

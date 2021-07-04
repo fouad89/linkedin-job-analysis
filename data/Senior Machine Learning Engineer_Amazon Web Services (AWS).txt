@@ -1,0 +1,45 @@
+Senior Machine Learning Engineer
+Amazon Web Services (AWS)
+Dublin, County Dublin, Ireland
+Description
+
+**This role can be based in UK, Luxembourg or Germany.**
+
+Amazon Web Services (AWS) EMEA is looking for an experienced Machine Learning Engineer, who will take the role of a prototyping architect, enabling AWS customers on designing and prototyping of Machine Learning solutions leveraging AWS services across a wide range of industries.
+
+The Sr. Machine Learning Engineer will be part of the EMEA Prototyping Labs Machine Learning Team. This team includes data scientists and machine learning engineers working with AWS customers to support designing complex analytics environments, machine learning and deep learning solutions leveraging AWS services.
+
+The Sr. Machine Learning Engineer will be proactively leading prototypes with the customer’s technical team to co-develop early iterations of cutting-edge machine learning solutions, often exploring new technical grounds. The engagement with customer team involves understanding their specific business and technology challenges in the area of machine learning, support hands-on building machine learning/deep learning prototypes and transfer knowledge on specific AWS services to them. Prototyping engagements will usually require to travel to customers across EMEA and work 2-3 weeks on-site in a temporary Lab-like environment.
+
+
+Basic Qualifications
+Strong background and experience in the field of Data Science, Machine Learning, Deep Learning and related technologies such as aggregating/transforming data, exploring/manipulating data, building & validating models, creating training & inference pipelines/workflows and deploying at scale
+Previous experience on developing AI models in real-world environments, MLOps, and integrating AI/ML, and other services, into large-scale production applications
+Proficiency in Python programming language
+Strong verbal and written communication skills, as well as the ability to work effectively across internal and external organizations and virtual teams
+Demonstrated ability to operate in a highly innovative and fast-paced environment
+A strong sense of ownership, urgency, and drive
+Ability to think strategically about business, product, and technical challenges in an enterprise environment
+Understanding of Agile methodologies, and the ability to apply these practices to Machine Learning projects
+Experience growing, coaching and leading people
+Preferred Qualifications
+Being able to make decisions within a dynamic and ever-changing environment
+Previous experience in prototyping, teaching and customer facing technical positions is a valuable asset
+Experience with Machine and Deep Learning toolkits such as MXNet, TensorFlow, Theano, Keras, PyTorch, Gluon and Caffe
+Experience with productionizing Machine Learning Models with Containers
+Experience with Machine Learning at the Edge (optimization, HW accelerators, GPU, distributed computing)
+Experience with AWS services related to AI/ML is a strong plus, particularly Amazon SageMaker, AWS Lambda, AWS Step Functions, AWS Glue, AWS IoT & Greengrass, Amazon DynamoDB, Amazon S3, Amazon EC2 Container Service, etc.
+Experience using CI/CD tools and pipelines
+Proficiency with programming languages such as R, Java, C/C++, PySpark, Scala
+Experience with statistical/mathematical software (e.g. R, Weka, SAS, Matlab) is plus
+
+Company - AWS EMEA SARL (Irish Branch)
+Job ID: A1537596
+Seniority Level
+Mid-Senior level
+Industry
+Computer Software Information Technology & Services Internet
+Employment Type
+Full-time
+Job Functions
+Consulting Information Technology Engineering

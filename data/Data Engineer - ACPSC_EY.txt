@@ -1,0 +1,77 @@
+Data Engineer - ACPSC
+EY
+Dublin, County Dublin, Ireland
+At EY, we are expanding our Technology Consulting practice and specifically building our Digital and Emerging Technology team. Due to this expansion we are seeking to recruit high achieving individuals to be part of our growing business.
+
+The opportunity
+
+We are recruiting Data Engineers primarily at Consultant or Senior Consultant levels for the Technology Consulting team.
+
+We are seeking individuals with significant client-side experience or individuals who have gained project and technology delivery experience within large recognised organisations.
+
+Client Responsibilities
+
+Your key responsibilities
+Help to build valued relationships with external clients and internal peers.
+Participate in presentations and proposals for medium complex projects or elements of highly complex projects.
+Create high-quality work products and develop deep knowledge in one or more services, leveraging knowledge and experience to shape services to client problems.
+Understand our service offerings and help to identify opportunities to better serve clients.
+Build internal relationships within Technology Consulting.
+
+People Responsibilities
+Develop people through effectively supervising, coaching, and mentoring more junior members of staff.
+Be responsible for your own self-development, and maintain an educational program to continually develop personal skills.
+Understand and follow workplace policies and procedures.
+
+Skills And Attributes For Success
+Data Engineering and Data Wrangling Experience.
+SQL.
+Curious and personable with strong teaming skills.
+Business and requirements analysis.
+Azure Data Platform such as Azure Data Factory, and Azure SQL is desirable.
+Strong Python development skills
+Communications and client interactions
+Understanding application of project mgmt. and agile methodologies
+Strong skills in one object orientated language
+Fair understanding of scripting
+
+To qualify for the role, you must have
+Excellent SQL, preferably T-SQL, development skills.
+Experience in data wrangling and standard data cleansing, in different formats, including CSVs and structured tables.
+Good understanding with Microsoft BI toolset, including O365 tools and PowerPlatform (PowerApps/PowerAutomate/PowerBI).
+Good understanding of Azure cloud ETL toolset, including Azure SQL Server, Azure Data Factory, Datalake.
+Familiar with Microsoft Azure Cloud infrastructure, data stores connections, cloud functions concepts.
+
+Ideally, you’ll also have
+Relevant academic background
+Participation in the opensource community
+Exposure to automation or digital transformation
+Understanding of cloud architectures
+Certification in MS Azure or AWS Cloud data engineering or similar track
+Understanding of the Software Development Life Cycle.
+Excellent presentation skills.
+
+What We Look For
+
+We are seeking individuals with strong SQL and Data Engineering experience and who have a real passion for data.
+
+What Working At EY Offers
+
+We offer a competitive remuneration package where you’ll be rewarded for your individual and team performance. Our comprehensive Total Rewards package includes support for flexible working and career development, and with FlexEY you can select benefits that suit your needs, covering holidays, health and well-being, insurance, savings and a wide range of discounts, offers and promotions. Plus, we offer
+Support, coaching and feedback from some of the most engaging colleagues around
+Opportunities to develop new skills and progress your career
+The freedom and flexibility to handle your role in a way that’s right for you
+
+About EY
+
+As a global leader in assurance, tax, transaction and advisory services, we’re using the finance products, expertise and systems we’ve developed to build a better working world. That starts with a culture that believes in giving you the training, opportunities and creative freedom to make things better. Whenever you join, however long you stay, the exceptional EY experience lasts a lifetime. And with a commitment to hiring and developing the most passionate people, we’ll make our ambition to be the best employer by 2020 a reality.
+
+If you can confidently demonstrate that you meet the criteria above, please contact us as soon as possible.
+
+Apply now.
+Industry
+Accounting Financial Services
+Employment Type
+Full-time
+Job Functions
+Information Technology

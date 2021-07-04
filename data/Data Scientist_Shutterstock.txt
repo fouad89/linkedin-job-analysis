@@ -1,0 +1,65 @@
+Data Scientist
+Shutterstock
+Dublin, County Dublin, Ireland
+The Opportunity
+
+Shutterstock is a technology company that powers one of the world's largest two-sided marketplaces for high-quality photos, illustrations, videos and music used by individuals, businesses, marketing agencies and media organizations of all sizes. In this role, you will be working with highly motivated and extremely talented data scientists on large datasets, you will help us discover insights hidden in vast amounts of data and help us make smarter decisions to deliver even better products. Your primary focus will be in applying data mining techniques, AI algorithms, deep learning and machine learning, doing statistical analysis and building high quality prediction systems integrated with our products and solutions. Along the way you will be collaborating with an extremely talented and passionate team of researchers, data scientists and engineers from around the world working for Shutterstock. We believe strongly in team ownership of systems, which includes defining the vision of the services to prioritization of projects.
+
+You will join a diverse and international team in our Dublin offices, which are located just off Grafton Street in the heart of the city.
+
+Responsibilities
+
+Build end-to-end solutions to efficiently develop data projects on large scale data like images, videos, music, customer interactions, and marketing
+
+Enhancing data collection procedures to integrates multiple sources, or types of data, for building innovative data science projects
+
+Investigate new techniques to verify the integrity and the quality of data used in modelling phase and in production along with statistically validating the results against biases and errors
+
+Selecting features, building and optimizing machine learning and statistical models
+
+Analyze data from across Shutterstock including behavioral data to build new recommendation systems, to create automated anomaly detection systems and to predict customers’ interests and intent
+
+Working with data engineers, analysts and business partners to drive ideas from the rapid prototyping phase all the way through to serving and learning from live traffic at scale
+
+Software development with innovative deep learning and machine learning algorithm
+
+Requirements
+
+3+ years of experience with common machine learning tools like Scikit-Learn and deep learning frameworks like TensorFlow, Keras, Torch/PyTorch.
+
+3+ years of industry experience creating, deploying, and monitoring learning algorithms in production
+
+Notebook experience [Jupyter, Zeppelin, Databricks, etc] to perform data analysis and algorithm development using Python
+
+Excellent applied statistics skills, such as distributions, regression, hypothesis testing, A/B testing and experimental design
+
+Fluent coding in one or more programming and query languages including but not limited to Python, C, Java, and SQL
+
+BS or MS in Computer Science or equivalent experience
+
+Bonus Skills
+
+Experience with NoSQL databases, such as MongoDB, Cassandra, HBase
+
+Cloud computing experience
+
+Docker or Kubernetes exposure
+
+Computer Vision experience and natural language processing,
+
+Ph.D. in a related scientific field: Computer science, Physics, Math
+
+Shutterstock Principles
+
+We are one team collectively focused on creating an unrivaled experience for our Customers and Contributors. Our principles represent the mindset of the employee who will thrive at Shutterstock. If you are passionate about what you do, and want to become part of a cutting-edge technology company building industry leading products, please apply.
+Job Info
+Type: Full time
+Location: Dublin
+Seniority Level
+Entry level
+Industry
+Information Technology & Services Computer Software Internet
+Employment Type
+Full-time
+Job Functions
+Engineering Information Technology

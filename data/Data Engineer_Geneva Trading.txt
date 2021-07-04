@@ -1,0 +1,45 @@
+Data Engineer
+Geneva Trading
+Dublin, County Dublin, Ireland
+How You Can Make An Impact
+
+As a Data Engineer on our team, you will manage a variety of datasets and data pipelines for traders, researchers, and other critical departments across the organization. You will use modern technologies to deliver high-volume data in near-real-time and manage our solution to measure/monitor the performance of our applications. In addition, you will build dashboards to provide real-time insights and help guide the next iteration of application development with usage statistics.
+Design metrics, usage statics per application, work with application developers on instrumentation
+Build Splunk dashboards, alerts, data models, and reports
+Design and develop analytics solutions with traders and researchers
+Design and develop data solutions with application developers
+Manage data pipeline components to deliver high-volume, near-real-time data to various teams
+Manage our Splunk installation and data pipeline for centralized log and metrics collection
+Manage best-practice guidelines for logging and metrics 
+Provide technical support to data consumers
+
+
+What You'll Need 
+
+Bachelor’s degree in Computer Science or an engineering field of study 
+3+ experience in Data Engineering or DevOps, prior financial services environment highly preferred
+3+ experience using Splunk
+Demonstrated experience in the following areas:
+Working in a Linux environment
+Python 
+KDB, MongoDB, and SQL Server
+High-performance data serialization
+Real-time messaging systems
+Operating systems and networking concepts
+Continuous integration (CI) / continuous delivery (CD) tools
+Google Cloud Platform or other cloud providers
+Splunk Certifications highly preferred
+
+Who We Are 
+
+Geneva Trading LLC is a global principal trading firm founded in 1999 with offices in Chicago and Dublin. Our dedication to improving and optimizing our best-in-class proprietary technology allows our firm to compete on all levels in the global trading industry. We pride ourselves on a collaborative culture of integrity, trust, passion, and dedication to personal excellence. Our flat organizational structure and casual environment attract individuals with the drive to innovate.
+
+We are an equal opportunity employer and value diversity at our company. We do not discriminate based on gender, civil status, family status, sexual orientation, religious beliefs, age, disability, race, color, nationality, ethnicity, national origins, or membership of the Traveller community. 
+Seniority Level
+Mid-Senior level
+Industry
+Financial Services Capital Markets
+Employment Type
+Full-time
+Job Functions
+Information Technology Engineering

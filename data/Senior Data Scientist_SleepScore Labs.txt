@@ -1,0 +1,53 @@
+Senior Data Scientist
+SleepScore Labs
+Dublin, County Dublin, Ireland
+Posted by
+Rachel Spector Whiffin, MBA, SPHR-CA 2nd
+Strategic HR Leader ✯ PIHRA San Diego Board Member ✯ Leadership & Talent Development ✯ HR Operations ✯ Facilitation ✯ Employee Relations ✯
+Send InMail
+Position: Senior Data Scientist
+Reports to: Data Science Lead
+Location: Dublin, Ireland (relocation is not available)
+
+About the Position:
+SleepScore Labs is looking for a Senior Data Scientist to help improve the sleep of millions of SleepScore users. In this role you will be responsible for developing, implementing and monitoring innovative machine learning/AI solutions to help us to achieve our goals. You will have the opportunity to tackle complex and exciting problems, the solutions to which will have profoundly positive impacts on the lives of those who encounter them.
+
+Core Responsibilities:
+Design, implement and launch innovative AI solutions to improve millions of lives.
+Work closely Engineers, Product Owners and Domain Experts to realize the goals of particular projects.
+Derive meaningful insights from complex, sleep related datasets
+Stay current with innovations in the field and share knowledge with the team as a whole
+Contribute to papers and publications. 
+ 
+Ideal Candidate Must Have the Following:
+A passion for problem solving
+3+ years’ developing and deploying machine learning solutions at scale
+Practical experience developing consumer facing applications.
+MS or higher in a quantitative or technical field (e.g. Economics, Statistics, Sciences, Engineering, CS).
+Practical experience with machine learning frameworks (i.e. Scikit-Learn, Pytorch, fastai, Tensorflow).
+Experience of database technologies such as MS SQL, Azure Table Storage.
+Excellent communications skills with technical and non-technical audiences.
+ 
+Nice To Have:
+Experience developing and deploying Neural Networks, particularly in the areas of Image Recognition, Audio Recognition and NLP.
+Good understanding and/or practical experience of Causal Discovery and inference methods.
+Experience with Spark and Spark ML.
+Knowledge of software development practices and use of Version Control Systems (particularly Git). 
+Have worked in an Agile environment. 
+Experience within Microsoft stack / Azure cloud. 
+
+About SleepScore Labs:
+We are sleep experts from institutions like ResMed, Philips, Apple, Samsung, Harvard, and the American Association of Sleep Medicine driven by a shared mission to unlock the human potential through healthier lives through the power of sleep.
+ After studying over 70 million hours of objective and contextual sleep data, we’ve applied what we learned to the most accurate sleep monitoring technology (which is also non-contact), advanced sleep improvement system, and a store of sleep solutions that are backed by science through the validation studies we conduct. We also developed the world’s most accurate sleep app which measures your sleep and offers personalized advice and product recommendations.
+
+In 2020, our app was selected by the New York Times’ Wirecutter as the “Best Sleep Tracking App” multiple times and was called out as “the most intuitive and convenient app and the only one that gives detailed recommendations for improving sleep.”
+
+SleepScore Labs is proud to be an equal opportunity employer committed to a diverse and inclusive work environment. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity or expression, national origin, age, marital status, disability, veteran status or any other basis protected by law.
+Seniority Level
+Mid-Senior level
+Industry
+Health, Wellness & Fitness
+Employment Type
+Full-time
+Job Functions
+Engineering Information Technology

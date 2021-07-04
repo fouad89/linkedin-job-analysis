@@ -1,0 +1,44 @@
+Research Scientist - Artificial Intelligence, Machine Learning, Deep Learning, PhD
+Afiniti
+Dublin, County Dublin, Ireland
+Who are we?
+Afiniti is the world’s leading applied artificial intelligence and advanced analytics provider. Afiniti Enterprise Behavioral Pairing™ uses artificial intelligence to identify subtle and valuable patterns of human interaction in order to pair individuals on the basis of behavior, leading to more successful interactions and measurable increases in enterprise profitability. Afiniti operates throughout the world and has measurably driven billions of dollars in incremental value for our clients.
+
+Purpose
+Afiniti uses data science and operations research to enhance human interactions in large enterprises by efficiently pairing customers or tasks with company representatives. Our primary focus is improving contact center interactions for sales, service, retention, collections, and customer satisfaction in fields ranging from telecommunications to healthcare to banking to hospitality. To ensure we’re delivering value, we measure performance using a real-time control group – routing a portion of calls using the client’s existing system and the majority of calls using our data-scientist-designed pairing and next best action recommendation strategies. Clients are billed on our incremental improvement, so model quality is central to our product.
+
+Key Responsibilities
+Develop modeling, simulation, and validation tools to support our AI production team
+The particular challenges of our domain require applying a wide range of classical to cutting-edge techniques – often with extensive tailoring – to build models and statistically validate their predicted performance. This involves careful analysis of complex environments and the ramifications of a change to our real-time pairing and recommendation systems
+The R&D team works intimately with our production data scientists, so the role can involve assisting with particularly tricky client models and developing new strategies to address complicated metrics or routing structures
+You’ll also work with our engineering teams and developers to write our real-time call-tracking, pairing and task assignment systems in addition to our modeling and monitoring infrastructure
+
+You will have
+Experience with statistics, machine learning, linear programming, or mathematical optimization, both practical and theoretical
+Excellent skills at distilling complex, ambiguous scenarios into tractable models
+Familiarity with simulation and at least one programming language for data analysis such as R, Python, or Julia
+Familiarity with SQL, relational databases, version control, and tools for reproducibility such as git, Jupyter and R Markdown, make, or authoring custom packages
+Demonstrated ability to manage time independently and take projects to completion
+Willingness to both teach others and learn new techniques
+Ability to document and explain cutting-edge techniques to other team members
+Comfort working in a collaborative environment with cross-team communication to bring projects into production
+Familiarity with Bayesian statistics, hierarchical modeling, MCMC algorithms, latent factor models
+Familiarity with reinforcement learning, dynamic programming, multi-armed bandits
+Publications in machine learning, statistics, or optimization
+Software engineering experience, particularly C++
+
+
+Education & Qualifications
+Graduate degree in Statistics, Mathematics, Econometrics, Operations Research, or other field with relevant research
+
+
+Salary and Package
+As well as a competitive base salary dependent on the number of years of experience, we also offer corporate benefits.
+Seniority Level
+Associate
+Industry
+Information Technology & Services Computer Software Telecommunications
+Employment Type
+Full-time
+Job Functions
+Other

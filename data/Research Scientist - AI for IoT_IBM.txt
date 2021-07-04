@@ -1,0 +1,58 @@
+Research Scientist - AI for IoT
+IBM
+Dublin, County Dublin, Ireland
+Introduction
+
+IBM Research Scientists are charting the future of Artificial Intelligence, creating breakthroughs in quantum computing, discovering how blockchain will reshape the enterprise, and much more. Join a team that is dedicated to applying science to some of today's most complex challenges, whether it’s discovering a new way for doctors to help patients, teaming with environmentalists to clean up our waterways or enabling retailers to personalize customer service.
+
+Your Role and Responsibilities
+
+IBM Research is looking for outstanding candidates with a strong research and innovation track record in the area of AI for Internet of Things. The candidate should have deep knowledge in machine learning for time series data, semantic modelling and reasoning and/or optimization for IoT systems with applications in industry 4.0, asset management, sustainable computing or geospatial systems. The position is open to early career or experienced professionals.
+
+In this role you will be joining a strong and motivated team that is combining these methods to automate AI for IoT systems. Our team is leading the research on Digital Twins and Future of Infrastructure in IBM with multiple projects in collaboration with Business Units, IBM Research Labs and academic partners to innovate science and IBM products in these areas. You will be working in a stimulating environment leveraging cross-disciplinary expertise in science and technology.
+
+In your role as a Research Scientists, you will define and perform cutting-edge research and publish your research at top venues and journals in AI, IoT and sustainable computing. With your proactive and collaborative approach to creative problem solving you will be driving new research areas. You are willing to engage with internal and external stakeholders to identify opportunities, plan a research agenda, provide advice to business units based on research results, and help transfer research technologies for adoption. Our ambitious AI research agenda is both broad and deep, with leading edge projects in many areas such as automated AI, knowledge graphs, graph neural networks. We want to bring out the best in you and expect you to do the same to us.
+
+Required Technical and Professional Expertise
+
+A Master/PHD in Computer Science, Statistics, Applied Mathematics, or Engineering Disciplines
+Evidence of applying AI algorithms in the field of IoT
+An outstanding publication record at top-tier conferences/journals
+Demonstrated ability to tackle complex problems derived from real-world usecases and design, build and validate
+
+Preferred Technical And Professional Expertise
+
+Expertise and experience in programming in one or more of these languages: Python, Java, Javascript, C++
+Demonstrated experience with DevOps and AI Ops
+Experience analyzing large scale data from a variety of sources
+
+About Business Unit
+
+With more than 3,000 researchers in 12 labs located across six continents, IBM Research brings together hundreds of researchers who possess unparalleled industry expertise to address some of the world's most challenging problems. Join us as we do pioneering work in areas such as cognitive computing, augmented intelligence, quantum computing, and blockchain, to name a few.
+
+Your Life @ IBM
+
+What matters to you when you’re looking for your next career challenge?
+
+Maybe you want to get involved in work that really changes the world? What about somewhere with incredible and diverse career and development opportunities – where you can truly discover your passion? Are you looking for a culture of openness, collaboration and trust – where everyone has a voice? What about all of these? If so, then IBM could be your next career challenge. Join us, not to do something better, but to attempt things you never thought possible.
+
+Impact. Inclusion. Infinite Experiences. Do your best work ever.
+
+About IBM
+
+IBM’s greatest invention is the IBMer. We believe that progress is made through progressive thinking, progressive leadership, progressive policy and progressive action. IBMers believe that the application of intelligence, reason and science can improve business, society and the human condition. Restlessly reinventing since 1911, we are the largest technology and consulting employer in the world, with more than 380,000 IBMers serving clients in 170 countries.
+
+Location Statement
+
+IBM wants you to bring your whole self to work and for you this might mean the ability to work flexibly. If you are interested in a flexible working pattern, please talk to our recruitment team to find out if this is possible in the current working environment.
+
+Being You @ IBM
+
+IBM is committed to creating a diverse environment and is proud to be an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, gender, gender identity or expression, sexual orientation, national origin, genetics, pregnancy, disability, age, veteran status, or other characteristics. IBM is also committed to compliance with all fair employment practices regarding citizenship and immigration status.
+
+Industry
+Computer Hardware
+Employment Type
+Full-time
+Job Functions
+Science

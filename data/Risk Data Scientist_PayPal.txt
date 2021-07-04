@@ -1,0 +1,51 @@
+Risk Data Scientist
+PayPal
+Dublin, County Dublin, Ireland
+Fueled by a fundamental belief that having access to financial services creates opportunity, PayPal (NASDAQ: PYPL) is committed to democratizing financial services and empowering people and businesses to join and thrive in the global economy. Our open digital payments platform gives PayPal’s 392 million active account holders the confidence to connect and transact in new and powerful ways, whether they are online, on a mobile device, in an app, or in person. Through a combination of technological innovation and strategic partnerships, PayPal creates better ways to manage and move money, and offers choice and flexibility when sending payments, paying or getting paid. Available in more than 200 markets around the world, the PayPal platform, including Braintree, Venmo and Xoom enables consumers and merchants to receive money in more than 100 currencies, withdraw funds in 56 currencies and hold balances in their PayPal accounts in 25 currencies.
+
+Job Description Summary:
+As a Risk Data Scientist at PayPal, you will apply your strategic and analytical skills to major company challenges. You will team with world-class professionals to develop and test strategies that ultimately impact the bottom line. And you will do it all in a collaborative environment that values your insight, encourages you to take on new responsibility, promotes continuous learning, and rewards innovation.
+
+Job Description:
+About This Role
+Analysis: Identify business challenges and opportunities for improvement and solve them, using analysis to make strategic or tactical recommendations
+Product: Perform modelling/analytics to assist new product and business strategies
+Credit Risk: Support step-change improvements in risk performance by connecting drivers of future risk trends to historical behavior, creating risk models, and testing hypotheses using rigorous monitoring and analysis
+Execution: Involve problem frameworks, develop hypotheses, test and analysis, solution development, scope operational feasibility, lead implementation efforts and develop a monitoring plan
+
+About You
+Strategic & analytic orientation: Ability to be a decision maker and problem solver based on analytics. Conceptual thinking skills must be complemented by a strong quantitative orientation, given that a large part of the business is based on rigorous, analytic risk management
+Strong business judgment, leadership and integrity: You should be a tenacious decision maker, able to bring a healthy, aggressive, yet responsible approach to business
+Strong communication skills: Possess impeccable written and oral communication credentials, coupled with strategic influencing skills and the ability to drive agreement through intellect, interpersonal and negotiation skills
+Clear results orientation: Display an intense focus on achieving both short- and long-term goals. You should be able to drive and execute an agenda in an uncertain and fluid environment
+Ability to thrive in a fast paced, entrepreneurial and dynamic environment
+Bachelor’s Degree in a quantitative field (Economics, Engineering, Computer Science, Mathematics, Statistics)
+
+Preferred Qualifications
+Master’s Degree in a quantitative field preferred (Economics, Engineering, Computer Science, Mathematics, Statistics)
+1+ years of experience in statistical modelling (SAS, R, Python)
+1+ years of experience in relational database querying (SQL, Teradata)
+1+ years of experience in business analysis or consulting
+
+Join the PayPal team
+Grow your international career working for a respected global brand
+27 days paid annual leave in addition to all public holidays
+PayPal’s sabbatical programme provides four weeks of paid time off after every five years of service
+A competitive salary, a performance-related bonus and employee share scheme
+Company pension scheme, parental leave scheme & comprehensive health insurance
+Award-winning training and an education allowance
+Regular family fun days, company events and active social groups
+
+Please Note: Due to Covid-19 - the interview process, on-boarding, training and all work undertaken for this role will be conducted remotely. PayPal’s remote working policy is currently being reviewed. Apply now and one of our recruitment team will be able to discuss in more detail.
+
+We're a purpose-driven company whose beliefs are the foundation for how we conduct business every day. We hold ourselves to our One Team Behaviors which demand that we hold the highest ethical standards, to empower an open and diverse workplace, and strive to treat everyone who is touched by our business with dignity and respect. Our employees challenge the status quo, ask questions, and find solutions. We want to break down barriers to financial empowerment. Join us as we change the way the world defines financial freedom.
+
+PayPal provides equal employment opportunity (EEO) to all persons regardless of age, color, national origin, citizenship status, physical or mental disability, race, religion, creed, gender, sex, pregnancy, sexual orientation, gender identity and/or expression, genetic information, marital status, status with regard to public assistance, veteran status, or any other characteristic protected by federal, state or local law. In addition, PayPal will provide reasonable accommodations for qualified individuals with disabilities.
+
+REQ ID R0072178
+Industry
+Computer Software Financial Services Internet
+Employment Type
+Full-time
+Job Functions
+Engineering Information Technology

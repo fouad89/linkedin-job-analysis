@@ -1,0 +1,106 @@
+Machine Learning Engineer - Cork, Ireland
+Qualcomm
+Cork, County Cork, Ireland
+Company:QT Technologies Ireland Limited
+
+Job Area:Engineering Group, Engineering Group > ASICS Engineering
+
+Job Overview:
+Qualcomm is a company of inventors that unlocked 5G ushering in an age of rapid acceleration in connectivity and new possibilities that will transform industries, create jobs, and enrich lives. But this is just the beginning. It takes inventive minds with diverse skills, backgrounds, and cultures to transform 5Gs potential into world-changing technologies and products. This is the Invention Age - and this is where you come in.
+
+General Summary
+
+About the Role
+
+Join a dynamic team at Qualcomm focused on advancing state-of-the-art in ML applications. The team invents ML techniques that will change the way chips and systems are designed, by reducing long-loop iterations and enabling deeper exploration of the design solution space.
+
+We work on unsolved problems by applying ML to all aspects of VLSI from FrontEnd design to Backend and Digital and Analog circuits, with tons of data (each chip has billions of transistors).
+
+You will be expected to work on identifying new opportunities to apply ML, exploring advanced ML solution techniques, developing/testing/tuning ML algorithms, and writing/deploying/supporting production-ready software to design teams.
+
+What we would love to see
+4+ years of physical design expertise (essential)
+An amazing team player
+Understanding of math and statistical principles of ML
+Experience with ML techniques/theory and hands-on engineering of ML solutions in Python is a strong plus
+Familiarity with constraint optimization algorithms
+Strong analytical and communication skills
+3-10 years of experience after BEng
+
+Education Requirements
+Bachelors, Masters or PhD in Electrical/Computer Engineering, Computer Science, Physics or equivalent
+
+Where you will be working
+
+Cork has a proud reputation as Ireland's second largest economic engine and is now one of the Top 20 location choices in Europe with 39,000 people being employed by over 170 overseas companies.
+
+There's a growing diversity in the region with people from many nationalities relocating to Cork, relishing the opportunity to work and live in a location that offers an excellent quality of life.
+
+A gateway to Europe, Cork airport provides access to almost 50 international destinations including transatlantic air routes.
+
+About Us
+
+Qualcomm Cork, a greenfield site based in the beautiful harbour city of Cork opened its doors in August 2013 and has been growing ever since across our QCT Engineering, OneIT and HR teams.
+
+The Cork QCT engineering team is now over 220+ engineers strong and is continuing to expand. Our engineers work on all aspects of leading-edge technology (7nm, 5nm), including; Analog Mixed Signal, Security, Power Management, Sensors, Machine Learning, Modelling, Validation, Design Automation, Automotive and Physical Design. We are the R&D engine that benefits the world in three ways: Enabling Customers, Transforming Industries and Enriching Lives.
+
+Equal Opportunities
+
+We are an Equal Opportunity employer; all qualified applicants will receive consideration for employment without regard to race, colour, religion, sexual orientation, gender identity, national origin, disability, veteran status, or any protected classification.
+
+Giving Back
+
+Employees in Cork have a strong sense of community. We are encouraged through the philanthropic endeavours of the Qualcomm Foundation to support causes that matter to us.
+
+What's On Offer
+
+Apart from working in an open, relaxed and collaborative space, you will enjoy:
+Salary, stock and performance related bonus
+Employee stock purchase scheme
+Matching pension scheme
+Education assistance
+Relocation and immigration support
+Life, Medical, Income and Travel insurance
+Subsidised gym membership
+Bicycle purchase scheme
+As much Nespresso as you can handle!!!
+Free fruit every Monday and Wednesday
+Employee run clubs, including, running, football, chess, badminton + many more
+
+Keywords
+
+Deep Learning, Machine Learning, VLSI, Optimization, Algorithms, Exploratory Data Analysis, PyTorch, Python
+
+Education
+
+Minimum Qualifications
+
+Bachelors - Engineering, Bachelors - Science
+
+Certifications
+
+Work Experiences:
+
+Skills
+
+Preferred Qualifications
+
+Education
+
+Bachelors - Computer Engineering, Bachelors - Computer Science, Bachelors - Electrical Engineering
+
+Skills
+
+References to a particular number of years experience are for indicative purposes only. Applications from candidates with equivalent experience will be considered, provided that the candidate can demonstrate an ability to fulfill the principal duties of the role and possesses the required competencies.
+
+Applicants: If you are an individual with a disability and need an accommodation during the application/hiring process, please call Qualcomm’s toll-free number found here for assistance. Qualcomm will provide reasonable accommodations, upon request, to support individuals with disabilities to be able participate in the hiring process. Qualcomm is also committed to making our workplace accessible for individuals with disabilities. Qualcomm is an equal opportunity employer and supports workforce diversity.
+
+To all Staffing and Recruiting Agencies:Our Careers Site is only for individuals seeking a job at Qualcomm. Staffing and recruiting agencies and individuals being represented by an agency are not authorized to use this site or to submit profiles, applications or resumes, and any such submissions will be considered unsolicited. Qualcomm does not accept unsolicited resumes or applications from agencies. Please do not forward resumes to our jobs alias, Qualcomm employees or any other company location. Qualcomm is not responsible for any fees related to unsolicited resumes/applications.
+
+If you would like more information about this role, please contact Qualcomm Careers .
+Industry
+Computer Software Semiconductors Wireless
+Employment Type
+Full-time
+Job Functions
+Engineering Information Technology

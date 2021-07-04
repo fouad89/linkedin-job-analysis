@@ -1,0 +1,43 @@
+Data Engineer
+Verizon Media
+Dublin, County Dublin, Ireland
+It takes powerful technology to connect our brands and partners with an audience of 1 billion. Nearly half of Verizon Media employees are building the code and platforms that help us achieve that. Whether you’re looking to write mobile app code, engineer the servers behind our massive ad tech stacks, or develop algorithms to help us process 4 trillion data points a day, what you do here will have a huge impact on our business—and the world. Want in? As Verizon’s media unit, our brands like Yahoo, TechCrunch and more help people stay informed and entertained, communicate and transact, while creating new ways for advertisers and partners to connect. With technologies like XR, AI, machine-learning, and 5G, we’re transforming media for tomorrow, too. We're creators and coders, dreamers and doers creating what's next in content, advertising and technology.
+
+Verizon Media brands comprise some of the premier destinations on the Internet. This means that we rely on massively scalable, widely distributed, highly performant, and efficient software systems. If you want to help solve complex software problems for systems like these, we are looking for you.
+
+Verizon Media's Business Analytics and Insights team works on one of the biggest online advertising and audience data sets in the world. We are responsible for providing fast, clean, and relevant data for Verizon Media’s advertising businesses as well as key measurements and insights about the users of Verizon Media. We are developing next generation technologies to enrich our advertiser and user experience through complex, scalable data platforms, with ever growing and interesting challenges.
+
+This position is on the Revenue Assurance and Data Monitoring team to build and operate smart anomaly detection in our advertising platforms and work with a wide variety of product teams to resolve critical revenue impacting issues.
+
+Requirements
+BS/MS in highly-quantitative field (Computer Science, Info Systems, Analytics, Mathematics)
+Experience doing analysis across complex data sets, data exploration, data issue triage
+Experience with programming and scripting language like Java, C++, Python, Perl, SQL and Unix or Linux systems
+Experience with big data technologies like Hive, Hadoop, MapReduce, Spark, PIG
+Demonstrated use of web analytics, metrics, and benchmarking to drive decisions
+Track record of proactively establishing and following through on commitments
+Solid written and verbal communication skills
+Excellent interpersonal, organizational, creative, and communications skills
+Team player in driving growth results combined with a positive attitude
+Strong work ethic and strong core values (honesty, integrity, creativity)
+Problem solver who never stops thinking about ways to improve
+Responsibilities
+Conduct data investigations over a wide variety of ad platform data
+Build, maintain and operate anomaly detection and monitoring tools
+Understand the marketplace trends and help answer revenue trends
+Analyze supply as well as demand patterns and find revenue opportunities, explain model behaviors, suggest improvements etc.
+Work closely with product and inform and update stakeholders on product performance, plans, and progress towards metrics
+Build strong partnerships with product, sales, engineering, and marketing teams and enable them to launch new growth initiatives
+Provide feedback to product, sales and engineering teams on impact of product launches: target launch metrics, A|B testing, post-launch metrics
+Investigate data and monitor data quality – partner closely with and provide requirements to the product teams that can be clearly acted upon
+Verizon Media is proud to be an equal opportunity workplace. All qualified applicants will receive consideration for employment without regard to, and will not be discriminated against based on age, race, gender, color, religion, national origin, sexual orientation, gender identity, veteran status, disability or any other protected category. Verizon Media is dedicated to providing an accessible environment for all candidates during the application process and for employees during their employment. If you need accessibility assistance and/or a reasonable accommodation due to a disability, please submit a request via the Accommodation Request Form ( https://www.verizonmedia.com/careers/contact-us.html ) or call 408-336-1409. Requests and calls received for non-disability related issues, such as following up on an application, will not receive a response.
+
+Currently work for Verizon Media? Please apply on our internal career site.
+Seniority Level
+Entry level
+Industry
+Marketing & Advertising Computer Software Internet
+Employment Type
+Full-time
+Job Functions
+Information Technology

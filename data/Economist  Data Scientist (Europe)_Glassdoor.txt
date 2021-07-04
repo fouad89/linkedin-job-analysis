@@ -1,0 +1,61 @@
+Economist  Data Scientist (Europe)
+Glassdoor
+Dublin, County Dublin, Ireland
+Our mission is to help people everywhere find a job and company they love. We're transforming an entire industry through the power of transparency. As the worldwide leader in employer branding and insights, our vision is for a world where transparency holds companies accountable to strive to become better employers.
+
+Do you have a passion for telling stories about economics using data? Glassdoor's Economic Research team (glassdoor.com/research) is looking for a Data Scientist / Economist, Europe who loves doing applied data science, crunching numbers, and turning that into insightful research about real-time trends in jobs, salaries, the labor market and the workplace.
+
+Our Team
+
+Our team is the company's think tank. We are a team of economists and data scientists that produce unique insights on salaries, company culture, hiring, interviewing, D&I and more based on our large databases of proprietary user-generated content—including millions of salary reports, company reviews and other employee-generated insights for more than one million employers.
+
+This Role
+
+You will be Glassdoor's economist in the UK and European market, acting as the go-to authority on European labor market data and trends. Your mission will be to establish our team's presence in Europe, work as the data science and economics partner to our London-based PR team, and produce research reports that showcase Glassdoor data and build media and employer awareness of our platform.
+
+Your day-to-day responsibilities will include brainstorming timely research with PR, analyzing data independently using SQL/Python/R, writing up your findings, and serving as media spokesperson for your research.
+
+Other responsibilities may include developing a methodology for producing rankings from Glassdoor data, pulling data to answer ad hoc questions from top-tier media, setting up dashboards to make data more accessible to PR and other teams, and building new external-facing data products.
+
+Requirements:
+
+2-4 years of experience in a related field like economics, data science, analytics, data journalism, research, or public policy.
+An addition to our culture of diversity, equity, and inclusion
+Excellent written and oral communications skills. Demonstrated ability and desire to translate data and research for general audiences in a simple and engaging manner.
+Demonstrated interest and experience in economics, especially in labor economics topics e.g. workplace trends, hiring, salaries, and company culture.
+Excellent data fluency, including experience with SQL. Demonstrated ability to pull, manipulate and analyze data independently and convert into stories.
+Strong experience with programming and data analysis using languages like Python, R or Stata.
+Demonstrated experience with statistics and applied econometrics.
+Knowledge of data visualization tools like Tableau, R Shiny, ggplot2, D3.js.
+You should be comfortable working collaboratively with other people. You'll be working with cross-functional teams in a fast-paced environment.
+Strong desire to add to our culture of diversity, equity and inclusion.
+
+Why Glassdoor?
+
+Glassdoor gives back! Glassdoor is a Pledge 1% member, all employees receive 3 paid volunteer days per year
+Paid holidays and flexible paid time off
+Paid Healthcare for you and 90% for your family
+Pension Plan to prepare for your future
+Life Assurance and Income Protection to give you security
+Employee Assistance Program to support you when you need it
+Mobile Phone allowance
+Equity Incentives in our parent company's ADR (Recruit Holdings, Stock ID: 6098T).
+Your choice between Mac or PC
+
+Our Values
+
+Transparency: We are open and honest. We share information – the good and the bad – so we can continuously learn, collaborate and make the right decisions. Pay bands, our compensation philosophy, and employee feedback survey responses are shared publicly.
+Innovation: We actively pursue new and different ways to further Glassdoor's mission. We forge our own path by challenging the status quo. The ultimate goal is not just to change how we operate at Glassdoor, but for every employer to follow our lead!
+Good People: We work together with integrity, respect and compassion for one another. We have fun together! We are inclusive, fair and humble while remaining confident. We do the right thing, period.
+GRIT: We are resilient, inventive and fearless. We see challenges as opportunities. With passion and courage, we come together to get the job done.
+Diversity, Equity, and Inclusion: We are dedicated to building a company that is more diverse and representative of society at large. Glassdoor externally publishes our Diversity & Inclusion report and information about our employee population to hold ourselves accountable to our dedication. We also provide programs and resources to build a greater sense of belonging for our employees.
+
+Glassdoor is committed to equal treatment and opportunity in all aspects of recruitment, selection, and employment without regard to race, color, religion, national origin, ethnicity, age, sex, marital status, physical or mental disability, gender identity, sexual orientation, veteran or military status, or any other category protected under the law. Glassdoor is an equal opportunity employer; committed to crafting a community of inclusion, and an environment free from discrimination, harassment, and retaliation.
+Seniority Level
+Entry level
+Industry
+Computer Software Internet Management Consulting
+Employment Type
+Full-time
+Job Functions
+Finance Sales

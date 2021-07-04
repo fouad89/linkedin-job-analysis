@@ -1,0 +1,65 @@
+Data Scientist
+Flex
+Cork, County Cork, Ireland
+Posted by
+Benjamin Tarmann
+Talent Acquisition Manager EMEA - Design, R&D at Flex
+Send InMail
+Flex Cork in Ireland is a central manufacturing and logistics point in the global Flex network. On site we offer manufacturing, innovation and integration services as well as forward and reverse logistics offerings.
+
+As Data Scientist (m/f/d) you will be based in Cork, Ireland. In this role you will be part of the Centre of Excellence Control Tower team which oversees the Supply Chain & Transport Orchestration Platform for customer freight flows from origin to destination. You will be responsible for modelling complex business problems and uncovering business insights via the use of statistical, algorithmic, mining and visualization techniques.
+
+Together with other highly skilled business and data experts in the field of logistics and supply chain you will take a central role in designing and ensuring best processes, practices as well as continuous development of the global platform. You will have the opportunity to actively disrupt and influence old systems and structures and drive positive change using state-of-the-art technologies. This is an exciting opportunity to join an expanding team which always strives to improve and innovate.
+
+Here Is a Glimpse Of What You’ll Do
+Build production ready analytical applications to generate insights, recognize patterns and predict behaviors.
+Translate business needs into data science and/or reporting requirements to provide insights to support executive decisions.
+Perform large-scale experimentation to identify hidden relationships between variables in large datasets using structured and/or unstructured data.
+Research and implement cutting-edge techniques and tools in machine learning/deep learning/artificial intelligence to make analysis and modelling activities more efficient, impactful and insightful.
+Determine requirements that will be used to train, test and validate machine learning models and/or algorithms.
+Choose the most appropriate techniques (based on business need and available data), to develop custom data models and algorithms. As part of that, you will monitor, develop and/or create processes and production ready tools to analyze model performance and accuracy on an ongoing basis.
+Here Is Some Of What You’ll Need (required)
+A relevant finished degree in business information systems, computer science or similar
+Demonstrated prior experience delivering data science projects
+Excellent knowledge and experience using open source technologies such as R or Python
+Good knowledge of database structures, theories, principles, and practices generally.
+Experience interrogating databases (MSSQL Server, PostGreSQL etc. ) using SQL queries
+Good knowledge of ETL tools (Microsoft SSIS, Talend etc.)
+Demonstrable experience manipulating, processing and extracting value from large datasets using both structured and unstructured data.
+Experience working with reporting and visualization tools (e.g. Tableau, Power BI, Microstrategy etc.)
+Outstanding analytical skills and great attention to detail
+Advanced Excel skills
+Excellent English communication skills in order to successfully work together with global stakeholders
+Here Are a Few Of Our Preferred Experiences
+Experience working with Transport, Inventory and/or Warehouse Management Systems (TMS, IMS, WMS)
+A solid understanding of logistics or supply chain processes
+Experience in a large, multinational, matrix-based organization is an advantage
+Intercultural experience, working with globally distributed stakeholders is an advantage
+We Are Looking For Someone Who Demonstrates
+Intense collaboration
+Passionate customer focus
+Thoughtful, fast, disciplined execution
+Tenacious commitment to continuous improvement
+Relentless drive to win
+BT09 /
+
+Flex does not accept unsolicited resumes from headhunters, recruitment agencies or fee based recruitment services. Flex is an Equal Opportunity Employer and employment selection decisions are based on merit, qualifications, and abilities. Flex does not discriminate in employment opportunities or practices based on: age, race, religion, color, sex, national origin, marital status, sexual orientation, gender identity, veteran status, disability, pregnancy status or any other status protected by law. Flex provides reasonable accommodation so that qualified applicants with a disability may participate in the selection process. Please advise us of any accommodations you request to express interest in a position by e-mailing: accesibility@flextronics.com . Please state your request for assistance in your message. Only reasonable accommodation requests related to applying for a specific position within Flex will be reviewed at the e-mail address. Flex will contact you if it is determined that your background is a match to the required skills required for this position. Thank you for considering a career with Flex.
+
+The Information We Collect
+
+We may collect personal information that you choose to submit to us through the Website or otherwise provide to us. This may include your contact details; information provided in online questionnaires, feedback forms, or applications for employment; and information you provide such as CV/Resume. Your details will be provided to the entity you are applying for a job with. We will use your information for legitimate business purposes such as responding to comments or queries or answering questions; progressing applications for employment; allowing you to choose to share web content with others or; where you represent one of our customers or suppliers, administering the business relationship with that customer or supplier. We will process your data in accordance with our recruitment privacy notice (https://flex.com/other/recruitment-notice-english) .
+
+If you have any queries about the processing of your data, please contact:
+
+Global Data Privacy Officer
+
+Email Address: chiefprivacyofficer@flex.com
+
+Seniority Level
+Entry level
+Industry
+Electrical & Electronic Manufacturing
+Employment Type
+Full-time
+Job Functions
+Manufacturing

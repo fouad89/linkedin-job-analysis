@@ -1,0 +1,30 @@
+Senior Data Engineer
+Sigmar Recruitment
+Dublin, County Dublin, Ireland
+Posted by
+Hamish Reid Assoc CIPD 2nd
+Executive Consultant - IT at Sigmar Recruitment
+Send InMail
+Senior Data Engineer
+We have a new opportunity for a Senior Data Engineer with a leading organisation based in Dublin. This is a new position which will design and implement data pipelines via structured and unstructured data. At all times the Senior Engineer will be assessing performance to see how it can be improved and will play a critical role to the business in guiding data strategy.
+
+Primary Duties
+ Create and maintain optimal data pipeline architecture,
+Assemble large, complex data sets that meet functional / non-functional business requirements
+Identify, design, and implement internal process improvements: automating manual processes, optimizing data delivery, re-designing infrastructure for greater scalability, etc.
+ Build the infrastructure required for optimal extraction, transformation, and loading of data from a wide variety of data sources using SQL and AWS ‘big data’ technologies.
+Build analytics tools that utilize the data pipeline to provide actionable insights into customer acquisition, operational efficiency and other key business performance metrics.
+Work with stakeholders including the Executive, Product, Data and Design teams to assist with data-related technical issues and support their data infrastructure needs.
+Keep data separated and secure across national boundaries through multiple data centers and AWS regions.
+Create data tools for analytics and data scientist team members that assist them in building and optimizing our product into an innovative industry leader.
+Work with data and analytics experts to strive for greater functionality in our data systems.
+The client is looking for at least 5 years’ experience within Data Engineering with experience within cloud architecture. This is a permanent role with a company that will provide an excellent salary and benefits as well as genuine opportunities for career progression.
+ The role will be based remotely for the foreseeable future during covid and will provide flexible working options past this.
+  Seniority Level
+Mid-Senior level
+Industry
+Information Services Information Technology & Services Computer Software
+Employment Type
+Full-time
+Job Functions
+Information Technology Analyst Engineering

@@ -1,0 +1,67 @@
+Data Scientist - Strategic Data Solutions
+Apple
+Cork, County Cork, Ireland
+Summary
+
+Imagine what you could do here. At Apple, new ideas have a way of becoming outstanding products, services, and customer experiences very quickly. Bring passion and dedication to your job and there's no telling what you could accomplish!
+
+
+Apple's Strategic Data Solutions (SDS) team is looking for a talented individual who is passionate about crafting, implementing, and operating analytical solutions that have direct and measurable impact to Apple and its customers.
+
+
+As an SDS data scientist, you will employ predictive modeling and statistical analysis techniques to build end-to-end decision automation solutions for improving security, fraud prevention, and operational efficiency across the company, from manufacturing to fulfillment to apps and services.
+
+
+Apple's dedication to customer privacy, the adversarial nature of fraud, and the enormous scale and complexity of the business present exciting challenges to traditional machine learning and data science techniques.
+
+
+Key Qualifications
+
+Practical experience with and theoretical understanding of machine learning algorithms
+
+
+Working knowledge of databases, preferably in large scale databases
+
+
+Ability to implement data science pipelines or applications in a general programming language such as Python, Scala, or Java
+
+
+Ability to comprehend and debug complex systems
+
+
+Ability to extract meaningful business insights from data and identify the stories behind the patterns
+
+
+Good presentation skills with the ability to distill complex analysis and concepts into concise business-focused takeaways
+
+
+Creativity and curiosity to explore new ideas in pursuit of tangible benefits to Apple
+
+
+Description
+
+- Engage with business teams to find opportunities, understand requirements, translate those requirements into technical solutions, and communicate results
+
+
+- Design data science approaches, applying tried-and-true techniques or developing bespoke algorithms as needed by the business problem
+
+
+- Collaborate with data engineers and platform architects to implement robust production real-time and batch decisioning solutions
+
+
+- Ensure operational and business metric health by monitoring production decision points
+
+
+Education & Experience
+
+- Ph.D. in a quantitative discipline or lesser degree and equivalent experience in applying data science to real world business problems
+
+
+Role Number: 200228426
+
+Industry
+Consumer Electronics
+Employment Type
+Full-time
+Job Functions
+Engineering Information Technology

@@ -1,0 +1,39 @@
+Software Engineer I
+Cerner Corporation
+Dublin, County Dublin, Ireland
+With a presence in the European healthcare IT markets spanning almost two decades, Cerner’s established solutions and industry expertise have placed our associates at the forefront of development and evolution in healthcare provision. Our continued growth and rapid expansion in key European markets provides opportunities for exciting careers in a dynamic environment – all focused on helping drive innovation in healthcare.
+
+The Global Health Network team contributes IP development that helps shape Healthcare IT for all of Cerner's clients, but our main focus is the EMEA area.
+
+Nevertheless, we provide updates and new features to multiple global offerings under the Population Health Management banner, specifically but not exclusively to Longitudinal Record, HealtheRecord, HealtheRegistries.
+
+We are an Agile team of Software Engineers following a high-risk development process contributing to and supporting health information technology services on a global scale.
+
+As a Software Engineer on the Global Health Network team you will be responsible for writing code, testing and debugging new software, making enhancements to existing software from clear requirements and participating in code reviews and identifying basic issues or deviations from best practices.
+
+You will develop knowledge of assigned solution, technologies, development processes and ecosystem and provide support for existing solutions to consultants and technical solution analysts who handle direct client support.
+
+Qualifications
+
+Qualifications Basic Qualifications :
+
+
+You will have a general understanding of software development practices and patterns to build on, as development is not restricted to a single paradigm and tasks can shift from one to another from quarter to quarter. The technologies you will work with are a proprietary Hadoop based big-data processing platform and a Java/Ruby/JS service and web application architecture.
+At least 4 years total combined higher education and related work experience, including:
+Bachelor’s degree in Computer Science, Computer Engineering, Software Engineering, Computer Information Systems, Information Systems, Information Technology or related field, or equivalent relevant work experience
+Preferred Qualifications :
+
+Previous experience with Java, Hadoop, Ruby or NoSql
+Expectations :
+
+Willing to work additional or irregular hours as needed and allowed by local regulations
+Work in accordance with corporate and organizational security policies and procedures, understand personal role in safeguarding corporate and client assets, and take appropriate action to prevent and report any compromises of security within scope of position
+Perform other responsibilities as assigned
+Seniority Level
+Entry level
+Industry
+Information Technology & Services Computer Software Hospital & Health Care
+Employment Type
+Full-time
+Job Functions
+Engineering Information Technology

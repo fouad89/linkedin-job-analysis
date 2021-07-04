@@ -4,7 +4,6 @@ import getpass # for hidden password
 
 from selenium import webdriver
 import time 
-import logging
 # to send input 
 from selenium.webdriver.common.keys import Keys
 import os
@@ -85,6 +84,9 @@ def get_jobs(browser=browser):
 
 
 if __name__=="__main__":
-    time.sleep(5) # give time for the page to load
-
-    get_jobs()
+    
+    for page in range(2,8):
+        # from page 2 until the 7th page
+        time.sleep(5) # give time for the page to load
+        get_jobs()
+        browser.find_element_by_xpath(f"//button[@aria-label='Page {page}']").click()

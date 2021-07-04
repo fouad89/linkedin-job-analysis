@@ -90,3 +90,4 @@ if __name__=="__main__":
         time.sleep(5) # give time for the page to load
         get_jobs()
         browser.find_element_by_xpath(f"//button[@aria-label='Page {page}']").click()
+        

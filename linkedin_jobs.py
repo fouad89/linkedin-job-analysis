@@ -67,6 +67,7 @@ def get_jobs(browser=browser):
     # get a list of all the listings elements's in the side bar
     list_items = browser.find_elements_by_class_name("occludable-update")
     # scrolls a single page:
+    counter = 1
     for job in list_items:
         # executes JavaScript to scroll the div into view
         browser.execute_script("arguments[0].scrollIntoView();", job)
@@ -77,8 +78,9 @@ def get_jobs(browser=browser):
         details = browser.find_element_by_id("job-details").text
         position = position.replace("/", "").strip()
         # writing job info into a text file titles by position_company
-        with open(f'./data/{position}_{company}.txt', mode='w+') as f:
+        with open(f'./data/{counter}_{position}_{company}.txt', mode='w+') as f:
             f.write(f"{position}\n{company}\n{location}\n{details}")
+        counter+=1
 
 
 
@@ -90,4 +92,3 @@ if __name__=="__main__":
         time.sleep(5) # give time for the page to load
         get_jobs()
         browser.find_element_by_xpath(f"//button[@aria-label='Page {page}']").click()
-        

@@ -11,16 +11,23 @@
       <li>Tkinter: to obtain screen height and width</li>
       <li>getpass: to hide user password input</li>
     </ul>
-  
+    
   </li>
-  <li>Creating a dataframe containing all job details
-  <img src="./graphs/df_info.png"></img>
+  <li>Creating a dataframe containing all job details with 9 columns.
+  <img src="./graphs/job_df_info.png"></img>
   </li>
-  <li></li>
-  <li></li>
-  <li></li>
-
-
-
+  <li>Creating wordclouds of role titles and job details</li>
 </ol>
  
+## To Do:
+<ul>
+  <li>July, 7th, 2021: 
+    <ol>
+      <li>Find a way to see the top technical skills required</li>
+      <li>Find key requirements</li>
+      <li>Find education level requirements</li>
+      <li>Find key responsibilities</li>
+    </ol>
+  </li>
+
+</ul>

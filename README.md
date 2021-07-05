@@ -13,6 +13,12 @@
     </ul>
   
   </li>
+  <li>Creating a dataframe containing all job details
+  <img href="./graphs/df_info.png"></img>
+  </li>
+  <li></li>
+  <li></li>
+  <li></li>
 
 
 

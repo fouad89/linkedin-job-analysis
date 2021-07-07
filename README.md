@@ -31,3 +31,14 @@
   </li>
 
 </ul>
+
+<ul>
+  <li>July, 8th, 2021:
+  <ol>
+    <li>Research Unsupervised learning </li>
+    <li><a href=https://towardsdatascience.com/unsupervised-nlp-methods-and-intuitions-behind-working-with-unstructured-texts-b84aa4d286da">Unsupervised NLP : Methods and Intuitions behind working with unstructured texts</a></li>
+    <li><a href="https://medium.com/@rohithramesh1991/unsupervised-text-clustering-using-natural-language-processing-nlp-1a8bc18b048d">Unsupervised-Text-Clustering using Natural Language Processing(NLP)</a></li>
+    <li>Keyword Extraction</li>
+  </ol>
+  
+  </li> 

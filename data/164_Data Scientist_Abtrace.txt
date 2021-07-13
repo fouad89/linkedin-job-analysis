@@ -1,0 +1,45 @@
+Data Scientist
+Abtrace
+London, England, United Kingdom
+Abtrace is transforming the way patients are treated at their General Practice (GP) by leveraging data within electronic health record (EHR) systems to identify which tests or treatments a patient with a long-term health condition might benefit from.
+
+By acting as an intelligent layer on top of the EHR, the system suggests actions based on an individual’s medical history, prompting proactive early interventions and spotting trends that might otherwise be missed.
+
+About The Role
+
+We’re looking for a Data Scientist (Mid/Senior) to join our team. The core duty of the position will be the analysis of longitudinal healthcare datasets and development of predictive models from those datasets. The ideal candidate will have an excellent knowledge of Python and be proficient in tools from the Python data science ecosystem (scikit-learn, pandas, Tensorflow, Pytorch, spaCy, and similar). We are looking for someone who works well in a fast moving team and communicates effectively with non-technical team members.
+
+Responsibilities
+Analysis of clinical datasets
+Designing predictive algorithms and performing machine learning experiments on clinical datasets
+Work with a small, close knit, diverse multi-disciplinary team of developers, data scientists and doctors
+The opportunity to make a rapid impact on the healthcare of a wide population
+Join and help shape an early fast-growing company
+[]()
+
+Required Skills
+Proficiency in Python
+Excellent knowledge of machine learning
+Experience with deep learning
+Desirable Skills
+
+Experience in Natural Language Processing
+Private Pension
+Share Options scheme
+Generous sick and maternity/paternity leave
+Flexi working & possibility for remote working
+Company's office in Paddington - easy commute and comfortable surroundings
+Motivated, highly functioning, multi-disciplinary team
+Free coffee!
+Video call with tech team
+Video call with founders and 2nd tech review
+Offer!
+Machine Learning, Python, PandasPython
+Seniority Level
+Entry level
+Industry
+Computer Software
+Employment Type
+Full-time
+Job Functions
+Engineering Information Technology

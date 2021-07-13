@@ -1,0 +1,62 @@
+Data Analyst - ESG
+Bloomberg LP
+London, England, United Kingdom
+Bloomberg runs on data and data drives the market. At Bloomberg, our products are fuelled by powerful information. We combine data and context to paint the whole picture for our clients, around the clock - from around the world. In Global Data, we"re responsible for delivering this data, news and analytics through innovative technology - quickly and accurately.
+
+Environmental, Social, and Governance (ESG) data is increasingly crucial for our clients - providing deeper intelligence than conventional financial analysis alone. Climate change, regulatory pressures, the importance of human capital, and diversity are just a few critical factors global investors consider to best identify emerging risks and opportunities. At Bloomberg, ESG data is displayed alongside fundamental data, backed by news for context, and used to power a growing suite of Sustainable Finance products.
+
+As a team, we are responsible for reporting and enhancing ESG-related content for the Bloomberg Terminal and Enterprise products, including company-reported and normalized metrics, key analytical ratios, industry-specific metrics, and proprietary scores. We apply problem-solving skills to identify innovative workflow efficiencies and we implement technology solutions to enhance our systems, products and processes- and all this while providing platinum customer support to our clients. You will enhance your product knowledge, learn about our clients and their needs, and build relationships throughout the company, all while helping our clients integrate ESG risk and opportunity analysis into their workflows.
+
+Data Analysts possess a unique combination of technical skills and business acumen, as well as strong communication and interpersonal skills. They use these skills to collaborate with a variety of stakeholders to provide timely, accurate, and comprehensive data to our clients. As demand for ESG data increases from our clients, and therefore the amount of companies and data fields we cover, there is a need to implement business and quality rules for programmatic data validation. At Bloomberg, we are building priority ESG performance scores where will need you to help set standards and implement changes for automating workflow processes and quality control. You will need to know your customer and their challenges and workflows, and with this insight, you will bring creative ideas to the table on how we can make our data integration seamless and more efficient. Come see how you can empower smarter and more sustainable business!
+
+We"ll trust you to:
+
+Utilise a variety of software solutions to extract and rationalise data to Bloomberg taxonomies.
+Perform quality control to ensure data accuracy by comparing Bloomberg data to source documentation
+Analyse internal processes to identify opportunities for improvement, as well as devise and implement innovative solutions
+Implement business rules for programmatic data validation by codifying market conventions and/or data relationships
+Design and manage workflow configurations for critical functions such as acquisition, worklist management, and quality control
+Contribute to continuous improvement by generating ideas to improve our data products and/or associated processes and building prototypes to validate and illustrate requirements
+Lead ad hoc projects to optimize processes and/or improve the quality of the data set
+Utilise statistics and data visualization skills to report on results of on-going operations and projects, as required
+Build ESG subject matter expertise and technical skills to generate premium content
+Partner with a wide variety of stakeholders from Engineering to Sales on product development
+Provide in-depth customer support for users of Bloomberg products such as the Professional Service, News, Enterprise Solutions, and Bloomberg Law by resolving inquiries in a timely manner
+
+You"ll need to have:
+
+A bachelor's degree, preferably with combined studies in Information Systems and Finance, or related business and STEM fields
+Strong passion for data, technology and finance
+Demonstrated project or work experience using one more programming language such as Python, SQL and R
+Excellent written and verbal communication skills, particularly client management
+Understanding and experience of statistics and data modelling
+Strong attention to detail and high degree of demonstrated decision-making and problem solving skills
+Ability to work under pressure and in a frequently changing environment
+
+We"d love to see:
+
+Prior work experience in information technology, finance, data analysis or research
+Established presence in virtual development communities such as GitHub, Stack Overflow and HackerRank
+Experience using data visualization tools such as Tableau or QlikSense
+ESG-related education such as CFA ESG examination, FSA SASB examination etc.
+Ability to read/write in a language other than English
+
+Does this sound like you?
+
+Apply if you think we're a good match. We'll get in touch to let you know what the next steps are!
+
+In the meantime feel free to have a look at this:
+
+https://www.bloomberg.com/careers/global-data/
+
+We are an equal opportunity employer and value diversity at our company. We do not discriminate on the basis of race, religion, colour, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status.
+
+Bloomberg is a disability inclusive employer. Please let us know if you require any reasonable adjustments to be made for the recruitment process.
+
+If you would prefer to discuss this confidentially, please email access2@bloomberg.net. Alternatively, you can get support from our disability partner EmployAbility, please contact +44 7852 764 684 or info@employ-ability.org.uk.
+Industry
+Financial Services Information Services Information Technology & Services
+Employment Type
+Full-time
+Job Functions
+Information Technology

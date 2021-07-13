@@ -1,0 +1,111 @@
+Senior Data Scientist
+FreeAgent
+Edinburgh, Scotland, United Kingdom
+Posted by
+Katie Shaikh
+Talent Team Manager at FreeAgent
+Send InMail
+FreeAgent 🚀
+FreeAgent is one of the UK's most popular online accounting apps, with over 110,000 customers. FreeAgent removes the stress and pain of dealing with business finances, allowing business owners to focus on running their business!
+
+Our customers love FreeAgent. It is rated 4.7 on Trustpilot.
+
+
+Our employees love FreeAgent. We are rated ⭐⭐⭐⭐⭐ on Glassdoor.
+
+We're an independent subsidiary of NatWest group and we're working closely with them to introduce over 500,000 bank customers to the FreeAgent experience in 2021. This is super-exciting and a big technical challenge. It's a great opportunity for engineers at FreeAgent to see their work make a direct impact on the happiness and productivity of the small business customers across the UK!
+
+
+We believe in the power of a happy and diverse team and we'd love you to join us on this journey 🙏
+
+
+
+The role 🧑‍🚀
+You'll join our data science team working closely with other data scientists, data platform engineers and business intelligence analysts to help our customers be more successful running their businesses.
+
+
+We have created a machine learning model to categorise business banking transactions that's currently applied to over a hundred thousand customers in production. We have big ambitions to further our use of machine learning and artificial intelligence and you could be a part of that!
+
+
+We believe in a learning culture and encourage self-development. Our regular company hack days and wiggle weeks provide a great opportunity for data scientists to pursue their own ideas and learn new technologies. Data scientists write about what they do, and what they learn, on our popular engineering blog.
+
+
+Your typical week will involve:
+
+
+Developing, deploying and monitoring machine learning models
+Looking for new opportunities by analysing data
+Sharing insights by speaking at our Engineering Forum and Town Hall
+Discussing current topics with the team in our weekly journal club
+Expanding your technical and business knowledge
+
+Technologies we use:
+
+
+Python/Pandas/scikit-learn
+Amazon SageMaker
+Amazon Redshift and Google BigQuery
+Terraform
+Docker
+
+Apps we use: GitHub, Trello, G Suite, Notion
+
+You 🙌
+We ideally look out for the following skills and experience. You do not have to demonstrate all of these - FreeAgent is a great place to develop!
+
+
+Technical
+
+
+Identifying opportunities to add value through data science
+Rigorous use of statistical modelling to support decision making
+Creating and supporting machine learning models in production
+Using machine learning frameworks such as scikit-learn, Tensorflow etc.
+Working with text data and NLP techniques such as tf-idf, word embeddings etc.
+Working with a SQL based data warehouse such as Redshift or BigQuery
+Working with cloud platforms such as AWS, GCP, Azure etc.
+Designing, implementing and testing solutions in Python
+Software engineering methodologies such as version control, code review, CI/CD
+Encouraging others to deliver high quality code and repeatable results
+
+We also value the following attributes:
+
+
+A high level of self-motivation and self-awareness
+Pragmatism; being committed to getting things done while understanding tradeoffs
+A commitment to ongoing self-development, improving both technical and soft skills
+Encouraging a culture of experimentation and scientific rigour in the organisation
+Sharing work with technical and non-technical audiences throughout the organisation
+Developing and mentoring other members of the team
+Benefits 🎁
+The annual salary for this role is £50,000 - £65,000.
+
+
+We provide a comprehensive package of employee benefits, such as 33 days holiday (increasing year on year!), private health care, life assurance, 5% matched pension contributions, and buy-as-you-earn share schemes. Find out more on our website.
+
+The best place to work 👩🏽‍💻
+We believe in a strong work-life balance. We don't work long hours and 50% of our engineering team work from home full time - as a company we have been championing remote working for 14 years! We also have a fabulous Edinburgh HQ which is designed for collaboration, including high-quality A/V equipment to provide a great experience for distributed teams.
+
+
+This role will be based partly in our Edinburgh office, and there will be an opportunity to adopt hybrid working under an agreed pattern from both the office and at home each week.
+
+Applying for the role ✍
+Our application process is simple; just upload your CV and tell us why you're interested in the role. The interview process involves a phone interview, an 'at home' exercise that takes a couple of hours, followed by two or three video interviews.
+
+We really want to emphasise our commitment to building an inclusive and diverse team! We strongly encourage applications from people with varied backgrounds and perspectives.
+
+We're an equal opportunity employer. All applicants will be considered for employment without attention to ethnicity, religion, sexual orientation, gender identity, family or parental status, national origin, veteran, neurodiversity status or disability status.
+
+
+Desired Skills and Experience
+analysis
+data
+data science
+Seniority Level
+Mid-Senior level
+Industry
+Computer Software
+Employment Type
+Full-time
+Job Functions
+Engineering

@@ -1,0 +1,54 @@
+Junior Data Scientist
+Harnham
+London, England, United Kingdom
+JUNIOR DATA SCIENTIST
+
+UP TO £40,000
+
+LONDON
+
+Massively successful insights consultancy is looking for a Junior Data Scientist to join their growing team. This company works with well-known clients across FMCG and retail, advising on buying patterns and customer behaviour. They're looking for a sparky individual with experience in SQL and Power BI, who is willing to learn new technologies and techniques within a fantastic data-driven team.
+
+The Company
+
+The company is a well-known insight consultancy, delivering high-quality data and measurement of the world's leading FMCG Brands and Retailers.
+
+The Role
+
+The Junior Data Scientist will have the following responsibilities:
+Build, implement, manage, and support data pipeline and reporting automation solutions
+Delivers process improvements to existing data processing and operational processes across the department
+Works with the Data Scientist on high profile Operations Transformational projects
+Provides analytical support for and insight into large scale big-data projects
+Is responsible for end to end data projects
+Provides analytical solutions for Product Owners
+Manage ad hoc analysis requests, preparation and presentation of insights leveraging wider quality teams' expertise to help answer business stakeholder questions and support their objectives.
+Develops dashboards for monitoring performance and quality across the different panels and processes
+
+Your Skills & Experience
+
+The perfect Junior Data Scientist will have:
+Multiple years of experience analysing high volume disaggregated data is essential
+Experience working as an analyst, data processor or data scientist in a commercial or academic capacity
+Knowledge of foundational data analysis methods: data cleaning, summary statistics, validation, handling outliers, data visualisation
+Ability to write complex SQL queries in at least one SQL variant (Oracle, MS Server) and deep understanding of aggregate functions, joins, subqueries
+You have an analytical background and recent experience in business intelligence (Power BI preferred) and data storytelling (visual communication, dashboard design)
+Experience with standard Python Machine Learning and data analysis stack (Pandas, NumPy, SciPy, Scikit-learn, etc.)
+Understanding of how and when to apply predictive and machine learning techniques
+Degree level or higher in a STEM subject
+
+The Benefits
+
+The successful Junior Data Scientist will receive a salary of up to £40,000 based upon on experience. On top of this the successful candidate will receive a great holiday allowance, a fantastic working culture, as well as other benefits.
+
+How To Apply
+
+Please register your interest by sending your CV to Noah Stuckey via the Apply link on this page.
+Seniority Level
+Entry level
+Industry
+Marketing & Advertising Information Technology & Services Internet
+Employment Type
+Full-time
+Job Functions
+Engineering Information Technology

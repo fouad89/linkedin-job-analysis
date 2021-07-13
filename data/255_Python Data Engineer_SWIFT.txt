@@ -1,0 +1,60 @@
+Python Data Engineer
+SWIFT
+Farnborough, England, United Kingdom
+About The Role1. About The Role
+
+Would you like to work for one of the leading players in the international financial services industry?
+
+Join SWIFT and be part of the Financial Crime Compliance Data Chapter, in charge of defining, prototyping and evaluating solutions and algorithms for Compliance based products and services. You will be working within a team with a broad range of technical, business and analytical skills with initial focus on financial crime prevention products in areas related to sanctions, financial crime and fraud detection.
+
+The SWIFT compliance offerings are changing the way that banks tackle regulatory compliance and financial crime prevention through new cloud based solutions and services that put businesses in control, improve performance and reduce operational cost.
+
+Joining as a Data Engineer, you will get the opportunity to learn from professionals with extensive experience in compliance projects at global banks and financial institutions. You will work in an international rapidly evolving agile working environment, with many opportunities for gaining a broad range of experience and pursue an interesting and varied career growth.
+Responsibilities We are looking for an experienced Python Data Engineer with strong logical, technical and analytical skills capable of identifying, prototyping and refining advanced data driven solutions. The role would ideally suit someone from a Java development background and has transitioned to a Data Engineering role or currently working as a Python/Java developer. We are looking for an individual to contribute to the data engineering approach required for the project and support the software realisation.
+In addition to technical and analytical skills, the candidate must have sufficient business awareness to ensure solutions and proposed designs can be developed, deployed and used effectively and efficiently.
+
+Projects involve working with a broad spectrum of people including product managers, data scientists, business analysts, IT development teams and internal customers.
+You will be working on the data pipeline solution: acquisition, extraction, transformation, loading and visualisation of data
+You will be using Python, ElasticSearch, LogStash, Kibana, Airflow and other data related technologies
+Collaborate with data scientists to configure, tune and deploy machine learning models to production
+Utilising your strong IT development/software engineering skills to work with the development team to implement candidate solutions (including CI/CD, Unit/Integration testing)
+You will be working autonomously, supported by a cross-functional teams involving product manager, data scientists, business analyst, and IT software engineering colleagues
+You will be driving the architecture of the pipeline and the data platform together with the development team
+Undertaking data manipulation, data analysis and statistical analysis
+Learning new data analysis/science tools and scripting languages (Scikit-learn, TensorFlow, ELK, Apache Spark)
+3. Qualification
+Strong Commercial Python Programming Experience
+Strong Engineering Practices
+Conceptual Thinking
+Business Requirements Elicitation
+Strong Communications Skills
+Stakeholder Management
+Continuous Improvement
+Analytical Thinking
+In addition, the following would be beneficial:
+Java Programming Experience
+Machine Learning Knowledge
+Market & Product Knowledge - Knowledge of financial crime, sanctions or fraud detection solutions
+Event-based Automation/Scheduling Experience
+UNIX, Git, BitBucket, Docker, Ansible, Jira, Confluence
+4. Education
+
+University degree in Computer Science, Mathematics or Engineering
+Experience At least 3 years' experience as a Python data engineer What we offer We put you in control of career
+We give you a competitive package
+
+We help you perform at your best
+
+We help you make a difference
+
+We give you the freedom to be yourself
+
+We give you the freedom to be yourself. We are creating an environment of unique individuals – like you – with different perspectives on the financial industry and the world. An environment in which everyone’s voice counts and where you can reach your full potential regardless of age, background, culture, colour, disability, gender, nationality, race, religion, sexual orientation, or veteran/military status.
+Seniority Level
+Entry level
+Industry
+Information Technology & Services Computer Software Financial Services
+Employment Type
+Full-time
+Job Functions
+Information Technology

@@ -1,0 +1,38 @@
+Machine Learning Engineer
+Dynamic Crowd Measurement
+Newcastle upon Tyne, England, United Kingdom
+Dynamic Crowd Measurement (DCM) is an innovative, fast growing AI technology start-up located in Sydney and now operating in the UK and around the world. Our innovative software utilises existing security cameras to provide decision makers with insights on crowd characteristics for increased safety, enhanced customer experience and improved planning input.
+
+We are looking for a Machine Learning Engineer or Data Scientist with experience in computer vision, image processing, machine learning and real-time systems to work on the development of intelligent technology for measuring and estimating crowd characteristics. You will be self-motivated, highly analytical, have a knack for mathematics, and the ability to use critical thinking and problem-solving skills to interpret data and implement Machine Learning algorithms that work effectively in real world environments.
+
+Your role will be to analyse large datasets and develop solutions that improve the accuracy, predictability, and capability of our product. This challenging position provides an opportunity to learn and grow with experienced data scientists and engineers driving technology innovation in the security and events industries.
+
+Responsibilities
+Design, develop and maintain the training, validation and implementation of machine learning models
+Identify valuable data sources and automate collection processes
+Undertake pre-processing of structured and unstructured data
+Build predictive models and machine-learning algorithms that deliver on product requirements and scale effectively
+Collaboration with the product development and technology teams
+Provide advice on opportunities to grow product capabilities through machine learning processes
+Requirements
+Excellent communication skills
+Proven experience as a Machine Learning Engineer or Data Scientist
+Experience in Machine Learning, Deep Learning, Bayesian Statistics, Linear Algebra, Regression
+Experience in Python, OpenCV, TensorFlow, PyTorch
+Experience with image and video stream processing
+Strong math skills (e.g. statistics, algebra)
+Problem-solving aptitude and business acumen
+Relevant Tertiary degree in Computer Science, Engineering, Data Science or other quantitative field
+Experience developing real-time systems using quantitative approach.
+Self-motivated with an ability to think creatively, work collaboratively and perform tasks with minimal supervision.
+Proven experience in startup environment
+Experienced with AWS
+A working understanding of complexity science would be beneficial
+Seniority Level
+Entry level
+Industry
+Events Services
+Employment Type
+Full-time
+Job Functions
+Engineering Information Technology

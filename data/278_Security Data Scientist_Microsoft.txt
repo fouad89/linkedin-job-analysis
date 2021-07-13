@@ -1,0 +1,37 @@
+Security Data Scientist
+Microsoft
+Cheltenham, England, United Kingdom
+Microsoft Threat Intelligence Center has unique optics into end-to-end cyberattacks and how different stages manifest across our telemetry. By partnering across the company, we build proof-of-concept solutions that showcase new detection capabilities, through novel correlation and analysis methodologies. Our work contributes directly to the customer-facing security tools provided by Microsoft, achieving large scale global impact.
+
+We are looking for an innovative data scientist who can apply machine learning techniques to help our analysts and threat hunters detect and track threats in our telemetry sources, increasing their effectiveness. You will create algorithms that will be applicable to multiple services and data sources and build the infrastructure that runs them and operates at cloud scale. Your work will combine data science and security research to protect Microsoft customers through product, partnering across Microsoft Defender, Azure Sentinel and Azure Defender.
+
+Responsibilities
+
+Job Responsibilities
+Work with our threat hunters and analysts to develop novel approaches to tracking and monitoring threat actors that target Microsoft customers by applying machine learning / statistics.
+Deliver end to end solutions for processing large scale data that originates from users, services, or other automated systems.
+Act as an expert in at scale approaches to analytics and machine learning / statistics to meet the growing needs of MSTIC
+Partner across the company to deliver end to end solutions to our products and services.
+
+Qualifications
+
+Key skills required
+A background in data-driven inference methods such as statistics, data mining and machine learning.
+Data Engineering and experience in testing, deploying and supporting large real-time scale services on Azure, AWS or similar environments
+Strong programming skills in Python or Java/Scala/C#, with understanding of cloud architectures and distributed computing such as Apache Spark.
+Degree in Computer Science or other quantifiable field (Maths, Statistics, Engineering etc.)
+Track record of prototyping new innovative ideas and seeing them through to production.
+
+Optional
+Demonstrable experience in applying machine learning and statistical approaches to telemetry in the security domain to detect and track malicious activity
+Knowledge of threat actor TTPs across the kill chain and how they manifest themselves in telemetry sources.
+
+Microsoft is an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to age, ancestry, color, family or medical care leave, gender identity or expression, genetic information, marital status, medical condition, national origin, physical or mental disability, political affiliation, protected veteran status, race, religion, sex (including pregnancy), sexual orientation, or any other characteristic protected by applicable laws, regulations and ordinances. If you need assistance and/or a reasonable accommodation due to a disability during the application or the recruiting process, please send a request via the Accommodation request form.
+
+Benefits/perks listed below may vary depending on the nature of your employment with Microsoft and the country where you work.
+Industry
+Computer Hardware Computer Software Information Technology & Services
+Employment Type
+Full-time
+Job Functions
+Engineering Information Technology

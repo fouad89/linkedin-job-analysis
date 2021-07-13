@@ -1,0 +1,59 @@
+Graduate Data Scientist - Modelling
+Funding Circle UK
+London, England, United Kingdom
+Description
+
+Who are we?
+
+We want to help small businesses win. That’s why we’re here.
+
+We connect small business owners to investors – to create jobs, help families and power economies – because we believe that people are made to do more. And we want to help them.
+
+So, we created the leading online marketplace for small business loans. Our investors have lent £11.4 billion in 143,000 loans to 100,000 small business owners. In a single year, we unlocked 135,000 jobs and contributed £10 billion to the global economy. There’s never been a better time to join!
+
+Be part of the team that changes everything. Let’s build the place where small businesses can get the funding they need to win and leave a legacy behind, forever.
+
+This role sits within the Risk & Analytics team. The drivers behind our platform – brilliant people working together to create, code, and build the next game changers.
+
+What will you be doing?
+
+We are looking for talented Analysts to join a graduate program starting in September 2021. You will join our global Risk and Analytics division and over a 2 year period you will focus on all areas of how we build, validate and deploy our statistical models.
+Completing two rotations (approximately 12 months each) in our model development, validation or implementation teams
+Working directly with our senior managers to learn the skills, techniques and best practices needed to create and/or validate our industry leading models, and what could go wrong if these are not followed correctly
+Learning and understanding our cutting edge technology infrastructure, and work with our technology teams to deploy our models into a real time scoring environment
+Complete 2 secondments (of about 1 month each) in other teams within our Risk and Analytics departments to broaden your business knowledge and technical skills
+Using specific tools and languages such as R, Python, SQL and Tableau for reporting and analysis on our AWS data platform
+Your contract of employment with Funding Circle will be permanent. Towards the end of the 24 month programme and subject to you meeting any of the programme's requirements, you'll be placed into a role in the team - bearing in mind your personal strengths and preferences as well as team needs
+
+Are you?
+A recent graduate holding a Masters or PhD in a quantitative field or STEM related subject (Finance, Mathematics, Economics, Physics, Engineering…)
+A proven problem solver with skills using logical reasoning and analytical methods
+Passionate for Funding Circle’s mission and values
+Experienced with working knowledge of R, Python or SQL would be highly desirable
+Adept working with Excel in a professional function
+Why join us?
+
+We’re gearing up for our biggest chapter yet – and it’s being driven by everyone.
+
+We think of ourselves as the career launchpad. A place to develop yourself, fast. Real work. Real experience. Real opportunities to collect skills. Think big remits and huge ownership to make great things happen.
+
+Yes, it’s target-driven and high-octane – but we like to play hard too. That’s what makes us, us. Our vibrant culture is built around potential and creating a place where you can really be you. We keep it agile and open. All voices heard. Because we believe great ideas come from everywhere.
+
+If you show skill and are willing, we’ll back you all the way. This is the place for you to build something incredible.
+
+It’s in our differences that we find our strengths.
+
+At Funding Circle, we celebrate and support the differences that make you, you. We’re proud to be an equal opportunity workplace and an affirmative action employer. We truly believe that diversity makes us better. We particularly encourage applications from applicants from underrepresented backgrounds. We welcome applicants who may want to work flexibly.
+
+Want to Build The Incredible? We’d love to hear from you.
+
+TECH01
+
+Seniority Level
+Entry level
+Industry
+Computer Software Internet Financial Services
+Employment Type
+Full-time
+Job Functions
+Engineering Information Technology

@@ -1,0 +1,40 @@
+Data Scientist
+LYTT
+United Kingdom
+Posted by
+Shaun Roberts
+Talent Management at LYTT, a bp Launchpad company
+Send InMail
+We have a brilliant team of people and we’re building a culture that celebrates innovation. With over 16 nationalities, a breadth and depth of expertise with a mix of interests, we are proud to bring diverse thinking to the energy industry’s most challenging problems.
+
+We're looking for a Data Scientist to join our team to help our customers solve specific problems and develop new, or improve upon existing, core products by leveraging their creativity and problem solving skills.
+
+For more information on what it’s like to be a Data Scientist at LYTT, check out our blog: https://medium.com/lytt-publications/a-month-at-the-speed-of-lytt-c9aec0847e22
+
+Role Responsibilities
+
+Developing algorithms using machine learning and signal processing techniques to provide actionable insights from real-time data taken from our distributed fibre optic sensors.
+Creating new algorithms to detect specific events within wells, helping to improve the global carbon footprint, safety in the oil and gas sector and production efficiency.
+Collaborating with data and subject matter experts from LYTT and our customer teams to seek, understand, validate, interpret, and correctly use new data elements.
+Contribute to building a team that cultivates innovation.
+
+Role Requirements
+
+A track record of data-driven modelling and experience of taking algorithm implementation and machine learning models into production ready systems.
+In-depth knowledge of different modelling techniques across both supervised and unsupervised learning methods with demonstrable experience in applying these to solving real world classification and regression problems.
+Deep knowledge of generalisation and its role in taking models from inception to production, and experience in dealing with data sets of varying sizes and putting models into a production environment.
+Experience in translating mathematical models into algorithms code that can be trialled on large volume data sets with coding languages such as R, C# Python and Matlab.
+We’d prefer experience with signal processing/acoustic processing.
+Master or PhD in Engineering, Mathematics or Physics
+
+We know that sometimes people can be put off applying for a job if they think they can’t tick every box, but we realise that the ‘perfect candidate’ doesn’t exist. If you’re excited about working with us and can do most of what we are looking for, go ahead and apply. You could be exactly what we need!
+
+This role can be based remotely (within the UK).
+Seniority Level
+Associate
+Industry
+Computer Software Oil & Energy Information Technology & Services
+Employment Type
+Full-time
+Job Functions
+Information Technology

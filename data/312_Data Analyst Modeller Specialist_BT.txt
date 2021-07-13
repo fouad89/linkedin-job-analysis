@@ -1,0 +1,86 @@
+Data Analyst Modeller Specialist
+BT
+Birmingham, England, United Kingdom
+Our mission is to break down the barriers of today to release the potential of tomorrow. Join us today and release yours.
+
+About This Role
+
+Our ability to deliver brilliant personalised experiences for all our 30m customers is fundamental to our future success. As a business we are investing extensively in the automation of our operations and networks, and in building our base management and data capabilities. This will allow us to take better decisions with data and to act on them in an automated way across all our customer interactions.
+
+The Insight and Analytics Chapter use internal and external data sources to develop short, medium- and long-term recommendations, to improve performance across Base Management. Through strategic insights capability, it also delivers high quality commercial insight to influence CFU and BU level strategy and action. This team provides macro insight, external best practice, diagnostics and problem solving, tailored coding and analysis. It will also build models, develop tests and simulations, develop process automation and take ownership of a knowledge catalogue to support Consumer campaigns.
+
+As a Data analyst modeller specialist you will drive the deployment and delivery of tests, diagnostics, simulations and propensity- to-purchase and churn modelling that are vital for the profitability and optimisation of our base Campaigns.
+
+You'll Have The Following Responsibilities
+Accountable for creating driver-based models and simulations to determine impact and assess outcomes and sizing of campaigns across all brands
+Conduct baseline scoping and post program measurement statistical analysis of campaigns from multiple data sources using SQL, R, Python.
+Design simulations on performance and map against actual for continuous learning
+Manage the definition of requirements for the successful analysis of base marketing, including future focus on more personalisation at scale and 121 interactions
+Owns and provides the profitability assessment of campaigns through Customer lifetime value analysis, propensity to purchase and churn models assessing value impact of base comms across all brands.
+Identify opportunities to improve Campaign adoption and conversion through a test and learn approach on marketing campaigns.
+Detect significant variables/features on an ongoing basis that detect emerging signals in customer behaviour.
+Use exploratory Data Analysis, Machine Learning, and Probabilistic modelling and Predictive Analytic solutions
+Accountable for the delivery of self-serve solutions ensuring access to campaign out puts across all teams through visualisation tools, automated front end development and reporting.
+You'll Have The Following Skills & Experience
+Solid experience in programming background with strong skills in SQL development along with either Python or R as well as knowledge of public cloud platforms such as AWS or GCP
+Strong experience in model simulation on a CRM and campaign environment
+Exposure to various machine learning techniques
+Expertise in combining disparate datasets and development of customised algorithms
+Experience with visualisation tools such as Qlik/PowerBi/Tableau etc
+Experience in GIS/mapping and Geo modelling
+Benefits
+Free BT Broadband
+Discounted TV & Mobile Packages
+Bonus
+10% pension contribution
+25 days annual leave
+Optional benefits such as dental insurance, healthcare, gym memberships etc.
+About BT
+
+BT has a key role in British society, fostering change and leading technology innovation. From delivering the Olympics, to supporting the emergency services, to investing more into research than any other UK technology company, we take pride in everything we do - and in the people who work here.
+
+We're now a global company operating at the forefront of the information age, employing 90,000 people in 180 countries. And we're on a mission. Guided by our core values of Personal, Simple and Brilliant our goal is to help customers, communities and businesses overcome barriers and release their potential.
+
+So, if you're interested in the power of potential, why not join us today and release yours? You can read more here about what it's like to work at BT
+
+How To Apply
+
+It's easy to apply online; you just need a copy of your up-to-date CV and to follow the step-by step process. Don't worry if you need to make changes - you'll have the opportunity to review and edit your work on the final page. We look forward to receiving your application!
+
+#ConsumerData
+
+#ConsumerData
+
+Job function
+
+Design and delivery
+
+Main location
+
+UK & Ireland-United Kingdom-West Midlands-Birmingham
+
+Other Locations
+
+UK & Ireland-United Kingdom-Avon-Bristol
+
+Schedule
+
+Full-time
+
+Working pattern
+
+Standard
+
+Salary
+
+Competitive with great benefits
+
+Closing date
+
+Jul 14, 2021, 5:59:00 PM
+Industry
+Telecommunications
+Employment Type
+Full-time
+Job Functions
+Design

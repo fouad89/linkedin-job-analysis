@@ -1,0 +1,41 @@
+Data Scientist
+Smarkets
+London, England, United Kingdom
+Data Scientist
+
+The Data team at Smarkets is responsible for continuously developing the tools and the mindset for a unified and consistent data approach across the company. The team’s responsibilities mostly span across three different areas:
+Data Engineering: development and maintenance of ETL pipelines, APIs and data-related infrastructure&nbsp;
+Data Science: data exploration, machine learning modelling and implementation of models in code
+Reporting: create reports for different teams and promote data visualisation and infographics
+
+In a typical week, the Data team would:
+Add a new task to the Marketing ETL pipeline that fetches daily promotions activity from the promotions microservice and makes it available in our Redshift data warehouse
+Add a new endpoint to a Flask API, add unit tests, and deploy the new version of the API into our production Kubernetes cluster
+Train and evaluate a Deep Learning-based Recommender System using Keras, and provide it as a service through a Flask API
+
+Your primary responsibility would be working on Data Science-related tasks: data exploration, training and validating ML models, implementing ML models in code, reporting and infographics. However, we also expect that you can pick up any data engineering-related tasks if business priorities so dictate.
+Our present core current tech stack consists of Linux, Docker, Kubernetes, Python, Postgres, Kafka and Redshift.
+
+About you
+You have 4+ years of experience as a hands-on data scientist or a data engineer
+You are fluent in many tools of the Python data science stack, e.g. Pandas, Numpy, Sklearn, Keras, PySpark
+You have experience training and evaluating machine learning models, as well as deploying these into production
+You have good software engineering skills, namely on the development of Python-based REST APIs and services, integration with databases (e.g. Postgres) and data warehouses (e.g. Redshift, BigQuery)
+You enjoy writing elegant, well-tested and maintainable code
+You are a team player that enjoys contributing to the success of the team and the company in a proactive, happy and friendly environment
+You have a bachelor’s in Computer Science, Maths or equivalent field, or possess relevant experience
+
+Our Culture
+Smarkets brings a professional approach to the sports betting world which has allowed us to create one of the most sophisticated products in the industry. Our mission at Smarkets is to fix the betting industry with good products and good prices. We embrace collaboration and our culture of trust, innovation, and scientific rigour has enabled us to grow to where we are today. Our people have a large impact on the product - be it changing the direction of our technical stack or pushing new features - you'll be key in driving Smarkets forward.
+
+Our culture is built on the principles of self-management and rewards people on merit and excellence, avoiding the bureaucracy of pyramid management. Ultimately we are a group of like-minded individuals who enjoy learning, playing, and eating the excellent meals provided by the chefs!
+
+Smarkets is an equal opportunities employer and takes active steps to prevent bias and discrimination in our interview process. We are committed to equal employment opportunity regardless of race, religion, sex, sexual orientation, age, marital status, disability or gender identity
+Seniority Level
+Mid-Senior level
+Industry
+Internet
+Employment Type
+Full-time
+Job Functions
+Engineering Information Technology Science

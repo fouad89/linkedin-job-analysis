@@ -1,0 +1,55 @@
+Data Scientist (NLP)
+Climate Policy Radar CIC
+London, England, United Kingdom
+We are looking for a Data Scientist with experience in Machine Learning and NLP to join the growing team at Climate Policy Radar CIC. We are a not-for-profit climate startup on a mission to map the global policy landscape, harnessing machine learning to create the evidence base for informed decision-making. Our work helps governments, the private sector, researchers and civil society to advance effective climate policies rapidly, replicate successful approaches and avoid failed ones, enhance accountability and promote data democratisation.
+
+We are building the capability to collect and structure climate change policy documents from all around the world. Now, at the beginning of this exciting journey, we need an exceptional individual with broad practical experience of using NLP to extract information from large and complex unstructured documents. You will need the creativity and passion to write the playbook, and be comfortable working in situations where uncertainty is high, defining the problems as much as the solutions. You will be willing to roll up your sleeves and dive deep into working on a wide range of areas, including the design of data labelling strategies, stakeholder collaboration and model deployment.
+
+In this role you will...
+Work as part of a small enthusiastic team of climate policy experts, data scientists and developers to build the data, models and tools that underpin our policy search and insights platform.
+Develop techniques to collect, filter, link and structure climate policy documents collected from a range of sources across the web.
+Research and develop methods to discover policy concepts and the connections between them.
+Map unstructured climate policy to structured taxonomies.
+Develop methods and tools to make data labelling by policy experts more efficient.
+Play a key role in devising our data and machine learning strategy.
+Be a strong advocate of open source, playing a key role in providing open access datasets and models to the climate policy and tech community.
+
+
+Requirements
+A postgraduate degree in a relevant discipline.
+At least 3 years practical experience of developing and deploying machine learning in an applied commercial or industry setting.
+Strong understanding of machine learning, including both supervised and unsupervised.
+Practical experience of deep learning NLP methods including transfer learning, continuous representations and Transformers; proficient in deep learning frameworks such as PyTorch.
+Excellent Python programming skills and knowledge of how to write well structured, maintainable research and production quality code; version control using Git; unit testing.
+Experience of using standard numerical packages including pandas, scikit-learn and numpy and tools for data science including Jupyter.
+Experience of semi-supervised techniques such as active learning, weak supervision and zero/few shot learning is a bonus.
+Understanding of the research-product lifecycle, how to deploy models in production and what needs to be considered to deploy an effective model.
+Prior experience of deployment of models and building APIs and web-based tools using Docker, Django/Flask, Streamlit or similar would be helpful.
+Excellent written and verbal communication skills.
+It is also important that you are…
+Motivated by a desire to use your technical skills to make a difference.
+Excited by the autonomy and changeability that an early stage start-up demands.
+Committed to and excited by working on climate action and justice.
+A logical problem solver who is able to organise and prioritise your research, remaining focused on short-term product goals but seeing the bigger picture.
+London-based and happy to work part remotely and part from our beautiful shared working space in Central London (approx. 2 days a week).
+It would be excellent if you can also work in one or more of the following languages Spanish, French, Portuguese, Mandarin, Hindi, Arabic.
+
+
+Benefits
+An exciting mission at the intersection of technology, AI, policy, social justice and high impact.
+A chance to co-create and help us shape our journey ‒ we are a young startup building our team and vision, so your input and impact will be significant.
+Access to a larger community of climate action (and data) enthusiasts ‒ we are a member of Subak, an accelerator and data cooperative for climate non-profit startups, and enjoy a joint programme of learning, collaborating and socialising.
+A deep commitment to our employees’ mental and physical wellbeing, and to emotional intelligence and empathy in the workplace. Among other benefits we offer generous leave, flexible work hours and short Fridays.
+A flexible working environment in our stunning working space overlooking Westminster Bridge combined with remote working.
+A reason to get up in the morning, knowing you are working to solve humanity’s greatest challenges.
+
+
+Climate Policy Radar is proud to be an equal opportunity workplace and is an affirmative action employer, and we believe diversity is more than an HR tick-box exercise but a genuine need and cause. We are committed to equal employment opportunity regardless of race, ancestry, religion, sex, national origin, sexual orientation, gender identity, age, citizenship, relationship choices and status, or disability. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. If you have a disability or special need that requires accommodation, please let us know.
+Seniority Level
+Mid-Senior level
+Industry
+Environmental Services
+Employment Type
+Full-time
+Job Functions
+Information Technology

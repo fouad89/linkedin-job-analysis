@@ -1,0 +1,61 @@
+Data Visualisation Analyst
+LiveScore Group
+London, England, United Kingdom
+The Role
+
+LiveScore is establishing an advanced data engineering and data science lab in London and is looking to hire a highly skilled team. We are looking for motivated individuals to form a fast-paced, high performing team which will tackle some of the most technical challenges in the data-driven world of sports betting.
+
+Key Responsibilities
+Work closely with the product team and the data team, across multiple products and all channels (iOS, Android, Web)
+Produce high end, engaging & complex data visualisations in Tableau, and potentially other reporting tools, for a variety of stakeholders across the business
+Gain a good understanding of the business including, among others, sports betting & publishing, acquisition, retention, finance & customer service
+use this knowledge and your competent SQL skills to present the data fitting for the audience
+Understand our core data, tracking tools and be able to reconcile data across a variety of data sources including our Google BigQuery data warehouse
+Tableau reports / visualisations for all products and channels for the entire group
+Alerting users to data and reports that they need to be aware of
+Ensuring reports are fit for the end users' requirements
+Ensuring the Tableau portal is easy to use
+Promoting the data and associated reporting as a means to make policy and strategic decision changes
+
+
+Key Skills/Experience
+A degree in Computer Science, Mathematics, Statistics, Physics or equivalent
+2+ years' experience in data visualisation, data analysis or data engineering with large-scale complex datasets
+2+ years experience developing complex, engaging reports in Tableau
+Knowledge of Google BigQuery and/or other relational database management systems
+Competent with SQL
+Experience with agile scrum or Kanban and modern CI/CD development practices
+Experience with Google Cloud Platform particularly Google BigQuery
+Experience with Google Analytics, GA360, Firebase, Tableau, iOS/Android, Web applications, Segment, MixPanel, Google Tag Manager, Google AdManager
+
+The Person
+
+This role would suit a creative and curious natured person who can take initiative. Someone who has experience working at pace to strict deadlines. The ability to multitask is crucial to the success of this role. A confident communicator, with the ability to build strong working relationships with internal and external stakeholders. has had experience working at pace to strict deadlines. The ability to multitask is crucial to the success of this role. A confident communicator, with the ability to build strong working relationships with internal and external stakeholders.
+
+What can we offer?
+Performance bonus
+Private Healthcare scheme
+Flexible holidays – 25 days annual leave + bank holidays + a day's leave for a momentous occasion
+Virgin Tribe – access to exclusive Virgin offers and experiences
+Life Assurance (x3 salary)
+Contributory Pension Plan
+Festival summer and cracking Christmas parties
+
+
+About Us
+
+Welcome to LiveScore Group. We are home to LiveScore, LiveScore Bet and Virgin Bet, three of the most exciting brands in the sports and gaming industries today.
+
+Whether it is LiveScore delivering real-time sports scores or free-to-air live streams to its users across 200 territories, or LiveScore Bet and Virgin Bet offering innovative and trusted sportsbook betting opportunities, we bring our audiences closer than ever to the sports they love with our best-in-class products.
+
+This is a truly exciting time to consider joining our team within the LiveScore Group. Across our core brands at LiveScore, LiveScore Bet and Virgin Bet we are offering the chance to work in the heart of the sport industry, as we look to quickly expand our successful, privately-owned business.
+
+With offices and roles based in London, Stoke, Galway, Vienna, Gibraltar, Lagos and Prague, our staff are part of a truly international business that is training and growing together, and empowered to build a bright and rewarding future.
+Seniority Level
+Entry level
+Industry
+Marketing & Advertising Computer Software Financial Services
+Employment Type
+Full-time
+Job Functions
+Information Technology

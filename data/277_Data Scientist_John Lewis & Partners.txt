@@ -1,0 +1,48 @@
+Data Scientist
+John Lewis & Partners
+Victoria, England, United Kingdom
+We are reinventing our business for the modern retail world. Our Strategy area for the Partnership will ensure that all of our customer data and insights are used to define where we’ll play, how we’ll win and what we prioritise to ensure that the strategic direction of our business is clear. We are looking for a Data Scientist who can work across teams, is self motivated and strives for continuous improvement.
+
+What's the role about?
+
+The core of this role is to help the Partnership make insight-driven, better informed, customer-centric decisions. In order to do this, you will need to work closely with teams across the Partnership, getting close to their world; hearing their problems and spotting the opportunities to make improvements. You will use your analytical mindset and knowledge of the customer to improve the speed and quality of decision making.
+
+The Data Science team is spread across a number of business domains that extends, for example, from typical business trading problems, to optimising supply chains and creating bespoke recommendations for our websites. We are looking for future Partners that are passionate about solving business problems that extend far and wide across really tangible consumer facing touchpoints that drive real impact in day to day situations.
+
+What will you be doing?
+
+Our expectation is that you will be a self starter that is able to work effectively together with a range of stakeholders to improve over and above the existing baseline for their requirements. We expect you to be able to trade off model complexity against relative rewards to drive improvement in your designated domain. Creativity is encouraged, if you feel we could do something differently and can prove this then we are sure that you will delight your stakeholders.
+
+We highly value continuous improvement and as such we actively promote designating part of a partner’s working week to upskilling in best practices and the latest methods or research.
+
+What is the process?
+
+We start by requiring applicants to provide a CV and to answer a number of practical job related questions. Pending screening, you will be invited to a 30 minute conversation to flesh out some of your stated CV experience. Pending success, you will receive a take home task that is seeking to evaluate first hand how you would tackle a typical business problem using your knowledge of the Data Science toolkit. The second round interview would then require a presentation on your findings from the dataset, motivational fit for the company and also your aspirations for the role. We follow this with a range of situational and technical based questions. We encourage any questions or curiosity throughout the process - We’re here to help make the process as enjoyable as possible for you.
+
+What you will have
+A BSc in a Data Science related field such as Mathematics, Statistics or Computer Science
+An enthusiasm and natural ability to tackle an array of varied problems
+A demonstrable applied use of Statistical and/or Data Science based techniques not limited to Supervised/Unsupervised Learning, Time Series Forecasting or Bayesian Statistics
+Understanding of how to evaluate model performance and able to set up adequate tests during model deployment to confirm this
+Experience of using Python (preferred) or R alongside relevant packages and libraries across a number of real world case studies
+An ability to use SQL for data mining and preprocessing
+Excellent communication skills, with proven ability to work across functional teams to translate complex business issues into potential solutions
+Familiarity with combining structured and unstructured data sources to suit the problem task at hand
+An open and sociable personality that thrives in a team based environment
+What else you could bring
+Experience in retail and/or grocery
+Experience with Agile methodologies
+Significant work experience as a Data Scientist
+Demonstrable evidence of being a self starter and proactivity in personal development
+Literacy in Git version control
+Experience with command line terminals (Bash / Linux OS)
+Experience with Cloud based technologies (GCP - Preferred, AWS, Azure)
+An ability to write clear and coherent pipelines that could be easily peer reviewed by a fellow colleague
+If you would like to view the job outline for this role please copy and paste the following link into your browser: Here
+
+Industry
+Consumer Goods Retail
+Employment Type
+Full-time
+Job Functions
+Engineering Information Technology

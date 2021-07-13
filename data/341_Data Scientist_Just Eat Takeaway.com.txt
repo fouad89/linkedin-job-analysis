@@ -1,0 +1,58 @@
+Data Scientist
+Just Eat Takeaway.com
+London, England, United Kingdom
+Job Title: Data Scientist
+
+Department: Tech
+
+Reporting to: Lead Data Scientist
+
+Location: London or Bristol
+
+Overview
+
+The Data Scientist will be responsible for delivering high quality data science models as part of a team working on a variety of pricing, optimisation and personalisation challenges. You will be part of an established team of data scientists with experience in these areas, and work closely with the product and tech teams to build and evaluate suitable algorithms to allow us to scale our business.
+
+The role will require interfacing with other Tech teams working to production deadlines. Your project lifecycle will involve being part of the product development cycle and you will report to a Lead Data Scientist with responsibility for projects across pricing, optimisation and personalisation areas.
+
+You will attend regular team stand-ups to discuss work done. Taking on board feedback from other data scientists, gathering reviews of your code and models and ensuring they can be effectively deployed by our Tech team are key to this role. You will be comfortable exploring data to visualise and explain hypotheses and models.
+
+Things we do: We run one of the world's biggest food recommendation systems. We are building a logistics system that needs to scale to multiple countries. We're recommending restaurants our customers might like. We're giving them updates on when their food is going to arrive. We're optimising our pricing decisions.
+
+If you are passionate about customers and about food, come and join us!
+
+Required Qualifications
+
+Required skills and experience
+Degree in a quantitative discipline (eg. CS, Stats, Physics).
+Demonstrable relevant working experience.
+Applied experience with machine learning, data science and solving problems at scale.
+Ability to communicate business outcomes and recommendations from analysis verbally and in writing, and the ability to present results coherently.
+Ability to develop confidently in Python as the majority of our team is using it. This doesn't mean hacking in Jupyter, we need people with a passion for software, who can read and understand complicated codebases.
+Confident in extracting and manipulating data from our various SQL and NoSQL data stores and storage frameworks.
+Preferred Experience Can Include
+Practical experience with Personalization, Recommender systems or LearningToRank.
+Experience working on a Logistics project.
+Experience working with pricing algorithms.
+Experience in retail in similar markets to Just-Eat.
+Experience working in agile teams, with code reviews and source control.
+Comfortable with big data stores (Google BigQuery, Amazon Datastores) and tools (including dynamoDB, elasticsearch, S3, SQS, Kinesis) or Spark / Storm / Hadoop / Kafka or Neo4.
+Why work at Just Eat?
+
+Just Eat UK is part of Just Eat Takeaway.com, a leading global online food delivery marketplace headquartered in Amsterdam and listed on the London Stock Exchange.
+
+We've built our business on having the widest choice available on our platform – connecting millions of customers with over 155,000 restaurants across 23 countries - with over 100 different cuisines from local independents to globally famous restaurants, available to order via our app and website.
+
+We provide the platform and tools to help independent restaurants move online and reach a significantly broader customer base – to generate increased orders and grow their businesses. We also provide the insights, advice, and support our growing community needs to satisfy customers and help raise standards across a vibrant takeaway sector.
+
+We're built to deliver behind the scenes too. To make Just Eat the great company it is, it takes a great team of people. Which is why all of our colleagues are welcomed into a diverse and inclusive workplace where they feel they can belong. We're passionate about nurturing our people and offer a full programme of training and support to our employees – helping them to develop their careers in a way that suits them.
+
+No matter who you are, what you look like, who you love, where you are from, religious beliefs or takeaway preferences you could find your place at Just Eat. We're a diverse and inclusive workplace that promotes a sense of belonging, allowing all of our people to bring their most colourful and complex selves to work every day.
+
+Department: Technology
+Industry
+Information Technology & Services Computer Software Internet
+Employment Type
+Full-time
+Job Functions
+Engineering Information Technology

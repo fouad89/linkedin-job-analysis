@@ -1,0 +1,60 @@
+Data Scientist
+Funding Circle UK
+London, England, United Kingdom
+Description
+
+Who are we?
+
+We want to help small businesses win. That’s why we’re here.
+
+We connect small business owners to investors – to create jobs, help families and power economies – because we believe that people are made to do more. And we want to help them.
+
+So, we created the leading online marketplace for small business loans. Our investors have lent £11.4 billion in 143,000 loans to 100,000 small business owners. In a single year, we unlocked 135,000 jobs and contributed £10 billion to the global economy. There’s never been a better time to join!
+
+Be part of the team that changes everything. Let’s build the place where small businesses can get the funding they need to win and leave a legacy behind, forever.
+
+This role sits within the Risk & Analytics team. The drivers behind our platform – brilliant people working together to create, code, and build the next game changers.
+
+What will you be doing?
+
+We are looking for a talented Data scientist to join our Existing Borrower and Investor Analytics team. This role will primarily sit on the investor side of the team but there may be times borrower projects are also undertaken
+Be responsible for managing our loan allocations to investors and monitoring the effectiveness of our random allocation process
+Work with our Capital Markets team to set up reporting for our institutional investors
+Work with our Retail and Marketing teams to forecast Retail lending volumes, optimise marketing and create and maintain key performance reporting for the retail product
+Update our loan-part allocation algorithm for retail investors and monitor its performance and impact on delivering expected returns to investors
+Assist the borrower analytics teams on projects around marketing and process improvement in times where investor workloads are lower (for example during COVID we have not been able to lend to Retail investors reducing the analytical work needed in this area of the business)
+Are you?
+Educated with a Bachelor’s degree in quantitative/finance related fields
+Experienced in financial services, although this is not a necessity
+Coming from a coding background preferably with SQL, R, Python or SAS
+A proven problem-solver with skills using logical reasoning and analytical methods
+Proficiently able to translate complex analytical outputs into clear, simple and actionable stories
+Open minded, collaborative, great to interact with
+To identify with our Mission, “To build a better financial world”
+Aligned with our Core Values: Think Smart, Make It Happen, Be Open, Stand Together, Live The Adventure
+Why join us?
+
+We’re gearing up for our biggest chapter yet – and it’s being driven by everyone.
+
+We think of ourselves as the career launchpad. A place to develop yourself, fast. Real work. Real experience. Real opportunities to collect skills. Think big remits and huge ownership to make great things happen.
+
+Yes, it’s target-driven and high-octane – but we like to play hard too. That’s what makes us, us. Our vibrant culture is built around potential and creating a place where you can really be you. We keep it agile and open. All voices heard. Because we believe great ideas come from everywhere.
+
+If you show skill and are willing, we’ll back you all the way. This is the place for you to build something incredible.
+
+It’s in our differences that we find our strengths.
+
+At Funding Circle, we celebrate and support the differences that make you, you. We’re proud to be an equal opportunity workplace and an affirmative action employer. We truly believe that diversity makes us better. We particularly encourage applications from applicants from underrepresented backgrounds. We welcome applicants who may want to work flexibly.
+
+Want to Build The Incredible? We’d love to hear from you.
+
+TECH01
+
+Seniority Level
+Entry level
+Industry
+Computer Software Internet Financial Services
+Employment Type
+Full-time
+Job Functions
+Engineering Information Technology

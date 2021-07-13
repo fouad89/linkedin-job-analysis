@@ -1,0 +1,34 @@
+Data Scientist
+Vodafone
+Newbury, England, United Kingdom
+Location: Newbury, UK
+
+Role Purpose
+The Data Scientist is accountable for leading the DevOps approach to design, develop, optimise and operation of GDC-OpsAI Analytics within budget and SLAs.
+With Us You Will
+Accountable for delivering, developing operating and optimizing GDC-OpsAI Analytics incl data related to infrastructure, network, databases and tooling. Drive the support and enable the development and operations of Data modules and solutions for all Local Markets and Group Functions
+Responsible for creating and reviewing Data platform solution designs and use cases, taking any necessary action to mitigate the impact associated with the infrastructure on/off-premises.
+Drive the development lifecycles for monitoring, maintaining, capacity planning, availability, and performance of the Data Platform solutions against SLAs from a level two and level three support perspective
+Manage the design and implementation of the supporting teams (Security/Architecture) to ensure on-time delivery and budget of Data Platforms aligned to the latest strategic goals (Fiscal and technological).
+Determine user and technical story impact on existing architecture, work processes and systems
+Apply If You Have
+Extensive experience and proven track record in Data Platforms and Analytical Modelling at Enterprise scale.
+Senior Specialist skills in:
+Data Platform deployments on-prem and public cloud (GCP, AWS)
+Analytical technologies both Enterprise and OpenSource e.g. (Cloudera, Teradata, Tableau, Hadoop, Neo4J).
+Analytical techniques/models incl Machine Learning, Data Modelling and Visualisation
+At least two or more Analytical programming and scripting languages, e.g. SQL, Python, Linux
+Data Driven evidenced through strong creativity, analysis, and problem solving skills. Utilise Data/Visualisation techniques to illustrate issues and challenges.
+Must Have Technical/professional Qualifications
+Master’s or Bachelor’s Degree or technical institute certificate in Computer Science, Information Systems or other related field
+Able to demonstrate proven track record of work experience in designing, developing, deploying and / or administering Analytical solutions
+Comprehensive working knowledge of current and emerging Data Analytics, Data Platforms, Data Warehousing Technologies such as Cloudera, Teradata Vantage, Tableau, Snowflake etc.
+Experience working with analytical programming and data modelling using SQL, Machine Learning, Natural Language Processing (NLP), Deep Neural Networks (DNN) and Python
+Experience with working closely in a team/squad/tribe using agile methodologies Scrum and/or Kanban, practicing DevOps and Continuous Delivery / Integration
+#groupresourcing
+Industry
+Information Services Information Technology & Services Telecommunications
+Employment Type
+Full-time
+Job Functions
+Engineering Information Technology

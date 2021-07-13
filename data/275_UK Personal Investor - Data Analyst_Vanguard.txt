@@ -1,0 +1,43 @@
+UK Personal Investor - Data Analyst
+Vanguard
+London, England, United Kingdom
+Posted by
+Christie S.
+Senior Talent Acquisition Consultant at Vanguard and Mental Health First Aider
+Send InMail
+Join Vanguard Europe and help us in our mission: to take a stand for all investors, treat them fairly, and give them the best chance for investment success. Here, you can be a part of a culture that promotes teamwork, integrity and doing the right thing for our clients and our crew!
+
+The opportunity
+The UK Personal Investor team has been going through a major transformation of their data analytical capabilities with two particularly significant deployments which is deploying Adobe Launch to control the capture and categorization of our web data and deploying an AWS data lake to house all data sources in a single, cloud based location.
+
+Within the UK Personal Investor data and analytics team, we’re looking to use these new capabilities to better advise the business, provide teams and SME’s with key data sources to enable self-service, and finally to enable more detailed and robust analytics, automation and data science capabilities within the team.
+
+This role is critical to these objectives and will be responsible for understanding, validating, detailing our key data sources and sharing these across the business.
+
+In this role you will
+
+Engage with internal partners to understand business strategy, questions, and goals. Brings structure to business requests, translates requirements into an analytical project approach, and supports projects through completion.
+Acquire and compile structured and unstructured data and verifies its quality, accuracy and reasonableness.
+Perform analyses of historical data to surface trends and insights using analytical methods.
+Prepare and deliver visualizations and internal presentations that translate analytic insights into tangible, impactful solutions for business partners to implement.
+
+What we are looking for
+
+SQL: most important technical skillset for the job. Advanced data extraction, wrangling and formatting. Experience with Hadoop framework (particularly querying using Hive & Presto) is preferable but not essential. Interviewing for the role should require extensive SQL assessment.
+AWS: Experience with AWS (particularly Athena, S3 and glue ETL) again preferable but an understanding of cloud computing infrastructure and capabilities a big plus.
+Visualisation: the role requires supporting teams to get value from our data, a key part of which will be surfacing and visualising data for non-technical users. Tableau and/or Amazon Qucksight experience preferable.
+Business /Financial Services acumen: the role will involve partnering with non-technical SME’s to seek business challenges so will require thinking beyond the technical and in the context of UKPI as an investment platform and as a distribution channel within the broader business.
+
+Special Factors
+Vanguard is not offering visa sponsorship for this position.
+
+About us
+At Vanguard, investors can earn more over time simply by keeping more of their investment returns. Unlike other investment companies, we don't have outside owners taking a portion of clients’ returns. With no other parties to answer to, we can keep costs low and we can make every decision solely with investors' interests in mind.
+
+Vanguard is one of the world's largest investment companies, offering a large selection of high-quality low-cost mutual funds, ETFs, advice, and related services. Individual and institutional investors, financial professionals, and plan sponsors can benefit from the size, stability, and experience Vanguard offers. As of April 30, 2019, we managed more than $5.6 trillion in global assets. In addition, we have 189 funds in the United States and 225 funds in global markets.
+Industry
+Financial Services Investment Management
+Employment Type
+Full-time
+Job Functions
+Other

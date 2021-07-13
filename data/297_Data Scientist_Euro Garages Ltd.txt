@@ -1,0 +1,85 @@
+Data Scientist
+Euro Garages Ltd
+Blackburn, England, United Kingdom
+Role: Data Scientist
+
+Location: Blackburn, BB1 2FA
+
+Hours: Full-Time / Permanent
+
+Salary: £38,000+ dependent on experience
+
+Who are Euro Garages?
+
+EG Group is a leading global independent fuel station and convenience retail operator with operations at over 5,600 sites across Continental Europe, the United Kingdom, North America and Australia.
+
+The Group has enjoyed significant growth, with 2019 revenues in excess of €20bn (surpassing €25bn including the full year impact of acquisitions). The Group provides grocery, merchandise, fuel and food service to consumers through partnerships with global brands including Starbucks, Subway, Spar, Greggs, KFC and Burger King.
+
+What will my role look like?
+
+Our IT Team is expanding and we have a new role available for a Data Scientist! We are looking to kick start our Data and Analytics Practice and develop a cutting-edge analytics process using the most up-to-date technologies!
+
+You will be working help set up our Data Science Practice and will be running creating new tools, and model design and building new analysis and activation tools.
+
+You will be building models that feed into a wide variety of business areas including marketing optimization, forecasting, and purchase trends amongst others. There will also be instances of building statistical and machine learning models and designing data visualizations based on client-specific needs.
+
+There is a huge learning opportunity in this role, we are ideally looking for someone who has worked in industry and is still keen to progress and learn.
+
+Data Science is early in its journey at the moment for EG Group but there is huge potential! It is a fairly blank canvass at the moment but has the financial backing and technical support to grow very quickly…
+
+What would my main responsibilities be?
+
+work closely with the business to identify issues and use data to propose solutions for effective decision making
+build algorithms and design experiments to merge, manage, interrogate and extract data to supply tailored reports to colleagues, customers or the wider organisation
+use machine learning tools and statistical techniques to produce solutions to problems
+test data mining models to select the most appropriate ones for use on a project
+maintain clear and coherent communication, both verbal and written, to understand data needs and report results
+create clear reports that tell compelling stories about how customers or clients work with the business
+assess the effectiveness of data sources and data-gathering techniques and improve data collection methods
+horizon scan to stay up to date with the latest technology, techniques and methods
+conduct research from which you'll develop prototypes and proof of concepts
+look for opportunities to use insights/datasets/code/models across other functions in the organisation (for example in the HR and marketing departments)
+stay curious and enthusiastic about using algorithms to solve problems and enthuse others to see the benefit of your work
+Do I have what it takes?
+
+Experience as a Data Scientist in Industry, ideally 3+ years
+Knowledge of machine learning modelling techniques and how to fine-tune those models
+Programming - R & Python
+Knowledge in Database Technologies - SQL
+What’s in it for me?
+
+EG Cares is our benefits & rewards scheme, it’s our way of saying thank you to our EG family in recognition of the continued support and commitment you deliver every day.
+
+Competitive Annual Leave - We know our employees work hard so we offer competitive annual leave allowances so you can enjoy well deserved time off work!
+
+Work Anniversary Awards - We appreciate how loyal our employees are and to say thank you we reward colleagues when you hit milestones!
+
+Employee Discounts - You will be entitled to 15% off our food-to-go brands and 10% our retail stores, not only this our EG Cares platform entitles you to exclusive discounts at a variety of clothing / retail stores, restaurants, cinemas and much more!
+
+Free Parking - We have free onsite parking at our Head Office in Blackburn which is safe and secure with 24hr CCTV!
+
+Waterside Cafe - With the opening of our new head office we are revolutionizing lunch time with a state of the art employee area for colleagues to relax, dine and unwind. In house Chefs will freshly prepare meals from a large menu incorporating a variety of different cuisines which will change daily, and meals will be provided at incredibly low prices!
+
+Cycle to Work Scheme - We care about your health and encourage employees to cycle to work, we can help you save money on a new bicycle!
+
+Employee Assistance Programme - Telephone counselling and confidential support for personal / legal / medical / health and wellbeing issues is now available 24/7 for our employees through our EG Cares Employee Assistance Programme!
+
+Death in Service -At EG Group, we believe employees can be their best when they feel supported and have benefit plans that give them security and peace of mind!
+
+Learning & Development - We are committed to helping you develop new skills to be the best version of you!
+
+Our People - You will work alongside our amazing employees, have fun and be a part of our family!
+
+Free Eye Test - As a valued EG Employee you will be eligible to receive a free eye examination every two years!
+
+Progression & Career Opportunities - We look to promote and progress our employees within the business and we are very passionate about internal progression! As the business expands it opens new opportunities for growth… the opportunities really are endless with Euro Garages
+
+Compassionate Leave - We care about our employees and offer 3 days paid compassionate leave
+Seniority Level
+Entry level
+Industry
+Staffing & Recruiting Retail Financial Services
+Employment Type
+Full-time
+Job Functions
+Engineering Information Technology

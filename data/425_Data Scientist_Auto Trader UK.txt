@@ -1,0 +1,48 @@
+Data Scientist
+Auto Trader UK
+Manchester, England, United Kingdom
+About The Role
+
+We’re looking for Data Scientists with a range of experience to join our Data Science & Analytics team. You may already be employed in a Data Scientist, Senior Data Scientist or Principal Data Scientist role. The team’s mission is to empower Auto Trader, its consumers and customers to make data-informed decisions.
+
+As a company, it is our aim to be the most admired digital business in the UK, so we continually improve our products and develop new ones to stay ahead of the market. Data Scientists play a vital role in this. You will work closely with other members of the Data team and the wider company to help take data-driven products all the way from design to deployment. Your innovation will solve complex problems, such as how we evolve our platform towards online transactions and digital retailing, and how we can improve the experience of our consumers through personalisation, experimentation and targeted advertising.
+
+Data Scientists form part of a wider data community of Data Analysts, Digital Analysts and Data Engineers. They work with this core group to evolve our data platform, build data products and productionised machine learning models. Click the link below to read our blog on how we used machine learning to quantify how similar vehicles are to each other.
+
+https://engineering.autotrader.co.uk/2021/02/17/interchangeable-stock.html
+
+Our Data Scientists also ensure rigour through our peer-review process, share solutions and also provide mentorship to colleagues. They are encouraged to spot opportunities for data science and be proactive in learning and finding solutions.
+
+As a Data Scientist you will understand not only the data, but where the data has come from. You will work with cutting-edge data technologies such as Databricks, AWS, Google Cloud, Looker, DBT and Snowplow to solve problems that have a real tangible impact to our customers' operations, our consumers' experience and Auto Trader’s success.
+
+What We Are Looking For
+
+We’re looking to speak to candidates with varying ranges of experience. To apply you will need to have:
+A degree in a field relevant to Data Science
+Experience in an analytical role, either in a commercial or academic environment
+Demonstratable experience analysing data with a programming language; this could be Python, R, or similar
+Knowledge of multiple data science methodologies
+More Experienced Candidates May Have
+Experience delivering complex Data Science projects, with self-motivation to drive projects forward
+Experience in the application of statistical modelling and/or machine learning techniques in a commercial environment
+Familiarity with relational databases and SQL
+Benefits And More
+
+We're offering a salary of up to £80,000 dependent on experience, and a flexible benefits package to support your health and well-being. You'll have 28 days holiday per year, and that's in addition to bank holidays and half day closures on Christmas and New Year's Eve. Our Aviva pension scheme offers between 5% to 7% employer contributions depending on the percentage you choose to contribute, and we provide Bupa healthcare cover for all of our employees.
+
+Our employee assistance programme, enhanced parental leave and share-save options and are just some of the other benefits on offer should you decide to join us.
+
+Career development is something that we're passionate about at Auto Trader, and we all develop and learn things differently. Whether you attend an external conference, utilise a LinkedIn Learning license or choose one of our in-house masterclasses, there's something for everyone.
+
+As we move into the next stage of the government's roadmap out of lockdown, our offices are currently open to employees voluntarily. We are looking forward to welcoming everyone back on a more regular basis as restrictions continue to ease.
+
+As most of our colleagues are still working from home at the moment, all assessments are taking place virtually.
+
+Seniority Level
+Associate
+Industry
+Information Technology & Services Computer Software Internet
+Employment Type
+Full-time
+Job Functions
+Engineering Information Technology

@@ -1,0 +1,54 @@
+Data Engineer
+AXA UK
+Weybridge, England, United Kingdom
+The award-winning leading insurance company AXA UK has an excellent opportunity for a full time (35 hours) permanent Data Engineer to join AXA Retail. We are looking for a Data Engineer with a year or two of experience in SAS or Python and ideally someone who has a Maths/Science or IT degree class 2:1 or above. Initially home based due to COVID-19, we encourage and enable smart working and flexibility and foresee this role being performed from our Weybridge office and home split or fully from our Weybridge office depending on preferences. This role provides fantastic career development opportunities within our dynamic Business Information team. You’ll be part of a team responsible for a complex SAS data warehouse and MI reporting infrastructure used by around 70 users across our Pricing and Product departments, currently involved in a project to migrate data and MI to the Azure Cloud using Databricks. Key responsibilities:
+Assist with maintenance and delivery of routine ETL processes and ensure accuracy of the data
+Identify and drive improvements and enhancements to the warehouse to ensure it is fit for purpose
+Build relationships across the AXA business; promote the usefulness and availability of data and reports; keep business customers informed and supported
+Understand and proactively manage the risks associated with data usage and ensure full compliance with all relevant legislation
+Assist in the project to migrate data to Azure, using tools like Databricks, Python, Spark, Data Factory and PowerBI
+Assist in the roll out of new tools to the wider business. We are an Equal Opportunities Employer. AXA is proud to support the needs of our employees and as such understands everyone has individual work and home life responsibilities. We are therefore happy to discuss flexible working arrangements for this role, should this be a requirement for you.
+
+Qualifications:
+
+The Data Engineer role predominantly suits highly organised analytical individuals comfortable with coding most of the day with a passion to learn and solve problems. A strong working knowledge of either SAS or Python is required and understanding of other programming languages such as Spark, SQL, R, Visual Basic will be useful.
+
+Useful to the role will be knowledge of Azure Databricks and Data Factory. You will need to be comfortable with using the MS Office Suite (especially Excel), and able to manipulate data. As you will be working with a variety of stakeholders, you will need to be confident at understanding technical concepts and communicating back to non-technical audiences.
+
+An organised approach to planning and prioritising own workload will be needed and a basic understanding of Azure DevOps or similar tools would be useful.
+
+The ability to work under pressure and to strict deadlines whilst maintaining reliability and accuracy is important in this role.
+
+With a presence in over 60 countries, and 165,000 employees serving the needs of 107 million customers, AXA is big.
+
+But never too big to care for every single person who works here. So when you join us, we promise to put our collective might behind you and your career.
+
+You’ll work in an open and supportive environment where you’ll be developed, challenged and encouraged to move around to achieve even bigger and better things – nationally and internationally. You’ll learn directly from senior leaders, from the best in our business. And you’ll enjoy real responsibility, really early on.
+
+Every large company today talks about supporting diversity and inclusion. But at AXA UK, these values form an integral part of everything we do. For us, it’s about bringing together the best talent, helping people to realise their full potential by being 100% themselves at work and delivering outstanding service to everyone – regardless of difference.
+Proud to be part of the AXA Group, a global insurance brand and a worldwide leader in financial services, AXA Insurance businesses employ over 5,500 in a network of offices across the UK. Our expert teams care for a huge range of customers, helping them protect their cars, homes and businesses against life’s uncertainties. Whether bought directly, through brokers or through a number of corporate partners, our market-leading products are trusted by millions.
+At AXA UK, we’re appreciative of the people who work for us and our rewards package is reviewed regularly to reflect that. You can expect to receive:
+£30-45k annual salary DOE
+Annual performance/company bonus and annual salary review
+Enhanced contributory pension scheme (up to 12% employer contributions)
+Life Cover (up to 10 x annual salary)
+25 days annual leave plus Bank Holidays rising to 28 days with service
+Opportunity to buy up to 5 extra days leave or sell up to 3 days leave
+Enhanced parental leave
+Opportunity to buy Shares
+Flexible benefit options and multiple local and national discounts
+Flexible worker – home and office.
+
+If you’ve the drive and passion to succeed and are looking for a new opportunity within an award-winning company, this Data Scientist role with AXA is for you.
+
+To discuss this role or find out more information, please contact our dedicated In-House Recruitment Expert, Harriet Griffiths at harriet.griffiths@axa-uk.co.uk
+
+At AXA, we’re proud to be committed to equal opportunities and welcome applications from all backgrounds.
+Seniority Level
+Entry level
+Industry
+Financial Services
+Employment Type
+Full-time
+Job Functions
+Information Technology

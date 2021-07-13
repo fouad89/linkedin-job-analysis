@@ -1,0 +1,89 @@
+Junior Data Engineer
+Experian
+Nottingham, England, United Kingdom
+Data Engineer
+
+Who are we?
+
+Experian pH is a tech scale up acquired by Experian, a successful FTSE 100 company, that develops incredible software to help shape the business landscape. Our clients include the biggest banks, telcos, consultancies and we are even helping the government with their Covid response.
+
+Innovation is at the centre of everything we do. We understand that great ideas come from great people, and great people thrive when they’re trusted to challenge, change, improve, and perfect our products and processes.
+
+Our values are critical to our success. We strive to be inclusive, diverse, collaborative and forward thinking.
+
+Our unique culture is bringing together a talented set of diverse problem solvers to design, build and maintain. We pride ourselves in excellence, adopting best practices and holding ourselves to the highest standards.
+
+Day to day life
+
+Typically, you’ll spend most of your day coding and problem solving; working with your team to design and implement new features.
+
+We start our day with a quick stand-up discussing the project the team is currently working on, any blockers we have, and planning for the day ahead. We then break off into individually, in pairs or small groups to complete various pieces of work.
+
+It isn’t all about work at pH we hold regular games nights (currently virtual) and in more normal times you’ll often find a group heading out to have lunch together or go to the pub after work.
+
+You
+
+We are recruiting an entry level data engineer to join our agile team. We are transforming the way we serve clients to a service orientated software architecture. Do you want to be part of the team building this brand-new platform?
+
+What We Are Looking For Is
+Passion about programming with a genuine interest in data
+A keenness to learn and to work in a highly collaborative environment
+Strong communication, excellent attention to detail and problem-solving skills
+An appreciation that the simple solution to a problem – while often harder to discover than the complex one - is usually best
+Essential Duties And Responsibilities
+
+Development – time taken 75%
+Writing SQL queries on multiple multi-million row tables quickly and efficiently
+Use PL/SQL, Java or Python to create or improve the efficiency of processes or services
+Writing and maintaining automated systems/test suites
+Perform/assist with ongoing monitoring and maintenance of current applications
+Teamwork and knowledge sharing – time taken 15%
+Provide pro-active status reports and progress updates to team leads as required, for all assignments
+Engage with your assigned team to provide thoughts/estimates/insight for in progress or future assignments
+Personal development – time taken 10%
+Understand and participate in performance management processes
+Continuously improve knowledge of chosen field or programming language and suggest new and improved solutions to old challenges
+Could this role be for you
+
+We are interested in candidates with the following degrees
+
+Mathematics, Physics/Chemistry, Information Technology, Computer Science or Data Science.
+
+Not essential, but experience with the following tools and languages would be favourable
+Primary
+Oracle SQL + PLSQL
+Python
+Jenkins, Maven
+Secondary / Emerging
+Java 11+, Spring
+Apache Kafka, Kafka streams
+Artifactory, Docker, Sonarqube
+Javascript
+Postgres
+Openshift, AWS
+Apache Solr
+Why choose us?
+
+You will be part of a fun, innovative and growing agile team! Our culture and social scene are as important to us as our clients. We believe work should be enjoyable, challenging and rewarding!
+
+Benefits
+Smart, friendly colleagues keen to share their knowledge and learn new things from you
+25 days holiday (Option to buy/sell 8 more)
+Generous pension (5% employee + 10% employer)
+Critical illness cover
+Life assurance
+Bupa medical cover (+ Family cover)
+Gym discounts
+Free local restaurant lunch once per week
+Multiple social events throughout the year
+Flexible working
+Many more
+As an Experian employee, you can do the work you love, be yourself, and make an impact in the lives of millions. Our commitments to diversity and inclusion, team culture and the spaces where we work all reflect our mission to unlocking the power of data and technology to make a positive difference to our society and communities.
+Seniority Level
+Associate
+Industry
+Information Technology & Services Computer Software Financial Services
+Employment Type
+Full-time
+Job Functions
+Information Technology

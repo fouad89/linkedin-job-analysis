@@ -1,0 +1,45 @@
+Competitive Intelligence Data Scientist
+Mars
+London, England, United Kingdom
+Senior Competitive Data Scientist, London
+
+Salary: competitive
+
+It’s undeniable: Pets truly make the world a better place. That’s why we’re inspired to make A Better World For Pets™, a world where they’re healthy, happy and welcome. It's safe to say, at Mars Petcare, we're passionate about pets, and their health.
+
+This is a new team that is being built within the Pet Nutrition centre of expertise to become an agile team of subject matter experts, working closely with the regions and core business functions on a series of competitive intelligence projects .
+
+What are we looking for?
+
+Strong background in Big Data or Software development experience required; CPG Industry preferred.
+Highly proficient with Business Intelligence(BI) tools and able to employ advanced statistical analysis on large datasets.
+Proficient in web scraping, utilizing APIs and generating structured databases for analysis (i.e. Social Media, Search Engines/Trends, RSS Feeds, Company Websites, EDGAR SEC)
+Working knowledge of Database Warehousing
+Excellent Business Partnering
+
+What would be your key responsibilities?
+
+Leads the research, design & usability of internal and external digital data sources and works with the Snr CI Managers to turn them into insightful and actionable Competitive Intelligence.
+Partner closely with other members of the CI team (Sr. CI Managers) to design frameworks/data-warehouses (i.e. News Gathering, EDGAR Data scraping, syndicated data, sentiment analysis) - Facilitate both internal and external data gathering, fact finding & analysis.
+Have experience with "Big Data" sets and/or have to ability to learn to code: Ad-hoc web-scraping tools (Python & Beautiful soup etc.); setup/design new databases (Access, Azure, Data Lake) and explore basic digitizing and automating road-maps for CI function (PowerApps, Alteryx, Power BI)
+Key point person to understand, leverage and interactive with Mars Data Lake to support CI investigations.
+Create timely self-service dashboards for quarterly earnings releases, monthly competitor news, and other automatable reporting needs.
+
+What can you expect from Mars?
+
+An industry competitive salary and benefits package, including excellent pension.
+A company that understands the importance of a work-life balance.
+The chance to take hold of your own career, and develop personally and professionally.
+
+Closing date: 14th July 2021
+
+To open up a dialogue, please click on the APPLY button below. We look forward to hearing from you!
+
+Seniority Level
+Mid-Senior level
+Industry
+Consumer Goods Food & Beverages Food Production
+Employment Type
+Full-time
+Job Functions
+Information Technology

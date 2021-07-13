@@ -1,0 +1,78 @@
+Data Scientist - Advanced Analytics & Insight
+PlayStation
+London, England, United Kingdom
+Why PlayStation?
+
+PlayStation isn’t just the Best Place to Play — it’s also the Best Place to Work. Today, we’re recognized as a global leader in entertainment producing The PlayStation family of products and services including PlayStation®5, PlayStation®4, PlayStation®VR, PlayStation®Plus, PlayStation™Now, acclaimed PlayStation software titles from PlayStation Studios, and more.
+
+PlayStation also strives to create an inclusive environment that empowers employees and embraces diversity. We welcome and encourage everyone who has a passion and curiosity for innovation, technology, and play to explore our open positions and join our growing global team.
+
+The PlayStation brand falls under Sony Interactive Entertainment, a wholly-owned subsidiary of Sony Corporation.
+
+Role: Data Scientist - Advanced Analytics & Insight
+
+Department Overview
+
+The Data Strategy and Operations (DSO) team has grown rapidly over recent years in response to an increasing need for the business to leverage data to inform and shape key decisions, and to identify new opportunities. Currently there are over 100 staff within the global DSO team, made up of high-quality data science and engineering professionals covering BI architecture and platform support, data processing, insight reporting, predictive analytics, scrum masters and product management
+
+Due to team expansion DSO are looking to recruit talented, highly driven individuals who have excelled in previous roles and are looking for a new challenge in a dynamic and rewarding environment.
+
+Role Overview
+
+Data Scientists in DSO apply advanced analytical methods and tools to drive value from the data through techniques such as time-series forecasting, predictive modelling and other algorithms. We deliver end-to-end data science products supported by a scalable cloud based platform to drive an in depth understanding of consumer behaviours and support decision making and business planning across PlayStation.
+
+What You’ll Be Doing
+
+You will work in our London office in a distributed agile team, developing and supporting end-to-end data science products such as customer lifetime value models, what-if analytical models and forecasting.
+Develop, train, test and deploy data science models, such as time series forecasting or predictive modelling
+Apply appropriate statistical techniques to answer product questions and understand consumer behavior
+Work within a multi-disciplinary delivery team to understand requirements from stakeholders, prepare and present analysis results
+Communicate findings to other technical and non-technical teams across SIE globally
+Act as an ambassador for the team; maintain and enhance reputation and profile within the business by building strong relationships with stakeholders and positively contributing to DSO delivering the highest possible value from people and technical resources available.
+
+
+What We’re Looking For
+Masters’ degree or PhD in a relevant technical or mathematical field
+Exceptional analytical, quantitative, problem-solving, and critical thinking skills
+Strong data management skills including SQL
+Experience developing data science models with Python and associated libraries
+Strong written & verbal communication skills; including the ability to present detailed analyses to a broad audience range
+Organized self-starter, with drive and commitment; able to work with little supervision.
+Excellent interpersonal skills and the ability to maintain effective working relationships
+
+
+Desirable
+Experience working with distributed computing tools (Spark etc.)
+Experience of deploying data science models on scalable cloud platforms
+Experience of visual analytical tools such as Tableau
+Experience of relevant industries (e.g. gaming, digital commerce, subscription services)
+Interest in gaming
+
+
+Benefits
+Discretionary bonus opportunity
+Private Medical Insurance
+Dental Scheme
+London Allowance (if applicable)
+25 days holiday per year
+On Site Gym
+Subsidised Café
+Free soft drinks
+On site bar
+Access to cycle garage and showers
+
+
+Equal Opportunity Statement
+
+Sony is an Equal Opportunity Employer. All persons will receive consideration for employment without regard to gender (including gender identity, gender expression and gender reassignment), race (including colour, nationality, ethnic or national origin), religion or belief, marital or civil partnership status, disability, age, sexual orientation, pregnancy or maternity, trade union membership or membership in any other legally protected category.
+
+We strive to create an inclusive environment, empower employees and embrace diversity. We encourage everyone to respond.
+
+Seniority Level
+Mid-Senior level
+Industry
+Marketing & Advertising Information Technology & Services Computer Software
+Employment Type
+Full-time
+Job Functions
+Engineering Information Technology

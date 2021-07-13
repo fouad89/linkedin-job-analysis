@@ -1,0 +1,133 @@
+MapAction Volunteer 2021 - Data Scientists, Data Engineers, Designers
+MapAction
+Chinnor, England, United Kingdom
+Posted by
+Jo Pratt
+Head of Communications at MapAction and freelance comms consultant and writer
+Send InMail
+Global humanitarian needs outstrip resources. Expert geospatial and data analysis can help stretch those resources for maximum impact. Many professionals want to donate their energy and skills to help. MapAction is the bridge that enables them to do so effectively.
+
+We are a non-profit organisation that collaborates with partners around the world to help anticipate, prepare for, and respond to humanitarian emergencies. Our team, around 100 people, most expert volunteers, strives to ensure governments, regional, and local disaster management agencies and humanitarian responders have access to the information and analysis that they need to make key decisions, at the right times, to save lives and alleviate suffering.
+
+We are looking for new team members that will support our new developments and aspirations, and share our journey, vision, and our values.
+
+What we are looking for
+
+MapAction aims to maintain and evolve its excellence in the field of Geographical Information Systems (GIS) and Information Management (IM) surge support to partners for humanitarian emergencies, as well as training and preparedness activities.
+
+MapAction prides itself as an organisation that adapts and innovates to deliver excellence. Our team has a range of skills and experience that provides a breadth and depth that can be applied to various humanitarian emergencies and situations.
+
+The humanitarian world is changing quickly and we must change with it, diversifying our skills and ability to provide longer, in-depth projects to a multitude of partners.
+
+To adapt to these changes we will be enhancing and strengthening our internal data infrastructures and flows; further developing our geospatial analytics and data science capacity, to support field and remote missions; redesigning some of our processes and tools to ensure our products and services are more effective and based on human-centric approaches, and provide first-class external support and advice to partners.
+
+If you feel you are a good match for the roles below but do not feel like you meet all the requirements, we are still happy to receive your application!
+
+The core skills we look for in all of our team members are the following:
+A desire to use their skills, experience and dedication in the cause of humanitarian ends
+Good team player with leadership and/or project management experience or ambition wherever possible
+Exceptional communication skills, to explain your work to people who don't understand the mechanics behind data analysis, and experience in understanding partner needs and requirements, in particular working with non-technical clients
+Adaptable, resilient and solution-oriented
+Self-motivated and organised
+Time to commit to MapAction, for more details on the time commitment, please refer to the “What does it mean to be part of the MapAction team?” section below
+
+Desirable Skills Could Be Around
+Understanding of GIS and geospatial science, and/or practical experience with one or more of these: GeoServer, PostgreSQL / PostGIS, OpenLayers, Leaflet, MapBox, QGIS Server, QGIS, GeoExt and/or ESRI ArcGIS Suite, MapServer, MapInfo, Google Earth
+Humanitarian knowledge/experience
+Languages (particularly French, Spanish and Arabic)
+Adventure or professional travel experience or relevant international work experience
+Graphic design/visualisation skills
+Teaching, training or capacity building experience
+Monitoring and evaluation
+Website design / management
+IT and systems administration skills
+Mathematical aptitude and strong problem-solving skills
+Programming skills
+This year we are particularly interested in recruiting for the following areas:
+
+Data Engineering
+Advanced working SQL knowledge and experience working with relational databases, query authoring (SQL), and working familiarity with a variety of databases.
+Data schema modelling, database design and management expertise and writing SQL queries within RDBMS
+Strong data editing, analysis and processing skills
+Experience building and optimizing data pipelines, architectures and data sets.
+Build processes supporting data transformation, data structures, metadata, dependency and workload management.
+Cloud development experience, particularly with Google Cloud Platform or Apache Airflow
+Data Science
+
+Note - This role is currently a remote support role, but can be deployable if you meet the criteria. Please state in your application if this is something you would be interested in.
+Experience communicating data science outputs to non-technical audiences, eg. through accessible visualization, written reports, or presentations
+Experience in data analytics and statistical modelling (especially when applied to a spatial environment)
+Intermediate to advanced programming skills in Python (arcpy, gdal, geopandas, pandas, scikit-learn). Programming skills in R are also very valued but should be matched with an interest to learn Python.
+Awareness of best practices in reproducible data science with Python and/or R
+Strong data editing, analysis and processing skills
+Desirable - experience in database interrogation and analysis tools, such as Hadoop, SQL
+Desirable - data schema modelling, database design and management expertise and writing SQL queries within RDBMS
+Design
+Experience with identifying and troubleshooting UX (user experience) problems
+Experience designing highly functional and accessible UI (user interface) elements
+Experience conducting user research to explore and evaluate desired experiences, analyse data, present findings, and make prioritized design recommendations
+Experience collaborating with beneficiaries and other stakeholders to co-create desired system/software experiences; communicating scenarios (hypothetical users), end-to-end experiences, interaction models,
+Experience considering the human-computer interaction (HCI) elements of design
+Experience defining interaction models, user task flows, and UI (user interface) specifications
+Artistic eye for design and/or ability to think creatively
+Accuracy and attention to detail
+What does it mean to be part of the MapAction team?
+
+Being part of MapAction means entering a close-knit community of highly skilled and committed professionals in different industries, with years of experience both in academia or the private sector and in the humanitarian world. It means using your unique skills to help prepare for, anticipate, or respond to humanitarian emergencies, enabling our partners to provide life-saving support.
+
+As a volunteer, you can participate in all levels and areas of the organisation, working alongside our colleagues at various UN agencies and/or other humanitarian partners. Volunteers also steer the organisation's strategic direction and are involved with designing and implementing our operational capacity.
+
+As a member of the team, you will be expected to participate in at least 7 internal weekend training events (we have around 10 per year). You will also be expected to participate in project work and/or emergency missions and support. Generally, that takes the form of a couple of weeks of full-time work remotely or abroad each year to 18 months, and/or remote, regular engagement of a few hours per month.
+
+To be a successful volunteer, you should have a very good working relationship with your employer and the ability to take time off for volunteering work. MapAction can support employer engagement.
+
+Exceptionally, we can accommodate different engagements styles and requirements, depending on the specific situation.
+
+From The MapAction Team You Can Expect
+A chance to put your skills to use in the context of a humanitarian crisis
+Access to our unique network, and the opportunity to exchange with a unique and diverse set of professional geospatial and data peers
+Opportunities to learn and develop new skills (from coding to using a BGAN, from disaster response to media training, from leading a team to deliver a new platform for a partner, to leading a team to deliver a BBQ for 100 people)
+Opportunities to travel: conferences, training events, project work, missions
+A never-ending supply of snacks during training events (we take our snacking seriously)
+All MapAction-related expenses covered: travel (when in-person events are feasible) and mission-related costs, including insurance
+How do I apply?
+
+Attach a SINGLE File Containing
+Your CV. It should include: Current work, skills and experience, Other relevant IT/technical skills and experience, Educational details, Where you live, Languages spoken (we are currently seeking French, Spanish and Arabic speakers), Contact details, References
+An example that demonstrates your skills for the profile, for example:
+A link to a public code repository, or portfolio (e.g. a Github profile, a website or similar),
+A code/work sample if you are unable to share your work publicly, or a short description of an interesting and challenging technical problem you have encountered and how you solved it (400 words max).
+If you do not include an example of your work, your application will not be considered.
+
+Selection process
+
+This year’s selection process will take place from June to September. The process consists of:
+Application submissions 15 June - 25 July 2021.
+Application screening from 26 July.
+Shortlisted candidates invited (9 or 10 August) to an interview and an open day on what is involved in volunteering with MapAction, which will take place on the first week of September. The intent is to conduct these in person in the UK, in compliance with all relevant UK Government COVID guidance, but we will look for remote alternatives for those who are unable to travel. The Interview & Open Day includes:
+Interview
+A practical skills test for your volunteer role
+A group exercise
+An introduction to the organisation, and a chance to meet the Office Team
+A Q&A with current volunteers
+Subject to references successful candidates will be invited to join MapAction shortly afterwards.
+
+Every year we receive many times more expressions of interest in volunteering than we have available volunteer vacancies. So, unfortunately, even people with excellent skills and experience are not always selected. However, we do still greatly appreciate all volunteering applications and if you do not succeed please try again. We have several current volunteers who were recruited on their second or third try.
+
+Diversity & Inclusion
+
+As an organisation, we recognise the value that diversity brings to our entire operation, deployments and culture. Diversity brings different experiences and perspectives to bear in all aspects of our decision-making. It also enables us to respond most appropriately and effectively to the challenges which our teams face, where they are required to operate in diverse and challenging circumstances.
+
+MapAction is an Equal Opportunities employer. All employees and volunteers have a personal responsibility to promote and support measures designed to create a working environment that is free from harassment or discrimination on the grounds of gender, marital status, family status, age, race, religion, disability, sexual orientation, membership of the Traveller community or HIV & AIDS status.
+
+Other frequently asked questions
+
+Do you have positions for non-operational volunteers or administrative roles?
+
+These arise very rarely and we would generally advertise them on our website but please send in your CV if you wish.
+
+Are you able to offer internships?
+
+So far we have not been able to offer internships, but we are looking at this and may be able to offer some in the future. If you have a particular idea in mind let us know.
+Employment Type
+Volunteer

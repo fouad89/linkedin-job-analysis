@@ -1,0 +1,48 @@
+Data Scientist - Climate Analytics
+McKinsey & Company
+London, England, United Kingdom
+Qualifications
+Graduate degree (PhD/postdoc highly preferred) in atmospheric science, meteorology, climate/earth systems science, hydrology, civil/environmental engineering, astrophysics, or similar fields
+Required modeling experience experience working with climate models (i.e. CMIP5 GCMs, RCMs, etc.), ensemble analysis, uncertainty quantification
+Preferred modeling experience flood/hydrological modeling, bias correction/downscaling methods, climate impact assessments
+Knowledge required climate risk assessment, extreme events analysis
+Ability to work with large, multi-dimensional data (e.g. netCDF, GRIB, TIFF files)
+Python knowledge required (experience with xarray and knowledge of basic software engineering principles highly preferred)
+Experience working with Linux and command line scripting (i.e. bash, zsh), and familiarity with cloud computing environments highly preferred
+Self-management skills and ability to work as part of an Agile team
+Strong multitasking and parallel development abilities
+Strong analytical and problem-solving skills paired with the ability to develop creative and efficient solutions
+Strong interpersonal communication skills
+Creative, naturally curious, and willing to take intellectual risks
+Able to work under competing, quickly-changing priorities, manage expectations effectively and support the team under pressure
+Willingness to travel up to 50% (will likely travel 20-40%) (after current McKinsey travel restrictions due to COVID-19 are lifted; all work is currently remote)
+
+What You'll Do
+
+You will leverage your deep knowledge of climate and earth systems as well as analytical expertise to provide insights to clients, strengthen our core client product offerings and disseminate climate-related insights via internally and externally published articles and visualizations.
+
+In this role, you will spend half of your time solving specific business problems on client projects (either remotely or on site) and you will spend the other half of your time developing new, or improving upon existing, products for the climate analytics team. As a member of a client service team, you will leverage your creativity and problem-solving skills to design solutions to core business problems that best meet client needs. You will also communicate the outcomes and insights of your work to primarily non-technical executive audiences.
+
+On client projects, your tasks will include retrieving and processing large amounts of data from cloud storage, conducting analyses and generating insight based on medium to long term projected changes in climate. You will be utilizing your climate domain expertise to provide climate-specific insight and inform strategy for addressing climate risk across industries.
+
+When working internally with the climate analytics team, you will improve current product offerings (what we call “IP development”) to best meet our most common client needs. You will work in a collaborative agile team environment where you will bring together a variety of global data sources, implement different algorithms and utilize cutting edge methodologies and approaches to develop proprietary solutions. You will work together with our data engineering team to design and deploy applications and dashboards to deliver faster, more impactful insights to our clients.
+
+You will have access to unparalleled career acceleration, with ownership and responsibility to lead the work you do from day one in a collaborative, diverse, non-hierarchical environment. You will have the opportunity to travel to client sites, locally and around the world, to be able to provide direct and measurable impact to some of the largest players from energy to agriculture around the globe.
+
+Who You'll Work With
+
+You will be based in Brussels or London office as part of McKinsey’s Climate Analytics team.
+
+You will learn how to structure business problems and serve as a client advisor while working closely with other data scientists/engineers and senior leaders across industries shaping the future of climate.
+
+Climate Analytics is McKinsey’s core team of experts who analyze, and generate insights from, the quantitative impact of climate change for our clients. McKinsey’s Climate Analytics team is a small, close-knit team of ~10 within a broader team called Sustainability Insights composed of data scientists, engineers and expert consultants dedicated to conducting advanced analytics on sustainability topics.
+
+Our Climate Analytics team works across all sectors at McKinsey being impacted by climate change - for example, the public, energy, and financial sectors. Regardless of the sectors in which you work, you will get the opportunity to work with multi-disciplinary teams with digital, analytics, research and business backgrounds. Our Climate Analytics team is an agile team within the firm whose goal is to use the latest analytical methods, incubate new technologies and drive innovative ways to develop new opportunities for the firm to make significant and lasting client impact – redefining what it means to provide the “best of the firm” to our clients.
+Seniority Level
+Associate
+Industry
+Environmental Services Farming Renewables & Environment
+Employment Type
+Full-time
+Job Functions
+Research Science

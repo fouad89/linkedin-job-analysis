@@ -1,0 +1,67 @@
+Data Scientist
+MAGO
+Manchester Airport, England, United Kingdom
+Posted by
+Chris Joynson (he/ him)
+Head of Digital Talent Acquisition
+Send InMail
+We are proud to be a diverse employer, and we welcome candidates from all backgrounds
+Flexible/ Hybrid working for a better work/ life balance
+Develop something new – see the results!
+Work for an iconic business and do things never before achieved within our industry
+Competitive base + pension, bonus, free parking and other corporate benefits
+Based above Manchester Airport’s Train/ Tram station
+
+The Business
+
+MAGO is a truly agile eCommerce business that incapsulates innovation and the ‘art of the possible’. As the digital tech division of Manchester Airport Group, we have great offices with the usual array of table tennis tables/ foosball/ coffee machines/ sofas etc… However, what truly sets us apart is the opportunity to work on globally unique eCommerce systems that are built using the emerging tech and agile principles. As a Data Scientist, we understand that you are always learning, so we offer an array of training including; Udemy courses, online learning, exam vouchers, tickets to conferences etc etc. Most importantly, you will work on projects that make a real difference, receive live feedback from users, and allow you to see the work you’re doing actually make a difference. Finally, you will join a company that is laser focused on being the number one global agency for airport services; delivering defined business and tech goals with a team that will allow you to deliver with adult autonomy.
+
+Have a stroll around our office: https://youtu.be/0pYS_ghtWSU
+What we do: https://www.youtube.com/watch?v=AlbfsK-0mbM
+
+The Role
+
+As one of our Data Scientists you will be closely supporting our Senior Data Scientists on the continued growth of MAGO’s data science capability. You’ll focus on understanding customer behaviour to increase relevancy and customer personalisation; as well as modelling and forecasting demand, implementing cutting-edge models to. Improve services in and around airports. This is an exciting role for anyone who wants to help build something completely new, and see the fruits of their labour as we deliver (using agile principles of incremental deployment) a globally unique product to new and existing clients worldwide. Moreover, you will be working within a Tech knowledgeable business with people across all departments who share the same product goals. We are therefore a business that is pulling in the same direction and are supportive, even reliant on each other’s innovation. 
+
+This role offers an opportunity to work at scale with data from MAG’s 3 airports, our (MAG owned) distribution companies, MAG USA and global clients. MAG’s customers alone number 60 million passengers per year, 70,000 car parking spaces, and digital properties attracting 30 million visitors per year. The projects supported are also varied, including forecasting, revenue management, support to the CRM team with optimization, customer experience, and recommender systems, with increasing interest in real-time solutions.
+
+This role will suit anybody keen to work (and continue to develop) in, the following key areas:
+
+Forecasting & time series modelling
+Audience analysis & intelligence
+Predictive analytics
+Recommendation systems
+Taking machine learning models into production
+ You:
+
+Degree qualified, and with a passion for data science, you will have a strong set of insight skills. You will also have significant and proven first-hand experience with a range of qualitative and quantitative analytical techniques in a commercial environment. You will bring working knowledge of machine learning techniques including such methods as Regression, Decision Trees, Random Forests, Naïve Bayes, and Support Vector Machines.
+
+Ideally from within a commercial environment, you will have knowledge of Python and preparing reports with Jupyter or other notebooks, along with experience of architectures suitable for large data set manipulation and utilisation.
+ What are we offering?
+
+A company that is inclusive and tolerant to all
+Flexible working approach (not just during Covid, but ongoing)
+Strong base salary (on experience) + pension and bonus
+Free parking and significantly subsidised public transport
+Discounts on company products
+24 days Holiday entitlement (plus the ability to buy more)
+Great work culture: the feel of a tech start-up with the backing of a global corporate with fantastic career development and advancement opportunities
+Based above a train/ tram station for an easy commute (when not working from home!)
+Free coffee/ gym/ break out areas/ great company culture and approach
+AWS Certification (if needed) / online training/ exam vouchers/ tickets to events etc.
+
+
+If you feel that you are the right candidate, then please click ‘apply’ now! We’d love to hear from you
+
+Equal Opportunities
+MAG is a values led organisation and we are committed to providing equal opportunities in all areas of work and business. We want people to achieve their best, which will in turn positively impact on our customers and the communities in which we live and work. At MAG we empower people to be themselves within an inclusive and supportive environment, enabling everyone to achieve their full potential in line with their abilities and career aspirations.
+ Reasonable Adjustments 
+As an inclusive employer, MAG wants to see every candidate performing at their best throughout the job application process, interview process and whilst at work. We therefore encourage you to inform us of any reasonable adjustments you might need to enable this to happen.
+Seniority Level
+Mid-Senior level
+Industry
+Airlines/Aviation
+Employment Type
+Full-time
+Job Functions
+Information Technology

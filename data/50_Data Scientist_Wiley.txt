@@ -1,0 +1,63 @@
+Data Scientist
+Wiley
+Brighton, England, United Kingdom
+Location: Brighton, UK
+
+Company: Madgex (a Wiley brand)
+
+At Wiley, we welcome you for who you are, the background you bring, and embrace individuals who get excited about learning whether online or by book. Learning is for everyone, and so is our workplace. Bring your experiences, your perspectives, and your passion. It’s in our differences that we empower the way the world learns.
+
+Summary Of The Role
+
+We are experts in career technology. We have been providing job board and recruitment technology to our clients since 2000, working with the world’s leading media brands and organisations in 10 languages and 14 countries.
+
+Madgex has offices based across the globe and has been named in The Sunday Times 100 Best Companies to Work For and Great Places to Work. We’re growing our Data Science team, based in the centre of Brighton and we want you to apply.
+
+Requirements
+
+You will work within a team responsible for developing innovative products and new revenue streams based on strategic applications of data science to Madgex’s Big Data set.
+
+There is a strong machine learning element to this role, and large scope for exploratory analysis to help identify new opportunities for the business.
+
+How you will make an impact:
+Developing and improving machine learning models to improve existing data products.
+Helping to identify new product and revenue opportunities for the business based on in-depth analysis of the data set.
+Prototyping and stress-testing data product ideas
+Delivering insights and recommendations – based on the above – to the team
+We are looking for people who:
+Have a degree in one of the following; Statistics, Applied Sciences, Computer Science, Machine Learning, etc.
+Have in-depth knowledge of Python
+Experience in the following also desirable:
+Applying machine learning in a business context
+1-2 years commercial data experience
+Data/text mining
+Data engineering
+Natural Language Processing (NLP) / Named Entity Extraction (NER)
+Deep learning / neural networks
+Experience using SQL and/or Elastic Search
+Experience with Big Data sets
+Ultimately you are a person who is conscientious, has an eye for detail, and produces high quality work.
+
+About Wiley
+
+We are in one of the most dynamic periods in our history as technology, globalism and economic diversity create far-reaching changes in the world. As a learning business, Wiley makes meaningful contributions to research discovery and lifelong learning by helping organizations achieve their goals and people achieve success from education through their career. We may have been founded over two centuries ago, but our secret to success remains the same: change with the times and adapt to meet the ever-evolving needs of our customers. The company’s headquarters are located in Hoboken, New Jersey, with operations in the U.S., Europe, Asia, Australia, and Canada.
+
+Location/Division:
+
+Brighton, UK
+
+Job Requisition:
+
+47082
+
+Time Type:
+
+Full Time
+Seniority Level
+Entry level
+Industry
+Publishing Information Technology & Services E-learning
+Employment Type
+Full-time
+Job Functions
+Engineering Information Technology

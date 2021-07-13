@@ -1,0 +1,50 @@
+Data Scientist
+Tata Consultancy Services
+Norwich, England, United Kingdom
+Are you a Data Scientist with a passion for delivering excellence?
+Do you enjoy working in a fast-paced environment, helping our clients deliver mission-critical complex projects?
+Are you an expert in Data & Analytics & looking for a new exciting role?
+If you answered yes to the above, then we would love to hear from you!
+
+As a Data Scientist, you will be joining our Team in Norwich, UK. This is a permanent role. TCS is a leading provider of Data & Analytics services for large UK based Insurance organisation. We are looking to hire a senior data scientist to augment our existing Data engineering and Data practice teams to help drive customer value in the area of data science.
+ Key Responsibilities:
+Collaborate with TCS Data architects, SMEs and Data engineering teams to create tailored propositions in data science for business users   
+Review customers existing data science approach, data science engineering propositions and model development approaches and suggest best practices
+Present approaches for leveraging structure and unstructured data within and outside ecosystem to create tailored data science propositions based on insights
+Support new business development and TCS footprint expansion in customers Data science landscape
+Identify valuable data sources and produce solutions show casing AI/ML capabilities
+Undertake data gap assessments and work collaboratively with Data architects, engineers to derive Insights from Data
+Analyze large amounts of information to discover trends and patterns
+Build predictive models and machine-learning algorithms
+Data Story telling - Present information using data visualization techniques
+Collaborate with TCS data architects, data engineering and practice teams to create tailored propositions
+Use combined knowledge of computer science, data modelling, statistics, analytics and maths to solve problems
+Use strong Insurance business acumen, as well as an ability to communicate findings, and mine vast amount of data to create useful insights
+
+Person Specification:
+Proven experience as a Data Scientist or Data Analyst
+Experience in data mining, understanding of machine-learning and operations research
+Knowledge of R, SQL and Python; familiarity with Scala, Java or C++ is an asset
+Experience using data science platforms ( e.g Dataiku, Datarobot), business intelligence tools (e.g.BO/Qlik) and data frameworks (e.g. Hadoop, Data lake)
+Strong math skills (e.g. statistics, algebra)
+BSc/BA in Computer Science, Engineering or relevant field; graduate degree in Data Science or other quantitative field is preferred
+Experience in Statistics, predictive trends and analysing patterns
+Experience using statistical computer languages (R, Python, SLQ, etc.) to manipulate data and draw insights from large data sets.
+Knowledge of a variety of machine learning techniques (clustering, decision tree learning, artificial neural networks, etc.) and their real-world advantages/drawbacks.
+Knowledge of advanced statistical techniques and concepts (regression, properties of distributions, statistical tests and proper usage, etc.) and experience with applications.
+Excellent written and verbal communication skills for coordinating across teams.
+A drive to learn and master new technologies and techniques.
+
+
+Explore the world of TCS here: https://www.paperturn-view.com/?pid=MTA108652
+
+
+Due to a high volume of applications, we will be unable to contact each applicant individually regarding the status of their application. If you have not received a direct response within 30 days then the application should be deemed unsuccessful.
+Seniority Level
+Associate
+Industry
+Information Technology & Services
+Employment Type
+Full-time
+Job Functions
+Engineering Information Technology

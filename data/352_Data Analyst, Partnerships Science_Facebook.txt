@@ -1,0 +1,38 @@
+Data Analyst, Partnerships Science
+Facebook
+London, England, United Kingdom
+Facebook's mission is to give people the power to build community and bring the world closer together. Through our family of apps and services, we're building a different kind of company that connects billions of people around the world, gives them ways to share what matters most to them, and helps bring people closer together. Whether we're creating new products or helping a small business expand its reach, people at Facebook are builders at heart. Our global teams are constantly iterating, solving problems, and working together to empower people around the world to build community and connect in meaningful ways. Together, we can help people build stronger communities - we're just getting started.
+
+The Partnerships Science team is an analytics group within the Partnerships Organization that is focused on optimizing value for our partners and accelerating the growth of their businesses, while continuing to deliver great products to the world. In service of this goal, the team works with leading partners in the entertainment, sports, news, gaming, and other verticals to optimize their performance through research and insights that will guide their strategy.The Partnerships Science Analyst will have a hands-on role focusing on understanding Business Messaging’s complex partner ecosystem and collaborating with internal stakeholders to inform decision-making across product, marketing, sales, strategy, and operations across Messenger, Instagram and Whatsapp. A large portion of the role will require building relationships with new teams while also diving deep into analyses, building pipelines and dashboards, thinking creatively around new solutions and communicating compelling solutions that drive business growth.The ideal candidate will have a solid foundation in analytics, research and statistics, and strong communication skills. Applicants should have a strong quantitative background, and experience analyzing large datasets.This position is full time. Some amount of travel (domestic and international) will be expected in the role.
+
+Responsibilities
+Lead analyses to improve our understanding of partner needs and objectives on Business Messaging.
+Provide analytical/technical expertise on how to measure and grow value to our partners.
+Make recommendations and guide product and business decisions based on data analyses and an understanding of long-term strategy.
+Work cross functionally with product, marketing, and sales on optimizing opportunities and insights.
+Independently query internal data using SQL to support investigations and research/insights.
+Communicate complex data issues to audiences of different levels of technical expertise to drive understanding and action.
+Build pipelines and dashboards to support analyses and internal stakeholder needs.
+Minimum Qualification
+6+ years of quantitative or statistical analysis experience.
+Bachelor's degree in an analytical field (such as Computer Science, Engineering, Mathematics, Statistics, Economics, or Finance).
+Demonstrated problem solving skills with experience providing practical business insights from large, complex data sets.
+SQL proficiency (4+ years of experience pulling data independently).
+Proven communication and cross functional collaboration skills.
+Experience with querying large data systems independently (e.g. Hive).
+Experience with data visualization tools and building dashboards (e.g. Tableau).
+Experience managing multiple concurrent projects and driving initiatives in a cross-functional environment.
+Preferred Qualification
+Experience with statistical analyses and scripting languages for automation (e.g. R/Python).
+Experience building out large data sets and pipelines.
+Demonstrated experience being a thought leader in an analytical environment.
+Experience working in a large consumer internet or social media company.
+Experience working in business messaging or social care.
+MA or PhD degree in an analytical field (such as Computer Science, Engineering, Mathematics, Statistics, Economics, or Finance).
+Experience with business messaging is a plus.
+Industry
+Internet
+Employment Type
+Full-time
+Job Functions
+Information Technology

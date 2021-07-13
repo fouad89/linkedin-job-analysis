@@ -1,0 +1,42 @@
+Data Engineer – Machine Learning Data Collection and Quality
+Speechmatics®
+Cambridge, England, United Kingdom
+Posted by
+Rachel Booth
+People and Talent Coordinator at Speechmatics® | CIPD Level 3 Student
+Send InMail
+Data Engineer – Machine Learning Data Collection and Quality
+Location: Hybrid - Remote + Cambridge/London
+Role type: Full time (37.5 hours), permanent
+Job Ref No: EngMod007
+
+Background
+As a recognized pioneer in machine learning voice engineering, Speechmatics enables companies to build applications that detect and transcribe voice in any context in real-time. Its neural networks consider acoustics, languages, dialects, multiple speakers, punctuation, capitalization, context and implicit meanings. In 2019, Speechmatics received the Queen’s Award for Enterprise Innovation. 
+Speechmatics is a rapidly growing, global company with offices in Cambridge, UK, Denver, USA, Chennai, India and Brno, Czech Republic. With ambitious growth plans comes great opportunities that are exciting and progressive. You’ll be working with some of the smartest minds in the industry, working on cutting-edge projects and deploying the latest machine learning techniques to disrupt the market.
+Speechmatics is an equal opportunities employer and positively encourages applications from suitably qualified and eligible candidates regardless of sex, race, disability, age, sexual orientation, transgender status, religion or belief, marital status, or pregnancy and maternity.
+ The Opportunity
+We’re looking for software or data engineers to help us build the next generation of speech-to-text ML systems by improving the scale, quality and breath of our data. We are aiming to train our models on millions of hours of audio and terabytes of text, which will require an ambitious team to collect and manage our data.
+ This is an opportunity for you to take ownership of our data pipeline, which is a critical component in building state-of-the-art models to cement our position as the world’s leading speech-to-text solution. We’re looking for someone able to find creative ways to source new data at scale, improve the reliability of our systems, and design better abstractions for managing our data and analytics.
+ No experience in working with machine learning data is required, although desirable. What we’re after is strong software and design skill and ethos. Although the goal of this role is to support our machine learning operations; you’ll have to be self-directed and able to autonomously find important problems to address while working closely with our modelling and product teams with a shared goal.
+ Example of responsibilities:
+ Taking inventory, understanding, and organising existing data, including availability, usage, and obtaining additional metadata as needed.
+Writing web scrapers to collect data in many languages.
+Understanding where we are deficient in data and working out where that data gap could be closed to widen support for things like accents/dialects/languages.
+Supporting the data sharing agreements with 3rd parties and the management of data transfers between customers and Speechmatics.
+Obtaining data for both testing and training different use cases, identifying, coordinating and building out network of 3rd-party vendors to support multiple languages as needed for labelling.
+ Essential experience:
+Comfortable with Python, Shell scripting, and databases.
+Design of robust automated pipelines for data acquisition and processing.
+Data crawling and scraping from many diverse data sources.
+Ability and motivation to dig into problems across a stack of unfamiliar code, whether it’s networking, infrastructure, or runtime performance of the code.
+ Desirable qualities that would make you a good fit:
+ You obsess over keeping things simple.
+You are self-directed and like moving fast.
+You are mission-orientated and value working on something bigger than yourself.
+You dislike bureaucracy.
+
+Salary
+We have a salary band in mind for each role, however we are candidate-led, so we want to ensure we attract the very best talent and remain flexible. We also offer comprehensive benefits. 
+ 
+Employment Type
+Full-time

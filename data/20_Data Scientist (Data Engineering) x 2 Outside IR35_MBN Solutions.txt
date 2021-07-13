@@ -1,0 +1,36 @@
+Data Scientist (Data Engineering) x 2 Outside IR35
+MBN Solutions
+Glasgow, Scotland, United Kingdom
+Posted by
+Douglas Darby
+Executive Consultant (Contracts Division) at MBN Solutions
+Send InMail
+2 x Data Scientist with Data Engineering focus (OUTSIDE IR35)
+
+I am on the lookout for 2 Data Scientist who have strong experience in Data Engineering. Contracts are initial for 3 months with scope to extend. These roles can be undertaken remotely.
+Day rate is between £550 - £620 per day depending on experience and suitability for the role.
+
+My client is looking for someone to:
+
+Conducting data collation, quality assurance, transformation, measurement (“ETL”), and automation
+Developing analytical pipelines for all of the above, including production systems, probably using Python, PySpark and relational databases, as well as command-line tools, source control, build systems etc.
+Working with sensitive data and applying output disclosure controls to ensure preservation of and respect for privacy of all data subjects.]
+
+Successful candidates will have experience in:
+Experience working with Data
+Knowledge of data management and visualization techniques
+A good working knowledge of PySpark
+Experience working in an AWS environment and its associated tools
+Testing and reproducibility are important aspects of the work, as are considerations of data provenance, data lineage and maintaining audit trails for analyses.
+Experience in statistical analysis and predictive modelling
+A good knowledge of R or Python is required
+Experience with SQL databases would be an advantage
+ If this sounds like the role for you please apply immediately with an up to date CV!
+Seniority Level
+Mid-Senior level
+Industry
+Staffing & Recruiting
+Employment Type
+Contract
+Job Functions
+Information Technology Consulting

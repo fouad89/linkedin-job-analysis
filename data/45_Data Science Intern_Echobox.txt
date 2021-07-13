@@ -1,0 +1,41 @@
+Data Science Intern
+Echobox
+London, England, United Kingdom
+You will work closely with our Data Scientists and gain valuable AI/ML skills while being in charge of your own cutting edge NLP project. At the end of your internship you will present in front of the Echobox tech team.
+
+Responsibilities
+Lead the entire life-cycle of a cutting edge AI/ML project.
+Create and execute a presentation for your project, to be delivered in front of the tech team.
+Assist your team in day-to-day jobs and projects.
+
+About Echobox
+
+We are a fast-growing, research-driven company building an artificial intelligence that helps online publishers overcome the challenges they face every day. Using novel machine learning techniques, we are revolutionising the publishing industry and have a track record of building things that others have ruled out as impossible. Leading names from around the world rely on our product every day, including The Times, Le Monde, The Guardian, Vogue and many more.
+
+Our team is our best asset. We work with extremely smart and talented individuals, who all enjoy a high degree of responsibility and independence in structuring their work.
+
+Do you think you have what it takes to be part of Echobox? We'd love to hear from you.
+
+About Our Work
+
+To get a better insight into the kind of work we do check out our data showcases (https://showcase.echobox.com) and our open-source project on Github (https://ebx.sh/gh).
+
+Requirements
+
+Academic Qualifications
+Recent graduate or current student at a top-tier university.
+
+Required Skills And Experience
+Good, demonstrated NLP experience.
+Good experience with ML tools/packages in python, java or similar.
+An ability and desire to learn new skills quickly.
+Self starter and ability to work independently.
+Fluent written and spoken English.
+Seniority Level
+Internship
+Industry
+Internet
+Employment Type
+Full-time
+Job Functions
+Other

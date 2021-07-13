@@ -1,0 +1,83 @@
+Data Scientist
+PayPoint plc
+Welwyn Garden City, England, United Kingdom
+Job Title:Data Scientist Short Description: Location:Welwyn Garden City Date Posted:24/5/2021
+
+What can we do for you?
+
+The majority of this role can be remote but will require the occasional travel to our bright and modern office in Welwyn Garden City.
+
+You will benefit from a range of company benefits such as
+25 days holiday for full-time employees
+Pension
+Free parking
+Life Assurance of x3 gross annual salary with the option to purchase additional cover
+Private medical single cover with the option to purchase additional cover
+Social & charity events
+Onsite Gym
+Why are we recruiting?
+
+We continue to grow as a business. This means we are investing in the way we look and analyse key data. We have an opportunity for a driven individual to join the Management Information Team as a Data Scientist to help build our reporting models, develop our dashboards and reporting activities across the PayPoint Group.
+
+Overview Of The Role
+The role sits in the Data Analytics Department reporting into the Management Information Manager and working closely with the Business Intelligence Manager
+Support the Data Analytics department on all Data Governance and documentation and DPIA work necessary to complete before formal rollout into production environment
+Support the Head of Data Analytics in the arrangement of data and reporting tools required, completing benefit cases where necessary
+Share knowledge across the Management Information and Business Intelligence teams train and inform team in data scientist practices and techniques
+Be a significant part of forming PayPoints data science strategy ensuring stakeholders and team fully understand the work
+Develop and establish new structures and processes and look for opportunities to improve the flow of data
+Evaluate new and emerging technologies
+Represent the team in company and department sessions
+Continuously build and maintain relationships with stakeholders and clients
+Delivering regular and ad-hoc reporting requirements in a clear and timely manner, with a particular focus on analyzing and gaining greater insights into the card payment industry
+What will you be doing?
+Work with stakeholders and the business to identify issues and propose solutions using data for effective decision making
+Develop algorithms, interrogate data and build dynamic reporting for the business
+Use a variety of machine learning tools and analytical techniques to solve a variety of business problems
+Use machine learning tools and statistical techniques to produce solutions
+Develop and Test data mining models to select the most appropriate ones for use on a project
+Update stakeholders with clear communication, both verbal and written to inform data needs and reporting results
+Develop dynamic reporting that tells a story about how our customers or clients work with the business
+Evaluate the effectiveness of data sources and data-gathering techniques and work closely with the Business Intelligence team to define solutions
+Continuously be up to date with the latest technology, techniques and methods
+Build prototypes and proof of concepts, conduct research when necessary
+Share insights, datasets, and models across all departments in the business where possible, sharing ideas and be enthusiastic about using algorithms to solve problems and enthuse others to see the benefit of the using data
+Consolidate card payment reporting, and develop data models to allow efficient and comprehensive reporting
+What would we like from you?
+
+You'll be expected to know the following programming languages such as:
+R
+Python
+C#
+Java
+DAX
+Strong Data Analytical skills via SQL.
+A degree or qualifications in one or more of the below areas:
+business analytics
+big data
+data science
+mathematics
+computer science or scientific-related degree
+Experience in analytical areas including but not limited to Predictive Modelling, Optimisation, Clustering.
+Excellent analytical and problem-solving skills
+Experience in database interrogation and analysis tools, such as SQL.
+Experience in data engineering, data modelling, data processing on-prem/cloud.
+Working knowledge of Microsoft Azure/Similar competitor platform.
+Has good experience in reporting using PowerBI or similar toolsets.
+Excellent communication skills and presentation skills in order to clarify work to stakeholders who don't understand the mechanics behind data analysis
+Experience in the card payments industry with knowledge of acquirer and card issuer rate dynamics
+Excellent understanding of Microsoft applications, including advanced excel
+Be able to understand the requirements of the business, document and playback the results
+Expected to work with minimal supervision, so it's important that you're able to motivate yourself
+Time management, organisational and planning skills
+Ability to deliver under pressure and to tight deadlines
+Great attention to detail
+Teamworking skills and a collaborative approach to sharing ideas and finding solutions.
+Seniority Level
+Entry level
+Industry
+Computer Software Retail Financial Services
+Employment Type
+Full-time
+Job Functions
+Engineering Information Technology

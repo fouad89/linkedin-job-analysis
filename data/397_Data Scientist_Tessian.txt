@@ -1,0 +1,88 @@
+Data Scientist
+Tessian
+London, England, United Kingdom
+Tessian
+
+Tessian protects every business’s mission by securing the human layer 💫
+
+We're building intelligent security that works for human beings as they are, not how security policies would like them to be. Using machine learning technology, Tessian automatically predicts and eliminates advanced threats on email caused by human error - like data exfiltration, accidental data loss, business email compromise and phishing attacks - with minimal disruption to employees' workflow. As a result, employees are empowered to do their best work, without security getting in their way.
+
+Tessian has raised a $65m Series C led by renowned security investors, March Capital (Crowdstrike, Knowbe4), with follow-on from Sequoia, Accel, Balderton, Latitude & Schroder Adveq, to further our mission to secure the human layer.
+
+Founded in 2013, Tessian is backed by world-class venture capital investors, has hubs in London, San Francisco, Boston, and Austin, and London, and is one of the Top-3 2021 Best Places to Work for Women.
+
+Data Science at Tessian
+
+Our mission is to secure the human layer. This involves deploying near real-time machine learning models at massive scale to some of the world’s largest organisations to keep their most sensitive data private and secure. To do this, we're looking for a data scientist ready to work on hard problems, drive best practice and cultivate an environment of experimentation and learning.
+
+Role
+
+Companies can leverage data science in a number of ways, and we think the role of a Data Scientist falls into three distinct categories
+You work for a business function analysing & reporting on how to improve a key metric, e.g increasing user conversion
+You are responsible for writing production models to enhance the main product, e.g recommendation systems for e-commerce
+You build the product - without machine learning, it wouldn't exist
+The Data Science team built the product at Tessian. We couldn't exist without our machine learning models; they are at the heart of what we do, and they are what our clients rely on day-to-day. We're searching for a Senior Data Scientist who is excited about the opportunities and challenges that come with researching, building and deploying real-time production models.
+
+On a Day To Day Basis, You'll Get To
+Work across massive enterprise email datasets
+Train and deploy models to production that impacts directly our customers and products
+Improve our ML workflow
+Work closely with our Engineering and Product Team to enhance our products.
+Make your mark on ambitious projects
+We'd love to meet someone who:
+1+ years Data Science experience
+Can balance longer term projects alongside impactful quick wins
+Cares deeply about the impact their team has
+Is creative at heart, and can encourage novel ways of thinking in their team. This has always been a core part of the data science team’s DNA
+Reads Rules of Machine Learning - Martin Zinkevich and it resonates with how they think about machine learning and data science
+Enjoys “getting their hands dirty” by digging into complex operations
+Has strong listening skills; open to input from other team members and departments
+Has worked with, or understands the principles behind working with data at scale
+Why we think you'll love it here 😍....
+
+For summer 2021, we’re excited to announce what we call "Refreshian Summer" - where every single Tessian will be able to down tools at 1pm every Friday in July & August, and enjoy a long weekend during the sunniest months of the year!
+
+It’s important to us that all Tessians are part of the journey we’re on, so we offer equity options with every role and benchmark to provide above market rate salaries - there’s plenty more too….
+
+Be at your best, both inside and outside of work
+25 days of paid holiday (plus 8 bank holidays, and an additional day for every year you've worked at Tessian!)
+Private health insurance provided through Vitality Health and mental health support through our Employee Assistance Program
+Classpass - subsided access to gym time and classes all across London
+Choice First: Do your best work, in the way that works best for you
+Flexible working hours and working from home (if you're not already remote!)
+Work-from-home subsidy upon joining, so you can kit out your home office
+Enhanced pension contributions, matched up to 5%
+We’re family friendly, with policies built to support you in all stages of life
+High-quality tech kit provided for you to work on, plus Tessian ANC headphones
+If you're relocating to join the team, we'll provide a contribution to help with your costs
+Beyond work
+Elite membership of the Tessian House System...
+Every other Wednesday we get together to share team updates and drinks
+Monthly team socials & a big, whole company extravaganza every quarter
+Never-ending ping-pong tournaments
+Equality & diversity ⚖️
+
+Tessian is an equal opportunity employer, committed to equality and diversity amongst both our employees and prospective applicants. The Human Layer we're securing is diverse, and we know we need to be diverse and inclusive to successfully create HLS that reflects this. You can read our equality and diversity statement here.
+
+As part of our commitment to equality and diversity, we're also a corporate member of the WISE Campaign for gender equality in STEM & we're a founding member of the WEDS network driving diversity & inclusion in startups.
+
+#humanfirst 🙋‍♀️💁‍♂️
+
+Obligatory small print
+
+Please note that we do not accept applications or résumés from recruiters. Any unsolicited CVs, profiles, or names, submitted in any format, by any channel, to any of our team, will be deemed to fall outside any terms and/or conditions with either the person submitting the information or their company of employment/representation.
+
+By submitting your application to Tessian, you consent to Tessian retaining your information and contacting you about future job opportunities, that may be of interest, for up to 2 years in accordance with our Privacy Policy
+
+Please note, that any job offers will be subject to the candidate passing background screening checks.
+
+We're a company offering Choice First working practices where possible.
+
+Seniority Level
+Entry level
+Industry
+Marketing & Advertising Computer Software Internet
+Employment Type
+Full-time
+Job Functions
+Engineering Information Technology

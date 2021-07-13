@@ -1,0 +1,86 @@
+Associate Data Engineer
+Arup
+London, England, United Kingdom
+Arup is an independent firm of designers, planners, engineers, consultants and technical specialists offering a broad range of professional services. Our success is founded on understanding our clients’ needs, combined with the application of leading-edge technology and proven management excellence. Established in 1946, Arup has over 15,000 employees based in more than 90 offices across 38 countries. Its unique structure, with the firm held in trust on behalf of its employees, gives us complete independence. Our aim is to achieve excellence in all we do by bringing together the best professionals in the world to meet our clients’ needs. 
+
+Role 
+
+Arup is increasingly using cloud and data platforms to deliver client projects and major internal investment programmes. Alongside this, internal processes are leveraging automation for efficiency and scale, freeing engineers to focus their time on the less mundane aspects of their roles. Across our businesses, we are applying best practices in how we define, deploy, and manage our data infrastructure. This role will ensure the successful adoption of data solutions by developing patterns and best practices, supporting projects in adopting data capabilities and solutions, and driving the use of data at scale across Arup. 
+
+The role sits within the Digital Hub and Data Infrastructure Team, reporting to the ADIS Data Engineering Lead. The role will work closely with colleagues in data science, data engineering, product management, software development, automation, Digital Technology Group (corporate IT) and other business groups. The tools, practices, and culture we put in place will have an impact across the company, globally. 
+
+You will bring creativity, technical knowledge, and hands-on experience to support the design, development and implementation of new capabilities within a global Data Infrastructure programme that facilitates engineering and data automation. You will design, develop, deploy and help operate global data capabilities that supports delivery our applications and services to clients. You will work with developers, analysts, and data scientists to solve analytical and technical problems and produce innovative analysis, apps, and data science projects. You will bring technical excellence and a passion for building and operating scalable, secure, distributed systems and automating these wherever possible. You will be a standard bearer for best practice with data and new ways of working. 
+
+Requirements and skills 
+
+You know that adoption of cloud computing is as much about ways of working as it is about the technology, and have demonstrable experience of leading and mentoring others on this journey. You will bring technical excellence and a passion for building and operating scalable, secure, distributed systems, and automating these wherever possible. You listen actively and engage effectively to bring others along with you. 
+
+Essential Skills and Knowledge: 
+
+Expert experience of building and optimizing ‘big data’ data pipelines, architectures and data sets. 
+A successful history of manipulating, processing and extracting value from large disconnected datasets, solving critical business challenges. 
+Experience building processes to support data transformation, data structures, metadata, dependency and workload management. 
+Experience building automation to operate large-scale data systems. 
+Expertise in data modelling, data warehouse design and data lake concepts and practices. 
+Experience in identifying, designing, and implementing internal process improvements: automating manual processes, optimizing data delivery, re-designing infrastructure for greater scalability, etc. 
+Strong analytic skills related to working with unstructured datasets. 
+Advanced working SQL knowledge and experience working with relational databases, query authoring (SQL). 
+Experience with data pipeline and workflow management tools: preferably Airflow. 
+Experience with relational SQL and NoSQL databases, including Postgres. 
+Experience with AWS cloud services: EC2, EMR, RDS, Redshift 
+Experience with big data tools: Spark, Kafka, Hadoop, etc. 
+Experience with object-oriented/object function scripting languages: Python, Java, etc. 
+Experience with agile methodologies and test-driven development. 
+Experience of mentoring and leading others. 
+Experience in working with distributed teams (global and UKIMEA). 
+Ability to explain technical concepts to a non-technical audience and share technical knowledge and support colleagues. 
+A passion for system design, data structures, and algorithms. 
+A rigorous mindset and approach to your work. 
+You don’t like leaving questions unanswered and you love exploring/understanding data. 
+
+Qualifications: 
+
+Bachelors degree in a numerate discipline. 
+
+Desirable skills and knowledge: 
+
+Experience of developing and deploying robust containerised data pipelines, preferably using Kubernetes. 
+Comfortable with Power BI management and integration with other analytical tools. 
+Experience of developing continuous data integration/deployment workflows and tools, and supporting others in using these, to test, predict and report on our data pipelines. 
+Experience with DevOps (or similar), Infrastructure-as-Code, configuration management principles and tools, and Terraform. 
+Experience of Linux system administration, configuration and management. 
+Experience performing root cause analysis on internal and external data and processes to answer specific business questions and identify opportunities for improvement. 
+Experience of developing a data engineering team. 
+Experience working within data governance and compliance frameworks. 
+Previous experience of building, maintaining and influencing relationships with a range of stakeholders. 
+Experience in Open Innovation / Open Source development. 
+Experience working in a product-centric environment or with human-centred design principles. 
+Comprehension of “Spotify Engineering Culture” and chapters in cross-functional teams. 
+Strong project management and organizational skills. 
+
+Reward and Benefits:
+ We offer a competitive salary at all levels, and one of the best benefits packages in our sector. Core benefits include cover under the UK Healthcare Plan (private medical insurance), Life Assurance, Accident Insurance, and Income Protection (long term disability) cover. Core benefits are funded by us and made available to all permanent staff in order to support and safeguard your financial, physical, and mental wellbeing. You will also have access to Choice Benefits to help with your work/life balance and financial security. In addition, all permanent employees are eligible for the Global Profit Share scheme. Subject to scheme rules employees can receive two Profit Share payments per year, which are dependent on the firm’s financial performance. 
+
+Shape your time with us 
+
+Our goal is to shape a better world. And to do that, we need to make Arup a phenomenal place to work for everyone. If we want to solve problems for people around the world, we must seek and attract the best people from the widest talent pool and create an environment that supports and includes them. We aim to encourage a culture where people can be themselves and be valued for their contribution. This includes people with disabilities, so please discuss any adjustments that you may require throughout the selection and assessment process with your recruitment contact. 
+
+At Arup, you’ll be a welcomed member of the team with opportunities to participate in cultural and social events with the local community (e.g. as a STEM ambassador) or by joining one of our staff networks for women, culture or LGBT+ people. You’ll have access to a range of flexible working options – whether you’re a parent, a carer, a student, or just have a busy lifestyle - we recognise it’s not always easy to commit to standard working hours so if you're interested in flexible working, please let us know when you apply, and we'll discuss how this could work in your role. 
+
+Join us in shaping a better world. 
+
+We are an Equal Employment Opportunity (EEO) employer and welcome all qualified applicants. You will receive fair and impartial consideration without regard to sex, race, religion, national origin, age, sexual orientation, disability, veteran status, genetic data, or other legally protected status. We recognise that not all disabilities are visible and will make reasonable adjustments to cater for diverse applicants in the selection and assessment process. 
+
+What happens next? 
+
+If this could be the next step in your journey, please apply online. All applications will be considered, and we will try our very best to respond to you within 72 hours of receiving your application. 
+
+Stay safe online - Arup will never ask for payment or your bank details as part of our recruitment process. 
+Seniority Level
+Mid-Senior level
+Industry
+Design
+Employment Type
+Full-time
+Job Functions
+Engineering

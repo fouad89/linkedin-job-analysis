@@ -1,0 +1,65 @@
+Junior Data Scientist, Experian DataLabs
+Experian
+London, England, United Kingdom
+Data Scientist – Experian Datalabs (Junior-Mid level)
+
+Grade E
+
+London
+
+The Experian DataLabs UK&I and EMEA are based in Heron Tower at Liverpool St., London. The team is dedicated to advanced research and development, incubating new products for Experian. It benefits from the mentality and drive of a start-up, combined with the backing of a resourceful corporation. This environment encourages innovation by supporting ambitious, rewarding and risky projects.
+
+Position Summary
+
+You will be part of the Experian DataLabs UK&I and EMEA. This is a hands-on position where you will be empowered to be ambitious and bold, using whatever tools and methodologies to contribute in developing models and solutions that solve challenging problems and have the potential to directly and substantially impact Experian’s future. The role requires that you have appreciable exposure in machine learning and statistics.
+
+To understand more about our work, please consult our blog post, our papers, and some of our incubated products: Fairness-as-a-service and Transactional-data-categorization-service.
+
+Key Role Functions
+Create machine learning models, modifying algorithms where needed, that generate predictions and insights.
+Validating model score and performance.
+Developing tools for data processing, information retrieval and model development.
+Prepare project/model documentation and present results to stakeholders.
+Analysing, processing, evaluating and documenting large data sets.
+Conducting ROI and benefit analysis.
+Engage and influence business leaders in solution path design.
+Champion a culture where the fair treatment of customers is at the heart of the Experian business.
+Desired Skills And Experience
+
+We are looking for ambitious scientists with a strong academic background, or alternatively appreciable industrial experience, along with an ideal blend of coding, machine learning and statistics.
+
+We are searching for a colleague with whom we can share the enjoyment of being curious, the interest in difficult mathematical and algorithmic problems, and the drive to be innovative in building predictive models as well as in the way society deals with sensitive data.
+
+We would like you to have
+An advanced degree (PhD preferred) in Computer Science, Physics, Engineering, Mathematics or a similarly quantitative field.
+A scientific mentality with the ability to ask the right questions, as well as answer them.
+A proven track record in developing, innovating, and applying advanced Machine Learning/Statistical algorithms to address practical problems.
+Proficiency in Python
+Familiarity with object-oriented programming
+It would be fantastic if you also have
+Experience in applying advanced algorithms and building analytical products in a commercial setting, ideally in industries such as finance, insurance, healthcare, energy or telecommunications.
+Agile methods for software development
+Experience with docker, micro-service infrastructures or other big-data technologies (e.g., Spark, Hadoop)
+About Experian
+
+Experian is a global leader in providing information, analytical tools and marketing services to organizations and consumers to help manage the risk and reward of commercial and financial decisions. Using our comprehensive understanding of individuals, markets and economies, we help
+
+organizations find, develop and manage relationships to make their businesses more profitable. More specifically, Experian DataLabs have been formed with the desire to enhance Experian’s relationship with consumers, with clients, acquire strategic datasets and provide new and innovative solutions via experimentation, prototyping and early stage product development.
+
+Why choose us?
+
+From collaborative workspaces and mindfulness classes to working from home and flexible work options, we offer our people the support they need to reach their goals in and outside the office.
+
+Our colleagues’ health and wellbeing is a top priority for us, that’s why our reward, benefits and wellbeing programmes are designed so you can come to work feeling your very best self. Our benefits focus on health, money and lifestyle so you can tailor your benefits to your own personal needs. Whether it’s your physical and mental wellness, getting to work or planning for the future, we have a range of flexible options to have you covered!
+
+We are committed to building an inclusive culture and to creating an environment where people can balance successful careers with their commitments and interests outside of work. Our flexible working practices support our belief that this balance brings long-lasting benefits for our business as well as our people. Some roles lend themselves to flexible options more than others, and if this is important to you, we are open to discussing agile working opportunities during the hiring process.
+
+LI-Ab1
+Seniority Level
+Entry level
+Industry
+Information Technology & Services Computer Software Financial Services
+Employment Type
+Full-time
+Job Functions
+Engineering Information Technology

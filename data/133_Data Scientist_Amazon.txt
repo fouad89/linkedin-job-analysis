@@ -1,0 +1,37 @@
+Data Scientist
+Amazon
+London, England, United Kingdom
+Description
+
+Are you passionate about building data-driven solutions to drive the profitability of the business? Are you excited about solving complex real world problems? Do you have proven analytical capabilities, exceptional communication, project management skills, and the ability to multi-task and thrive in a fast-paced environment? Join us a Data Scientist to deliver analytics solutions for Amazon Payment Products.
+
+Amazon Payment Products team creates and manages a global portfolio of products, including co-branded credit cards, instalment financing, third party redemptions, and financial services marketplaces. Within this team, we are looking for a Data Scientist who will be responsible for performing analysis on large volumes of data which includes predictive modeling, synthesizing the analysis into business insights and communicating the findings to various stakeholders. To be eligible, the candidate must possess superior written and verbal communication skills too, in addition to proven analytical skills.
+
+Responsibilities Include
+Identify, develop and execute data analysis to uncover areas of business opportunity
+Learn and understand a broad range of Amazon’s data resources and know how, when and which data sources to use
+Deep dive into massive data sets and pull data using SQL and build predictive models using R, Python
+Present insights and recommendations to key stakeholders in both verbal and written form
+Manage and execute entire project from start to finish including problem solving, data gathering and manipulation, predictive modeling and project management
+
+Basic Qualifications
+Graduate degree in Statistics, Mathematics, Economics, Computer Science, or related technical field
+Strong Analytical skills – has ability to start from ambiguous problem statements, identify and access relevant data, make appropriate assumptions, perform insightful analysis and draw conclusion relevant to the business problem
+Communication skills – Demonstrated ability to communicate complex technical problems in simple plain stories. Ability to present information professionally & concisely with supporting data.
+At least 5 years of experience in building predictive, optimization models to make business decisions
+At least 5 years of experience using programming languages such as SQL, R, Python
+Ability to work in a fast-paced business environment and demonstrated track record of project delivery for large, cross-functional projects with evolving requirements
+
+Preferred Qualifications
+Masters in Statistics, Mathematics, Machine Learning, Operations Research or related technical field
+Breadth of experience in predictive modeling using supervised and unsupervised learning techniques
+Credit or risk management experience
+
+Company - Amazon EU SARL (UK Branch)
+Job ID: A1556994
+Industry
+Computer Software Information Technology & Services Internet
+Employment Type
+Full-time
+Job Functions
+Engineering Information Technology

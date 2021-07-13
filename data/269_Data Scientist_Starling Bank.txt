@@ -1,0 +1,71 @@
+Data Scientist
+Starling Bank
+Cardiff, Wales, United Kingdom
+We are a leading digital bank on a mission to disrupt the banking industry. We've built an app with smart money management tools to help our customers live a healthier financial life. We also offer groundbreaking B2B banking and payments services.
+
+
+We are very open about how we deliver software - have a look at our QCon presentations or engineering podcasts to see what our developers have been up to. You can also try coding against your own bank account with us using our open APIs (see the developer site)
+
+
+
+Starling engineers love building things, creating new stuff, learning new technologies and working with others across all areas of the business to bring brilliant products and features to life. We're open-minded when it comes to hiring and we care more about aptitude and attitude than specific experience or qualifications. If you care enough to find elegant solutions to difficult technical problems, we'd love to hear from you.
+
+
+Requirements:
+
+What we would like from you....
+
+
+Degree in STEM (Mathematics, Computer Science, Physics, Engineering, Economics)
+Excellent skills in SQL
+Experience working with Python applications.
+Demonstrable experience deploying machine learning solutions in a production environment.
+Knowledge of AWS and Docker a plus.
+Experience working with data from fraud or credit bureaus is highly desirable
+Strong data visualization and communication skills essential.
+
+
+
+
+
+What will you be doing?
+
+
+You will be part of a team delivering data driven solutions and insights to improve the speed, efficiency, and quality of decision-making.
+Work proactively with technical and non-technical teams to deliver insights to support the wider business
+Build, test and deploy models which will improve and/or automate decision making.
+Provide insightful analytics to the business to assist with decision making
+Engage with Engineering teams to ensure we capture data points that are relevant and useful for insights and modelling
+
+Benefits:
+
+33 days holiday (including public hols). You'll also get your birthday on us
+16 hours paid volunteering time a year
+Private Medical Insurance with VitalityHealth
+Contributory pension scheme
+We have many varied social groups set up and run by our employees - ForTheWin (a gaming group), Starling FC, book club and many more!
+Discounts on cinema tickets, restaurants, shopping and train tickets via a Perkbox membership
+Access to ‘salary sacrifice' benefits such as Cycle to Work scheme
+Gym membership options
+Full details are available on our careers site
+About Us:
+Starling is a leading digital bank on a mission to disrupt the banking industry.
+
+
+
+Since our launch in 2014, we've surpassed one million accounts. Our total deposits, meanwhile, have topped £2 billion over the same period. We're a fully licensed UK bank, and we have the culture and spirit of a fast-moving, disruptive technology company. We've won the Best British Bank award three years running, and now employ almost 1000 people across our London, Southampton, Cardiff & Dublin offices.
+
+
+Starling Bank is an equal opportunity employer, and we're proud of our ongoing efforts to foster diversity & inclusion in the workplace. Individuals seeking employment at Starling Bank are considered without regard to race, religion, national origin, age, sex, gender, gender identity, gender expression, sexual orientation, marital status, medical condition, ancestry, physical or mental disability, military or veteran status, or any other characteristic protected by applicable law.
+
+
+By submitting your application, you agree that Starling Bank may collect your personal data for recruiting and related purposes. Our Privacy Notice explains what personal information we may process, where we may process your personal information, its purposes for processing your personal information, and the rights you can exercise over our use of your personal information.
+
+Seniority Level
+Entry level
+Industry
+Financial Services
+Employment Type
+Full-time
+Job Functions
+Engineering Information Technology

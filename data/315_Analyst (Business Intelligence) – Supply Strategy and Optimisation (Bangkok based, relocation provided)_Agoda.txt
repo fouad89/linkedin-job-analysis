@@ -1,0 +1,48 @@
+Analyst (Business Intelligence) – Supply Strategy and Optimisation (Bangkok based, relocation provided)
+Agoda
+London, England, United Kingdom
+About Agoda
+
+Agoda is an online travel booking platform for accommodations, flights, and more. We build and deploy cutting-edge technology that connects travelers with more than 2.5 million accommodations globally. Based in Asia and part of Booking Holdings, our 4,000+ employees representing 90+ nationalities foster a work environment rich in diversity, creativity, and collaboration. We innovate through a culture of experimentation and ownership, enhancing the ability for our customers to experience the world.
+
+Get to Know our Team:
+
+The Supply Optimization and Commercialization (SOCs) team sits within the Product Supply team at Agoda Bangkok. We work closely with the sales department (Partner Services) to identify and optimize growth opportunities on accommodations supply for the company and to set up experiments to measure and implement changes. The projects SOCs team works on directly impact Agoda’s bottom line and have long lasting structural impact to the business. We cover a range of topics including organizational efficiency, sales and product optimization, go to market strategies as well innovation and products. We collaborate with multiple departments and produce highly visible results backed up by experimentation and data. Utilizing powerful tools and possessing an end-to-end view of how Agoda works, the SOCs offers a team of learning and experience that will push you (and Agoda) into new territory.
+
+The Opportunity:
+
+The SOCs Analytics team is a sub-team within the SOCs team and serve as subject matter experts on analytics, automation, business intelligence, data, and experimentation. We work closely with the other business, product, and analytics teams to develop and build analytical products, systems and automated processes, as well as drive analytical projects to improve organisational performance and drive revenue growth for the company. The analyst will assist in identifying appropriate business metrics for tracking and reporting purposes, as well as build compelling visualisations to guide strategic thinking at all levels of the organisation.
+
+In this Role, you’ll get to:
+Use and analyse data from multiple large-scale data warehouses and understand data flows across the entire organisation
+Identify, support, and lead projects aimed at scaling up the way the Supply organisation leverages on data, insights, and intelligence
+Develop automated infrastructure supporting business intelligence at a global level as well as the analytics processes supporting them
+Drive new analytical initiatives and projects aimed at improving organisational efficiency
+What you’ll Need to Succeed:
+A hacker’s mindset – the ability to build simple but clever and elegant solutions to new problems within significant resource, operational and time constraints through deep understanding of the business, creative problem solving, and a wide range of expertise in data, analytics, automation, programming, and prototyping
+Bachelor’s degree in a quantitative discipline
+Experience in big data cleaning and wrangling as well as simple analytical processing (SQL is a must)
+Experience with visualisation tools (e.g. Tableau, Grafana, etc.)
+A basic understanding of statistics, computer science, and data, and the ability to implement this understanding in complex business situations
+It’s Great if you have:
+Experience with complex analytics and statistical/machine learning techniques using R/Python/Spark
+Experience with ETLs in Hadoop ecosystem
+Master’s degree in statistics, operations research, or data science
+#STRA #ANLS #MRKT #3 #hongkong #singapore #hcmc #kualalumpur #mumbai #newdelhi #delhi #bangalore #bengaluru #hochiminh #jakarta #manila #hongkong #beijing #toronto #vancouver #berlin #paris #barcelona #london #madrid #bangkok #thailand #greater sao paulo #chennai #paris #dallas #netherlands #kolkata #seatle #warsaw #tokyo data representation data analysis SQL data analytics analytics python (programming language) data mining data science r (programming language) tableau analytical skills data visualization data modelling databases business analysis business intelligence (bi) microsoft sql server machine learning statistics microsoft power bi java finance shopee traveloka google facebook ctrip trip.com makemytrip grab amazon pandas (software) artificial intelligence (ai) information technology capital one accenture upwork deloitte mckinsey bain microsoft uber lyft gojek lazada alibaba shopify expedia skyscanner
+
+Equal Opportunity Employer
+
+At Agoda, we pride ourselves on being a company represented by people of all different backgrounds and orientations. We prioritize attracting diverse talent and cultivating an inclusive environment that encourages collaboration and innovation. Employment at Agoda is based solely on a person’s merit and qualifications. We are committed to providing equal employment opportunity regardless of sex, age, race, color, national origin, religion, marital status, pregnancy, sexual orientation, gender identity, disability, citizenship, veteran or military status, and other legally protected characteristics.
+
+We will keep your application on file so that we can consider you for future vacancies and you can always ask to have your details removed from the file. For more details please read our privacy policy .
+
+To all recruitment agencies: Agoda does not accept third party resumes. Please do not send resumes to our jobs alias, Agoda employees or any other organization location. Agoda is not responsible for any fees related to unsolicited resumes.
+
+Seniority Level
+Associate
+Industry
+Internet
+Employment Type
+Full-time
+Job Functions
+Business Development Sales

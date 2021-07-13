@@ -1,0 +1,74 @@
+Data Technical Lead
+MATCHESFASHION
+Edinburgh, Scotland, United Kingdom
+Posted by
+Alex Loveridge 2nd
+Talent Acquisition Manager - MATCHESFASHION
+Send InMail
+At MATCHESFASHION we are on a mission to offer the most personal luxury shopping experience in the world. We are renowned and respected for the relationships we build with clients and our brand partnerships. To achieve our ambition, we capitalise on our unique combination of technical savviness and global innovation mixed with curated content.
+
+
+We bring together a modern edit of over 700 established and new generation designers. Founded over 30 years ago as a brick and mortar store, we transitioned online in 2012. In 2017, APAX Partners acquired a majority stake in MATCHESFASHION, fuelling our expansion. We now ship to 176 countries, have over 70 million site visits and 95% of our sales are online with the majority of sales made internationally.
+
+
+We have a global website, mobile apps, retail stores, private shopping, VIP events and 24/7 customer care and MyStylist teams. We have offices in the UK and Hong Kong. In London, our head office is based in The Shard, our brand new creative hub is in Here East and last year we launched No.5 Carlos Place, a completely new retail concept combining digital and physical interaction.
+
+
+We lead the way, moving our industry forward, and we are always looking for talented individuals to come in and inspire the world with us.
+
+
+Our commitment to Diversity and Inclusion
+
+
+Diversity and Inclusion is a priority for MATCHESFASHION - we delight customers around the world and so it's important that our team represents our customers.
+
+
+We want to attract the very best talent and create an inclusive environment that celebrates the diversity of our people and enables them to do the best work of their careers. We recognise the world is not a perfect place and that bias exists, which is why we take a focused approach in this area and are are committed to ensuring that all our people processes are equitable.
+
+
+The role
+
+
+A Data Technical Lead will join the Data and Analytics team to lead the Data Efficiency team. The Data Technical Lead will be managing a delivery team of Data Engineers, and BI Analysts, and will work closely with a Data Science lead dedicated to the same area.
+
+
+Collectively these 2 teams form a cross functional unit that delivers integration with other platforms such as logistics and ERP systems, deploys machine learning models that among other things automate and optimise parts of the buying and pricing process as well as defining and delivering decision support in the form of BI dashboards and data feeds for both internal teams and external partners.
+
+
+The role is responsible for technical leadership, delivery, all people management and system ownership related to the team. It involves both leading and delivering and as such would suit someone that has strong technical data skills as well as experience mentoring others and working with a diverse range of stakeholders.
+
+
+Requirements:
+
+About you:
+
+
+The ideal candidate would have experience of traditional data warehousing and event centric data architectures such as the Kappa or Lambda architectures at scale
+You will have experience leading a team and mentoring others in an agile environment with a servant leader mindset
+Experience of any of the 3 main cloud providers would be desirable
+You are a polyglot developer with expert knowledge of SQL and at least one of the following: Python, Scala or Java.
+Experience with Spark would be desirable and any experience with the Databricks paid platform would be highly advantageous
+You will will have reasonably broad engineering knowledge and should be familiar with containerisation, APIs, DevOps principles and CI/CD, Terraform, test driven development and ideally streamed event processing.
+Any prior experience delivering data science into production and MLOps would be a bonus
+
+What you'll be doing:
+
+
+Managing the delivery of the Efficiency teamwork which spans
+deploying data science models
+building new pipelines that transform data as event streams in a Kappa architecture based on AWS Kinesis and Spark streaming
+maintaining older ELT jobs (SQL Server based) and migrating them to an event centric architecture
+building, maintaining and evolving the database tables, BI dashboards, APIs and event streams that collectively make up the data products we provide to internal and external customers
+Maintaining and evolving the high standards of delivery and behaviour in the team
+Supporting team members in the development of their skills and career aspirations
+
+We lead the way, moving our industry forward, and we are always looking for talented individuals to come in and inspire the world with us. Matchesfashion.com is an equal opportunity employer. We celebrate diversity and are committed to creating an inclusive environment for our people.
+
+Seniority Level
+Mid-Senior level
+Industry
+Retail
+Employment Type
+Full-time
+Job Functions
+Information Technology

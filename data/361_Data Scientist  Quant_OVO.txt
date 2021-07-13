@@ -1,0 +1,84 @@
+Data Scientist  Quant
+OVO
+Bristol, England, United Kingdom
+The OVO Group’s purpose is to drive progress towards net zero carbon living. To reach Plan Zero, we need everyone to come together - not just as customers buying energy, but as members with a common goal. As part of this ambitious plan, our goal is to become the ‘Leading Employer in the UK’ by 2030. If you think you could be the talent we’re looking for, then come and join the adventure!
+
+We launched in 2009 with a mission to change energy for the better. Since then, we’ve welcomed over a million members, planted a million trees, and set our sights on helping save the planet.
+
+As a Group, we’re working to become a net zero carbon business by 2030, while helping our OVO Energy members halve their carbon footprints at the same time.
+
+Green energy and technology are great tools to fight the climate crisis with. But it’s people power that will rewrite history.
+
+So we’re building a zero carbon team inside and out. Of people who share our values, feel inspired by our mission, and want to make change happen. When you work for OVO, it’s not just a job. It’s the work of a lifetime. And we want the sharpest minds to help.
+
+Up for the challenge?
+
+Where in the world of OVO will I be working?
+
+We are looking for an experienced data scientist or quantitative analyst to join the Trading desk at OVO. You will join a specialist team of data scientists collectively responsible for demand forecasting, forward curves and weather risk estimation on OVO’s traded position.
+
+After 10 years of trading, OVO has scaled rapidly, both in terms of customers on supply, and approach to data science. In the past 5 years, we have moved from spreadsheets, to parametric models in databases, to sophisticated statistical models written in Python and R. Overall we trade around £2B worth of power and gas a year, so small improvements in performance can make a big difference!
+
+What will I be doing?
+
+Work is varied, and can include anything from ad-hoc visual analysis of smart meter data, to deep-focus tasks such as developing monte-carlo models to estimate our exposure to commodity markets. Key responsibilities include:
+Quantitative analysis of trading strategies to assess exposure and minimise risks.
+Pricing exotic derivatives.
+Modelling how much power and gas OVO’s customers use.
+Responding to changes in the market to facilitate trading decisions on the day.
+Collaborating with trading tech to develop algorithms and data pipelines that are stable enough to auto-trade.
+
+Python, SQL and Tableau are the main technologies used within the team. We tend to take a mixed model approach incorporating traditional timeseries models and modern data science techniques such as Nonparametric Regression1, Bayesian Statistics2, and Neural Networks3. As with any work in this area, there is also a fair amount of data wrangling involved, so be prepared to roll up your sleeves and dust off the terminal!
+
+Is this the job for me?
+
+Required Skills
+Experience of modelling stochastic processes using Monte Carlo simulations, or other computational methods
+Enthusiasm for the minutiae of modelling energy supply and demand
+Understanding of UK energy markets.
+Strong programming skills in Python or R
+Can query data from a variety of sources, including SQL and no-SQL databases, flat files on FTP, and REST APIs
+A masters level qualification in Maths, Physics, Computer Science or Engineering - or equivalent experience.
+3+ years experience working as a data scientist or quantitative analyst.
+Demonstrable high attention to detail.
+Comfortable writing repeatable code using techniques like version control, functional testing and continuous deployment.
+Comfortable mentoring more junior members of the team.
+Beneficial
+A PhD on a topic directly related to stochastic modelling, financial mathematics, or energy systems.
+Experience using the following techniques:
+1Nonparametric regression: https://github.com/mfasiolo/workshop_WARSAW19
+
+2Bayesian models: https://docs.pymc.io/notebooks/multilevel_modeling.html
+
+3Neural Networks: https://www.tensorflow.org/tutorials/structured_data/time_series
+Experience of demand forecasting and the energy settlement.
+Experience of production engineering technologies such as linux, docker, GCP and kubernetes.
+Reporting experience, ideally using Tableau
+Experience of data modelling and basic admin for cloud SQL databases.
+
+From us you’ll get*
+An annual discretionary bonus
+4% of your salary to spend on flexible lifestyle benefits
+5% matched employer contribution to your pension
+25 days holiday + 1 for your birthday
+And many more...
+
+(*) Please note that certain benefits kick-in once you have passed probation which can be up to 6 months after your start date.
+
+We want the best people
+
+At OVO, we empower our people to have choice around where and when they work - flexible working arrangements can be discussed for all of our roles. Please speak to the Talent Acquisition team for more info.
+
+We’re keen to meet people with varied backgrounds - our view is the more inclusive we are, the better our work will be. We want to build teams which represent a variety of experiences, perspectives and skills, and we recognise talent on the basis of merit and potential.
+
+We understand some people may not apply for jobs unless they tick every box. If you're excited about joining us and think you have much of what we're looking for, even if you're not 100% sure… we'd love to hear from you.
+
+Learn more about working in the OVO family of companies on our careers page and Glassdoor. We’re also delighted to have received a Top Employers certificate in 2018, 2019 and 2020!
+Seniority Level
+Entry level
+Industry
+Utilities Information Technology & Services
+Employment Type
+Full-time
+Job Functions
+Engineering Information Technology

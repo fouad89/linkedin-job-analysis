@@ -1,0 +1,70 @@
+Data Science, Manager
+Visa
+London, England, United Kingdom
+Company Description
+
+As the world’s leader in digital payments technology, Visa’s mission is to connect the world through the most creative, reliable and secure payment network - enabling individuals, businesses, and economies to thrive. Our advanced global processing network, VisaNet, provides secure and reliable payments around the world, and is capable of handling more than 65,000 transaction messages a second. The company’s relentless focus on innovation is a catalyst for the rapid growth of digital commerce on any device for everyone, everywhere. As the world moves from analog to digital, Visa is applying our brand, products, people, network and scale to reshape the future of commerce.
+
+At Visa, your individuality fits right in. Working here gives you an opportunity to impact the world, invest in your career growth, and be part of an inclusive and diverse workplace. We are a global team of disruptors, trailblazers, innovators and risk-takers who are helping drive economic growth in even the most remote parts of the world, creatively moving the industry forward, and doing meaningful work that brings financial literacy and digital commerce to millions of unbanked and underserved consumers.
+
+You’re an Individual. We’re the team for you. Together, let’s transform the way the world pays.
+
+Job Description
+
+If you think you could join Visa as a Data Science, Manager, we want to hear from you – together, let’s make Visa a great place to work.
+
+What’s it all about?
+
+The Data Science, Manager, is a key member of the Data Science and acts as an expert across Product and several key functions in the organisation. We are seeking strategic and analytical thinkers to support data driven strategies in support of Product and market growth scorecard targets whilst help raising the data maturity/ democratisation/ self-serve capability across the organisation. The role will be accountable for leading the development and delivery of analytics driven capabilities to business partners to accelerate the delivery of Visa’s market and client growth strategies of Visa Products and Value Add Services
+
+What We Expect Of You, Day To Day
+Experienced practitioner of data science, analytics and insight to internal clients/ ‘Visa-as-a-client’ supporting functional business areas to achieve their Product and market growth scorecard targets
+An active member of the Data Science team in supporting building the team brand internally and championing data skills across the team
+Solves business problems applying his/her technical and business knowledge and provides subject matter expertise and quality assurance of complex data science projects
+Manage all aspects of data science projects lifecycle within planned timelines as an individual contributor and coaching others to achieve best practice project discipline (including documentation (MRM), QA, and data governance and privacy policies)
+Create and deliver action orientated business-centric insights from data through better visualization and storyboarding
+Active member of the Visa Data Science community by sharing best practices and new methodologies
+Contribute to innovative solutions, build prototypes and IP to business questions using statistical / machine learning / artificial intelligence algorithms
+Qualifications
+
+Qualifications
+
+What we’re after…
+Current hands-on experience in:
+Data science and analytical functions working flexibly as an individual contributor with some experience as a team leader preferable
+Processing extremely large data sets and knowledge of payment network transactional data preferable
+Payments (physical and digital), retail banking, retail merchant industries
+Ability to establish effective relationships and project delivery with internal clients
+Team oriented, collaborative, diplomatic, and flexible style, with the ability to communicate and tailor data driven results to key stakeholders and wider audiences
+Results oriented with very strong analytical and problem-solving skills, with demonstrated intellectual and analytical rigor
+Technical Experience
+The ideal candidate holds an advanced degree (or equivalent) in a quantitative field such as data science, statistics, mathematics, or engineering
+Experience in advanced analytics / data science techniques / machine learning tools:
+Descriptive and predictive modelling
+Manipulating large data sets and data quality cleansing techniques
+Modern distributed systems including Hadoop/SQL and Apache Spark (ANSI/Hive)
+Data analytics/ programming tools such as Python/R/Spark
+Design and build complex outputs in simple dashboards, reports, and visualizations
+Think you have what it takes?
+
+If you are interested in a career that will challenge and inspire you – we’d love to hear from you!
+
+Additional Information
+
+Think you have what it takes?
+
+If you are interested in a career that will challenge and inspire you – we’d love to hear from you!
+
+Diversity & Inclusion
+
+Universal acceptance for everyone, everywhere, is not only our brand promise, it’s the foundation of our company culture. We foster a feeling of connectedness in the workplace, support diversity of thought, culture and background, fight for important initiatives like Equal Pay and actively work to eliminate unconscious biases that hold us all back.
+
+By leveraging the diverse backgrounds and perspectives of our worldwide teams, Visa is a better place to work and a better business partner to our clients.
+
+Job Number: REF35326Z
+Industry
+Consumer Services Financial Services Information Technology & Services
+Employment Type
+Full-time
+Job Functions
+Sales

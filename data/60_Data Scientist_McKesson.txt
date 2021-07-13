@@ -1,0 +1,64 @@
+Data Scientist
+McKesson
+London, England, United Kingdom
+ClarusONE Sourcing Services, LLP, provides strategic generic pharmaceutical services for both Walmart Stores, Inc. and McKesson Corporation.
+
+This is a natural next step for the companies, which have more than two decades of history working together to improve the quality and lower the cost of pharmaceutical care to patients.
+
+This new partnership will leverage McKesson’s demonstrated strength and expertise in global pharmaceutical sourcing in conjunction with Walmart’s strength and commitment to delivering leading health and wellness services to their customers.
+
+As part of this arrangement, McKesson and Walmart have established this organisation in London to provide strategic sourcing services for both companies.
+
+Job Title: Data Scientist
+
+Location: London, United Kingdom
+
+Job Purpose
+
+The Data Scientist will provide data-driven insights and products to drive commercial value and to enable a wide range of strategic business decision processes.
+
+This will be achieved by working on complex analyses and/or by developing models to optimise our sourcing approach, drive business growth, reduce waste and support automation across all areas of the business.
+
+This role will work in partnership with both internal and external stakeholders to provide statistical data expertise and support the ongoing demand to deliver business insight and opportunities.
+
+Success in this role will require understanding and influencing business priorities and growing data science as a capability within ClarusONE and the Analytics team.
+
+Responsibilities
+Develop our data science capability and advocate for the use of ClarusONE data and information assets.
+Grow the test & learn capability of the company to optimise sourcing strategies.
+Provide commercial deep dives into specific business area and translate data into actionable insight & recommendations.
+Develop models (rule-based segmentation, decision trees, predictive models) to help decision-making processes.
+Serve as a subject matter expert on statistical analysis and convey technical results effectively to a variety of audiences, including those with a non-technical background
+Sharing learning and insights across multiple levels and multiple business units
+Present complex ideas and recommendation to various level in the organization
+Ensure outputs are accurate, timely and meet the business needs.
+Work with wider Analytics team to define new data sources or improving existing ones and on other topics.
+Develop and maintain strong relationships with key stakeholders, partners and internal clients.
+(The above statements describe the general nature and level of work being performed in this job. They are not intended to be an exhaustive list of all duties.)
+Requirements
+
+Education
+Masters or Phd in a Mathematics related field
+Must Have
+5 years’ experience in an analytics or data centric function.
+Strong data query language/tools skills (e.g. SQL, Alteryx).
+Commercial acumen ( e.g. commercial deep dives, business driver reviews).
+Skills in creating segmentation and/or predictive models.
+Additional Knowledge & Skills
+Ability to take ownership of projects and to work autonomously.
+An understanding of relevant statistical techniques and the ability to interpret the findings from this data.
+Be able to set up A/B and multi-variate tests.
+R and /or Python language would be beneficial.
+Extreme attention to detail and follow-through.
+Outstanding interpersonal and communication skills both written and verbal, flexible and adaptive to changes in the business.
+Ability to build positive working relationships with internal and external business partners and to influence a diverse set of stakeholders.
+Comfortable with ambiguity.
+Life Sciences/Pharmaceutical exposure desirable.
+Seniority Level
+Entry level
+Industry
+Hospital & Health Care
+Employment Type
+Full-time
+Job Functions
+Engineering Information Technology

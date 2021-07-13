@@ -1,0 +1,41 @@
+NLP Data Scientist
+TipTopJob
+London, England, United Kingdom
+Our client islooking for a Data Scientist / Machine Learning Engineer to work at the cutting edge of Natural Language Processing (NLP). Theyare looking for someone who has a genuine passion for NLP and who has an engineering mindset to take the latest advancements and apply them to real:world problems.
+
+The Role
+
+The role of Data Scientist / Machine Learning Engineer is hands:on with the data and product every day. You will:
+Understand business needs, researching and brainstorming models and ensembles that will help solve the problem
+Design, implement and maintain Machine Learning Model Pipelines
+Experiment with different models and measuring performance and selecting solutions
+Research and share the latest developments in Natural Language Understanding and Natural
+Language Generation
+Define infrastructure requirements and architecture for Model Training and Inference
+Work closely as a part of the software development team to ensure models are effectively leveraged in the product
+The Candidate
+
+If Thats You, You Will Be
+
+We are looking for someone that will be a great fit for the role and the team.
+Will be passionate about NLP Technology and enjoy monitoring the latest developments and papers
+Have an engineering mindset to solve real problems
+Have good Python Development experience working with software at all stages of the development lifecycle
+Have deep experience using AI platforms including Pytorch, Tensor flow and AWS Sagemaker
+Be able to demonstrate direct experience in developing machine learning models and taking them through to production
+Have practical knowledge of the latest transformer language models such as Bert, Roberta, GPT2 etc and NLP Open Source Libraries e.g. Hugging Face, AI2, OpenAI, Spacy etc
+Have direct experience of working on conversational interfaces
+Have a scientific / statistics background (Sciences, Math, Engineering)
+ALL APPLICANTS MUST BE FREE TO WORK IN THE UK FREE FROM THE RESTRICTIONS OF VISAS AND WORK PERMITS.
+
+Exposed Solutions is acting as an employment agency to this client.
+
+Please note that no terminology in this advert is intended to discriminate on the grounds of age, and we confirm that we will gladly accept applications from persons of any age for this role
+Seniority Level
+Entry level
+Industry
+Marketing & Advertising Staffing & Recruiting Transportation/Trucking/Railroad
+Employment Type
+Full-time
+Job Functions
+Engineering Information Technology

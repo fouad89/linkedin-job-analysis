@@ -1,0 +1,66 @@
+Machine Learning Engineer
+Sanctuary Graduates
+London Area, United Kingdom
+Posted by
+Lucie Meri
+Campus Operations Manager
+Send InMail
+Graduate ML Engineers wanted at Datatonic - Your career in Technology starts here!
+
+With an impressive 60 years of combined experience between the team, our Associate ML Engineers will have the opportunity to shadow, learn from and work with highly experienced individuals operating at the cutting edge of AI and machine learning.
+
+Company: Datatonic
+Location: London
+Role: 2-year programme - Associate Machine Learning Engineer 
+Salary: £35,000 base salary + benefits
+Start Date: September 2021
+Degrees Accepted: STEM
+Deadline: 20th July
+
+Who is the company?
+
+Datatonic specialises in cloud data engineering, advanced analytics and machine learning solutions.
+Launched in 2016, we have since then been growing exponentially with over 80 Datonites and 5 offices in EMEA.
+We’ve delivered 200+ projects that have driven real-world, sustained business impact.
+We work with the likes of Google, Sky, Intel, Looker and many more.
+
+What is the role?
+
+As an Associate Machine Learning Engineer joining a 2-year programme, you'll help scale our ML models across large data sets for our customers. You’ll work closely with the team to understand customer needs and find creative ways to utilise machine learning techniques to solve their problem.
+
+Some of your day-to-day responsibilities will include:
+Taking vague requirements and translating them into models that solve real-world problems.
+Running machine learning experiments using a programming language with machine learning libraries.
+Optimizing solutions for performance and scalability.
+Implementing custom machine learning code.
+Data engineering, i.e. ensuring a good data flow between database and backend systems.
+Data science, i.e. analyzing data and coming up with use cases.
+MLOps, i.e. automating ML workflows with testing, reproducibility and metadata/feature storage; Designing ML architectures on GCP.
+
+Why should you apply?
+
+Competitive starting salary with an excellent package.
+Opportunity to get hands-on from day one.
+A rewarding role where you’ll be able to work on international clients. 
+Flat hierarchical structure with an open-office floor plan - no closed office doors here!
+Join a company that can offer career-minded people professional advancement. You could work your way up to ‘Experienced’ in year one and ‘Senior’ in year 2. 
+Opportunity to continue on a career path to Principal level and beyond after 2 years. 
+
+Who is best suited to this role?
+
+In order to apply, you must:
+Have achieved or be on track for at least a 2:1.
+Have a passion for Technology.
+Display clarity of thought, as well as strong attention to detail.
+Be able to maintain high standards of accuracy and demonstrate initiative & self-discipline.
+Have studied toward a STEM degree (preference for Computer Science, Physics and Data sciences).
+
+It only takes 30 seconds to register your interest in these roles, and we’ll support you throughout the full application process. 
+Seniority Level
+Entry level
+Industry
+Information Technology & Services
+Employment Type
+Full-time
+Job Functions
+Engineering Information Technology

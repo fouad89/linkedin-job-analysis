@@ -1,0 +1,36 @@
+Data Scientist - Contract role
+Profusion
+London, England, United Kingdom
+Posted by
+Sophie Grandfield
+Recruitment Coordinator at Profusion
+Send InMail
+Data Scientist – contract / fixed term post - 6 – 12 months TBC / Outside IR35 / £475 - £575 per day depending on experience 
+
+Profusion is a leading provider of data services and consultancy, ranging from Data Science, Data Engineering, BI and Analytics projects. We specialise in helping our government, retail, FMCG and financial services clients to solve business problems using the power of data science. Our partnerships with universities and leading organisations enable us to bring the best academic thinking into the solutions we offer.
+
+We are currently looking for Data Scientists who is highly curious about discovering patterns and meaning in data from businesses and organisations. The role is on a contract or fixed term basis for a client project, the duration is expected to be 6 to 12 months, with the potential for further extension.
+
+You will own projects that turn data into insights and recommendations that directly impact the design and development of our client’s services. You will need to be someone which is proactive and can identify business needs, gather data and identify requirements to determine the best solutions, models, tools, data and techniques to address the need.
+
+You will also need to be able to use a range of coding languages such as R, Python or Julia to help build data products for a range of users within a technology context (e.g. big data, unstructured, cloud) and have experience of working with Agile techniques as part of a team. You will need to have solid experience in using SQL to query relational database and an excellent understanding of data science techniques Experience working with datasets that require a lot of wrangling or cleaning is an advantage, as is experience with Cloud technologies (eg: AWS Lambda, AWS QuickSight).
+
+You will need to be a good communicator to be able to communicate to both technical and non-technical stakeholders and experience of data visualisation tools to be able to communicate findings and create presentations.
+
+Due to the sensitive data that you will be working with on this project, we are looking for individuals that hold or have previously held Security Level (SC) clearance for either a private or government organisation, or that meet the criteria to be able to cleared to this level - see here for more information.
+
+If you are interested to learn more about this opportunity and are an experienced Data Scientist looking for your next contract or fixed term role, then please do get in touch with your CV and details on when you would be available to take on your next project.
+
+How to apply
+
+Please click apply or email your CV to: recruitment@profusion.com
+
+Please note that because of the high number of applications we typically receive, it is not possible to answer everyone in person, successful candidates will hear from us within 2 weeks.
+Seniority Level
+Mid-Senior level
+Industry
+Internet
+Employment Type
+Contract
+Job Functions
+Analyst Science

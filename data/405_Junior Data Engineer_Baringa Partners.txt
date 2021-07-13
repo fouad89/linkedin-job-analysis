@@ -1,0 +1,48 @@
+Junior Data Engineer
+Baringa Partners
+London, England, United Kingdom
+Overview
+
+Baringa Partners is a fast growing consultancy with over 1000 consultants, and offices within seven of the world’s leading markets; UK, Germany, Belgium, Bulgaria, New York, Singapore and Australia. We are a consultancy with a difference; we put our people first, and are passionate about providing our clients with deep technical and industry insights that deliver real and measurable results – with pragmatism. Being an independent consultancy, we are not afraid to bring our own point of view, and challenge to help clients create outcomes that are right for them.
+
+We have had some great achievements this year; winning a top ten spot in the UK for the thirteenth successive year by the Great Place to Work Institute, As well as being recognised for our leadership on workplace gender equality by most recently winning the ‘Women of the Future Corporate Award 2021 and also being recognised by The Times as one of the top 50 employers for women.
+
+Baringa believe that diversity is paramount to driving creativity, innovation and value for our clients and for our people. All applications will receive consideration for employment without regard to ethnicity, religion, gender, gender identity or expression, sexual orientation, nationality, disability, age, or social background.
+
+These are the reasons people come and the reasons they stay.
+
+Through continued growth we are looking for a Junior Data Engineer to join our Energy Markets & Analytics practice. You will be working amongst our team of talented individuals to ensure the effective structuring and operation of our data architecture, and share your passion with great people from a variety of backgrounds.
+
+What will you be doing?
+
+Working as a Data Engineer within our Energy, Markets & Analytics Team, you will be responsible in the following areas:
+Support the development of data architecture
+Update and expand a wide range of big datasets
+Streamline and automate processes for capturing data, and interpreting data trends
+Develop and maintain data visualisation dashboards
+Provide support to the consulting team with new and existing tools
+So, what are we looking for?
+
+Here Are a Few Of Our Key Requirements
+A degree (Bachelors or Masters) in computer science, physics, mathematics or similar
+Up to 2 years’ experience in data handling, database design and SQL skills
+Experience in web scraping and APIs, and programming skills in languages such as Python
+Ideally, some experience with data visualisation, e.g. Power BI, Tableau or similar
+Understanding of development processes and version control
+An interest in applying your skills in an energy market context
+So, what's in it for you?
+
+Well, it’s up to you. Baringa is what you make it.
+The chance to operate at the forefront of our industries
+Promotion is based on your own performance, and we give you every opportunity to progress by having four promotional reviews a year
+Ability to work closely with senior stakeholders both within Baringa and with the client: our Partner ratios are small
+Who decides what training you get? You do. We invest in you, to ensure you remain the best in the business
+We believe we are a great place to work – but it’s not just us that says that. We have been ranked first as the Best Workplace in Large Workplaces for businesses with 500+ employees in the UK
+Seniority Level
+Associate
+Industry
+Management Consulting
+Employment Type
+Full-time
+Job Functions
+Information Technology

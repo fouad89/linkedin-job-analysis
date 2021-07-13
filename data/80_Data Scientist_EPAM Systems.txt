@@ -1,0 +1,72 @@
+Data Scientist
+EPAM Systems
+London, England, United Kingdom
+EPAM is committed to providing our global team of more than 41,150 EPAMers with inspiring careers from day one. EPAMers think creatively and lead with passion and honesty. Our people are the source of our success. We value collaboration, work in partnership with our customers, and strive for the highest standards of excellence. In today’s market conditions, we’re supporting operations for hundreds of clients around the world remotely. No matter where you are located, you’ll join a dedicated, diverse community that will help you discover your fullest potential.
+
+Description
+
+Does a good actionable data use case excite you? Are you passionate about using large data sets to find opportunities for actionable business improvement? Are you the type of person who loves data decision-making?
+Look no further than EPAM where we live and breathe technology and we are currently investing in and building our Global Data Practice.
+
+Responsibilities
+
+Analyse:
+
+Tackle a large range of ML problems from: NLP, deep learning, computer vision, optimisation, risk/fraud, anomaly detection, demand forecasting
+Perform statistical analysis, hypothesis testing and experimentation
+Conduct analysis and build predictive and ML models across a broad range of industries
+Provide unique insights from large volumes of data (and sometimes small data too!)
+Tell meaningful stories to the business through stunning data visualisation
+
+Engineer:
+
+Create model pipelines for feature engineering, missing value treatment and/or outlier detection
+Work with ML cloud technologies to automate training and monitoring of models
+Write quality code according to guidelines and best practices
+
+Organise:
+
+Work in an agile environment
+Work with version control systems
+Translate requirements and acceptance criteria into ML implementations
+Provide estimates for ML activities
+Help to educate stakeholders on data-driven decisioning, mentor junior colleagues, and interact with EPAMers and clients from other areas (e.g. solution architects, developers, UX designers...)
+
+
+
+Requirements
+
+Good experience working in a Data Scientist role
+You enjoy maths and probability
+Solid understanding of common techniques in ML and Deep Learning
+Speciality in one of: classification/regression, time series forecasting, NLP, deep learning, optimisation
+Python and SQL are your day to day languages, and you follow best coding practices
+Maybe you are also profficient in other programming languages (e.g. R, Scala)
+Knowledge of Apache Spark is a plus
+Experience with visualisation libraries (matplotlib, plotly) and frontend tools (e.g. Bokeh, PowerBI, Tableau)
+Good understanding of the Data Science Life Cycle
+Have had some exposure to cloud ML functionality (e.g. MS Azure, AWS, or GCP)
+Bonus points if you have experience with end-to-end ML systems
+Understanding business requirements and ability to translate it to data science approaches
+
+We offer
+
+We offer a range of benefits including
+A competitive group pension plan, life assurance and income protection
+Private medical insurance, private dental care and critical illness cover
+Cycle scheme Tech scheme and season ticket loan
+Employee assistance program
+Various perks such as Gym discount, Friday lunch, on-site massage and regular social events
+Unlimited access to LinkedIn learning solutions
+Some of these benefits may be available only after you have passed your probationary period
+
+
+Apply
+Seniority Level
+Mid-Senior level
+Industry
+Information Technology & Services
+Employment Type
+Full-time
+Job Functions
+Science Analyst Information Technology

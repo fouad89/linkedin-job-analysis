@@ -1,0 +1,43 @@
+Data Scientist - UK
+MOLOCO
+London, England, United Kingdom
+About MOLOCO
+
+MOLOCO is a machine learning company that empowers mobile businesses to unleash the power of their data for fast, sustainable growth through the programmatic advertising ecosystem. Founded in 2013, the company offers a complete suite of programmatic advertising solutions to help mobile companies optimize the performance of their acquisition, retention and monetization campaigns. MOLOCO offers a top-rated real-time bidding platform that provides scale across more than 4 billion devices. Through highly sophisticated products like MOLOCO Cloud and MOLOCO Engine, consumers are able to easily utilize the benefits of their own data while leveraging the power of MOLOCO's proprietary machine learning technology. MOLOCO is headquartered in Silicon Valley, with offices in San Francisco, Seattle, London, Beijing, Seoul, Singapore and Tokyo. For more information, visit www.molocoads.com
+
+About The Role
+
+MOLOCO is a marketing technology company that is growing rapidly. We are helping companies market their mobile apps through our programmatic solution that utilizes data mining, lookalike targeting and machine learning optimization. We're in a hypergrowth stage both in technology and business and looking for an Operational Data Scientist to provide operational support and data analytics.
+
+What You'll Do
+Data Analysis: writing queries, scripts, and producing figures which provide insights into campaign performance by campaign, or by metric across campaigns.
+Data validation: verifying the data we obtain from ad exchange and the third party mobile app tracking solutions so that our campaign models get trained with accurate data.
+Campaign optimization: engaging in the life cycle of campaigns from building the initial lookalike model, monitoring daily performance, and advancing machine learning models.
+Working cross-functionally to support campaign management by communicating results, requesting additional resources, and improving our product to help meet our client's needs.
+
+
+What You'll Need To Succeed
+Education & Experience: Master's degree in data related field required, and 2 years of relevant industry experience post graduation.
+Statistics: must have strong experience in experimental design, A/B testing, linear/logistic regression, hypothesis testing
+Machine Learning: must be comfortable with basics of model creation, evaluation, and deployment.
+Programming: experience in Python and SQL required.
+Cloud Computing: experience with GCP Big Query and Looker a plus.
+Ability to manage multiple projects at the same time while paying attention to detail.
+Proven track record of ability to take ownership of tasks and projects and come up with creative solutions, rather than simply completing delegated tasks.
+Excellent verbal and written communication skills, with ability to present information and analysis results smoothly and fluently.
+Ability to relate well to others and build functional and positive relationships within our team and with cross functional stakeholders.
+Prior experience adapting to a steep learning curve and a high volume of new domain specific information, especially if no experience in ad tech.
+Experience with automation is a plus as we streamline our campaign management.
+
+
+All offers of employment are subject to background checks prior to start date. MOLOCO will consider for employment: qualified applicants with criminal histories in manner consistent with applicable local, state, and federal laws and Fair Chance Ordinances.
+
+MOLOCO is proud to be an Equal Employment Opportunity and Affirmative Action employer. We do not discriminate based upon race, religion, color, national origin, gender (including pregnancy, childbirth, or related medical conditions), sexual orientation, gender identity, gender expression, age, status as a protected veteran, status as an individual with a disability, or other applicable legally protected characteristics.
+Seniority Level
+Entry level
+Industry
+Marketing & Advertising Computer Software Internet
+Employment Type
+Full-time
+Job Functions
+Engineering Information Technology

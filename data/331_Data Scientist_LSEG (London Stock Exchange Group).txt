@@ -1,0 +1,63 @@
+Data Scientist
+LSEG (London Stock Exchange Group)
+London, England, United Kingdom
+About LSEG Labs
+
+Are you a passionate about collaborating around technical data challenges to creatively solve complex problems? LSEG has the world’s largest repository of curated data. From petabytes of tick-by-tick market data to the worlds’ largest collection of financial documents, our content fuels the financial markets allowing investors to make decisions and financial institutions to reduce risk and even fight financial crime.
+
+LSEG Labs provides a unique opportunity to work with data in a global company whilst in a team with the culture of a start-up.
+
+We investigate the application of new technology to LSEG products and services. We are involved in a large range of projects leveraging a multitude of different technologies, so a successful candidate is unlikely to be assigned to a single product or service. Information about specific projects may be discussed in the course of the interview process. Recently the group has worked on graph-based risk analysis, turned text into risk signals, created ML predictions of bond prices and created real-time data simulations. You can view a handful of our project by visiting: https://www.refinitiv.com/labs.
+
+As a part of our growing Labs team of data scientists, engineers and UX/UI designers you will be part of our global network of like-minded colleagues.
+
+Our team offers a great flexible working environment, values curiosity and supports an open and learning culture for all levels of experience & seniority.
+
+Key Responsibilities
+Build minimal viable products utilizing data science techniques directly for our customers
+Create compelling proposals with technologists and business to drive innovation from conception to production with appropriate success metrics
+Lead and support projects, removing obstacles and taking ownership to find creative solutions
+Build domain expertise in financial market content and in LSEG data and products
+Network in the fintech, big tech and academic community through conferences, meetups and workshops – bringing leading edge techniques and technology into business strategy.
+Engage with senior level stakeholder engagements internally and externally to discover problems and use cases as well as to translate business impact of on-going and completed projects.
+Essential Skills & Qualifications
+PhD or Master’s degree in a highly quantitative field such as computer science, physics, applied mathematics, or engineering.
+Industry experience working in a data science or machine learning engineering role
+Experience producing and rapidly delivering minimum viable products.
+Strong programming experience in Python and its core libraries like NumPy, pandas and scikit-learn.
+Hands-on experience with ML, Deep Learning, and NLP
+Experience working with large datasets to build machine learning models
+Experience with database management languages, such as SQL
+Ability to track down complex data quality and data integration issues, evaluate different algorithmic approaches, and analyze data to solve problems. Curiosity about the details of datasets is essential.
+Positive attitude to learning new skills and technologies
+Excellent communication and interpersonal skills and ability to work as part of a multi-cultural team.
+Desirable Experience
+Experience using Cloud to perform large scale calculations, such as AWS, Google Cloud Platform or Microsoft Azure
+Domain knowledge in financial services such as quantitative finance, Financial Engineering, Electronic Trading or Risk Modelling.
+Experience with Spark ML/MLlib or similar big data technologies
+Good understanding and appreciation of software engineering principles
+Familiarity with emerging themes and technologies in data science
+Confidence in communicating complex projects clearly to senior management
+People are at the heart of what we do and drive the success of our business. Our culture of connecting, creating opportunity and delivering excellence shape how we think, how we do things and how we help our people fulfil their potential.
+
+At LSEG we embrace diversity and actively seek to attract individuals with unique backgrounds and perspectives. We break down barriers and encourage collaboration, enabling innovation and rapid development of solutions that make a difference. Our workplace generates an enriching and rewarding experience for our people and customers alike. Our vision is to build an inclusive culture in which everyone feels driven to reach their potential.
+
+We know that real personal growth cannot be achieved by simply climbing a career ladder – which is why we encourage and enable a wealth of avenues and interesting opportunities for everyone to broaden and deepen their skills and expertise.
+
+LSEG are committed to supporting emotional, physical, financial and societal wellbeing. Our tailored benefits are a key part of this commitment and we offer colleagues a range of support from healthcare and retirement planning to paid volunteering days and consumer discounts.
+
+We also make reasonable accommodations for applicants and employees with disabilities. If an accommodation is needed to participate in the job application or interview process, to perform essential job functions, and/or to receive other benefits and privileges of employment, please make your recruiter aware, we want to ensure you perform at your best.
+
+As a global organisation spanning 70 countries and one rooted in a culture of growth, opportunity, diversity and innovation, LSEG is a place where everyone can grow, develop and fulfil your potential with purposeful careers.
+
+Please take a moment to read this privacy notice carefully, as it describes what personal information the London Stock Exchange Group (LSEG) (“We”) may hold about you, what it’s used for, and how it’s obtained, your rights and how to contact us as a data subject .
+
+If you are submitting as a Recruitment Agency Partner, it is essential and your responsibility to ensure that candidates applying to LSEG are aware of this privacy notice.
+Seniority Level
+Associate
+Industry
+Information Technology & Services Financial Services
+Employment Type
+Full-time
+Job Functions
+Engineering Information Technology

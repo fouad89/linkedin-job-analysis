@@ -1,0 +1,52 @@
+Data Scientist Inventory management
+HP
+Reading, England, United Kingdom
+The Company
+
+HP is a Fortune 100 technology company with $58+ Billion in revenue, with over 50,000 employees operating in more than 170 countries around the world. We provide technology and services that help people and companies address their problems and challenges, and realize their possibilities, aspirations, and dreams. We apply new thinking and ideas to create simpler, more valuable, and trusted experiences with technology, continuously improving the way our customers live and work.
+
+Position background
+
+In the GTM analytics COE, our mission is to deliver impact by building machine learning products to optimize pricing, marketing investments and provide guidance to our sales organization.
+
+Imagine arriving at a retailer to buy HP products to find empty shelves what will you do? The inventory management team is developing data science algorithms and tools to improve consumer experience and ensure HP maximize returns on inventory.
+
+We are looking for a data scientist that can help us make the decisions on how to distribute our inventory today so that it would meet consumer needs in the following weeks (minimize out of stock given fixed supply)
+
+We offer an international experience, collaborative culture, top rate data science platform and opportunity to create significant real-world impact.
+
+Building advanced forecasting capabilities is a big priority for Analytics and Data Science team and its business counterparts.
+
+What You Will Do
+Lead the problem solving in the topics of inventory management
+Identify the right methodology and data sources that would need to be incorporated.
+Develop a platform that would enable inventory management for HP’s products, enabling dynamic allocation to where the best returns are
+
+What You Will Need
+Bachelor’s in computer engineering, Computer Science, Electrical Engineering, Robotics or a related field
+Proven track record of success leading Data Science teams
+Theoretical and applied skills in Machine Learning
+Languages: Python or R
+
+Who We Are
+
+At HP, we believe in the power of ideas. We use ideas to put technology to work for everyone. And we believe that ideas thrive best in a culture of teamwork. That is why everyone – at every level in every function, is encouraged to think big, have original ideas and express and share them. We trust anything can be achieved if you really believe in it, and we will invest in your ideas to change lives and the way people work. This vision is what sets us apart as a company. At HP, we work across borders and without limits. Global virtual teams share resources, pool their big ideas to solve our biggest business opportunities. Everyone is valued for the unique skills, experiences and perspective they bring. That’s how we work at HP. And this is how ideas and people grow.
+
+About HP
+
+You’re out to reimagine and reinvent what’s possible—in your career as well as the world around you.
+
+So are we. We love taking on tough challenges, disrupting the status quo, and creating what’s next. We’re in search of talented people who are inspired by big challenges, driven to learn and grow, and dedicated to making a meaningful difference.
+
+HP is a technology company that operates in more than 170 countries around the world united in creating technology that makes life better for everyone, everywhere.
+
+Our history: HP’s commitment to diversity, equity and inclusion - it's just who we are.
+
+From the boardroom to factory floor, we create a culture where everyone is respected and where people can be themselves, while being a part of something bigger than themselves. We celebrate the notion that you can belong at HP and bring your authentic self to work each and every day. When you do that, you’re more innovative and that helps grow our bottom line. Come to HP and thrive!
+
+Industry
+Computer Hardware Computer Software Information Technology & Services
+Employment Type
+Full-time
+Job Functions
+Engineering

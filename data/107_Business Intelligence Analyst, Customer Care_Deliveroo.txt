@@ -1,0 +1,44 @@
+Business Intelligence Analyst, Customer Care
+Deliveroo
+London, England, United Kingdom
+THE ROLE
+The mission of the Performance & Reporting team is to create and monitor the standards by which the Customer Care team operates, which includes delivering great service to our customers across the three-sided marketplace (customers, restaurants, and riders). The central Customer Care team is expanding rapidly and the Performance & Reporting team needs to mirror this growth in order to provide outstanding support to our Customer Care teams. We currently cover thirteen markets across Europe, the Middle East, South East Asia and Australia.
+
+You'll Be Working Within a Dynamic Team And Report To The Global Strategy Manager But You'll Also Work Closely With The Following Stakeholders
+Partner Operations and Workforce Planning and Forecasting teams – to help shape the customer proposition, and subsequently the requisite operating model, through a robust and analytical approach
+Regional and local Customer Care Operations Managers – to help local markets achieve their goals by supporting and informing their decision making and providing them with the necessary insights to do so.
+Tech Organisation – to inform and influence priorities and/or products that have the greatest impact on customer experience
+Global Strategy Functions – to add a customer experience lens to the strategic “big bets” of the business
+Central functions – to ensure we can achieve our objectives profitably and within the constraints of evolving legal environments
+RESPONSIBILITIES
+Own all reporting and insight for the customer care team - build reports, conduct ad-hoc analysis and be the go-to individual on the team for anything insight related.
+Own and deliver business intelligence projects that facilitate operation of Central Customer Care team.
+Data mining - provide insightful, high-quality analysis to support decision making in the context of wider business decisions.
+Partner with Central Customer Care teams to review and support the delivery of the overall business strategy.
+Work with wider business stakeholders to ensure teams are rigorously data driven. Work closely with product teams and other data scientists.
+Understand and influence the underlying drivers of performance, challenge existing assumptions and spot opportunities to optimise operations.
+CORE COMPETENCIES
+IMPACT DRIVEN: You’ll work on high-impact global projects. This could involve modelling the costs and benefits of various solutions to increase retention through service, or changes to our compensation policy.
+
+ANALYTICAL AND COLLABORATIVE: There will be a lot of number-crunching and/or data modelling involved but you’ll also need to see the bigger picture and understand how your insights are aligned with the direction the business is heading in.
+
+DECISIVE AND INFLUENTIAL: You should be able to thrive in a fast-paced environment, and be comfortable with making quick yet calculated decisions, even in times of ambiguity. You also need to make recommendations of changes, which could (or perhaps, should) be game-changing and communicate them across the business persuasively.
+
+We Are Looking For Someone Who Has
+
+REQUIREMENTS
+Excellent SQL skills
+Experience of data extraction, manipulation and visualisation tools, e.g. Snowflake, Tableau, Periscope, and Looker
+2-3 years’ experience as a Business Analyst in a consulting firm, or strategy function in a top-tier corporate
+Strong analytical mindset and critical thinking ability
+Has a deep desire to solve real world problems and sees the beauty of data, and structure and how important these are to understanding a problem and identifying effective solutions.
+Has solid Excel and modelling skills i.e., pivot tables and INDEX MATCH
+Excellent people skills — you’ll be partnering with stakeholders to translate business needs into technical requirements
+Seniority Level
+Associate
+Industry
+Food & Beverages
+Employment Type
+Full-time
+Job Functions
+Research Analyst Information Technology

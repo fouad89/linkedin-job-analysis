@@ -1,0 +1,79 @@
+Data Engineer
+CWT
+London, England, United Kingdom
+Posted by
+Scott Vickers
+Regional Talent Acquisition Manager EMEA at CWT
+Send InMail
+CWT is one of the world's leading digital travel management companies and as a Business-to-Business-for-Employees (B2B4E) travel management platform, companies and governments rely on us to keep their people connected – anywhere, anytime, anyhow – and across six continents, we provide their employees with innovative technology and an efficient, safe and secure travel experience.
+
+Our Product and Technology division was formed to lead on our CWT 3.0 digital transformation strategy. With a team of highly skilled and experienced individuals, they deliver and manage efficient, quality, and innovative travel technology solutions and technology services for CWT and its customers worldwide
+
+We are looking for a Data Engineer to join our Data Science team at CWT. The Data Engineer will evolve the design and development of data and machine learning products to support business strategies, as well as ensuring that our data and machine learning services are scalable, reliable and robust.
+
+The Data Engineer will work closely with other data and machine learning engineers, as well as product owners and other teams within CWT to deliver solutions and insights for the business.
+
+Daily Responsibilities
+Build pipelines for data cleansing, transformation and aggregation to deliver business- and client-facing insights and reports.
+Develop AWS serverless solutions for data services within CWT.
+Work closely with Data Scientists/Machine Learning Engineers to build feature engineering, machine learning training and deployment pipelines.
+Develop and manage new data source ingestion pipelines when they are occasionally required.
+Rotational responsibility to monitoring production pipelines and AWS EMR clusters owned by the team.
+
+
+Primary Location
+
+GB-GB-London
+
+Work from home
+
+Yes
+
+Employment type
+
+Standard
+
+Job Family
+
+Information Technology
+
+Scope
+
+Global
+
+Travel
+
+No
+
+Shift
+
+Day Job
+
+Organization
+
+Tech_Data & Analytics
+
+Job Posting
+
+Jun 10, 2021
+
+Key Skillset And Qualifications
+Degree in computer science, information technology, engineering or equivalent
+At least 2 years of experience in Scala/Python programming
+Comfortable working with Linux and bash scripting
+Familiarity with distributed systems
+Familiarity with data structures and algorithms
+
+
+Desired Skillset
+Experience with AWS
+Familiarity with Apache Spark
+Experience in machine learning or data engineering
+Familiarity with SQL
+Exposure to Terraform
+Industry
+Leisure, Travel & Tourism
+Employment Type
+Full-time
+Job Functions
+Information Technology

@@ -1,0 +1,48 @@
+Junior Data Scientist - London
+Echobox
+London, England, United Kingdom
+Echobox has access to very large granular private data sets and is currently only using a small part of this in end user products. You will work closely with our CTO to help push the boundaries of what the Echobox Artificial Intelligence is capable of achieving with this data.
+
+Key Responsibilities
+You will contribute to the development of prototypes that can be turned into end user products by the core development team.
+You will assist in the customisation of the product for new customers and trial data analyses where required.
+You will stay up to date with the latest advances in ML and AI.
+
+About Echobox
+
+We are a fast-growing, research-driven company building an artificial intelligence that helps online publishers overcome the challenges they face every day. Using novel machine learning techniques, we are revolutionising the publishing industry and have a track record of building things that others have ruled out as impossible. Leading names from around the world rely on our product every day, including The Times, Le Monde, The Guardian, Vogue and many more.
+
+Our team is our best asset. We work with extremely smart and talented individuals, who all enjoy a high degree of responsibility and independence in structuring their work. To get a better insight into the kind of work we do, check out our open-source project on Github, our data showcases and our YouTube content on Microservices.
+
+Do you think you have what it takes to be part of Echobox? We'd love to hear from you.
+
+Requirements
+
+Minimum Academic Qualifications
+2.1 degree in a STEM subject from a top tier university.
+
+Required Skills And Experience
+Fluent written and spoken English
+A very strong understanding of classical statistics
+A basic knowledge of different ML and AI methodologies and the desire to become an expert
+Strong background in a programming language suitable for analyses (e.g. R, Python, Java, C#, C++)
+A familiarity with Java (SE7+) and a desire to become an expert
+An ability and desire to learn new skills quickly
+Genuine passion for making the impossible possible
+
+Preferred Skills
+Strong knowledge or experience in one area of ML and AI.
+Experience developing software as part of a team, e.g. DVCS, open source software projects.
+Working knowledge of big data architectures, i.e. NoSQL, Hadoop etc.
+
+Benefits
+
+Our employees enjoy free breakfast every day, coffee, drinks and snacks all day, everyday. Every Wednesday, we order food for our weekly team lunches where everyone gets together for an hour of fun. We have monthly team events (dinner, bowling, karting, poker nights, board-games etc.) for our team to get to know each other outside of work. Professionally, we host in-house conferences and an annual summer camp for all our global employees who are flown to and hosted in London. We ensure that all our employees also get pension contributions, the latest tech, generous annual leave and an amazing office with a balcony overlooking Notting Hill.
+Seniority Level
+Entry level
+Industry
+Internet
+Employment Type
+Full-time
+Job Functions
+Other

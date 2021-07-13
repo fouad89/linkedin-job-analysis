@@ -1,0 +1,43 @@
+Senior Data Scientist
+Barclays
+Glasgow, Scotland, United Kingdom
+Senior Data Scientist
+Glasgow
+
+As a Barclays Senior Data Scientist, you will be responsible for supporting the development and optimisation of Surveillance & Transaction Monitoring solutions for in-scope Barclays UK (BUK) and Barclays International (BI) businesses / locations. You will partner with colleagues across Global Surveillance, Technology and Quantitative Analytics to support the development, implementation and optimisation of automated Surveillance & TM automated solutions and machine learning capabilities.
+
+Barclays is one of the world's largest and most respected financial institutions, with 329 years of success, quality and innovation behind us. We offer careers that provide endless opportunity – helping millions of individuals and businesses thrive, and creating financial and digital solutions that the world now takes for granted.
+
+What will you be doing?
+
+Being a trusted consultant to team members in the Global Surveillance and Technology teams on optimization of strategic Transaction Monitoring systems
+Planning and delivery of robust data-driven analytics and recommendations, meeting agreed deadlines and ensuring accurate, efficient implementation of changes
+Identifying opportunities for the application of machine learning and partner with the Quantitative Analytics team to delivery models where suitable
+Keeping abreast of industry developments, conducting R&D to incorporate best in class methodologies and disseminating learnings within the team and to key stakeholders
+Ensuring all deliveries conform to Barclays internal policies and regulatory requirements and produce robust, clear documentation
+
+What We’re Looking For
+
+Bachelor’s degree in a Quantitative discipline (such as Maths, Statistics, Computer Science or Physics)
+Experience in Data Science related roles, within a Financial Services institution is favorable
+Hands-on experience in the use of common Data Science tools and languages (SQL, Python, Spark)
+Direct experience in Financial Crime/Anti-Money Laundering function of a large Financial Services institution
+
+Skills That Will Help You In The Role
+
+Direct experience in Transaction Monitoring optimization methods in support of Financial Crime/Anti-Money Laundering
+Exposure to common Transaction monitoring systems (Actimize SAM, Oracle Mantas)
+Experience working with large datasets in a distributed data environment
+Experience with BI tools (e.g., Spotfire, Tableau) beneficial
+
+Where will you be working?
+We’ve been in Scotland for 250 years, and Scotland’s significance to Barclays has never been as important as it is today. You can find the Aurora Building in Bothwell Street, a short walk from both Central and Queen Street Stations, and not far from Sauchiehall Street and Argyll Street, two of the city’s main shopping hubs. We’re committed to giving everyone the opportunity to thrive at Barclays, investing in our people, communities, and facilities – highlighted by our new state-of-the-art campus opening soon in the city centre.
+
+90283615
+
+Industry
+Banking Financial Services
+Employment Type
+Full-time
+Job Functions
+Engineering Information Technology

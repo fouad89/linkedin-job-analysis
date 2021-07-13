@@ -1,0 +1,29 @@
+Data Scientist
+Jigsaw XYZ
+London, England, United Kingdom
+Posted by
+Oksana Strippentow
+Head Of Recruitment at Jigsaw XYZ
+Send InMail
+About the role
+You will form part of our newly created data team, supporting both internal projects and external client delivery. At first, you will mostly be focused on client delivery across several partner banks, however there is also internal product development work happening that you could get involved with if you want
+
+As a Data Scientist at Jigsaw XYZ you will...
+Partner with our clients, from data owners and users to C-level executives, to understand their needs and build impactful analytics solutions
+Design and build machine learning solutions for use across our products and for clients
+Use state of the art technologies to acquire, ingest and transform big datasets
+Map data fields to hypothesis, curate, wrangle and prepare data to be used in advanced analytics models
+Contribute to cross-functional problem-solving sessions with your team and deliver presentations to colleagues and clients
+Be flexible to travel to our clients' offices to deliver presentations, gather information or share knowledge
+Have the opportunity to contribute to R&D and internal asset development projects
+
+The tech stack
+Most of our data pipes are still being worked on, so you will help to define the tech stack. We are currently using Snowflake as our data warehouse, hosted on AWS. Most of our data work is carried out in SQL and Python, with a bit of PySpark.
+Seniority Level
+Associate
+Industry
+Computer Software Management Consulting
+Employment Type
+Full-time
+Job Functions
+Engineering Information Technology

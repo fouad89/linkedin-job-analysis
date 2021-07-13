@@ -1,0 +1,47 @@
+Data Science Analyst (Remote)
+Yelp
+Aberdeen, Scotland, United Kingdom
+At Yelp, it’s our mission to connect people with great local businesses. From a coffee connoisseur’s review of a neighborhood cafe, to a homeowner’s request for a quote to remodel their kitchen, Yelp’s data captures millions of user-business interactions every day.
+
+The Consumer Data Science & Analytics team focuses on the people side of these interactions, harnessing the power of this data to understand and optimize Yelp’s user experience. We design and run experiments, build tools, and lead meaningful analyses that influence Yelp’s consumer product and business strategy.
+
+We’d love to have you apply, even if you don't feel you meet every single requirement in this posting. At Yelp, we’re looking for great people, not just those who simply check off all the boxes.
+
+Where You Come In
+Lead broad analytics projects core to Yelp’s business, communicate key insights to decision makers, and help product leaders uncover new opportunities
+Manage tight deadlines and quickly iterate analyses to answer unstructured business questions, deliver actionable learnings, and make strategic recommendations
+Work cross-functionally with product and engineering to define, log, and track Yelp’s key product metrics and opportunity size new initiatives
+Generate dashboards and automate reports that empower teams across the organization to make data-driven decisions
+Grow and maintain impactful relationships with stakeholders of both technical and non-technical backgrounds with clear and frequent communication
+Support consumer experimentation from initial design to synthesizing learnings from experimental results
+What It Takes to Succeed
+Based or willing to relocate within the United Kingdom
+Critical thinker, team player, and excellent communicator who takes pride in telling stories with data
+A knack for communicating quantitative results to a broad audience through writing and compelling data visualization
+BA/BS or graduate degree in a quantitative field (mathematics, statistics, economics, computer science, etc.)
+Several years of quantitative industry experience, ideally within the consumer product space
+Excellent SQL skills, fluency in Python, and experience with at least one statistical package (R, Pandas/NumPy/SciPy/statsmodels)
+Extensive experience with at least one data visualization tool (Tableau, Power BI, Mode, Looker)
+Solid understanding of statistical inference and experimental design
+Familiarity with financial modeling and advanced statistics (regression, non parametrics, predictive modeling)
+What You'll Get
+Full responsibility for projects from day one, an awesome team, and a dynamic work environment
+Competitive salary with equity in the company, a pension scheme, and an optional employee stock purchase program
+25 days paid holiday initially (rising to 29 with service), plus one floating holiday
+Private health insurance, including dental and vision
+Flexible working hours and meeting-free Wednesdays
+Regular 3-day Hackathons and weekly learning groups, always with interesting topics
+Opportunities to participate in digital events and conferences
+£58 per month toward any wellness activity of your choice
+Quarterly team offsites
+Yelp values diversity. We’re proud to be an equal opportunity employer and consider qualified applicants without regard to Race/Ethnic Origin, Sex, Religion/Belief, Disability, Age, Sexual Orientation.
+
+Note: Yelp does not accept agency resumes. Please do not forward resumes to any recruiting alias or employee. Yelp is not responsible for any fees related to unsolicited resumes.
+Seniority Level
+Entry level
+Industry
+Computer Software Internet Marketing & Advertising
+Employment Type
+Full-time
+Job Functions
+Design Product Management

@@ -1,0 +1,53 @@
+Data Scientist
+Finlay James
+London, England, United Kingdom
+Posted by
+Melissa Hulbert
+Partnering The Best Talent Globally | Listening To Your Needs - Focusing On Facts Not Assumptions | SaaS Sales☁️| SaaS Recruitment | Technology Recruiter | Global Start-up🌍 | Scale-up | We are hiring!
+Send InMail
+Job Title: Data Scientist 
+
+The Role: 
+You will be their first UK based Data Scientist, which will involve writing code using Go - if you don't have any existing knowledge of Go, they are more than happy to teach you this as it's very easy to pick up if you understand Java or C++
+You will also be using Python Statistics packages like TensorFlow to build data models, as well as Java and C++
+You will be putting your data models into production and maintaining them through the product life cycle 
+You will be a Machine Learning expert who can use your knowledge and communicate it in layman's terms to your colleagues  
+You will have a major impact on the development of the platform and will be a key part of getting Effectiv ready for their Go Live 
+
+The Company: 
+Pre-IPO Start-up , already valued at $20 Million 
+Founding team has over 30+ years of combined experience within Fraud, having worked for companies like Google and PayPal
+Founding team have previous experience growing a and selling a Fraud Detection software company 
+Received strong funding from a leading investor 
+Already had great traction, with a deal already signed by a large US Bank 
+Plans to more than double in size by the end of 2021 to 15 people, then to double again by the end of 2022
+Low code, plug and play automated solution which will save their customers valuable time and manpower
+Solution based on AI and Machine learning, hiring only real experts that share their vision 
+Opportunity to grow a team around you in the future 
+
+The Ideal Candidate:
+Machine Learning Expert
+Ability to confidently programme in Java, C++ and Python 
+Experience building data models and putting them into production 
+Someone who can challenge internally
+
+What You’ll Get:
+£80,000 to £90,000 Base
+10% Bonus 
+Equity 
+
+Process: 
+1st - Intro call
+2nd - Technical/Scenario Based
+3rd - Further Technical Test
+4th - Call with other Co-Founders
+
+Job code: 14602
+Seniority Level
+Mid-Senior level
+Industry
+Banking Computer Software Financial Services
+Employment Type
+Full-time
+Job Functions
+Information Technology Engineering

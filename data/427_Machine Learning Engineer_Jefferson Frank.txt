@@ -1,0 +1,23 @@
+Machine Learning Engineer
+Jefferson Frank
+London, England, United Kingdom
+A decision automation platform and Machine Learning consultancy who support clients in capturing, cleaning and compiling their data from multiple sources are currently seeking an ML Engineer to assist in the productionisation of ML models and in-house DS applications.
+
+They deliver big data and machine learning services to data-reliant industries such as financial services, procurement, retail, travel and healthcare.
+
+Role & Responsibilities
+Assist in the productionisation of ML models and in-house DS applications.
+Work closely with the Data Engineer & Product Team.
+Mentor junior team members with ML best practices.
+Skills & Qualifications
+High proficiency with Python
+4+ years experience working with Machine Learning
+Exposure to Natural Language Processing
+Seniority Level
+Entry level
+Industry
+Information Technology & Services Staffing & Recruiting Human Resources
+Employment Type
+Full-time
+Job Functions
+Engineering Information Technology

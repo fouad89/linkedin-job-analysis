@@ -1,0 +1,71 @@
+Data Scientist
+Procter & Gamble
+Weybridge, England, United Kingdom
+“Get hands-on into the details” on Data Science, using state-of-the-art artificial intelligence, big data platforms and data visualization to discover solutions to problems requiring tremendous creativity. Partner with business leaders to fully understand the problem, and data engineers to automate & deploy your models into applications providing prescriptions to Sales and Marketing executives - that allow P&G to serve consumers worldwide in a better way.
+
+In This Role You Will
+
+Report a senior data scientist, be co-located within a DataScience and Analytics team, part of P&G’s global DataScience organization.
+
+Analyze and model on big datasets – translating 1.5TB daily consumer touchpoints and 500 million consumers' behaviors to actionable recommendations.
+
+Answer business questions and propose solution for business problems by applying machine learning techniques and algorithms, and automatize analysis of consumer information or other deep learning data; explore their patterns and recommend business activities.
+
+Discover and invent next-generation analytic capabilities for our category analysts and business partners.
+
+Own your new creative algorithm-driven applications from design-thinking up to user adoption
+
+Team-up with technology partners to translate your innovations into robust, scaled, analytic solutions
+
+Participate and improve P&G's analytic capability program at different levels of skill and seniority, esp. also including your own skills and knowledge through job experience, coaching & training.
+
+What P&G Will Offer You
+
+Responsibilities as of Day 1 – you will feel the ownership from the beginning, you will be given specific projects and responsibilities, and experience the impact you can have on our business early on.
+
+Continuous coaching & mentorship– we are passionate about our work and will make sure that you receive formal training as well as regular mentorship from your manager and others.
+
+Multifaceted, and supportive work environment – employees are at the core of P&G, we value every individual and encourage initiatives, whilst promoting agility and work/life balance.
+
+We offer a competitive compensation and benefits package. This includes a pension scheme, life assurance, health insurance, flexible working, a stock ownership scheme and other social benefits.
+
+Qualifications
+
+Apply if you:
+
+Have a deep understanding of Statistics and Machine Learning, Optimization and other advanced analytical models – and how to apply to real world problems (friends glaze over because you cant stop talking about them over dinner).
+
+Are proud to write solid code. Python and Spark are favorites, not your top ones? We can teach you.
+
+Have familiarity with beating data into submission with pandas, SQL, or Spark.
+
+Have strong communication skills, prefer to chart your own course to get the job done and know how to tell a story with data.
+
+Are able to prioritize efficiently. There are only so many hours in a day and your friends and family deserve some of it!
+
+Value simplicity and understand that good enough is not a cop out.
+
+Are creative and find that unique viewpoint to solve problems that make others run and cower.
+
+Are collaborative in practicing DataScience as a team sport. We love to brainstorm together!
+
+Have a Masters Degree or PhD in a quantitative / computational field (Operation Research, Computer Science, Engineering, Applied Math, Statistics, Analytics, Data Science, Life-science, Physics etc).
+
+Are fluent in English (written and oral).
+
+What Could Give You Extra Chances To Have Fun
+Experience with Big Data Ecosystem: Spark, MapReduce, SQL, Hive.
+Experience with Cloud Infrastructure: Microsoft Azure, Google Cloud Platform.
+Experience with Agile DevOps, Github, Jira, Confluence
+Basic understanding of Business Intelligence Tools such as PowerBI, Spotfire, Tableau, etc, and/or UI frameworks (Flask, VueJS,..) to impress your business sponsors.
+Just so you know, #weseeequal
+
+We are an equal opportunity employer and value diversity at our company. We do not discriminate against individuals on the basis of race, color, gender, age, national origin, religion, sexual orientation, gender identity or expression, marital status, citizenship, disability, HIV/AIDS status, or any other legally protected factor.
+
+Our people are all equally talented in unrivalled ways: we come from diverse traditions, personal experiences and points of view. And we want to include yours!
+Industry
+Consumer Goods
+Employment Type
+Full-time
+Job Functions
+Project Management Design Information Technology

@@ -1,0 +1,46 @@
+Operations Database Engineer
+Luma Financial Technologies
+United Kingdom
+We are looking for a Operations Database Engineer to work on various aspects of the Luma Financial platform.
+
+Responsibilities
+Develop and maintain programs and processes used to automate the collection, transformation and delivery of a company's operating data
+Maintain and update existing databases to better serve the needs of businesses
+Identify and design business processes for automation
+Set up, test and monitor automated workflows to ensure that business processes function at optimum efficiency without risk of error
+
+Desired Skills
+A keen eye for detail
+Passion for learning new technology
+Ability to thrive in a fast paced and frequently changing environment
+Self-starter with a desire to improve operational efficiencies
+At least 3-5 years’ experience in:
+Microsoft Automation Tools
+Power Automate
+Power Shell
+VBA
+Microsoft Products
+SharePoint
+Power BI
+SQL Server, PostgreSQL and NoSQL Database (DocumentDB/MongoDB)
+Proficiency in programming languages, such as C, C++, Java, Python or .NET
+Basic knowledge of Machine Learning (ML) and Artificial Intelligence (AI)
+Finance experience a plus
+Need to be able to work European day shift hours to qualify for this role
+About Luma:
+
+Luma Financial Technologies began over 10 years ago with a mission to create a fully customizable, multi-product, multi-issuer, carrier neutral platform that took the complexities out of managing complex financial products, and give advisors smart solutions that they can believe in. Our award-winning platform, and our people, have earned Luma the privilege to partner with some of the largest financial institutions in the world, helping them originate over $25B annually, and helping Luma become the unquestioned global leader in financial technology that supports Structured Products.
+
+While Luma has expanded into the Annuity category, and opened offices in Latin America and Europe, and our award-winning global technology and our people remain true to our mission of transparency, objectivity, and integrity, with a comprehensive, company-agnostic platform, clear pricing structures and customizable solutions. We are leading a global movement to bring bank leaders and advisors smart solutions they can really believe in.
+
+Powered by JazzHR
+
+WG8GL0w6Q0
+Seniority Level
+Mid-Senior level
+Industry
+Information Technology & Services Computer Software Financial Services
+Employment Type
+Contract
+Job Functions
+Information Technology

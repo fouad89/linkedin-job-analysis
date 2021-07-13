@@ -1,0 +1,60 @@
+Senior Data Scientist
+Fospha Marketing
+London, England, United Kingdom
+Why Fospha?
+Fospha are changing the game for high-growth Direct to Consumer brands. Our clients call us the most important tool in their marketing stack. We achieve this by harnessing the power of our clients’ 1st party data and the power of machine learning and technology. Our customers love us because we help them successfully navigate the ever-growing complexity of marketing, with unbiased, independent and actionable insights that really make a difference to their success. Our ever-growing list of clients includes many of our own favourite brands, by design.
+
+Fospha is part of the Blenheim Chalcot Group, a venture incubator with portfolio sales in excess of £400m and over £1b of assets under management. We’ve been operating fully remotely since March 2020 but are excited about moving in to our new workspace - ScaleSpace – a shared hub with our partners at Imperial College which will bring London’s brightest minds under the same roof, creating a unique ecosystem to foster innovation and disruptive technology.
+
+The Role
+You are a senior data scientist with 5+ years of experience of solving complex problems. You're excited by the potential to make a real impact in a scaling business, where your influence will be important as both an individual contributor and a mentor to team members. You’ll develop the next generation of Fospha’s statistical and ML engines from R&D onwards, working closely with our customers to solve their biggest problems and having a lot of fun along the way.
+We take fail fast to heart: Fospha is a great place for experimenting with fast-paced research. We believe our people are great at what they do because they are smart, resilient and adaptable. They can quickly navigate their thinking between hierarchical levels and are willing to get stuck in to get the job done. Our company is at a hugely exciting moment in it's journey and we are looking for excellent candidates who will help drive us to the next level.
+
+Key Responsibilities
+Map strategic objectives to research priorities.
+Work closely with product, customer success, sales and software engineering teams to identify and solve key product and client problems.
+Contribute machine learning expertise to the prototyping and product improvement processes.
+Communicate technical concepts and analysis to a wide audience; including data scientists, clients, product analysts and C-level members of the organisation.
+Ability to conduct statistical and mathematical research to solve relevant problems.
+Passion for new technology and programming libraries. 
+
+Professional Requirements
+A strong background in probabilistic programming and Bayesian modelling.
+Knowledge of machine learning, deep learning and probabilistic programming libraries (Tensorflow, Pytorch, Scikit-learn, Jax, Pyro, etc..)
+Excellent understanding of techniques underpinning modern statistics and machine learning.
+Python (expert).
+Experience in explainable ML.
+Comfortable with building solutions in Linux environments.
+Experience with overseeing the deployment of data science solutions into production systems.
+Background in mathematics & statistics (or equivalent quantitative background with 5+ years of experience).
+Ability and willingness to mentor and teach other members of the team.
+We want to build a team with cognitive and technical diversity... so show us your strengths, show us what you are passionate about!
+
+Personal Requirements
+You will be able to demonstrate examples of our core principles:
+
+Seek inclusion & diversity: We create an environment where everyone feels welcome and people are encouraged to speak and be heard
+Work hard, work well, work together: We take responsibility for making things happen, independently and together; we help colleagues in need and close loops, making sure our work is complete and has lasting impact
+Grow: We are proactive, curious and unafraid of failure
+Customer at the heart: We understand the customer, care about the customer and love building product that solves their biggest problems
+Candour with caring: We deliver radically candid feedback with kindness and receive it with gratitude
+
+Personal & Professional Growth
+You will learn a huge amount working with our brilliant and friendly team, and being part of our journey. You'll benefit from:
+Access to coaching in product development & leadership to serve you here and beyond.
+Opportunities to partake in structured training and leadership development programs as part of Blenheim Chalcot.
+Extensive opportunities for progression for those who can prove themselves.
+
+Benefits
+Competitive salary, fully supported work from home policy, pension scheme, work perks scheme, health scheme. We’re constantly growing our benefits package.
+
+Why Us?
+Brands are too dependent on advertising platforms to tell them how to spend budgets. We help them stop wasting money and find opportunities to grow. Our product delivers the most precise, independent measurement of marketing activities. We do this better than anyone else in the world. Our clients reach their full potential, acquiring and retaining customers sustainably, forever. We are a mix of individuals from data scientists and engineers, product people, marketers and entrepreneurs. We have very different personalities. We are united by a set of values, by a passion for solving big problems.
+Seniority Level
+Mid-Senior level
+Industry
+Marketing & Advertising
+Employment Type
+Full-time
+Job Functions
+Engineering Information Technology Science

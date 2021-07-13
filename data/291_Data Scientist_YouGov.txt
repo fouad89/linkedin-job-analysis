@@ -1,0 +1,57 @@
+Data Scientist
+YouGov
+London, England, United Kingdom
+Company Description
+
+YouGov is an international research data and analytics group.
+
+Our data-led offering supports and improves a wide spectrum of marketing activities of a customer base including media owners, brands and media agencies. We work with some of the world’s most recognised brands.
+
+Our ground-breaking syndicated data solutions include the daily brand perception tracker, YouGov BrandIndex, and the media planning and segmentation tool, YouGov Profiles. Our market-leading YouGov Realtime service provides a fast and cost-effective solution for reaching nationally representative and specialist samples. YouGov’s Custom Research division offers a wide range of quantitative and qualitative research, tailored by sector specialist teams to meet clients’ specific requirements.
+
+Job Description
+
+We are looking for a Data Scientist to work in the Data Innovation Unit (DIU) Team. A core team within the global innovations department, DSAT cooperates closely with senior stakeholders to deliver new data product offerings and insights.
+
+Do you have a passion for data? Are you a problem-solver with the ability to quickly understand complex processes? Do you continually seek and find meaningful patterns in data? Then this role could be for you. We are looking for a Data Scientist someone with a data focus, mathematical mindset, and collaborative project experience. This role will be key to delivering advanced analytics projects within both new and existing business workflows, working alongside expert data professionals and business units to deliver new insight and analytics to our clients.
+
+About The Role
+
+This global role is a part of the DUI Data Innovation Unit and will work closely with clients and other functions throughout YouGov.
+Be responsible for profiles weight schemes globally (over 45 markets) – running diagnostics analysis, updates and setting up new countries when necessary. Keep up to date with the latest demographics data and work collaboratively with other teams to align communications and timings. Ideally be familiar with weight shames and weighting performance outputs
+Own data fusion projects from start to end. Be able to advice on best practices, design the study, write proposals, run the analysis and debrief results to clients independently. Experience in data fusion is highly desirable, especially in the Media and Market Research space.
+Run exploratory analysis and diagnostics to identify potential data issues and propose solutions together with Panel, Data Design and Product teams
+Respond to client queries regarding our research methodologies
+The successful candidate will spend the majority of their time performing data exploration, data pre-processing, data weighting developing machine learning models. The success of this role will require collaborative development & problem-solving.
+Key Responsibilities
+Develop and/or use various algorithms to build predictive models within a variety of business domains.
+Collaborate with business units to understand their problems and goals, specify hypotheses, and identify appropriate modeling approaches / statistical tests.
+Collaboratively perform analyses of structured and unstructured data to solve multiple complex business problems using advanced statistical techniques and mathematical analyses.
+Use strong knowledge in algorithms and predictive models to investigate problems, detect patterns, and recommend solutions.
+Use strong programming & data engineering skills to explore, examine, prepare, and interpret large volumes of data in various forms.
+Design, prototype, and produce data sets that are used for advanced analytics.
+Read and ingest academic-oriented literature, and collaborate with subject matter experts to build better predictive models.
+Conducting ad hoc statistical analysis of survey data, potentially including
+Linear regression
+Regression with categorical dependent variables (binomial and multinomial logistic regression)
+Regression with multilevel or panel data (eg, fixed fixed effects, random effects, hierarchical models, time-series cross-sectional models)
+Clustering methods (k-means, hierarchical, latent class/finite mixture)
+Factor analysis, principle components, and correspondence analysis, and related spatial methods
+Analysis with incomplete or missing data (multiple imputation, full-information maximum likelihood)
+Qualifications
+
+We Are Looking For Someone With
+Experience of writing code in Python, R and SQL
+Knowledge of programs and collaboration tools like SPSS, GitLab, JIRA
+Experience working with Jupyter Notebooks
+Strong mathematics skills (e.g., statistics, algebra)
+Experience with machine learning solutions
+Experience working with Amazon Web Services will be an added advantage
+Seniority Level
+Associate
+Industry
+Marketing & Advertising Online Media Internet
+Employment Type
+Full-time
+Job Functions
+Engineering Information Technology

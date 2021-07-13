@@ -1,0 +1,48 @@
+Data Scientist
+Precision Medicine Group
+London, England, United Kingdom
+We are pioneers at technology enabled services for biomarker data management and translational informatics. Managing and analyzing this complex biomarker data is a foundational aspect to delivering on the promise of modern biomarker-driven clinical research and the role of a Data Scientist is critical to enabling the delivery of precision medicine solutions on time for our clients.
+
+About You
+You are a hybrid of a data hacker, analyst, communicator and trusted advisor.
+You thrive in a fast paced environment and a rapidly evolving field
+You are inquisitive and excited by a career of constant learning
+You are the Colombo of sorts and like digging in to understand the data, provide objective answers and real influence with our clients
+Taming unstructured information and analyzing it is exciting to you
+Essential Duties Include But Are Not Limited To
+Create source code in R for use in biomarker data management, translational informatics, and biomarker-driven clinical research
+Develop and execute data processing, quality control (QC) and analysis pipelines for biomarker data such as flow cytometry, TCR sequencing, next-generation sequencing, gene expression, IHC and other immunoassays
+Develop documentation and data specifications
+Perform source code validation and application testing
+Participate in research and development activities as appropriate
+Contribute to the advancement of Precision’s technology-based services in Biomarker Data Management and Translational Informatics.
+Contribute and lead as requested internal research & development projects related to methods and / or platform development
+Qualifications
+
+Minimum Required: Bachelor’s in Computational Biology, Bioinformatics, Data Science, Biostatistics, Biology or related field
+
+Other Required
+Proficiency in R
+Ability to work efficiently under Unix/Linux environment.
+Excellent communication and interpersonal skills.
+Team player contributing to a positive, collaborative working environment.
+Extended work hours may be required to meet business demands.
+Preferred
+Master’s or PhD in Computational Biology, Bioinformatics, Data Science, Biostatistics, Biology or related field.
+Experience with processing biomarker data such as high-content flow cytometry, high-throughput or targeted gene expression assays (e.g. Nanostring, RNA-Seq), or other specialty lab data (e.g., immunoassays, IHC, SNP genotyping, qPCR)
+Experience with genomic data and / or public databases (e.g. TCGA, dbGaP)
+Experience with relational databases such as MySQL
+Experience with source code management systems such as git
+Any data provided as a part of this application will be stored in accordance with our Privacy Policy .
+
+Precision Medicine Group is an Equal Opportunity Employer. Employment decisions are made without regard to race, color, age, religion, sex, sexual orientation, gender identity, national origin, disability, veteran status or other characteristics protected by law. © 2020 Precision Medicine Group, LLC
+
+If you are an individual with a disability and require a reasonable accommodation to complete any part of the application process, or are limited in the ability or unable to access or use this online application process and need an alternative method for applying, you may contact Precision Medicine Group at QuestionForHR@precisionmedicinegrp.com .
+Seniority Level
+Entry level
+Industry
+Marketing & Advertising Information Technology & Services Hospital & Health Care
+Employment Type
+Full-time
+Job Functions
+Engineering Information Technology

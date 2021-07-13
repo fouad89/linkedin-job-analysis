@@ -1,0 +1,53 @@
+Technical Support Analyst
+Talent Ticker
+Cardiff, Wales, United Kingdom
+Posted by
+Elisabeth Rilatt
+Talent Acquisition Partner at Talent Ticker - WE ARE RECRUITING
+Send InMail
+Technical Support Analyst
+ Talent Ticker is the world's first predictive market intelligence platform. Awarded 'Best Start-up' and 'AI Company to watch', we are now looking to hire a Technical Support Analyst to help accelerate our product roadmap implementation.
+ Using AI, our SaaS solution enables clients to set themselves apart from the competition with accurate & deeper predictive market knowledge.
+ You will be working with both our customer support and technology teams by helping diagnose and address technical issues raised by customers and the wider organisation across our product portfolio. 
+ This role provides a great opportunity to quickly gain experience in a number of areas for promotion into a further technical role. 
+ Snapshot of Responsibilities:
+
+Liaise with customer support, sales, and users to log and processes technical issues and help requests. 
+Triage raised issues. 
+Reproduce, diagnose, and fix issues where possible. 
+Oversee escalations - Liaise with other members of the technology team as well as our research team to solve complex validated issues. 
+Provide reports on customer issues, experience, and product quality to management. 
+Develop user support documentation. 
+Contributing to testing and validation where appropriate. 
+ We use a cutting-edge, cloud-focused tech stack, including (but certainly not limited to): Python 3.x, Serverless, AWS (e.g. EC2, Lambda, SQS/SNS, Fargate, Aurora), PosgresSQL, MongoDB and ElasticSearch. BUT – we are advocates of using the right tools for the right job and always strive to stay on top of the latest developments in the industry.
+ You must be able to work independently and be self-motivated, whilst also being able to work effectively in cross-functional teams. We are committed to innovation here and strongly encourage it with events and tools such as Hackathons, meetups, E-Learning, Learning lunches and Lightning Round Talks. 
+ What we're looking for:
+ Experience in a similar support role is highly desirable, but not mandatory.  
+The following specific skills are desirable. 
+ Any high-level programming language.  Javascript and/or Python are highly desirable. 
+Issue tracking software e.g. Jira 
+Micro-services architectures 
+NoSQL (MongoDB, ElasticSearch) and SQL (Postgres SQL) 
+Hands-on experience with AWS or other Cloud Services infrastructure 
+Source control software e.g. git 
+Containers and their management tools e.g. ECS/Kubernetes/Fargate 
+Messaging/Asynchronous frameworks/platforms 
+Understanding of data science/A.I. concepts 
+  In return you will receive:
+Competitive salary
+Central Cardiff offices (when we’re back in the office)
+Flexible working
+A great team that feels like a family
+Unlimited paid time off
+Pension
+Future share option
+Free breakfast, fruit, and breakfast
+ If you want to join, learn, and develop your career as part of our Talent Ticker family, feel free to reach out to Elisabeth Rilatt to explore this opportunity in detail.
+Seniority Level
+Associate
+Industry
+Internet Computer Software
+Employment Type
+Full-time
+Job Functions
+Information Technology

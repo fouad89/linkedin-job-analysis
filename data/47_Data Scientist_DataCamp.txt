@@ -1,0 +1,40 @@
+Data Scientist
+DataCamp
+London, England, United Kingdom
+About DataCamp
+DataCamp is building the best platform to learn and teach data skills. We create technology for personalized learning experiences and bring the power of data fluency to millions of people around the world. Our learners get real hands-on experience by completing self paced, interactive data science courses, practice, and projects from the best instructors in the world, right in the browser.
+We are an international team with backgrounds in education, data science, design, psychology, biology, linguistics, engineering and more. We are united by our passion for impacting the future of education.
+
+About the role
+As a fast-growing startup, product innovation is key to our success. Our Product & Content team for the Learning platform is in need of a Data Scientist to help us design and develop intelligent capabilities to improve learning. This position sits within the Learn Business Unit, and will work closely with data scientists across DataCamp.
+
+What you’ll do:
+Collaboratively design and build personalization features, such as content recommendations to improve efficacy and adaptive assessments to monitor and report learner progress, leveraging your expertise in data science
+Continuously improve features by tracking key metrics and feedback
+Perform, analyze, and communicate A/B tests focused on engagement and efficacy
+Work closely with software engineers and product managers to deliver value
+
+Our ideal candidate:
+Has 3+ years experience as a data scientist
+Is highly skilled in R and/or Python + SQL
+Experience with building product features leveraging data science
+Experience with assessments, adaptive learning, or intelligent tutoring systems a plus
+
+What’s in it for you? 
+A competitive salary and stock options.
+Learning and development. We encourage continued education through a conference budget and external training.
+Flexible hours.
+International company retreats (when the world opens up!).
+Work with a great team (everyone says this, but we’re serious—we’re pretty great).
+
+We are fully remote until at least end of 2021, after which the role is based out of our Leuven (Belgium) or London office.
+
+DataCamp is an equal opportunity employer. We’re making Data Science accessible worldwide and are committed to building a global team that represents a variety of backgrounds, perspectives, and skills as well as creating an inclusive environment for all employees.
+Seniority Level
+Mid-Senior level
+Industry
+E-learning
+Employment Type
+Full-time
+Job Functions
+Analyst

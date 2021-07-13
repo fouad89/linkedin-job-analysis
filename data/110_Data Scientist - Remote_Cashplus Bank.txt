@@ -1,0 +1,69 @@
+Data Scientist - Remote
+Cashplus Bank
+London, England, United Kingdom
+Who we are;
+
+Cashplus is a leading UK challenger bank for small businesses. We offer faster, smarter, simpler current accounts for the entrepreneurs, independent businesses and consumers that power the UK economy, yet are too often overlooked by high street banks. Since 2005, we’ve created easier ways for more than 1.6m customers to pay, bank and borrow through our user-friendly digital platform. We understand what our customers need – time and money to run their businesses and live their lives – and our secure, innovative products are designed to help, where others can’t or won’t. A true fintech pioneer, we are a fast-growing and credible UK challenger bank.
+
+http://www.cashplusgroup.com/
+
+Working here;
+
+Whilst we are all working from home at present, we expect to move towards a hybrid working model from July. This means our colleagues continue to get the work life balance benefits from home working, complimented by some office time for collaboration and maintaining strong face to face relationships
+
+If you enjoy being collaborative, hands-on and have an entrepreneurial spirit you’ll love it here. We’re offering the excitement, scope and stimulation of an innovative fintech with the security of joining an established, sustainable and profitable business.
+
+Our business goals are to;
+Become a bank that Customers Love,
+Develop Brilliant, Sustainable Products, and;
+Earn an Outstanding Reputation
+
+About The Role
+
+This is a great time to join the Data Science team as we’re bringing in a new platform with the ability to deploy lots of different types of models and algorithms, so you won’t be constrained by rigid legacy platforms. The team really enjoy having a lot flexibility on the techniques they can use and there’s lots of opportunity for learning and research into new methods.
+
+This role will involve the development and maintenance of complex machine learning algorithms to assist across all areas of the business. You will report into to the Head of Data Science, and you will contribute towards the accurate documentation, monitoring and governance of algorithms within the business.
+
+On top of algorithm development, you will also cover analytical support to the wider business in areas such as risk rules and complex MI.
+
+You will need to have a curious nature, enjoy questioning things and working in a cohesive team environment that supports growth and development.
+
+Key Accountabilities
+Develop machine learning algorithms to assist the business in areas such as Fraud, Financial Crime, Credit Risk, Operations and Customer Journey
+Contribute towards the ongoing monitoring and governance of algorithms
+Assist the wider business with advanced analytics when required
+Collaborate with internal stakeholders to ensure that model developments and analytical work meet business requirements
+Communicate insights in a clear, concise manner that can be presented to both technical and non-technical audiences
+You’ll need to have
+Experience developing algorithms within a business environment
+Strong SQL and Python coding skills
+Experience working with large data sets, combining structured and unstructured data
+Proven ability using advanced statistical techniques to derive valuable insights from data
+Natural curiosity to develop new trains of thought and create new data signals. Driven to understand why things happen
+Strong communication skills, both written and verbal, and can clearly articulate issues and resolutions to a non-analytical audience
+Advanced statistical knowledge – experience using Clustering, Regression, Deep Learning, Random Forests and other multivariate techniques
+Self-starter, able to work independently with limited day-to-day supervision
+Educated to degree level
+In return you’ll enjoy
+Competitive basic salary
+7.5% of salary in cash allowing you the flexibility to decide your own benefits (or simply take the cash)
+26 days’ holiday increasing each year of service to 33 days
+Ability to buy and sell a further 5 days holiday each year
+Great location by Borough Market and London Bridge
+4 x Life Assurance
+Pension salary sacrifice
+Family friendly policies
+Regular social activities and team events
+Season Ticket Loans
+Charity Volunteering day
+Covid-19 - Due to current restrictions we’ve implemented a fully virtual hiring process whereby we conduct interviews by phone or video. we are also onboarding new hires remotely. we value the safety of each member of our company and community because we know we’re all in this together.
+
+Cashplus is an equal opportunity employer. Individuals seeking employment are considered without regard to race, religion, national origin, age, sex, gender, gender identity, gender expression, sexual orientation, marital status, medical condition, ancestry, physical or mental disability, military or veteran status, or any other characteristic protected by applicable law.
+Seniority Level
+Entry level
+Industry
+Banking
+Employment Type
+Full-time
+Job Functions
+Engineering Information Technology

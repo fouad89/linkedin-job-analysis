@@ -1,0 +1,82 @@
+Data Scientist
+Virgin Media
+London, England, United Kingdom
+Posted by
+Roman Kowalczuk
+Resourcing Partner at Virgin Media
+Send InMail
+Function:
+Business Intelligence and Data Science
+
+Closing Date:
+17/07/2021
+Data Scientist (x2)
+
+Virgin Media are on a mission to become the most recommended brand by our customers. At the heart of this strategy is digital innovation and our significant data resources.
+
+We are looking for two data scientists to join the team, who will play a major role in developing and implementing predictive models to maximise business value & growth through the application of data science techniques. The predictive models created will feed critical business infrastructure, offering a fantastic platform to hone your machine learning skills with direct impact on business objectives. You will work as part of a high-performing data science & insight team with ownership of certain models in the wider modelling eco-system.
+
+The perfect candidate for us will be passionate about working with data and solving problems. You will also have strong discernment for business which drives the end goal of each project to ensure the application of each model is optimal for current business objectives. You will have strong skills in data munging/manipulation which will allow you to navigate and leverage our significant data assets to build the optimal production models.
+
+So that's what we're after, but what makes us special?
+
+The telecommunications industry in its current form is pretty uninspiring. But we’re fixated on mixing that up. Our aim is to leave the pack far behind, by delivering some of those once-in-a-lifetime, rocket-to-the-stars ideas that turn the industry and customer expectations on their heads.
+
+And why do we do it? Well, we make no secret of the fact, we want to become the most recommended brand, by our people and our customers. A massive part of that journey is about how we ensure that our forward-thinking people have a working environment in which they can truly belong and thrive. For us, it's critical that every single person can bring, and be, their whole selves at work, and we're working hard every day to achieve this.
+
+Tell me more, tell me more…
+
+The advanced analytics and data science function's purpose is to drive competitive advantage through the creation of data products. They do this by applying statatistics and machine learning techniques to uncover insights which allow us to build products to support decision making and decision automation across the business.
+
+As part of this group, the data science team has the remit to ensure the eco-system of predictive models & segmentation, which feed critical business infrastructure, are well maintained and offer optimal performance.
+
+The must haves:
+
+Good knowledge of SQL, Python and relevant libraries (numpy, pandas, matplotlib, Scikit-learm, tensorflow, etc…) knowledge in other programming languages would be valuable (Spark, R, Matlab…)
+Familiar with A/B testing methodologies and frameworks
+Strong mathematics or statistics background gained through MSc/PhD education in scientific field or significant commercial experience in advanced analytics methodologies
+Ability to apply knowledge in statistics and machine learning to real world problems
+Ability to translate consumer business problems into analytics use cases and requirements
+
+
+Other stuff we're looking for:
+
+Good interpersonal skills offering ability to explain complex techniques to non-technical audience
+Focus on implementation and business impact of modelling through commercial acuity
+Proactive can-do demeanor, creative approach in how to use data to solve problems.
+Advanced data preparation and munging skills with ability to transform data into suitable formats and outputs.
+Ability to visualise and communicate findings in an understandable manner to non-technical users
+
+
+What's in it for you?
+
+We know that benefits mean so much more than the 'stuff' we can give you, so we offer a wide range of support, rewards and tools - all focused on helping you to prioritise what really matters.
+
+All work and no play just isn't our style! We're already planning our future ways of working, for when life becomes a little more normal again. We're constantly evolving our approach to enable you to find a great work life balance.
+
+If you go on to be successful in your application, some of the many benefits include:
+
+25 days' annual leave, plus UK bank holidays
+A defined contribution pension scheme, run by Fidelity, matched up to 10%
+Access to wellbeing benefits such as the Unmind App, personal medical cover (which you can opt to upgrade to cover loved ones) and critical illness cover
+Season ticket loans
+Your birthday off every year, to treat yourself
+The option to buy and sell up to 5 days leave, to suit your personal needs
+
+
+Next steps
+
+If you think you've got some amazing skills to offer us, and Virgin Media feels like a place where you can belong, we'd love to learn more about you. Once you've submitted an application the next steps of the process, if successful, are likely to include a two-stage interview process including technical and competency assessments.
+
+When you apply, you'll be asked about any adjustments you might need to support the recruitment process. Let us know, and we'll be sure to discuss it with you.
+
+Thanks for your patience in the meantime and for showing an interest in joining the Virgin Media family.
+
+Seniority Level
+Entry level
+Industry
+Information Technology & Services Telecommunications Financial Services
+Employment Type
+Full-time
+Job Functions
+Engineering Information Technology

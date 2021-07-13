@@ -1,0 +1,45 @@
+Senior Artificial Intelligence Engineer & Data Scientist
+Singular Intelligence
+London, England, United Kingdom
+Posted by
+Sarvesh Kumar
+Founder & CEO Singular Intelligence, Entrepreneur,Mentor,System Builder
+Send InMail
+Singular Intelligence is an Artificial Intelligence software company backed by Oxford University and InnovateUK, the UK Innovation agency. We are now hiring a Senior Artificial Intelligence Engineer & Data Scientist to join our UK team, based either in London or Oxford regions.
+
+The ideal candidate will have research expertise in multiagent systems, agent-based modelling, machine learning, and some practical experience in building software testbeds for agent-based models. This technical leadership role spans ongoing industrial research projects, product development, and live customer pilots and rollouts. You would have completed your PhD in a relevant subject and complemented research experience with industry projects solving real-life problems and challenges. Your role would include the following:
+
+AI and data-led innovation to improve product performance metrics
+Design, Roadmap and Data considerations
+Hands-on modelling as well as programming for production 
+Plan and Lead the track from a technical perspective with data engineering and UI development with others in the team
+Interact with Customers directly, technical stakeholders 
+
+The key skills and experiences should include :
+PhD in the relevant domain.
+Multiagent systems, agent-based modelling,
+Background in statistics and ability to write complex models with experience of first-principles based mathematical modelling/statistical modelling/data science/machine learning
+Ability to solve problems independently using an analytical approach
+Good understanding of ML fundamentals with experience in major machine learning paradigms such as supervised and unsupervised learning.
+Exposure to reinforcement learning would be an added advantage
+Exposure to data analysis and application of mathematics principles to gain insights from data.
+Exposure to major machine learning frameworks such as TensorFlow, Keras, Pytorch etc.
+Exposure to multiple programming languages including Python, using tools such as NumPy, SciPy & Pandas.
+Developing a new hypothesis and connecting observed behaviour to potential product solutions
+Experience in building and testing AI solutions, including data science models.
+Experience in Data preparation and cleansing 
+Expert level programming skills in Python 
+At least Basic working knowledge of Databases – Relational as well as Big Database engines having worked on both Windows and Linux environments 
+Other skills: Use of cloud environment for development and production, Office automation tools, planning tools. 
+Team Competencies: 
+A team player and team builder 
+Ability and flair for working with a team of multi-disciplinary expertise 
+Aptitude for working with a diverse group from different cultures and regions 
+Discipline and efficiency in a Virtual team 
+Flexibility for short term travel 
+
+In the current COVID-19 foreseeable future, you are expected to work from home. However, as the situation improves, we can evaluate working from our office in Level39, Canary Wharf.
+
+As an early-stage entrepreneurial company, we offer market-leading compensation that includes cash, bonus and equity.
+Employment Type
+Full-time

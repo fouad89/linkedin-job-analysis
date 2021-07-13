@@ -1,0 +1,83 @@
+Aspire Data Scientist
+Landsec
+London, England, United Kingdom
+Purpose of job
+As the availability of data becomes more prevalent, our challenge is to ensure we are using it to provide value, enhance the experiences of our Customers by being more attuned to their changing needs and using data to help guide our future decisions, while also being selective about the data we collect, rather than collecting data for the sake of it.
+
+This role is both exciting and pivotal to supporting our transition to a data led business, working within our “Aspire” Team, who oversee the “Brilliant Basics” and exceptional service delivery across our portfolio in partnership with our amazing service partners.
+
+You’ll be instrumental in pulling together all the various data streams across operations, including helpdesk performance, footfall, energy intensity, among many others, both existing and future data we are yet to collect or know we need, consolidating, analyzing, and reporting on these data streams to provide insights to Optimise and improve our working process and share data internally to inform and support our Customer propositions.
+
+Utilising these historical data sets to develop future trend and preemptive strategies, to be the Operations “data storyteller” and guide what we do and how we do it as the way we work and interact with our environments change.
+
+Primary Duties Of This Role Include
+Collect, clean and curate all relevant sources of data available across our managed portfolio, or where required recommend data that could add value that is not currently being collected or in a form that can be utilised.
+Using data to discern future trends, predicting future outcomes from historic data sets.
+Provide analysis and reports on this data that can be openly shared with our internal team and service partners that aids continuous improvement through behavioural changes or transformation processes.
+Be the go-to person for data insights for the operations team, creating bespoke reports to help start conversations or guide ideas to ensure they are supported by customer sentiment or objective metrics.
+Use technology to get the most out of our data, create user friendly dashboards or visual mediums to share data across our portfolio, including in Customer facing areas to share positive messages and demonstrate process improvements through data.
+
+
+Scope of Job
+
+Principle Accountabilities
+Interpreting data, analysing results using statistical techniques and provide ongoing reports.
+Mine and analyse data from existing and new databases to drive optimisation and improvement or our operational delivery models
+Use predicative modelling to increase, improve and enhance our customer experiences, revenue generation through targeted cross selling of products and services.
+Developing and implementing data analysis, data collection systems and other strategies that optimise statistical efficiency and quality.
+Acquire data from primary or secondary data sources and maintain databases/data systems, generating reports from single or multiple systems, providing analysis on output.
+Identify, analyse, and interpret trends or patterns in complex data sets.
+Work with Aspire Service Delivery Manager and Operations Team to prioritise business and information needs, support in defining new process improvement opportunities.
+Commissioning and decommissioning of data reporting sets in line with corporate and legislative guidelines.
+Processing confidential data and information according to guidelines.
+Evaluating changes and updates and to source industry leading systems. To undertake periodical benchmarking against peer groups.
+To own user access and provide training to end users on new reports and dashboards. Providing technical expertise to all stakeholders.
+
+Key competencies
+Business and commercial acumen - To be able to interpret information and identify opportunities. To distill and present data and form recommendations.
+Communications/Data - Actively listens, analyses, and interprets information, questions to confirm intent, processes and responds to information received and works to communicate company needs and goals. Clearly and concisely explains data analysis results.
+Initiative - Takes prompt action to accomplish objectives and achieve goals beyond what is required; Makes active attempts to influence events to achieve goals; Acts proactively.
+Flexibility – Understands needs of different people, tasks and projects and manages changing timelines, communication style and priorities to adapt and adjust.
+Customer Service - Develops and sustains productive customer relationships and ensures customers and their needs are considered in all actions.
+Teamwork and Co-operation - Actively participates as a member of a team outside of pure reporting lines, demonstrates positive behaviors, introduces own ideas, supports, acknowledges, assists, and provides constructive feedback to others; assertively confronts negative behaviors; helps the team to stay on task to assist team goal achievement.
+Results Focus - Establishes achievable goals, accurately sets priorities, develops plans, organises resources, monitors and adjusts schedules to achieve planned outcomes.
+Concern for Quality - Accomplishes tasks by considering all areas involved, shows concern for all aspects of the job; accurately checks processes and tasks.
+Insightful Decision Making - Identifies problems and can draw upon insights to make logical decisions.
+Curiosity and Innovation - Is willing to consider and experiment with new ways of doing things. Encourages others to put forward innovative ideas.
+Strategic and Commercial Agility - Anticipates and responds to future trends. Has a clear strategy for the long term and communicates this in ways that others will understand. Knows the market and takes decisions which are in the best interests of the business.
+Influence and Building Relationships - Builds rapport and effective relationships with others. Seeks to understand others' perspectives and can influence and inspire different types of people .
+
+
+Essential
+
+Knowledge, experience, and qualifications
+Exceptional knowledge and experience in all Microsoft packages, Word, Excel, Visio, PowerPoint, PowerBi etc.
+Experience creating and managing databases.
+Experience working with languages such as SQL/CQL, Python etc.
+Strong written and verbal communication skills
+Understanding of data mining techniques, emerging technologies, large scale data frameworks and machine learning.
+Insatiable curiosity and analytical skills.
+Desirable
+Agile (or equivalent) development methodologies.
+Degree in mathematics, business, statistics, or analytics focused subject.
+
+
+About Us
+
+At Landsec, it’s our people who make our business thrive.
+
+We recruit and foster the best talent, regardless of background. We value inclusivity, it guides our decisions, actions and behaviours. We are proud to create an environment where our people feel confident in being their authentic self at work.
+
+All qualified applicants will receive consideration for employment and we do not discriminate on the grounds of race, sexual orientation, gender, gender reassignment, religion or belief, marital or civil partnership status, age, disability, or pregnancy and maternity status.
+
+Depending on the nature of your role, Landsec may be able to offer different ways of working to fit around your lifestyle. We know that flexible working can make a real difference to your wellbeing and professional development, and in turn can benefit us as an employer and our customers. The flexible working options available to you is something that can be discussed at the interview stage during the recruitment process
+
+By submitting your interest in this job, you agree to receive text notifications with additional steps to complete your job application. You will receive up to 6 messages from the number "63879". Message & data rates may apply. Please refer to our privacy policy for more information.
+Seniority Level
+Entry level
+Industry
+Retail Financial Services Real Estate
+Employment Type
+Full-time
+Job Functions
+Engineering Information Technology

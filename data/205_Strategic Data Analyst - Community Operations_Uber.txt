@@ -1,0 +1,39 @@
+Strategic Data Analyst - Community Operations
+Uber
+London, England, United Kingdom
+We're seeking a talented Analytics & Insights Analyst to join the Northern & Eastern Europe (NEE) Strategy & Planning (S&P) team, as part of the broader NEE Community Operations team. You will collaborate with different teams to work on a wide range of customer operations initiatives with impact across the NEE region, and also across EMEA and Global.
+
+In this role, you will be responsible for answering strategic questions with data, analyzing scaled data and processes, developing dashboards and reporting, and distilling actionable insights on core business metrics. You will work directly with leadership to add critical analytical horsepower to ensure we’re making data-driven decisions, and using insights to improve efficiency and customer experiences in a scalable and sustainable way. You will help to solve the most critical business problems of the region, working closely with Operations and Analytics stakeholders.
+
+The role's core mission is to drive strategic decisions based on data and insights, across a variety of business challenges - from fixing our broken customer experiences to strengthening our safety, risk and compliance. The second mission is to focus on NEE performance data & metrics, to provide robust analytics to support the broader teams’ projects, and to strengthen the team’s data analytical skills.
+
+Day-to-day Responsibilities
+Drive analysis on projects across NEE to improve customer support operations and customer experience of our customers;
+Upskill the NEE analytics champions in SQL and data analysis;
+Identify operational weaknesses and help improve or innovate new processes to keep local teams as efficient as possible;
+Build dashboards that answer the needs of our internal stakeholders - take advantage of the wealth of data we have at our fingertips to help stakeholders manage and improve our operations;
+Apply data science techniques on large data sets to develop strategic insights, and present them in a compelling way to enable smart and sustainable business decisions;
+Lead as thought partner with Regulatory, Safety, Risk local and central teams, in order to create actionable insights, dashboarding, KPIs monitoring and process improvements, under a highly regulated environment
+What You'll Need
+Minimum 3-5 years experience in analytics based role (e.g. business intelligence, Analytics etc)
+Significant full time work experience in a quantitative/analytical role
+Excellent analytical skills, strong intellectual curiosity and ability to structure and solve difficult problems with minimal supervision
+Solid experience in improving business processes
+Strong communication and storytelling skills, both verbal and written
+Advanced SQL (must-have)
+Fluency in Tableau and ability to write simple scripts / repurpose scripts in Python
+Experience and comfort working in a fast-paced environment with multiple stakeholders, which often requires the ability to manage multiple projects and priorities
+Willingness to quickly learn, adapt and apply new technical skills
+What You Will Do
+Act as a thought partner to local market teams and centralised analytics & insights teams on business performance data, esp. relating to Safety, Risk & Compliance teams, in order to create meaningful data capture, dashboarding and processes, under a highly regulated environment;
+Drive analysis on projects across NEE to improve customer support operations and customer experience of our customers;
+Be the analytical expert for the broader NEE team to lean on;
+Identify operational weaknesses and help improve or innovate new processes to keep local teams as efficient as possible;
+Build dashboards that answer the needs of our internal stakeholders - take advantage of the ever-growing amount of data we have at our fingertips to help stakeholders across NEE manage and improve our operations;
+Apply data science techniques on large data sets to develop strategic insights, and present them in a compelling way to enable smart and sustainable business decisions.
+Industry
+Computer Software Consumer Services Information Technology & Services
+Employment Type
+Full-time
+Job Functions
+Information Technology

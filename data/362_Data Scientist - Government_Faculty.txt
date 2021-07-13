@@ -1,0 +1,68 @@
+Data Scientist - Government
+Faculty
+London, England, United Kingdom
+Who we are
+
+Faculty is an applied AI company that helps organisations who have the scale, data, and foresight to adopt AI into their business. We’re helping make AI real across society by providing a unique combination of strategy, software and skills to our customers everything needed to successfully create value from AI. Founder-led and with over 80 PhDs, we’re a team of specialists with experience across healthcare, finance, government, retail, engineering, construction and a host of other sectors.
+
+We believe that AI should be trustworthy, impactful and beneficial across society. Those principles have shaped our work with more than 230 organisations across the public and private sectors as we help them use AI to act faster, make better decisions and understand more deeply. Thanks to our dedicated AI safety research programme, we’re constantly refining our systems to make AI safer, more secure and more reliable.
+
+Our work across Government is growing fast through new engagements and existing multi-year partnerships. To support this growth we are building out our technical capability to advise and work with clients, to drive forward their data science ambitions.
+
+The Role
+
+As a data scientist, fundamentally your role is to help customers solve their problems using data science and AI; this involves using a range of techniques both in terms of background and sophistication, from simple data analysis and statistics, to designing and implementing bespoke machine learning algorithms. We have an amazing set of customers.
+
+Your contribution will not be limited to programming. Using practical and business sense, you will build strong relationships with our customers, shaping the direction of both current and future projects.
+
+As we are a growing business, we need people who take initiative. You will take on more responsibility from day one than you would expect in comparable roles elsewhere. Data scientists at Faculty take pride in
+Solving problems using data science techniques and in a scientifically robust fashion.
+Communicating technical content at the right level both internally and to customers.
+Fostering a collaborative work environment, sharing knowledge, and bringing the best out of everyone in the team.
+Seeking out innovative ways to help Faculty grow, for example, by turning project work into reusable code.
+
+As a data scientist within our Government business unit you will be expected to
+Already have SC, or be prepared to complete the national security vetting Security Check (SC) process with preference for candidates who have lived 5 uninterrupted years in the United Kingdom.
+Work with Civil Servant teams alongside other suppliers across a complex infrastructure and organisational landscape.
+Supervise more junior members of the team and provide technical mentoring and advice on best practice.
+Work at the client-site when required.
+
+
+Requirements
+
+Now for the practical part - to succeed in this role, you’ll need
+At least 3 years of experience in a professional data-science position or data science consulting role.
+A strong understanding of supervised machine learning and the end-to-end data science process from data collection to model monitoring and the considerations and nuances that may arise at each step.
+Strong programming skills and proficiency in Python as evidenced by earlier work in data science or software engineering.
+To be comfortable writing test code, contributing to large libraries and the workflow that surrounds this e.g. proficiency with git and basic bash.
+A solid grasp of machine learning with the ability to develop new algorithms when an innovative solution is necessary.
+An excellent command of the standard libraries for data science (NumPy, Pandas, Scikit-Learn, Keras or equivalents in other programming languages).
+An appreciation for the scientific method as applied to the commercial world; a talent for converting business problems into a mathematical framework; resourcefulness in overcoming difficulties through creativity and commitment; a rigorous mindset in evaluating the performance and impact of models upon deployment.
+Eagerness to work with our customers and to learn about the non-technical aspects of the job.
+Effective verbal and written communication. You should be comfortable with presenting your work in front of customers.
+Experience composing and following a project plan/sticking to self-imposed deadlines/proactively solving your own problems.
+
+In addition to the above, we’d love it if you had...
+Some knowledge of
+Database programming languages, in particular SQL;
+MLOps and cloud architecture e.g. CI/CD, Docker, Kubernetes, AWS;
+Data science platforms e.g. AWS SageMaker;
+Contributions to open-source projects
+Prior commercial experience, particularly if this involved customer-facing work or project management.
+
+
+Benefits
+Unlimited holidays
+Flexible working
+Yoga twice a week.
+For office-based employees, Breakfast and more fruit, drinks and snacks than you could ever eat provided.
+Cycle to work scheme
+Sanctus mental health coaching
+Seniority Level
+Entry level
+Industry
+Information Technology & Services Computer Software Internet
+Employment Type
+Full-time
+Job Functions
+Engineering Information Technology

@@ -1,0 +1,39 @@
+Data Scientist
+Tallarium
+London, England, United Kingdom
+Provide market-leading insights in VC-backed corporate energy trading and data platform; disrupt the archaic commodities market
+
+London or Remote, highly competitive salary equity
+
+Tallarium is a rapidly-growing London-based capital markets/data start-up developing an AI-powered system for institutional energy trading. Currently the bulk of the large-scale B2B derivative trading is done via 20+-year-old systems like messenger chat, telephone and Excel spreadsheets where data is siloed across teams and functions. Join Tallarium and modernise commodity trading. We build core data and trading infrastructure for derivative trade execution and risk management, allowing faster & more accurate critical trading decisions. We provide services for trading desks at multiple Fortune 500 companies and have been working with the super-majors from our beginning. We are currently a team of 11 with strong academic backgrounds and experience at the world’s top institutions.
+
+Having recently received backing from two institutional VC investors and a major strategic industry player, we are transitioning to the next phase of growth and looking for exceptional people to join.
+
+Reporting to the Chief Technology Officer, you will play a key role in developing real-time, end-to-day data indices and theoretical price curves for energy markets. You will also be responsible for delivering clear, useful analysis of user data to benefit our customer success team hugely.
+
+Your Impact
+You will be using multiple data sources from clients, users and others to drive the development of real-time price curves for the energy market;
+You will use your knowledge of the financial markets to drive insight while gaining huge experience and building on what you already know;
+You will be responsible for owning the development of clear, platform-user insights for our customer success team;
+You will have the independence to deliver without direct supervision to create a key part of the business;
+You will be responsible for the cleansing of data-system inputs used across the business;
+You will proactively participate in the design and development of the price communication and trading systems;
+And the rest is up to you!
+About You
+A strong work ethic and willingness to learn on the job;
+Excellent written and spoken English;
+Bachelor’s degree in a technical subject from a top 5 UK university or equivalent;
+Substantial experience with managing your own projects
+Opportunity
+Work in an exciting, fast-paced startup environment where you can personally influence the course of the company;
+Have your thoughts, analysis and models powering trading at some of the largest energy trading companies in the world;
+Take on independent responsibility in an exciting and stretching role
+If you are excited to work with us to revolutionise the energy trading industry, building models for the largest names in the energy world, then we want to hear from you!
+Seniority Level
+Entry level
+Industry
+Computer Software Internet Financial Services
+Employment Type
+Full-time
+Job Functions
+Engineering Information Technology

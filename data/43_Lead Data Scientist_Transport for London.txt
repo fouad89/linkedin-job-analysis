@@ -1,0 +1,72 @@
+Lead Data Scientist
+Transport for London
+London, England, United Kingdom
+Posted by
+Faz Dar
+Senior Manager Asset Reliability & Improvement at Transport for London
+Send InMail
+Apply at the following link: https://tfl.taleo.net/careersection/external/jobdetail.ftl?lang=en&job=036234
+
+Lead Data Scientist 036234
+Organisation - Asset Systems and Reliability
+Job - Data Analytics
+Position Type - Full Time
+
+
+ Salary: Circa £64,000 plus excellent benefits package
+Location: Southwark 
+Contract type: LU
+Overview of project/role
+London Underground is a dynamic organisation providing world class transport to the rapidly growing population of London within a challenging fiscal environment. For these reasons, continuously improving the reliability of our assets is fundamental to the success of our organisation.  
+The Lead Data Scientist leads a team of Data Scientists and Data Science Analysts within the Asset Operations directorate. They champion the strategic importance of data and analytics whilst driving optimised decisions on asset management interventions.
+The Lead Data Scientist is an expert on data mining methodologies and algorithm development, working with the rest of the team to design and run exploratory and hypothesis driven analysis. All with the aim of providing valuable insight into the root cause of asset failures.
+The role requires someone with highly developed and proven Data Science skills applied in a business environment, as well as experience in managing a small to medium analytical team.
+Key Accountabilities
+Lead and provide strategic direction to a team of Data Scientists and Analyst / Data Scientist to deliver quality analysis and insight to answer strategic and tactical questions for Asset Operations.
+Promote the use of Data Science to support the Senior Asset Reliability Improvement Manager in delivering the Data and Analytical strategy set up for Asset Operations.
+Provide guidance to his/her team on data science methodologies and approaches, by assuring quality of the output and analytic methodologies used.
+Overlaying large and complex datasets from different systems/sources to test hypotheses and/or discover hidden relationships and useful information.
+Use of advanced statistical analysis techniques including data mining, feature engineering and selection, and supervised and unsupervised machine learning, to extract the maximum intelligence from our data.
+Communicate the intelligence extracted from this analysis to key stakeholders in a simple way, focusing on business value and giving clear recommendations.
+Champion of the development and usage of predictive analytics within the team and business e.g. develop and test algorithms that can use existing data feeds to categorise asset behaviour and thus improve the management of that asset.
+Give feedback on the quality and structure of our datasets and how this could be improved to enhance predictive analytics capabilities.
+Identify potential new data sources and evaluate / apply emerging technologies for data discovery and analytics usage.
+Identify new opportunities to drive the innovation agenda across the business.
+Create strategies to overcome barriers to change to ensure benefits of data science in Asset Operations is recognised and exploited to deliver value.
+Skills, Knowledge & Experience
+Knowledge
+Good Knowledge of Data Science, statistical analysis and data mining. In particular, statistical learning methods, and the ability to work with large, complex and uncleansed datasets – Essential
+Proven knowledge of statistical software packages (e.g. R, Python with pandas/sklearn etc) – Essential
+Awareness of commercial and financial processes within a large organisation desired – Essential
+Qualified to degree level in numerate discipline e.g. Maths/Physics/Statistics/Computer Science/Operational Research
+Skills
+Ability to lead and motivate a medium size and highly analytical team - Essential
+Ability to translate complex statistical findings or solutions into simple terms for digestion by key stakeholders, and convert business issues into statistical challenges for the team to answer - Essential
+Expert degree of competence in working with large volumes of data and information from various sources – both structured and unstructured – Essential
+Proficient at formulating and testing hypotheses from raw datasets and draw statistically meaningful conclusions - Essential
+Ability to design robust and complex classification algorithms that can meet a business requirement using machine learning techniques - Essential
+Programming. Data manipulation and statistical analysis within one or more of the following environments: R / SAS / Matlab / Octave / Python - Essential
+Experience
+Demonstrable post-degree working experience in multiple data science roles in at least two different commercial organisations, with substantial exposure to statistical analysis and algorithm building using large and complex datasets - Essential
+Experience working as a data scientist (or equivalent) in a commercial organisation - Essential
+Experience of asset performance modelling, analysis and reporting within large, complex organisations – Desirable
+Experience of managing and mentoring junior analysts or data scientist – Desirable
+Equality and Diversity
+We are an equal opportunity employer and value diversity. We do not discriminate on the basis of race, religion, ethnicity, gender, sexual orientation, age or disability status.
+Application Process 
+Please apply using your CV and a one page covering letter.
+Think carefully about the skills, knowledge and experience in the advert and cover this in your CV and cover letter.
+The closing date for applications is Sunday 25th July 2021 @ 23:59
+Benefits
+In return for your commitment and expertise, you will enjoy excellent benefits and scope to grow. Rewards vary according to the business area but mostly include:
+Final salary pension scheme
+Free travel for you on the TfL network
+A 75% discount on National Rail Season Ticket and interest free loan
+29 days annual leave plus public and bank holidays
+Private healthcare discounted scheme (optional)
+Tax-efficient cycle-to-work programme
+Retail, health, leisure and travel offers
+Discounted Eurostar travel
+
+Employment Type
+Full-time

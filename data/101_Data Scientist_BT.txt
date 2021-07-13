@@ -1,0 +1,87 @@
+Data Scientist
+BT
+Birmingham, England, United Kingdom
+Our mission is to break down the barriers of today to release the potential of tomorrow. Join us today and release yours.
+
+About This Role
+
+We’ve always been an organisation with purpose; to use the power of communications to make a better world. You can trace this back to our beginning as pioneers of the world’s first telecommunications company. At our heart we’re a technology company with research and innovation in our bones and a desire to be personal, simple, and brilliant for our customers - those are the values we live by whilst also creating an inclusive working environment where people from all backgrounds can succeed.
+
+Our ability to deliver brilliant personalised experiences for all of our 30m customers is fundamental to our future success. As a business we are investing extensively in the automation of our operations and networks, and in building our base management and data capabilities. This will allow us to take better decisions with data and to act on them in an automated way across all our customer interactions.
+
+In this job, you’ll be accountable for using methodical Data science techniques to measure performance and influence change. You’ll be working closely with other teams in Digital, Commercial and Marketing to successfully apply and quantify these data techniques. You will mine and analyse big data sets using data science techniques, and deliver appropriate outcomes for the business, whether analysis, modelling and/or recommendations. You’ll be able to explain your output clearly to all levels of the business.
+
+You'll Have The Following Responsibilities
+Use methodical Data science techniques to select and tune algorithms and quantify performance in a business relevant way
+Tell engaging stories using non-technical language and exciting visualisations to influence change
+Execute experiments to quantify the performance of algorithms in both digital and physical domains and test business hypotheses
+Work with multiple stakeholders to understand the business problem and translate into deliverables
+Mine and analysis big data sets, leveraging data science skills and techniques to deliver business benefit
+Able to put to use exploratory analysis methodologies to identify patterns and trends to use with the right statistical methods (clustering, PCA, regression, significance testing). You’ll also be happy in the world of machine learning, data mining and algorithm development to seek out new insight
+Work with descriptive and predictive analytics (e.g. linear regression & propensity models, customer segmentation, data mining and trigger identification)
+Support the business in optimising the use of predictive analytics and targeting across inbound and outbound contact strategies and all customer segments and brands
+Input into the data science strategy
+You'll Have The Following Skills & Experience
+
+Essential skillsets/Experience:
+Experience in data science technologies and ways of working
+Skills in Python and SQL
+Experience of building & deploying predictive models & AI algorithms
+Programming skills and experience with code repositories
+Able to clearly communicate latest data and reports to all levels of the organisation
+Additional skillsets/Experience:
+Working with Cloud platforms (GCP, AWS, Azure)
+Benefits
+
+Along with great development and networking building opportunities you will also enjoy:
+Competitive salary with great benefits
+25 days holiday
+Life Assurance
+Discounted TV & Mobile Packages
+10% On Target Annual Bonus
+10% pension contribution
+Free BT Broadband & employee discounts
+Optional benefits such as dental insurance, healthcare, gym memberships etc.
+About BT
+
+BT has a key role in British society, fostering change and leading technology innovation. From delivering the Olympics, to supporting the emergency services, to investing more into research than any other UK technology company, we take pride in everything we do - and in the people who work here.
+
+We're now a global company operating at the forefront of the information age, employing 90,000 people in 180 countries. And we're on a mission. Guided by our core values of Personal, Simple and Brilliant our goal is to help customers, communities and businesses overcome barriers and release their potential.
+
+So, if you're interested in the power of potential, why not join us today and release yours? You can read more here about what it's like to work at BT
+
+How To Apply
+
+It's easy to apply online; you just need a copy of your up-to-date CV and to follow the step-by step process. Don't worry if you need to make changes - you'll have the opportunity to review and edit your work on the final page. We look forward to receiving your application!
+
+COVID-19 Notice: We’ve changed our recruitment process so that we can continue to offer exciting opportunities in BT. We’ve moved to ‘virtual hiring’ until further notice - which includes video interviews and virtual onboarding, to make sure that we maintain candidate and employee safety.
+
+Job function
+
+Marketing and digital
+
+Main location
+
+UK & Ireland-United Kingdom-West Midlands-Birmingham
+
+Schedule
+
+Full-time
+
+Working pattern
+
+Standard
+
+Salary
+
+Competitive with great benefits
+
+Closing date
+
+Aug 13, 2021, 11:59:00 PM
+Industry
+Telecommunications
+Employment Type
+Full-time
+Job Functions
+Advertising Marketing Product Management

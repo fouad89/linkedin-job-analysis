@@ -1,0 +1,48 @@
+Data Scientist - Remote
+Claire Myers Consulting
+London, England, United Kingdom
+Posted by
+Claire Myers Vitale 2nd
+Founder and Principal Consultant | MBA | Certified Master Coach
+Send InMail
+Every year, tens of thousands of events – ranging from natural disasters to factory fires to health epidemics – shut down manufacturing and wreak havoc on global supply chains. We believe a resilient supply chain is good for everyone: it keeps product flowing, the world moving, and most importantly, people in their jobs.
+
+Resilinc’s supply chain risk management services enable organizations to have instant visibility into supply chain disruptions and act quickly to minimize them. Our customers include over 100 of the world’s leading organizations including IBM, General Motors, Boston Scientific, and Western Digital.
+
+Resilinc is well-funded, profitable, and shows no signs of slowing down. We run lean, work fast, and pivot quickly to accommodate our customers and keep supply chains moving.
+
+Job Duties: 
+Utilize machine learning algorithms to create Artificial Intelligence based predictive models to help customers protect their supply chains, reduce supply chain disruption losses, and proactively mitigate Supply Chain Risk
+Work with the office of the CTO to build Resilinc’s Data Science infrastructure by researching and deploying Databases, Tools that will enable the company to accurately implement a Machine Learning model.
+Build Resilinc’s Data Science team, defining processes, creating SLAs, and tracking metrics to consistently deliver Data Science solutions to Resilinc Internal teams and Customers.
+Leverage Statistics and Natural Language Processing to expand Resilinc’s Content-Based product offerings for customers.
+Be the Subject Matter Expert (SME) for Resilinc Customers on Data Science at Resilinc. Lead efforts with customer teams on problem definition, analysis and implementation.
+Be the SME for Resilinc for internal data requests. Partner with Sales and Customer Success team to deliver the data and insights to customers.
+Lead the development of relevant, accurate and actionable models for understanding Resilinc’s users’ needs and engagement. Work with product management and engineers to put new analysis methods for measuring relevance and adoption into the product. Drive decisions based on behavioral insights derived from these models.
+Develop analytics to measure and improve Resilinc internal operations.
+Create, maintain and update visualizations, reports and dashboards in the Resilinc software. Support Resilinc Internal and Customer driven Reporting and Dashboarding projects. Partner with the VP of Product Management to see if the visualizations meet customer expectations.
+
+Job Requirements:  
+Master’s degree in data science, Statistics, Operations Research or closely related technical field from a reputed US University. Experience leading cross functional projects. Experience building predictive models and machine learning algorithms. In-depth understanding of supply chain management concepts.
+
+Experience must include roles that required:
+Proven track record of developing data driven solutions that solve real-world supply chain problems
+2+ years’ experience with Machine Learning libraries such as Tensorflow or PyTorch.
+2+ years’ experience with Visualization tools such as Apache Superset, Tableau, Spotfire.
+Experience with Apache Superset highly desired.
+2+ years Analytical tools such as SAS, R, or Python. Experience with Python preferred.
+2+ years’ experience with Relational Database Management Systems, especially PostgreSQL, and strong proficiency in SQL. Knowledge of graph databases a plus.
+Understanding of Statistical Analysis and experience with Packages including SciKit Learn, NLTK and pandas.
+2+ years’ experience in prototyping and scripting languages (R or Python) with applications of efficient large-scale data analysis in a complicated system
+Deep understanding of Supply Chain Risk Management Concepts
+ Benefits to You:
+Competitive Start-up salary, bonus and early stage equity
+401(k) retirement plan
+Stock Options
+Comprehensive health, vision, dental insurance
+Work with driven and enthusiastic colleagues in a fast-paced and entrepreneurial environment, the opportunity to work on problems that matter in a highly collaborative environment.
+And much more
+ So, if you're an accomplished & passionate individual please apply now! Interviews are ongoing!
+ A diverse and inclusive workplace where we learn from each other is an integral part of Resilinc’s culture. We actively welcome people of different backgrounds, experiences, abilities and perspectives. We are an equal opportunity employer and a great place to work.
+  Employment Type
+Full-time

@@ -1,0 +1,51 @@
+Principle Data Scientist
+techspert.io
+Cambridge, England, United Kingdom
+Posted by
+Kirsty Day Assoc CIPD
+People and Talent Manager at techspert.io
+Send InMail
+We are seeking an outstanding Data Scientist at the top of their game to join our Data Science team, bringing deep and relevant skills into the team. You will technically mentor a team of data scientists to develop algorithmic and statistical solutions to our specific application needs. You will work with stakeholders to understand the business needs and translating these into technical solutions. Your time will be spent converting business strategy into technical strategy together with the CTO and other team members. Your strong domain knowledge will mean you will lead the introduction of new technology at techspert.io. As a key contributor to our codebase, this will make you pivotal to meeting our business goals.
+
+As part of our continuing growth strategy, you will also be involved with growing the team. Working with the Research Team Lead who you will report to, to bring in the talent needed to reach our ambitious goals. There is no line management requirement so this role is a perfect opportunity to use your hard-won technical skills to their best advantage. You will be working with like-minded individuals in a fast-paced environment of a high-growth company.
+
+Identify cutting-edge, implementable, machine learning and statistical techniques appropriate for the delivery of techspert strategy and growth plans
+Delivering highly effective search
+Curating and preparing data sets
+Create technical ML strategy with CTO and other leads
+Be a key contributor to the search stack development and delivering implementable analytical solutions to techsperts business needs
+Mentoring and building Data science teams
+Establish data standards and formats for multiple data sources throughout techspert to facilitate ingestion by machine learning processes.
+
+About you:
+
+Ph.D or master's degree in Computer Science, Math, Physics, Engineering, Statistics or other technical fields.
+Deep demonstrable Knowledge of ML within relevant areas 10+ working at Snr level
+NLP, Semantic analysis, Knowledge graph construction and applications
+Deep demonstrable knowledge search engine optimization and development 5+ years
+Strong knowledge of NLP with a focus on identifying information from semi-structured and unstructured data
+Web-scale data mining
+Experience in data lake creation and data warehouse would be an advantage.
+Deep technical knowledge of Elasticsearch, Spark, Amazon Sagemaker
+Advanced knowledge of Python, in particular packages such as Pandas, Numpy, SciPy, PySpark. A knowledge in Scala would be a plus.
+Strong technical communication skills
+Ability to work quickly and independently on analyses of a variety of projects in a fast-paced, innovative environment requiring frequent project transitions.
+Demonstrable proficiency in statistical data analysis and data visualization
+Experience selecting, developing and refining machine-learning models
+
+Beneficial:
+
+Web-scale data mining
+Experience in data lake creation and data warehouse would be an advantage.
+Self-starter, able to prioritize work and work efficiently with minimal supervision.
+Excellent organizational and interpersonal skills.
+
+**Please note this role can be 100% remote, but the applicant needs to be UK based and legally able to work in the UK we are not currently supporting visa applications **
+Seniority Level
+Director
+Industry
+Information Technology & Services
+Employment Type
+Full-time
+Job Functions
+Information Technology

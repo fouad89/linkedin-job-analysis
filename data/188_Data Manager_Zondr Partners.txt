@@ -1,0 +1,43 @@
+Data Manager
+Zondr Partners
+London, England, United Kingdom
+Posted by
+Mike Williams
+Empowering change and growth through talent-based solutions
+Send InMail
+Our client who is one of the EU's leading energy businesses (+2000 Employees) has established a new unit to drive digitalization across their energy trading departments.
+
+They are looking to add a data specialist, manager or steward who speaks the language of business and IT.
+
+Based In the Data & Analytics team, This specialist will be responsible for ensuring the quality and availability of data assets as well as taking the lead on the implementation of new data.
+
+You might be a data engineer, data scientist, data analyst, data manager or someone with experience as the point of contact for data within a commodity trading environment.
+
+Ideal Tech Stack:
+Python, SQL, Azure Data Bricks, Synapse Analytics
+
+Key responsibilities
+Be responsible for ensuring the quality of common data assets, data sets and data elements (including metadata)
+Be the first point of contact/operational support for users when data is missing or wrong. 
+Capture, report and follow up missing data from our data providers
+Configure data export to destination database(s)
+Configure and add monitoring for data assets
+Plan and enforce naming conventions of data assets  
+Govern and oversee data assets; technical data solutions, existing datasets, data environments and data procedures relevant for :
+-Eliciting, capturing and analyzing end-user data business requirements
+-Defining the technical requirements to (IT department), coordinate, prioritize and ensure the operationalization of data to production systems when relevant.
+-Coordinating with Data Vendor Management for sourcing of data. 
+-Ensuring data usage is within license requirements
+
+Your profile: 
+Relevant education and work experience in the area of Finance, Science, Technology, Engineering or Mathematics 
+Experience with working with data management and market data in commodity markets. Good understanding of data, data structures & data storage
+Experience with time series and cross-sectional types of data from other asset classes or business areas
+Strong interpersonal skills with the ability to collaborate and communicate well across various environments
+Fluent in English both oral and in writing
+
+If this sounds interesting, get in touch to see if it could be a fit!
+Employment Type
+
+Employment Type
+Full-time

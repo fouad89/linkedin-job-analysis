@@ -1,0 +1,42 @@
+Data Engineer  Data Scientist - Fully Remote (Must be UK based)
+Unify Talent Solutions Ltd
+Wales, United Kingdom
+Posted by
+Mark Brereton
+Proud DAD | Talent Partner | 75kg Welsh Amateur Boxer | Vegan......sometimes
+Send InMail
+Data Engineer / Data Scientist - NLP - Machine Learning
+ Salary: £35-50K
+
+Location: Fully Remote (Must be UK based)
+ We at Unify are proud to be an exclusive partner to a rapidly expanding business who are bringing AI to the construction industry. Their innovative products use NLP and machine learning to enhance safety documentation across the project life cycle.
+ The business currently has a small Data and Software Engineering Team of 8, with plans to double in size over the next 12 months, so this is an incredibly exciting time to join the business and be part of their journey. 
+ We’re looking for a passionate and enthusiastic team player to join our Data Science/Data Engineering team, working on a microservices architecture.
+As an early member of the Engineering team, there will be plenty of scope for growth, learning and progression. Due to the road map of growth in the engineering team over the next 12 months they will be looking for people eager for the opportunity to develop, progress and lead their own team going forward.
+Required Skills :
+• Demonstratable experience with Machine learning and NLP.
+• Development of training algorithms and management of training datasets
+• Production level python experience with applicable matching learning libraries (e.g. pandas, numpy, nltk)
+
+Desirable skills:
+• Knowledge of Microservices architecture patterns
+• Knowledge of Docker + Kubernetes
+• Knowledge of Kafka as a streaming and Queueing system
+• Knowledge and experience of Software Engineering practices including:
+o Git version control
+o Test Driven Development
+• The ability to articulate ideas and proposed to stakeholders across the business.
+
+Experience:
+We're ideally looking for at least 12 months commercial work experience, however we are happy to consider recent Graduates with a passion for all things DATA, NLP and Machine Learning.
+
+Our client has a vibrant, modern office HQ close to Swansea, however they are a fully remote friendly organisation who are looking to build the strongest team of talented engineers wherever they reside in the UK.
+
+They encourage growth and learning at every opportunity and will provide access to LinkedIn Learning for both personal and professional growth, among many more perks and benefits.
+ Please reach out ASAP if you'd like to hear more about this awesome opportunity.
+  Industry
+Information Technology & Services
+Employment Type
+Full-time
+Job Functions
+Engineering Information Technology

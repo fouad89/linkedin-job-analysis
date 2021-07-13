@@ -1,0 +1,77 @@
+Junior Data Scientist
+Liberis
+England, United Kingdom
+Posted by
+Ruairi O'Grady
+Talent Acquisition at Liberis
+Send InMail
+Job Title: Junior Data Scientist 
+
+Location: Scale Space Building, 1st Floor, 58 Wood Lane, London W12 7RZ
+
+Liberis are the leading global provider of embedded business finance and are proud to have delivered more than £500 million in funding to SMEs across the UK, EU and US. We’ve been pioneering embedded finance since 2007 and over the years, we’ve worked in partnership with banks, SaaS providers, payment processors, checkout providers, and even the UK government – providing all they need to offer easy and frictionless revenue-based finance solutions to their SME customers through our API-powered funding platform.
+
+We are in a very exciting period of growth, both within the UK and internationally, with teams based in London, Nottingham, USA and Scandinavia. As we continue to grow we are looking for talented and ambitious individuals to join us to reshape business finance. We are proud to have been included in The Sunday Times Hiscox Tech Track 100 as one of the 100 fastest growing FinTechs in the UK for two years running.
+
+Who are we?
+We are the Decision Science team. Our purpose is to drive intelligent decision-making by applying the latest data science techniques to a wealth of data. Sitting within the Risk team, our focus is on delivering high-quality instant decisions for our customers across the globe. We are a small but growing team, made up of a Head of Decision Science and two Decision Science Leads.
+
+Who are you?
+You are someone who is excited by the prospect of working with data to tease out insights and drive change. You are keen to learn and develop new skills, with aspirations to grow into an industry-leading data scientist. You are naturally inquisitive and analytical, and you enjoy rolling up your sleeves and getting stuck into complex data sets. You have some experience of working with data and are keen to develop those skills further.
+
+Responsibilities
+Working with Decision Science Leads to build statistical risk models
+Exploring new data sets to add power to existing risk models
+Experimenting with different machine learning techniques
+Tracking of global decisioning KPIs, identifying areas for improvement and making recommendations for change
+Monitoring performance of models to keep Liberis safe
+Supporting the development of a world-beating decisioning infrastructure
+
+We think you’ll need
+An analytical mindset and enthusiasm for drawing insights from complex data
+Desire to learn and develop new skills
+Ability to convey complex findings in a logical and easy-to-understand style
+Drive to make your recommendations happen
+Good attention to detail without losing sight of the bigger picture
+Willingness to work autonomously but comfortable to reach out for support
+Experience working with data
+SQL and/or Python would be an advantage
+Most of our analysts have a good degree in a STEM subject or similar, however we are looking for aptitude rather than education
+
+*We are continually building on our values-driven and culturally diverse community and encourage applications from all candidates irrespective of gender, race, age, sexual-orientation, or background.
+
+What we can offer you
+
+Health
+Company wellbeing programme – running club, nutritionist sessions, free fruit and healthy snacks, mental health framework
+Health insurance
+Eyecare vouchers
+Flu jabs
+
+Wealth
+Company pension scheme
+Life insurance
+Performance related bonus
+Financial wellbeing initiatives
+Salary sacrifice schemes for Cycle to Work and Technology purchases
+Season Ticket Loan
+Charitable giving
+
+Lifestyle
+Generous holiday entitlement including an extra 3 days holiday to cover the Christmas period
+Flexible working
+Team away days
+Regular company socials
+
+What happens next?
+Think this sounds like the right next move for you? If you’re not completely confident that you fit our exact criteria, get in touch! Humility is a wonderful thing and we are interested in hearing about what you can add to Liberis. We look forward to chatting with you.
+
+The recruitment process will give you the opportunity to learn more about Liberis and our specific challenges, get an idea of the culture, and meet a wide cross section of the team.
+Seniority Level
+Associate
+Industry
+Financial Services Information Technology & Services
+Employment Type
+Full-time
+Job Functions
+Analyst Information Technology

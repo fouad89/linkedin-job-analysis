@@ -1,0 +1,44 @@
+Internship opportunities: Machine Learning, Uncertainty Quantification
+Microsoft
+Cambridge, England, United Kingdom
+Project Tokyo, Microsoft Research Cambridge (UK) is looking to hire a machine learning (ML) intern to advance research in the explainability of human-in-the-loop ML systems. The project will focus on quantifying and explaining uncertainty in few-shot recognition models on real-world heterogenous video data in ways that are useful to a user of the system. The candidate should have technical expertise in few-shot learning/meta-learning and uncertainty quantification, with desirable expertise in the following areas: video recognition/classification, robustness/calibration in deep learning models. They should also be passionate about human-centric applications of AI for social good (e.g. assistive technologies for people who are blind/low-vision). The outcomes of the project may lead to a publication in a relevant conference and/or integration into a Microsoft product or application. Thus, the internship offers a unique opportunity to have real-world impact and drive state-of-the-art research at the intersection of ML and human-computer interaction, in collaboration with a multi-disciplinary team.
+
+The deadline for applications is 15th August 2021. When submitting your application, please include your CV with a list of publications as an attachment. You may also include your published work. For more information about the post, please emailDaniela Massicetiatdmassiceti@microsoft.com.
+
+Internship duration: 12 weeks
+
+Start date: October/November 2021 (flexible)
+
+Location: Cambridge, UK
+
+Responsibilities
+Undertake cutting-edge research in quantifying and explaining uncertainty in few-shot recognition models on real-world heterogenous video data.
+Write research code to test new approaches or develop novel theoretical and practical insights.
+Collaboration with a diverse and multi-disciplinary team.
+Clearly communicate research ideas and results in writing, such as research papers, presentations, or research notes for internal and external audiences.
+
+Qualifications
+
+Required
+Currently pursuing a PhD in machine learning, deep learning, or a related area. Exceptional Masters students with research experience will be considered. All applicants must be currently enrolled in an educational institution.
+Demonstrable strong understanding of state-of-the-art deep learning approaches in few-shot learning/meta-learning and uncertainty quantification (e.g. through publications, demos, course projects, etc.).
+Demonstrable ability to drive high-quality research insights through publications in top-tier conferences and journals (e.g. NeurIPS,ICML, ICLR, ICCV, CVPR, JMLR).
+Hands-on experience in implementing and empirically evaluating deep learning approaches in PyTorch.
+Effective communication skills and ability to work in a collaborative environment.
+Ability to re-locate to the UK for the duration of the internship.
+
+Desired
+Demonstrable expertise in any of the following areas: video recognition/classification, robustness/calibration in deep learning models (e.g. through publications, demos, course projects, etc.).
+Passion for human-centric applications of AI for social good (e.g. assistive technologies for people who are blind/low-vision).
+Experience working in a multi-disciplinary team with diverse skill sets.
+Authored/contributed to open-source code projects (e.g.on GitHub).
+
+Microsoft is an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to age, ancestry, color, family or medical care leave, gender identity or expression, genetic information, marital status, medical condition, national origin, physical or mental disability, political affiliation, protected veteran status, race, religion, sex (including pregnancy), sexual orientation, or any other characteristic protected by applicable laws, regulations and ordinances. If you need assistance and/or a reasonable accommodation due to a disability during the application or the recruiting process, please send a request via the Accommodation request form.
+
+Benefits/perks listed below may vary depending on the nature of your employment with Microsoft and the country where you work.
+Industry
+Computer Hardware Computer Software Information Technology & Services
+Employment Type
+Internship
+Job Functions
+Research

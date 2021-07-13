@@ -1,0 +1,50 @@
+Data Analyst
+4C Associates
+London, England, United Kingdom
+Role Summary 
+
+This is an opportunity for a STEM graduate or other relevant undergraduate or post graduate degree to join our fast growing IaaS (Insights) team. Within this division you will learn to combine the skills from both the consulting and technology sectors to deliver analysis, tools and products that allow for our clients to make strategic decisions at speed and scale.
+ You must be highly analytical, numerate and above all driven. Familiarity at least one coding language is a necessity, and an understanding or interest in business & industry will be highly beneficial. Working in our IaaS team gives an unique opportunity to develop and progress quickly in a challenging and fast-paced business environment. 
+ Role Responsibility  
+ This is the kind of work that you could expect to undertake: 
+ Producing new features and improvements to our existing data analytics technology. 
+Developing & training Machine Learning models. 
+Creating new analytical tools & methods. 
+Working with consultants & clients to deliver bespoke analytics and automation. 
+Testing of new features and product releases.  
+ You will gain experience in: 
+ Business Intelligence tools 
+Product development 
+Management consulting 
+Agile project management
+Statistics and scripting languages 
+Azure SQL Data Warehouse  
+SQL Server, MongoDB and other databases 
+Azure framework 
+ You will be joining a highly skilled team that is passionate about using technology to solve real-world business problems and believes in continuous learning and development.
+ What we are looking for  
+ Successful candidates will have demonstrated excellence in their academic work and the ambition to progress quickly. They will have strong team-working and communication skills and will be able to articulate complex ideas in a concise manner. The successful candidate will also possess first class technical and analytical skills and have the capacity to manage their own work to achieve successful delivery to challenging deadlines. 
+ Qualifications and Experience Required 
+ Essential 
+A minimum 2.1 degree (or equivalent international qualification) in an appropriate subject.  
+Demonstrated aptitude in at least one coding or query language (No preference on language but Python, R, DAX or SQL, will be most advantageous).  
+Advantageous 
+Preference will be given to candidates with additional relevant professional qualifications e.g. Business School or Computing further degrees. 
+Previous experience in an analytical role in industry or in a consulting firm. 
+
+IaaS at 4C Associates
+
+Over the past 3 years, 4C have established a business intelligence & analytics division delivering Insight-as-a-Service (IaaS) to our clients through the build of specialist analytical tools, incorporating business intelligence technology, data science and machine learning. These specialist tools augment our consulting projects and allow us to uncover new opportunities, automate away admin and deliver results for our clients. We also license these products to clients separately, which has led to exciting new growth in the business.  
+ Our continued success depends on recruiting people with the skills, attitude and ambition to grow with us as a company; we only recruit the best and we’re looking for individuals who we can see becoming future leaders of the company.  
+
+Please follow the link and "Apply now" through the 4C website, selecting the Data Analyst position.
+
+
+  Seniority Level
+Entry level
+Industry
+Management Consulting Information Technology & Services
+Employment Type
+Full-time
+Job Functions
+Analyst Consulting Information Technology

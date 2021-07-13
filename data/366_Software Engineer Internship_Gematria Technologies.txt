@@ -1,0 +1,39 @@
+Software Engineer Internship
+Gematria Technologies
+London, England, United Kingdom
+Posted by
+Gary Bécigneul, PhD
+CEO at Gematria Technologies • News Analysis for Capital Markets
+Send InMail
+Context:
+
+The amount of unstructured textual data available to the actors of the Finance & Insurance industry has lately grown to an overwhelming degree: be it news, press releases, company filings, investment research or earnings transcripts. This poses new challenges with both opportunities and risks. Asset and Risk Managers can ruin their annual performance by missing a few critical events, which often amounts to finding needles in a haystack. At Gematria Technologies, we take scientific breakthroughs - as recent as Fall 2020 - from the research lab to the industry, to provide a critical information edge to managers and their analysts. Our expertise allows us to make non-trivial usage of transformers and topological mode analysis, among others.
+
+-----------------------------------------------------------
+
+Project:
+
+We are building an online dashboard facilitating news navigation thanks to a visual hierarchical clustering of all available news allowing a powerful graph navigation with various levels of granularity; a plotting of the landscape of opinions and sentiments per news source for each trending news event, allowing to surface controversial stories and quickly see who thinks what about what; a classification of news events into various categories, including: institutional risk, environment, political, legal, and many others; automatic suggestions of which news events may affect public companies and institutions by correlating news data to stock prices.
+
+We propose two internships:
+
+A. A research focused internship. During this internship, you
+will design and implement smart algorithms daily alongside with our team, under the challenging constraints of high efficiency and scaling. You'll gain experience in state-of-the-art machine learning and natural language processing, smart algorithms design, data structures and mathematical/geometrical methods.
+
+B. A web development and data visualization focused internship. You will take part in the development of our dashboard like interfaces. You will be confronted with concrete performance challenges, both on the front-end and back-end sides in order to ensure a fluid and responsive display. You will have the opportunity to work with large databases, optimize software deployment running on high performance servers and learn to use the latest in-browser graphics technologies.
+
+-----------------------------------------------------------
+
+Your Skills:
+
+Besides being a graduate student with a genuine interest in understanding sophisticated scientific methods and building highly complex systems, you must be very proficient in Python ; and have some familiarity with Javascript for internship B. Experience with the following technologies is a plus: PyTorch, SpaCy, C++, Cython, Numba, WebGL, etc.
+
+-----------------------------------------------------------
+
+The Founders:
+
+Gary Becigneul, our CEO, is an ex-MIT researcher, holds a PhD in Computer Science from ETH Zurich and a Master in Mathematics from Cambridge University. His AI research is cited by hundreds of academic papers. His personal page is https://garybe.com
+
+Louis Abraham, our CTO, holds masters in computer science from ETH Zurich and Ecole Polytechnique. He is the laureate of the gold medal of the ACM ICPC SWERC 2019 and previously worked as a quant or researcher at BNP Paribas London, ENS Ulm, PSE and Bank of France. His personal page is https://louisabraham.github.io/
+Employment Type
+Internship

@@ -1,0 +1,45 @@
+Research Data Scientist
+dunnhumby
+London, England, United Kingdom
+Most companies try to meet expectations, dunnhumby exists to defy them. Using big data, deep expertise and AI-driven platforms to decode the 21st century human experience – then redefine it in meaningful and surprising ways that put customers first. Across digital, mobile and retail. For brands like Tesco, Coca-Cola, Procter & Gamble and PepsiCo.
+
+We’re looking for a talented Data Scientist who expects more from their career. At dunnhumby we collaborate with world-leading universities in the UK and US to bring their cutting-edge ideas into the business. We are looking for someone who will further develop our research from our academic collaborations, applying it to real-life data to solve new business problems. There is also an opportunity to conduct your own research into new analytical techniques and write academic papers.
+
+There is also a chance to build new academic relationships with world-leading academics, giving talks internally and externally and identifying mutually beneficial PhD and master’s projects. There is also the opportunity to supervise a MSc and a PhD student.
+
+The Academic Partnerships team is part of the Global Data Science team and you will be able to collaborate with world class and passionate data scientists with decades of experience.
+
+What We Expect From You
+PhD in Computer Science, Artificial Intelligence, Machine Learning, Applied Statistics, Physics, Engineering or related field.
+Understanding of machine learning techniques, including natural language programming and neural networks
+Experience with handling large data volumes with modern data processing tools, e.g. by using Hadoop / Spark / SQL Analytical Techniques.
+Ability to prototype solutions using open source software (eg Python, Spark)
+Familiarity with coding principles, such as version control and unit tests, and tools such as git
+Desirable to have experience of research collaboration with industry
+
+
+What You Can Expect From Us
+
+We won’t just meet your expectations. We’ll defy them. So you’ll enjoy the comprehensive rewards package you’d expect from a leading technology company. But also, a degree of personal flexibility you might not.
+
+Plus, thoughtful perks, like early finish Friday and your birthday off.
+
+You’ll also benefit from an investment in cutting-edge technology that reflects our global ambition. But with a nimble, small-business feel that gives you the freedom to play, experiment and learn.
+
+And we don’t just talk about diversity and inclusion. We live it every day – with thriving networks including dh Women’s Network, dh Proud, dh Parent’s & Carer’s, dh One and dh Thrive as the living proof. Everyone’s invited.
+
+Our approach to Flexible Working
+
+At dunnhumby, we value and respect difference and are committed to building an inclusive culture by creating an environment where you can balance a successful career with your commitments and interests outside of work.
+
+We believe that you will do your best at work if you have a work / life balance. Some roles lend themselves to flexible options more than others, so if this is important to you please raise this with your recruiter, as we are open to discussing agile working opportunities during the hiring process.
+
+For further information about how we collect and use your personal information please see our Privacy Notice which can be found (here)
+Seniority Level
+Entry level
+Industry
+Marketing & Advertising Information Technology & Services Computer Software
+Employment Type
+Full-time
+Job Functions
+Engineering Information Technology

@@ -1,0 +1,46 @@
+Data Scientist
+Media Molecule
+Guildford, England, United Kingdom
+It's an exciting time to be part of Media Molecule as we look to further push the creative boundaries of gaming. Our studio is fast paced, dynamic, collaborative and is undergoing a period of significant growth and evolution! As a result, we are now looking to hire a talented Data Scientist to provide in depth insight and analysis of user behaviour in Dreams. This is a newly created role so there will be the huge opportunity to be highly impactful, using data science, machine learning, statistics, and reporting techniques to help the studio make informed decisions and improve player experiences. This role will be fundamental to the future success of Media Molecule by championing our data informed approach to decision making!
+
+What You'll Be Doing
+Providing data analysis to diverse studio teams.
+Analysing game data using data science, machine learning, statistics, and reporting techniques to derive insights on the player experience
+Designing and implementing data science systems, design deployments and pipelines
+Collaborating with teams to understand their goals, find opportunities, and inform decisions about features and updates
+Keeping up to date with industry and data science standard methodologies, and evangelising with the team where relevant.
+
+Requirements
+You have a bachelors degree or equivalent in Maths, Engineering, Computer Science, Physics, Statistics, or related field
+You have previous experience in a data science role, using regression and clustering algorithms on big data.
+You are proficient in modern machine learning techniques, R/Python, and SQL
+You have strong experience in teasing out insights from customer behaviour data to inform decisions and improve products
+You have excellent communication skills with the ability to convey results and insights to people with a variety of backgrounds in a clear, concise and unambiguous manner
+A collaborative, team player with excellent interpersonal skills and the ability to influence, and build effective relationships across the studio.
+You are passionate about games and using data to improve games and player experiences
+Previous experience in the video games industry preferred but not essential.
+This is a permanent position.
+
+Before you apply
+
+People of all backgrounds, experiences, abilities and perspectives are encouraged to apply. Media Molecule is committed to creating an inclusive and safe work environment that reflects the diversity of the world around us. We are an equal opportunity employer. Qualified applicants will receive consideration for employment without regard to their race, ethnicity, religion, gender, sexual orientation, age or disability status.
+Tips for getting hired!
+Words are not enough! We need to see what you make: a portfolio, showreel, demo...send us a curated selection of your work that shows just the pieces you're most proud of. Don't be afraid to show us your personal work alongside your professional projects... just make sure we have your best creations to look at. We're certainly excited to see portfolios made in Dreams as well.
+
+Be yourself. We are a studio that encourages our team think creatively, to play with new technology and jam on individual ideas. We love seeing the personality of everyone at Media Molecule reflected in Dreams and so it's YOU and YOUR STYLE that we are interested in learning about.
+
+Embrace collaboration. Dreams is a very collaborative project and Media Molecule loves a game jam, so we need team members that can work well together - sometimes across departments that don't traditionally overlap. Maybe you already work on a team, or manage a guild or play in a band - we'd love to hear how you get on collaborating with others.
+
+Go for it. Media Molecule is filled with people with all sorts of previous experiences - straight from university, from jobs outside the industry, from AAA studios and indie ones, etc. We are after people who fit the roles we are hiring for not a specific number of years in the industry. Some roles benefit from certain experience, of course, but otherwise we are very open. We make creative games, and creativity is something we all enjoy. If you are interested then please apply - and don't forget that portfolio!
+What you get
+On top of all the things we already mentioned, you'll also get to be part of a talented, diverse team of people, get a tip top benefits package, including private health and life insurance, income protection and all that jazz, a competitive salary, a winning bonus scheme, a personal development fund, being a name and not a number, free lunches, organic fruit, and really comfy chairs. Our main studio is based in Guildford, and we now also have a small office in Brighton.
+
+If the all of those job requirements seem to be describing you, and you like the sound of working at Media Molecule, then you should apply at once!
+Seniority Level
+Associate
+Industry
+Computer Games
+Employment Type
+Full-time
+Job Functions
+Engineering Information Technology

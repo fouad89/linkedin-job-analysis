@@ -1,0 +1,34 @@
+Machine Learning Engineer, Recommendation
+TikTok
+London, England, United Kingdom
+Posted by
+Rong Jiang
+Senior Talent Acquisition Partner - Tech at TikTok
+Send InMail
+TikTok is the leading destination for short-form mobile video. Our mission is to inspire creativity and bring joy.
+
+Our TikTok recommendation team is responsible for developing state-of-the-art machine learning models and strategies to improve user consumption experience, inspire creativity, build a fair and flourishing ecosystem.
+
+Responsibilities
+
+-Build industry leading recommendation system, develop highly scalable classifiers and tools leveraging machine learning
+-Understand product objectives and machine learning techniques, improve model and recommendation strategy
+-Understand user behavior and apply Machine Learning algorithms to optimize content consumption and production experience
+-Work with TikTok cross functional teams to grow TikTok in important regional markets
+
+Qualifications
+
+- Bachelor's degree (or more) in computer science or a related technical discipline
+-Solid experience with data structures or algorithms
+-Software development experience through hands on coding in a general purpose programming language
+-Experience in one or more of the following areas: machine learning, recommendation systems, data mining or other related areas
+-Strong communication and teamwork skills
+-Passion about technologies and solving challenging problems
+Seniority Level
+Mid-Senior level
+Industry
+Internet
+Employment Type
+Full-time
+Job Functions
+Engineering Information Technology

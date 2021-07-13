@@ -1,0 +1,56 @@
+Data Scientist - Biometrics
+Syngenta
+Bracknell, England, United Kingdom
+Description
+
+About Syngenta:
+
+Syngenta is leading science-based agtech company; dedicated to bringing plant potential to life. Each of our 28,000 employees in more than 90 countries work together to solve one of humanity’s most pressing challenges: growing more food with fewer resources. A diverse workforce and an inclusive workplace environment are enablers of our ambition to be the most collaborative and trusted team in agriculture.
+
+Our employees reflect the diversity of our customers, the markets where we operate and the communities which we serve. No matter what your position, you will have a vital role in safely feeding the world and taking care of our planet. Join us and help shape the future of agriculture
+
+About This Opportunity
+
+Syngenta’s Biometrics Group provides specialist support in experimental design and data analysis to a wide range of projects and functions across R&D. As professional statisticians, we pride ourselves in helping scientists to design, conduct and analyse experiments in a way that optimises the use of company resources, leads to reliable conclusions and ultimately, the right decisions for the business. The Biometrics Group are now looking for a well-qualified and experienced data scientist to complement the team.
+
+Syngenta’s digital strategy means that there is an increasing emphasis on digital phenotyping, automation, and the extraction of knowledge from data originating from multiple sources. Interacting with key stakeholders and domain experts, you will be instrumental in building a vision of how to approach these new challenges. You will collaborate with scientists and data specialists across the business to develop and deploy customised analysis and visualisation solutions.
+
+Qualifications
+
+Qualifications:
+
+You should have up-to-date expertise in data science and machine learning techniques, and a flair for providing insightful data analysis and visualisation solutions. You should have a solid background in fundamental statistical concepts and a good understanding of the challenges and common pitfalls in both the application of machine learning and the use of ‘big’ data.
+
+You are likely to have an MSc or PhD in Statistics, Data Science or a related discipline along with practical experience of building end-to-end data analysis tools and machine learning workflows from data processing to model deployment.
+
+Proficiency in R, R-Shiny and/or Python is expected and a familiarity with biological processes would be an advantage. As a member of the Biometrics group, you will be working directly with scientists from a wide range of disciplines. Excellent communication skills and the ability to work collaboratively in a multi-disciplinary team are therefore essential to ensure that analyses are conducted in the most appropriate way and that results are interpreted correctly.
+
+In return for your skills and knowledge Syngenta will offer:
+Campus environment
+Competitive benefits package
+Up to 31.5 days holiday
+The opportunity to work with and learn from highly qualified and experienced employees
+
+Syngenta is an Equal Opportunity Employer and does not discriminate in recruitment, hiring, training, promotion or any other employment practices for reasons of race, colour, religion, gender, national origin, age, sexual orientation, marital or veteran status, disability, or any other legally protected status.
+
+We embrace and encourage diversity, and this is what drives our innovation and lets us outperform the market. https://www.syngenta.com/careers/working-syngenta/diversity-and-inclusion
+
+Primary Location
+
+GBR-Berkshire-Bracknell
+
+Job
+
+R&D - Research
+
+
+Desired Skills and Experience
+Science, Research, Research and development, communication, bioassays, Digital, Technical
+Seniority Level
+Entry level
+Industry
+Farming Biotechnology Chemicals
+Employment Type
+Full-time
+Job Functions
+Research Science

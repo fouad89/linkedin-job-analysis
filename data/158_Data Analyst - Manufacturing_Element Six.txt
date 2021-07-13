@@ -1,0 +1,77 @@
+Data Analyst - Manufacturing
+Element Six
+Winkfield Row, England, United Kingdom
+Element Six, part of De Beers Group, is a global leader in the design, development and production of synthetic diamond and tungsten carbide supermaterials.
+
+With research and development facilities and manufacturing sites in the UK, Ireland, Germany, South Africa and the US, we have been pushing the boundaries of synthetic diamond innovation for more than 60 years. We utilise the extreme properties of synthetic diamond to open up new possibilities in exciting areas such as quantum optics, acoustics and thermal conductivity.
+
+Our success comes from building strong, collaborative relationships, both internally in our extraordinary teams, and externally with our customers. We strive to deliver extreme performance and we seek talented, ambitious people who will thrive in an environment that fosters individuality, inclusivity, innovation and creativity.
+
+We offer an exciting and varied career, with opportunities to work in various locations and teams, and across different functions and projects.
+
+If you like the idea of an exciting variety of work in a diverse global team, then we want you to get in touch.
+
+Job Description
+
+As a Data Analyst at Element Six you’ll be supporting the manufacturing of our products by assisting the operational team using data analysis tools. The meaningful results that you pull from the raw data will help them make important decisions by identifying various facts and trends.
+
+You will be a key member of the local production team, but also part of a group-wide structure supporting projects at other facilities.
+
+You will take an active role in the early specification of our data requirements with the introduction of new equipment in our facilities.
+
+An essential aspect of this role is that you keep yourself informed of the latest technology, to ensure that Element Six is one-step ahead of our competition, in terms of having the right information, in the appropriate format, at the right time, so that we can all make the finest decision at the earliest opportunity.
+
+It is envisaged that this role will focus on both HPHT and CVD processes.
+
+This position will report to the Head of Group Control Systems.
+
+Duties and tasks
+
+Performing further analysis to determine the meaning of the data.
+Key resource in IOT\Industry 4.0 projects across our facilities as well as the ongoing support of the technology after hand over.
+Digital Data Strategy & Planning
+Data Implementation & Maintenance
+Data Auditing
+Optimisation Analysis and Management
+Data Experimentation & Investigation
+Segmentation Analysis and Statistical Analysis
+Correlation Analysis & Algorithm Development
+Emerging Measurement Techniques and Analytical Methods (R, Python)
+Big Data Technologies
+Data Visualization
+Comply with department and company procedures including Health & Safety
+
+Qualifications
+
+Degree in statistics, mathematics or a related subject involving maths.
+Experience.in the manufacturing sector.
+A high level of mathematical ability
+Programming languages, such as ORACLE, SQL, R-scripting or Python.
+Power BI experience and Microsoft Azure platform.
+The ability to analyse, model and interpret data
+Problem-solving skills
+A methodical and logical approach
+The ability to plan work and meet deadlines
+Accuracy and attention to detail
+Interpersonal skills
+Team working skills
+Advanced skills using the Microsoft Office suite with very strong Excel, Word and PowerPoint skills
+Technical understanding of HTML and web applications
+
+This role will be based at one of the following E6 manufacturing sites with appropriate right to work documentation to work in each location:
+
+Springs, South Africa
+
+Ascot, United Kingdom
+
+Shannon, Ireland
+
+Oregon, Portland, US
+Seniority Level
+Associate
+Industry
+Mining & Metals
+Employment Type
+Full-time
+Job Functions
+Analyst

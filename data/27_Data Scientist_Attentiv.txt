@@ -1,0 +1,51 @@
+Data Scientist
+Attentiv
+London, England, United Kingdom
+We are on a mission to transform the spreadsheet-ridden world of supply chain operations.
+There are, on average, 13 copies of the same data stored in different systems across an organisation's supply chain. This creates huge inefficiencies for planning and operations teams, resulting in unnecessary safety stocks, lost sales, waste and poor supply chain transparency. In a world starting to prioritise responsible consumption, these are increasingly urgent problems to solve.
+Data automation is core to what we do. Our technology stack leverages the latest and greatest cloud data technologies. Many of these technologies are not accessible to the average supply chain operations manager, but we believe that they should be.
+Through our consulting work over the past 18 months, we've gained first-hand experience of the problems faced in this area. We're obsessively focused on our users. This will continue to be our core philosophy as we build out our product.
+
+About The Role
+
+We're looking for a mid-level Data Scientist to help develop data automation tools and statistical models that will sit at the core of our product. You'll work alongside two dynamic, ambitious and mission-driven entrepreneurs, experienced in analytics, machine learning and creating user-focused enterprise software. This is a unique and exciting opportunity to work on real customer data problems, but also help shape product development in this nascent and fast-moving area.
+
+Responsibilities
+Apply advanced statistical techniques to develop machine learning and predictive models that improve decision making
+Deploy models that run reliability and efficiently within our multi-tenant cloud environment
+Define and maintain metrics for evaluating and monitoring data quality and model performance
+Work with the product development team to architect the “no-code” and adaptive data pipeline execution engine behind our product
+Assist the product development team with knowledge of best practices in model development, deployment, and monitoring
+Bring expertise in Machine Learning and statistical methods to continuously improve our data stack
+Maintain documentation (internal wiki) and run-books for our data models and infrastructure
+Contribute to product product direction and strategy
+Skills & Experience
+An advanced degree in related topics such as Machine Learning, Natural Language Processing, Signal Processing or Optimisation
+3+ years of commercial experience in an individual contributor role
+Problem solving skills, with strong emphasis on statistical model development
+Knowledge of a variety of machine learning techniques and their real-world advantages and drawbacks
+Knowledge of advanced statistical techniques (e.g., properties of distributions, bayesian inference, variational methods)
+Fluent in Python, and common numerical and machine learning libraries (e.g., Pandas, NumPy, SciPy, TensorFlow, PyTorch, scikit-learn, PyStan)
+Experience querying databases using statistical languages and/or SQL
+Ability to develop production-ready statistical models that can be applied to large and scaling data sets
+Experience deploying models to cloud infrastructure, ideally using large-scale data processing tools (e.g., Apache Spark / Databricks)
+Bonus: Experience with time-series forecasting and Bayesian techniques
+Bonus: Software engineering experience, to aid collaboration with our product development team
+Bonus: Experience with visualisation tools like Tableau, Looker, PowerBI
+Bonus: Experience operating in the dynamic and fast-paced environment of an early-stage startup
+Macbook/Dell XPS
+Flexi-working
+Free snacks
+Telephone call
+Interview with Co-founder 1
+Interview with Co-founder 2
+Offer!
+Python, Machine Learning, Data Analysis, Data ModelingPython, Pandas, SQL, AWS
+Seniority Level
+Entry level
+Industry
+Information Technology & Services
+Employment Type
+Full-time
+Job Functions
+Engineering Information Technology

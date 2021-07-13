@@ -1,0 +1,68 @@
+AIML - Data Engineer (Natural Language), Siri Understanding
+Apple
+Cambridge, England, United Kingdom
+Summary
+
+Siri is the voice of Apple products and its launch was a defining moment in the history of Artificial Intelligence. Hundreds of millions of people now use Siri to send a message, play their favourite song or even take a selfie. We’re looking for a passionate individual able to work on the processing, analysis and preparation of data sets used to train Siri’s machine learned models. You will love big data technologies, including data exploration, visualisation, distributed processing and applications at scale.
+
+
+Key Qualifications
+
+Proficiency in software development using Python
+
+Experience of software development with Scala or willingness to learn it
+
+Commitment to high quality, well-tested code
+
+Preferable: you have experience with machine learning systems and producing data sets for training and evaluation
+
+You are curious and enjoy learning new technologies, rapidly synthesising new information, and understanding “the why” before “the what.”
+
+You are humble, continually growing in self-awareness and possessing a growth mindset
+
+
+Description
+
+Siri processes more than a billion requests every week and good data is at the heart of this engine. Our work powers state of the art machine learning models and each commit you make has the potential to impact Siri users worldwide. You will work closely with ML feature teams and other data engineering teams to:
+
+
+- Design, create and maintain efficient and large-scale data pipelines
+
+- Curate and support data for machine learning models
+
+- Explore data to resolve issues with model accuracy, find actionable insights and support data-driven decision making
+
+
+Based in Cambridge, we are a key AI/ML hub, working closely with teams across Apple world-wide. This means occasional evening meetings with teams outside UK, and limited international travel may be required.
+
+
+If this is you, we'd love to hear from you!
+
+
+Apple’s most important resource, our soul, is our people. Apple benefits help further the well-being of our employees and their families in meaningful ways. No matter where you work at Apple, you can take advantage of our health and wellness resources and time-away programs. We’re proud to provide stock grants to employees at all levels of the company, and we also give employees the option to buy Apple stock at a discount — both offer everyone at Apple the chance to share in the company’s success. You’ll discover many more benefits of working at Apple, such as programs that match your charitable contributions, reimburse you for continuing your education and give you special employee pricing on Apple products.
+
+
+Apple benefits programs vary by country and are subject to eligibility requirements.
+
+
+Apple is an equal opportunity employer that is committed to inclusion and diversity. We take affirmative action to ensure equal opportunity for all applicants without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability, Veteran status, or other legally protected characteristics. Apple is committed to working with and providing reasonable accommodation to applicants with physical and mental disabilities. Apple is a drug-free workplace.
+
+
+Education & Experience
+
+Surprise us! Many will have a degree in Computer Science, Engineering, Mathematics, Statistics, or a related field OR equivalent practical experience in data engineering.
+
+
+Additional Requirements
+
+Any experience involving the use or creation of data sets - particularly involving human annotation - is a plus.
+
+
+Role Number: 200255029
+
+Industry
+Consumer Electronics
+Employment Type
+Full-time
+Job Functions
+Information Technology

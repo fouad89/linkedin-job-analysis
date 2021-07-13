@@ -1,0 +1,48 @@
+Machine Learning Engineer
+Ofcom
+London, England, United Kingdom
+Principal Machine Learning Engineer
+ Team Overview
+ Ofcom exists to make communications work for everyone. We regulate the TV, radio and video-on-demand sectors, fixed and mobile telecoms, postal services, plus the airwaves over which wireless devices operate. We are also helping to inform the ongoing debate about the future of online regulation.
+ Our culture is shaped by five corporate values: excellence, agility, collaboration, empowerment and respect.
+ We are transforming how we use data, to make sure people and businesses can get even more from the communications services we regulate.
+ Our Data Innovation Hub is at the heart of this.
+ Our aim is to be a world leader in how we use data. To achieve this we want every Ofcom colleague – and particularly our data specialists – to have access to the resources, training and support they need.
+ We also want to bring in specialists in this area from outside Ofcom, to further build on our capabilities and to develop their own careers.
+ The Hub brings together colleagues from across Ofcom, whether they’re crunching terabytes of network performance data or using machine learning to understand areas of concern for the people who the products and services that fall under our remit.
+ Following our appointment as the regulator for online harms we’re also working with colleagues to prepare for these new duties, as we set out to build a comprehensive understanding of how data is used to deliver online services.
+ If you want to be involved in this new era of innovation and growth, we’d love to hear from you.
+ Purpose of the Role
+ We are looking for someone passionate and deeply excited about helping others understand how Artificial Intelligence (AI) and Machine Learning (ML) are developing, the opportunities that they present and the implications for our regulatory areas, in particular in relation to our new Online Harm duties. The candidate will possess both technical and customer-facing skills that will allow them to be a subject matter expert to colleagues across Ofcom.
+ We need that rare technologist that is as comfortable consulting with policy professionals, can lead data scientists to develop prototypes and coordinate with external stakeholders on these technical areas, as well as the associated topics such as transparency, ethics and security.
+ They will be able to easily interact with, and give guidance to, senior managers and less technical policy colleagues, as well as interacting effectively with technical experts, industry leaders and data scientists, across a broad range of applications and technology areas. The ideal candidate will also have a demonstrated ability to think strategically about business, product, and technical challenges.
+Our work looks across the spectrum of AI/ML technologies and applications, including GANs, reinforcement learning, privacy preserving technologies and image-based deep learning. This is a great role for someone with experience and qualifications in data science and machine learning. Industry experience of applying ML in different projects and contexts would be advantageous.
+ This is an extremely exciting time to join an organisation at the centre of many key areas of machine learning application and related international debate. Engagement with our stakeholders will expose you to the real-world applications and future developments at the very cutting edge of these technologies. The role offers the opportunity to shape the strategy of our organisation in an important new regulatory area, and to contribute to the evolving national and international discussion on related topics.
+ Requirements of the Role
+ As a recognized expert on AI and ML, you will use your knowledge, experience and insight to:
+ Keep abreast of developments at national and international levels, with specific focus (though not limited to) our regulatory regime for online harms.
+Proactively identify and lead strategic opportunities for engagement with colleagues, in which a shared knowledge of AI and ML will help drive forward our regulatory work.
+Provide authoritative, expert advice on AI and ML, and related technologies and topics, to all staff as part of a wider programme of upskilling and knowledge sharing.
+Write or contribute to the drafting of timely and effective policy briefings, position papers, reports, correspondence, and other internal and external documents in order to deliver our work on AI and ML.
+Contribute to the development of programme of research on machine learning, technology and related topics, including collaboration with Government and other regulators.
+Provide technical advice and oversight to data scientists on the application of AI and ML processes in relation to our regulatory or operational work.
+Support ICT colleagues in the development of our internal data architecture, developing requirements for the tools and technologies needed to deliver ML projects.
+ Skills, knowledge and experience
+ This is a senior technical role within a growing team which requires very strong understanding and experience in the field of AI- and ML-related technologies. We welcome applications from candidates who have demonstrated ability to successfully plan and deliver academic research or commercial implementations of AI technologies in real-world environments or advanced technology projects related to AI and ML.
+ This will be evidenced by you having many of the following:
+ A postgraduate qualification, e.g. a masters degree or PhD, in computer science, machine learning, information retrieval, recommendation systems, natural language processing, statistics, maths, engineering, operations research, or other quantitative discipline; or equivalent work experience.
+Significant and extensive experience in research or technical roles relating to AI or ML.
+Excellent understanding of mathematical, probability & statistics principles, and of algorithm theory.
+Detailed knowledge of a range of AI techniques including graph data analytics, time series, NLP, deep learning, supervised and unsupervised machine learning etc.
+Proven ability and track record of success in defining and delivering complex, high-value, innovation projects including AI and related technologies.
+Proven ability to communicate with and influence at senior management level on complex technology topics, and to communicate those topics to all colleagues.
+Experience working in a multidisciplinary environment – an ability to work well with technologists, data scientists, policy teams and other analytical professions.
+Excellent communication and presentation skills
+Seniority Level
+Associate
+Industry
+Telecommunications
+Employment Type
+Full-time
+Job Functions
+Engineering Information Technology

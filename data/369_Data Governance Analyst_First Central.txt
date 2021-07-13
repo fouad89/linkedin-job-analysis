@@ -1,0 +1,58 @@
+Data Governance Analyst
+First Central
+Manchester Area, United Kingdom
+Posted by
+Sapna Luthra
+Talent Acquisition Advisor - Technology (Data Science, IT, Cyber, Software) at First Central Insurance & Technology Group, Interim Role
+Send InMail
+Love all things data? Looking to be part of a fantastic next chapter in a company going through phenomenal growth? We’d love to hear from you!
+ We’re looking for a self-motivated and proactive individual with experience of working in fast-paced environments, to support the day to day delivery, while being part of the long-term data governance strategy. 
+ You’ll ensure the Company’s operational data quality and assurance systems and platforms are highly available, resilient, scalable, secure and performant, and delivered in line with business demand and to agreed service levels.
+ This is a real opportunity to make a difference and support an evolutionary change, coach and drive a vision and build/develop the technical aspect of the team, in support with the Data Governance Lead and Head of Data Operations.  
+            Job Responsibilities
+ ·      Support the continued development and delivery of the Data Operations Data Governance support teams
+ ·      Guide and implement an annual data governance strategy which is aligned to the wider IT strategy containing objectives, departmental initiatives, SLAs and KPIs
+ ·      Drive the delivery of data quality standards within a large, complex organisation following Agile methodologies
+ ·      Develop and implement long-term strategic initiatives, such as frameworks and technology, best practices, standards, techniques and business deliveries that will apply throughout all the Technology and Business teams to increase quality and efficiency
+  ·      Promote new methods, standards and techniques relating to good data governance practices, alongside responsibility and operational management of a highly scalable, secure and available Data Platform, ensuring that it can operate and deliver reporting 24/7
+ ·      Use your knowledge and expertise in data analytics to provide business insights
+ ·      Define, embed and maintain data governance policies, artefacts and controls in data solutions, in line with legal and regulatory requirements, ensuring alignment with enterprise wide data governance practices, demonstrating effectiveness for the integrity of data
+ ·      Support to liaise with external bodies to ensure data governance remains compliant and influences, where possible, external data and information governance that may impact the business
+  Skills/Knowledge & Experience
+ ·      Good experience/understanding of all elements of data engineering (extract/transform/load), visualisation, analytics and machine learning
+·      Designing, deploying, maintaining and developing data governance systems and controls
+·      Support in creating and implementing data policies and procedures
+·      Technology service delivery best practice, including ITIL, COBIT
+·      Good experience/understanding for CD/CI process
+·      Knowledge of data governance processes, tools and techniques used to deliver highly available, performance and scalable platforms and systems to distributed customer and user communities
+·      Good understanding of data system architectures including storage, compute (including analytics and machine learning)
+·      Good strategic decision making
+·      An understanding of Lean/Continuous Improvement tools, thinking and methodologies
+·      Excellent problem-solving skills, identifying root causes and offering solutions
+·      You have a good understanding of cloud platforms and services; Microsoft Azure DevOps, ITIL, Azure Synapse, Databricks, PowerBI, Data Factory, HD Insights, Python Sparks, and have a strong IT service background
+  What can we do for you? 
+ We believe we can offer you a great working environment as we’re so passionate about our people. Here are just some of the benefits and perks that we offer…
+Fantastic training and development opportunities
+Employee benefit packages to suit yourlifestyle
+Flexible working
+YOUday – we give you an extra day off to celebrate a special day
+The opportunity to take a paid day off each year to do charity work
+A health cash plan
+Help with travel expenses
+The opportunity to buy additional holiday
+Company pension scheme
+Group life assurance
+Enhanced maternity and paternity pay
+Professional subscription fees paid
+Employee wellbeing is high on the agenda here too. We provide a weekly free fruit delivery, discounted membership at a local health club and access to an Employee Assistance Programme, which promotes physical and emotional wellbeing at work and at home. In addition, we provide wellbeing events throughout the year to support physical and mental health.
+For further information on what we can offer and to learn more about this role, feel free to contact our dedicated Recruitment team.
+ If you’d like to work for an award-winning employer in a fast-paced environment, apply now!
+ Want to know what it’s really like to work at First Central? Take a look at our Glassdoor reviews.
+  Seniority Level
+Associate
+Industry
+Insurance
+Employment Type
+Full-time
+Job Functions
+Engineering Information Technology Strategy/Planning

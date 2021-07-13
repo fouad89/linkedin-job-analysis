@@ -1,0 +1,67 @@
+Data Analyst Apprentice
+Exertis UK
+Basingstoke, England, United Kingdom
+Exertis is the leading technology distributor of consumer, business and enterprise products from established and emerging technology brands, and a wholly owned subsidiary of parent company DCC PLC. Exertis is proud to be part of DCC plc; an ambitious and entrepreneurial FTSE 100 company. DCC plc employ approximately 13,000 people across four divisions and operate in 20 countries. To find out more visit (url removed). After 39 years of profitability Exertis continues to outperform the market, achieving revenues of £3.913billion in FY2020. Exertis partners with 2,400 brands across 21 countries. With products spanning across mobile, computing and accessories, consumer electronics, print, networking, servers and solutions, unified communications, security and AV solutions.
+
+Diversity & inclusion
+
+We are always looking for the best and brightest talent irrespective of gender, race, ethnicity, nationality, sexual orientation, disability, religion or age. Exertis recognises that a diverse workforce not only benefits individuals, by helping to create a positive working environment, but ultimately, provides a happy company culture that enables us to provide an outstanding service to our customers.
+
+About You
+Curious: assume nothing and be curious; create a learning culture to investigate and ask why
+Problem-solving: take responsibility; if you don’t push for change and continually drive improvement you lose the right to complain
+Customer obsessed: all decisions start with the customer & market insight and then backwards (Customer of the product e.g. employee, vendor, reseller etc)
+Role Summary
+
+Working within the business intelligence/data and commercial functions for the global DCC Technology business, to act as a go-between for commercial and data, developing knowledge of both areas. The role entails being a data subject-matter-expert able to find, analyse, and serve data to allow our commercial and finance teams to make better informed decisions, whilst simultaneously
+
+learning the commercial area and their needs. The role includes professional training in data science from a leading training provider, with on-the-job projects forming part of the qualification. It will involve showing commercial the art-of-possible with data and acting as an agent of change.
+
+It is at the forefront of a data-driven, digital transformation function with a direct impact on sales, internal culture, and external brand perception.
+
+Apprenticeship
+
+Skills
+
+You will be studying the Level 3-4 (depending on experience and skills) Data Science apprenticeship standard across 15 months, building the following skills
+Data manipulation and lifecycle
+Data preparation, quality, and validation
+Analytics & dashboarding tools
+Reporting & actioning insights
+Excel for data analysis
+Python (level 4)
+Primary Focus
+Acting as the data subject matter expert and commercial team go-between
+Helping the commercial leadership (sales, finance, purchasing) to access and use data to able them to make better decisions and interrogate their businesses - providing the ‘so-what’ via data to explain trends
+Rotating between teams and potentially businesses (including to divisions around Europe and North America)
+Training as a data science professional
+Stakeholder Management
+Working directly with our various leadership teams, to help them understand the trends in the data and what they mean for the business, with the expectation that data-driven decisions will generally mean better outcomes
+Acting as an agent of change in the commercial teams teaching the ‘art of possible’ with data and helping our teams to be become data literate and self-serving
+Team Support
+You will be supported to quickly learn the business with developmental care on a regular basis from senior leaders as part of a team which values learning, mutual support, and excellence
+Be an active member of the digital data team. We are on an exciting journey and are looking for someone to get stuck in and help create something very special. The team will be right by your side to make sure you are supported in making that happen
+
+Key Skills And Experience
+A-levels in maths and/or science(s), and/or a 2:1 degree or above in a STEM subject
+Some familiarity with data manipulation in Microsoft Excel using pivot tables, lookup functions - not totally new to spreadsheets!
+Ability to train others and act as a mediator between the technical and the practical
+Foundation in data analysis and experience of coding/programming (level 4 apprenticeship only)
+Nice to haves
+Experience and knowledge of the IT distribution or business wholesale; we can teach the right candidate
+A love of gadgets, technology, and messing about with data
+What we offer
+Training from a top UK data science education provider, combined with practical on-the-job application to a commercial environment
+Being part of a new, fun, smart, diverse, and exciting collaborative team where you will drive real measurable results at a time of substantial digital transformation, with visibility at the very top of a FTSE 100 company
+The chance to work with some of the coolest and biggest tech brands in the world
+Competitive package and flexibility
+The option to travel internationally and work across continents, CV19 situation permitting
+Personal development and coaching, with mutual career ownership from senior leaders
+Seniority Level
+Internship
+Industry
+Logistics & Supply Chain
+Employment Type
+Full-time
+Job Functions
+Information Technology

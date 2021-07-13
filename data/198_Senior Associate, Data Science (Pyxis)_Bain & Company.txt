@@ -1,0 +1,82 @@
+Senior Associate, Data Science (Pyxis)
+Bain & Company
+London, England, United Kingdom
+What Makes Us a Great Place To Work
+
+We are proud to be consistently recognized as one of the world's best places to work, a champion of diversity and a model of social responsibility. We are currently ranked the #1 consulting firm on Glassdoor’s Best Places to Work list, and we have maintained a spot in the top four on Glassdoor's list for the last 12 years. We believe that diversity, inclusion and collaboration is key to building extraordinary teams. We hire people with exceptional talents, abilities and potential, then create an environment where you can become the best version of yourself and thrive both professionally and personally. We are publicly recognized by external parties such as Fortune, Vault, Mogul, Working Mother, Glassdoor and the Human Rights Campaign for being a great place to work for diversity and inclusion, women, LGBTQ and parents .
+
+Who You’ll Work With
+
+This is an opportunity to support Bain’s expanding proprietary data ventures business, helping to build a new start-up at Bain to deliver the Pyxis product, a cutting-edge consumer data and analytics platform. Pyxis leverages an array of alternative data sources and proprietary analytics to provide an insight into markets and brands that traditional data providers miss. We combine our market leading data with decades of Bain & Company consulting experience to deliver actionable insights into ecommerce trends, consumer behaviour, pricing and promotion.
+
+WHERE YOU'LL FIT WITHIN THE TEAM
+
+This pivotal role on the Pyxis Engineering team will work under the guidance of the team’s Senior Manager/Principal architect and Senior Software Engineering Manager across a broad range of data-related responsibilities.
+
+The tasks of this role revolve around supporting core product development including working as part of a cross-functional Agile development team to understand the business context and product domain, designing the underlying data model/schema to meet the product’s functional and non-functional requirements, ensuring the data architecture scales and remains performant based on the expected volumes and usage patterns, is consistent and has the right enforcement and integrity checks, implementing the data model using scripts/automation, working with the team to test and validate the design, and updating the model as needed to support new and changing business requirements and product features.
+
+This role also includes setting up automated data ingestion pipelines with clients and or data vendors to continually refresh a product’s underlying structured dataset. This will involve working with a combination of enterprise-level data ingestion and integration platforms, cloud-native services, and custom scripting and programming.
+
+The role is based in EMEA, local candidates only.
+
+What You’ll Do
+
+Data Pipeline Development, Support, and Maintenance
+Validate designs, discuss trade-offs and benefits of various approaches, and ensure long-term scalability and performance over time as data volumes and user concurrency grows with product adoption
+Ensure data models follow all Pyxis and industry-standard best practices related to data security, normalization, naming conventions, primary/foreign key relationships, indexing, constraints, and other considerations
+Work with Bain Cloud and Operations teams to ensure best practices and standards are followed related to infrastructure/hosting, data security, user access management, permissions, monitoring, patching, and logging/auditing
+Create approved and agreed-upon data models using DDL scripting to ensure repeatability and consistency, maintain scripts in a version control system
+After data model creation, work to validate/test the model to ensure it meets all product and business requirements including creating realistic sample data sets, ensuring product queries and DDL statements run within expected values, run explain plans to ensure queries follow optional execution paths, and data remains consistent over time
+Collaborate with Pyxis Product Development team on defining the optimal data structures for BI tools to leverage the data, which could include custom views, materialized views, user defined functions/procedures, or optimized SQL
+During the course of product development, work as part of the core engineering team to update and test the data schema as needed to support new requirements and updates
+Product Deployment
+Define, document, and communicate required data schemas formats for Pyxis products and collection requirements for case teams/clients
+Work with Bain, clients and data vendors on defining the expected data set sizes, including initial load, cadence of new data imports, and long-term sizing of data based on usage assumptions
+Work to procure required data from client systems using a variety of protocols including APIs, direct database connections, SFTP, cloud, flat files, and others
+Use industry-leading data/ETL tools for data preparation including data validation, cleansing, joins/mergers, and reformatting into product required schemas for import
+Upload data into product databases, ensuring data accuracy, consistency, and integrity
+Provide 3 rd level technical support as needed when issues arise
+Misc.
+Keep up-to-date on various technologies related to data architecture and engineering
+Participate on technical discovery, POCs, and innovation work streams to validate new tools, technologies, and designs
+Training, professional development, internal meetings, team building events/outings, etc.
+Required
+
+ABOUT YOU
+Bachelor of Science degree in Computer Science, Applied Mathematics, Engineering, or any other technology-related field preferred, or strong relevant work experience
+Total of 1-2+ years of relevant work experience with a data-engineering focus in a fast-paced, complex business setting
+Experience with traditional relational database management systems (e.g., SQL Server, MySQL, PostgreSQL, Oracle) and SQL skills (DML & DDL)
+Basic relational data modelling and design skills (tables, relationships, PK/FK, constraints/indexes)
+Experience creating custom user defined functions, procedures, views, materialized views, and optimized SQL
+Familiarity with troubleshooting slow performing queries, examining indexes, and explain plans
+Strong communication and presentation skills, including documenting complex data flows and processes for long-term support and maintenance
+Must be result-driven, be an analytical and creative thinker, be self-motivated and proactive, be highly organised and demonstrated ability to stay calm and composed in a fast moving environment
+Entrepreneurial spirit, innovative mind-set, willing to try new things, think outside the box, test and learn attitude
+Preferred
+Experience with leading data preparation and analytics tools (e.g., Alteryx, Talend, Tableau Prep)
+Experience with cloud database platforms (e.g. Snowflake, RedShift)
+Python coding and development experience
+Knowledge of enterprise BI platforms (e.g., Tableau, Power BI, Qlik, Domo, Looker)
+Experience working with version control systems (e.g., Git)
+Irrespective of an individual’s specific background, the successful candidate will be:
+Collaborative – someone who knows how to work with and through others to drive results and make change happen, as well is customer service orientated
+Entrepreneurial, proactive, and productive - someone who knows how to prioritize what needs to be done and rallies colleagues to get things accomplished; “roll up the sleeves” type of attitude
+Bright – both insightful and creative, with strong problem-solving skills and pragmatic, with a practical, “real-world” sense of what is actually “do-able”. Possesses an affinity for data-driven insights to make decisions, and able to harness knowledge and expertise of the best content to support the Practice
+Articulate and compelling in his/her oral and written communication skills; engaging and concise – with interpersonal “presence”; adaptable across executive, technical and Bain audiences
+Energetic, with drive, enthusiasm, and natural skills in relationship development ; well-connected, with an extensive network of potentially relevant relationships
+Inspirational Leadership - track record of managing high-performing, service-oriented team members, motivating and developing colleagues above and below their own tenure
+A great colleague and teammate - passionate about the task at hand and fun to be around; someone with whom Bainies and clients go out of their way to work
+About Us
+
+Bain & Company is a global consultancy that helps the world’s most ambitious change makers define the future. Across 59 offices in 37 countries, we work alongside our clients as one team with a shared ambition to achieve extraordinary results, outperform the competition and redefine industries. We complement our tailored, integrated expertise with a vibrant ecosystem of digital innovators to deliver better, faster and more enduring outcomes. Our 10-year commitment to invest over $1 billion in pro bono services brings our talent, expertise and insight to organizations tackling today’s urgent challenges in education, racial and social equity, economic development and the environment. Since our founding in 1973, we have measured our success by the success of our clients. We proudly maintain the highest level of client advocacy in the industry, and our clients have outperformed the stock market 4-to-1
+
+Ind123
+
+Seniority Level
+Associate
+Industry
+Marketing & Advertising Information Technology & Services Computer Software
+Employment Type
+Full-time
+Job Functions
+Consulting

@@ -1,0 +1,54 @@
+Data Scientist
+Anson McCade
+Belfast, Northern Ireland, United Kingdom
+Posted by
+Jamie Logan
+Consultant at Anson McCade
+Send InMail
+Data Scientist
+Belfast
+£30,000 - £40,000
+
+We are keen to speak with Data Scientists who are keen to take the next step in their career and join a leading fintech company based in the Belfast City Centre. As a Data Scientist you will thrive in all stages of a data science process [Data Sourcing, Data Integration, Data Quality, Visualisation, Model Building, Model Deployment and Monitoring]. 
+
+The Company:
+
+Based in the Belfast City Centre, this company works with an ever expanding global client base of investment banks and hedge funds providing specialist data management, data analytics and data mining services, aiming to deliver the highest quality service in some of the most intellectually demanding working environments.
+
+As the new Data Scientist, you will:
+
+• Have experience with SQL querying and experience with Alteryx to integrate different datasets.
+• Work in cohesion with engineers, project managers, SME's and strategists to experiment and build prototypes.
+• Have exposure to multiple data visualisation tools - Tableau & Qlikview
+• Have the ability to effectively engage with external and internal stakeholders.
+
+What you will need:
+
+• 3+ years' experience in a similar role.
+• Strong academic background in Computer Science, Mathematics, Engineering or a related discipline.
+• Experienced in data gathering, manipulation, investigation and analysis. Big data experience a plus.
+• Python/R and associated data & ML libraries. Modelling experience (e.g. classification, clustering etc). Visualisation (e.g. Tableau, Qlikview, D3). Cloud & ML frameworks a bonus. Open-source platforms and AI APIs.
+• Experience in Data Science project delivery.
+• Experience in the design and analysis of Data Science projects.
+• Experience in quick prototyping and agile development.
+
+What you will get in return:
+
+• A competitive salary - £30,000 - £40,000 per annum
+• Work from home option.
+• Excellent company pension scheme.
+• Accelerated career progression/ training and development plan.
+• Company bonus scheme.
+• Generous holiday entitlement.
+
+Interested?
+
+Click apply now or if you would like to have a confidential discussion, please call Steven Weir at Anson McCade for more information.
+Seniority Level
+Mid-Senior level
+Industry
+Staffing & Recruiting
+Employment Type
+Full-time
+Job Functions
+Engineering Information Technology

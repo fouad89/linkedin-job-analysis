@@ -1,0 +1,60 @@
+Data Engineer
+Techmodal Ltd
+Bristol, England, United Kingdom
+Posted by
+Christie Riley
+People Assistant Manager at Techmodal Ltd | CIPD Level 5 Student
+Send InMail
+We have an exciting opportunity for a talented Data Engineer to join the Techmodal team.  
+
+Techmodal are a rapidly growing Applied Data Science and Technology business based in Bristol, UK. In 2020 we were acquired by BAE Systems, giving us access to a whole range of other exciting opportunities, while retaining our own identity. These are really exciting times for us and it’s a great time to join the team.
+ As one of the leading providers of data driven decision support within the Defence, Commercial and Public Sectors we offer specialist skills across supply chain, finance and personnel. We have grown over 30% each year for the last five years and our team of 160+ is still growing.
+ Our people are the lifeblood of our business which is why we put so much energy into making sure every single person has the opportunity to tailor their career and succeed in the way they want to. Whilst we have a big business mentality, we have successfully maintained our small business culture, which means you’ll join a close-knit team of like-minded people to help support and progress you through your career with us.
+
+We are looking for strong all-rounders, who are keen to be involved in both technical delivery and also business development. Only candidates who have live Security Clearance (or 5+ years’ UK residency in order to gain it) and relevant industry experience will be considered for the role and invited to interview.
+ Overview of role
+Data engineering refers to the process of ingesting, transforming, storing and modelling data to allow for further analysis and visualisation. You will be responsible for designing, building and maintaining these robust and scalable solutions, both on-premise and in the cloud, working within a variety of diverse and exciting industries. You will work alongside other data engineers, data analysts and data scientists and be a key figure in developing the data engineering capability within Techmodal. You will be a driven individual, who can work both autonomously and as part of a multi-disciplinary team, and aim to continuously develop your skills through training and certification.
+ The successful candidate will:
+ 4 +years’ experience of working in a data engineering or business intelligence development role
+Have experience in collaborating directly with end users and leveraging your business acumen to help shape solutions which address our clients’ needs
+Excellent team working and communication skills
+Experience in working as part of Agile and/or multi-disciplinary teams
+live Security Clearance (or 5+ years’ UK residency in order to gain it)
+ Technical skills
+Strong SQL skills and/or intermediate Python skills
+Knowledge of data modelling, including data lakes and warehousing tools and techniques
+Experience and/or knowledge of the SQL Stack (SSIS, SSAS, SSRS)
+Experience and/or knowledge of AWS and/or Azure data engineering tools
+Strong ETL skills
+Ingesting and processing streamed data (e.g. Hadoop, Spark, Rabbit MQ, Azure IoT Hub ect.)
+  Travel
+ Whilst we try to minimise travel whenever possible and promote remote working, our consultants do sometimes travel to various client sites across the UK. We will cover all expenses whilst you are away and make sure you are well looked after.
+  Remote working during Covid-19
+
+We are closely monitoring government guidelines during the pandemic to ensure the safety and wellbeing of our staff. At present most of our teams are working from home and only travelling to the office and client site when appropriate. All new starters joining the business will do so on a ‘temporary remote’ basis until it is safe to return to the office and our usual working practices.
+ Rewards
+ We have a shared work ethic to go above and beyond for our customers, but we also like to have fun and reward hard work. Our selection of lifestyle benefits and perks are regularly reviewed to ensure that there is something to suit everyone:
+ ·   Competitive Salary
+·   Performance related bonus scheme
+·   Contributory Pension
+·   25 Days Annual Leave + Bank Holidays
+·   Additional day off for your Birthday
+·   Opportunity to purchase up to 5 days additional days Annual leave
+·   Private Health Insurance
+·   Life Insurance paying 4 x salary
+·   Option to join the BAE Share Incentive Plan
+·   Generous sick pay
+·   Enhanced Maternity, Paternity, Adoption & Shared Parental Leave
+·   Cycle to work scheme
+·   Regular staff socials
+·   Free daily fruit in the office
+
+To apply, please email your CV and covering letter to recruitment@techmodal.com. No agencies please.
+Seniority Level
+Mid-Senior level
+Industry
+Information Technology & Services
+Employment Type
+Full-time
+Job Functions
+Information Technology Engineering

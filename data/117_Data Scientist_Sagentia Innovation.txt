@@ -1,0 +1,52 @@
+Data Scientist
+Sagentia Innovation
+Epsom, England, United Kingdom
+Are you enthusiastic and curious with a proven track record of using data science and machine learning to help solve problems faced by businesses in innovative and imaginative ways?
+Would you relish the opportunity to apply these skills across diverse industries?
+
+The opportunity
+We are looking for talented and experienced data science & machine learning professionals to join our group of world class employees. If successful you will be part of this team and have the unique opportunity to work with clients from start-ups through to global market leaders. You will have a passion for technology and will use a combination of innovation, flexibility and technical excellence to meet and exceed our customers’ often demanding requirements and tight development timescales.
+You will work across the value lifecycle, from strategy, new concept generation and technology validation, through prototyping and full development, to transfer to production environments.
+
+We have
+• A multitude of exciting projects in the medical, industrial, consumer and food & beverage sectors
+• Projects ranging from data strategy, quick build proof-of-principle prototypes through to full solution development
+• The opportunity to work with clients to define their needs and to develop innovative and exciting solutions that will make a difference to today’s world
+
+You will have:
+• 3-5 years of experience in building & deploying machine learning models (experience of deploying ML models to production/ live deployments strongly preferred)
+• Experience in all components of a data science/ ML pipeline (gained by working in at least 2 commercial projects)
+• Development experience using Python/ R
+• Degree 2.1 or above, (or even a PhD) in Computer Science, Engineering, Mathematical or Science-based
+• Excellent analytical and problem-solving skills
+• Enthusiasm to work within multidisciplinary teams and multi-task across projects.
+
+You might also have (but not essential):
+• Experience in building & deploying machine learning models on cloud platforms (Azure/ GCP/ AWS)
+• Good knowledge / experience in Natural Language Processing areas such as topic modelling, sentiment analysis, chatbots & virtual assistants and speech recognition
+• Big Data Analytics (on platforms such as Spark) experience
+• Experience in supervising junior data scientists
+• Keras and TensorFlow familiarity
+• Continuous delivery and automation pipelines in machine learning (MLOps) familiarity
+• MATLAB/Simulink familiarity
+
+A day in the life
+You will be a member of our Data Science & Insights team. As part of a team building innovative solutions for clients, you'll extract, analyse and interpret large amounts of data from a range of sources, using algorithmic, data mining, artificial intelligence, machine learning and statistical tools. You will select & use existing open-source/ commercial machine learning algorithms where possible and work with our talented mathematicians to build custom data algorithms where required. You will train, test and combine algorithms into models which power innovative solutions for our clients, delivering real-world impact.
+
+Your work will predominately be based at our Sagentia offices in Epsom, Surrey and there may also be opportunities to travel to client sites in Europe or USA. You will enjoy a fast-paced environment in which we solve a variety of problems from different industries.
+At any one time we have dozens of projects in the medical, industrial and consumer sectors. As an experienced data scientist, you will have the opportunity to play a key role in developing innovative machine learning/ artificial intelligence-based solutions on one or more projects simultaneously across sectors. You will also have the opportunity to guide, supervise and develop junior data scientists, thereby building your management & leadership skills. Projects range in length anywhere from a couple of months to a couple of years. Projects will typically require multidisciplinary skills requiring teamwork, research, electronics design, mechanical design, software design and of course a data science team that you will be part of.
+
+Career development
+You will work on client projects from your first day; we think this provides you with the opportunity to learn from a fantastic team of colleagues and put your great technical skills to use immediately! We work with you from the start of your time with us to ensure we understand how you want to develop your career in the future. We have a great variety of projects taking place at all times and identify, offer and provide bespoke training to support you in developing your existing skills and fill in any gaps. When you join you will be paired with a mentor whose job is to help you settle in, inspire you and instil the Sagentia Innovation way.
+Every one of our employees has the opportunity to progress and develop within our business – there is no career ceiling; with commitment and hard work there is no limit to what you can achieve! Success looks different to everyone and Sagentia provides great career advancement whether you want to apply your technical skills to brilliant projects, find solutions to problems no one else can solve, deepen and broaden your technical knowledge, manage complex projects, teams or business development!
+
+Benefits
+You will be offered a competitive salary and benefits package.
+Seniority Level
+Associate
+Industry
+Research Medical Device Consumer Goods
+Employment Type
+Full-time
+Job Functions
+Consulting

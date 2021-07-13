@@ -1,0 +1,68 @@
+Data Analyst
+FIS
+London, England, United Kingdom
+Position Type
+
+Full time
+
+Type Of Hire
+
+Experienced (relevant combo of work and education)
+
+Education Desired
+
+Bachelor of Computer Science
+
+Travel Percentage
+
+0%
+Are you curious, motivated, and forward-thinking? At FIS you’ll have the opportunity to work on some of the most challenging and relevant issues in financial services and technology. Our talented people empower us, and we believe in being part of a team that is open, collaborative, entrepreneurial, passionate and above all, fun.
+
+About The Team
+
+At FIS, data is at the core of everything we do. The Data Solutions Group is a fast-paced agile product development team that is building a next generation, cloud-native big-data platform and family of financial data analytics products geared for business managers, data analysts and data scientists. The team makes use of the latest data technologies and development methodologies and values communications, contribution, integrity, a can-do mindset, fun, and a relentless focus on results.
+
+We thrive in an environment where teamwork and transparency are valued. Innovation is powered by perspective, collaboration and respect for each other which lead to customer delight in our products. We seek to elevate each other and work hard at doing the right thing. Our team members serve with humility and a deep respect for their responsibility in helping our customers achieve their goals. We are hyper-focused to influence the industry with game changing insights from our fastest growing asset – data. We are looking for a great data analyst that wants to be part of an outstanding team and is looking for an exciting and challenging opportunity.
+
+What You Will Be Doing
+
+You will be supporting the DSG Data Science team and broader Product organisation in building, deploying and supporting machine learning based services to optimise payments. You will work in a cross-functional virtual team, alongside Product Managers, Architects, Business Analysts and Developers. You will be responsible for completing data analysis tasks using SQL or Python, and visualising the results in Excel or Power BI.
+
+What You Bring
+Solid understanding of databases architecture and SQL language
+Experience in building interactive visualisations and dashboards using Power BI.
+Experience in data modeling
+Experience in delivering within Data Warehousing, Business Intelligence or Big Data projects.
+Experience working in Agile cross-functional teams in a project-based environment; ideally from a consulting or contractor background.
+Excellent verbal and written communication skills to technical and non-technical audiences of various levels in the organization; specially communicating complex analysis to non-technical stakeholders.
+Excellent analytical, decision-making and problem-solving skills.
+
+Added Bonus If You Have
+Experience analysing large amounts of data using Python
+Experience in Data Science or statistical modelling
+Experience in cloud computing
+Experience delivering projects using Agile SAFe methodology
+
+What We Offer You
+A broad range of professional education and personal development possibilities – FIS is your final career step!
+A competitive salary and benefits
+Time to support charities and give back in your community
+Varied and challenging work to help you grow your technical skillset
+
+Privacy Statement
+
+FIS is committed to protecting the privacy and security of all personal information that we process in order to provide services to our clients. For specific information on how FIS protects personal information online, please see the Online Privacy Notice.
+
+Sourcing Model
+
+Recruitment at FIS works primarily on a direct sourcing model; a relatively small portion of our hiring is through recruitment agencies. FIS does not accept resumes from recruitment agencies which are not on the preferred supplier list and is not responsible for any related fees for resumes submitted to job postings, our employees, or any other part of our company.
+
+#pridepass
+Seniority Level
+Mid-Senior level
+Industry
+Information Technology & Services Financial Services
+Employment Type
+Full-time
+Job Functions
+Information Technology

@@ -1,0 +1,56 @@
+Data Scientist – Treasury Operations
+Wise
+London, England, United Kingdom
+Posted by
+Gergő Nagy
+Scaling-up Product teams at Wise 🚀
+Send InMail
+Your Mission
+
+Your mission is to help run the engine of the company, delivering funds to wherever in the world our customers need them, as fast as possible. Your team is also entrusted with managing risk from currency rate fluctuations, allowing us to offer customers the real mid-market rate.
+
+Here’s How You’ll Be Contributing
+You will automate treasury operational decisions, dig in piles of data to find golden insights and create production grade models that can be clearly monitored by our operations team
+You will optimally manage liquidity across time and space, and mitigate FX risk in the smartest way, build operational tools and develop strategies
+Your average day could include building new models, solving decision making problems, maintaining production models, evaluating new ideas, putting out fires etc.. (although we should also say, there is no average day!)
+
+
+This Role Will Give You The Opportunity To
+Have a direct impact – You will get behind the scene of company transactions, understand where we need to send money and what is the best way to do it so our customers get the fast and fair service they deserve. What you build will have an impact on millions of customers.
+Work autonomously – we believe people are most empowered when they can act autonomously. So rather than telling you what to do, you’ll work with your team to create a vision of your own. Of course, you can always gather feedback from smart, curious people across Wise but you’ll have the freedom to make your own calls
+Be part of a diverse team – You will work in a team of Data scientists, product managers, engineers and operations across 4 Wise offices, a lot of video-calls and some travel is expected
+Be part of our mission to make money without borders the new normal
+
+
+About You
+You are data-driven with a structural and pedantic approach. You can prioritise the value you can add, and manage your time effectively
+You see a bigger picture of business processes and can interview all the stakeholders and cut through vagueness to define precisely where and how a model would fit into our stack and what value it would add
+You have a postgraduate degree in Operations Research, Industrial Engineering, a related field, or equivalent practical experience
+You are comfortable with formulating stochastic decision making problems into tractable forms
+You always seek optimal solutions but also understand the trade-off between quality and practicality
+You have demonstrated knowledge in solving decision making problems using off-the-shelf optimisers (eg. Gurobi) or building your own solution if necessary
+You are familiar with a range of machine learning model types, and know when and why to use gradient boosting, neural networks, good old regression, or a blend of these
+You have a good understanding of statistics, in particular Bayesian reasoning, and can estimate how accurate your results are, but also know when to stop analysing and deliver results
+You have a solid knowledge of Python, and are able to make and justify design decisions in your Python code; you can throw together a REST service or a UI if need be
+You are comfortable with visualising and communicating data to various audiences, you easily articulate and present your ideas
+
+
+Some Extra Skills That Would Be Great
+You understand fundamental Big Data technologies such as Kafka and Docker, and don’t think twice about bringing up a new engine in docker-compose to have a play
+You are experienced in building machine learning models both on daily time series and on big data (100Ms of rows), using the right tools depending on the data volumes (our team uses Python, SQL, Clickhouse and sometimes Kafka and Flink for shoveling data, but we’re open to others ).
+You are familiar with finance, trading or accounting terminology so that it’s easier for you to understand, evaluate and explain implications of product decisions in Treasury.
+
+We’re people without borders — without judgement or prejudice, too. We want to work with the best people, no matter their background. So if you’re passionate about learning new things and keen to join our mission, you’ll fit right in.
+
+Also, qualifications aren’t that important to us. If you’ve got great experience, and you’re great at articulating your thinking, we’d like to hear from you.
+
+And because we believe that diverse teams build better products, we’d especially love to hear from you if you’re from an under-represented demographic.
+
+Seniority Level
+Entry level
+Industry
+Computer Software Internet Financial Services
+Employment Type
+Full-time
+Job Functions
+Engineering Information Technology

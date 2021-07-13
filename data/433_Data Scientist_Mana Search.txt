@@ -1,0 +1,45 @@
+Data Scientist
+Mana Search
+London, England, United Kingdom
+Posted by
+Anna Farish
+Fintech Headhunter at Mana Search
+Send InMail
+Data Scientist to join Series A Funded Hyper Scaling Fintech
+
+The firm provides an all-in-one service for small businesses, start ups, freelancers that lets them run a business account to make and receive payments, along with software for invoicing, accounting and managing taxes that is run through a chat interface to assist users and automate some of the functions (like invoice tracking). It also offers additional services, such as connecting users to a live accountant during tax season.
+
+The role is focused on helping the product team to improve their risk monitoring system. You will develop fraud/AML (anti-money laundering) detection algorithms and systems that protect the client and its customers from fraud and financial losses.
+
+Responsibilities...
+Design, implement and evaluate suspicious activity detection typologies
+Participate in designing and evaluating key metrics of their risk monitoring system
+Investigate and integrate new data sources to increase the system effectiveness
+Manage the complete machine learning lifecycle from data pipelines and training to models deployment and monitoring
+Collaborate with engineers to make the system fast and scalable
+
+Requirements...
+Fluency in Python with deep knowledge of statistical packages and ML/DL libraries/frameworks (e.g. Scikit-learn, NumPy, Keras/TensorFlow/PyTorch), and visualization libraries (e.g. Matplotlib, Plotly, Seaborn)
+Fluency in SQL and familiarity with data visualization tools (e.g. DataStudio, Tableau)
+Basic understanding of statistical analysis
+Proactive growth mindset - keeping up to date with the latest technologies and researching new ideas
+Experience in implementing production machine learning systems in a commercial environment
+2+ years of relevant industry experience
+Good knowledge of DevOps in a Data Science context (e.g. MLOps) would be a benefit 
+
+What you will need...
+Fluency in Python with deep knowledge of statistical packages and ML/DL libraries/frameworks (e.g. Scikit-learn, NumPy, Keras/TensorFlow/PyTorch), and visualisation libraries (e.g. Matplotlib, Plotly, Seaborn)
+Fluency in SQL and familiarity with data visualisation tools (e.g. DataStudio, Tableau)
+Basic understanding of statistical analysis
+Proactive growth mindset - keeping up to date with the latest technologies and researching new ideas
+Experience in implementing production machine learning systems in a commercial environment 
+
+If this exciting challenge interests you, then please do get in touch!
+Seniority Level
+Mid-Senior level
+Industry
+Staffing & Recruiting
+Employment Type
+Full-time
+Job Functions
+Engineering Information Technology

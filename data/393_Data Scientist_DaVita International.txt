@@ -1,0 +1,75 @@
+Data Scientist
+DaVita International
+London, England, United Kingdom
+Company Description
+
+DaVita Inc. (NYSE: DVA), a Fortune 500® company, is one of the largest health care providers in the United States. Outside of the United States, DaVita International provides kidney care services to patients in 10 countries. Our community focuses on and strives for improved clinical outcomes, better patient experiences, more fulfilling experiences and being a great place to work.
+
+Over the last decade, we set out to be the world's greatest dialysis company, and over the next decade, we are poised to build the greatest healthcare community the world has ever seen. When you join the DaVita Village, you're joining a winning team. Through our commitment to training, growth and quality, we consistently achieve superior clinical outcomes while giving teammates the opportunity to excel in an award-winning environment that enables them to thrive both professionally and personally.
+
+Here is what you can expect when you join our Village:
+A "community first, company second" culture based on Core Values that really matter.
+Award-winning education and training across multiple career paths to help you reach your potential.
+Performance-based rewards based on stellar individual and team contributions.
+A comprehensive benefits package designed to enhance your health, your financial wellbeing and your future.
+Dedication, above all, to caring for our patients.
+The DaVita International Clinical team supports medical and nursing teams across 10 countries covering Europe, Middle East, APAC and Latin America. The team is responsible for ensuring patient care is world class including governance of medical outcomes, patient safety events, nursing practices and other clinical activities. The International Clinical team is responsible for driving quality improvement initiatives and for supporting the local country clinical teams. The need for rapid and accurate insights from multiple data sources to facilitate patient care improvement and quality assurance has grown with the organisation over the last 3 years. At present a range of healthcare data is being extracted from a number of sources including electronic medical records, workflow management tools and ERP systems for quality management. Streamlining, automating and generating more insights from these existing data sets is one of the main areas of focus for the International Clinical team.
+
+Job Description
+
+Reporting to the Chief Medical Officer, this is an exciting opportunity for a proactive, energetic and talented individual to join a truly global and fast-paced international team. The individual should be technically skilled in all aspects of data mining and analysis and be passionate about creating compelling data visualisations - information should be beautiful. The position has great exposure to top senior management of the organisation.
+
+The following duties and responsibilities generally reflect the expectations of this position, however, these are not exhaustive.
+
+Responsibilities And Accountabilities
+Integrate disparate data sets, conduct exploratory analysis, and create actionable insights for quality assurance and patient care improvement.
+Transfer and streamline existing healthcare data flows with focus on automation of processes wherever possible
+Develop and maintain databases by acquiring data from primary and secondary sources, and build scripts (eg. R or Python) that will make data evaluation processes more flexible/ scalable across data sets
+Create data visualization capabilities to communicate findings in a rich and exciting format to a range of stakeholders
+Works collaboratively with clinicians, nurses, and other teammates to identify opportunities to create value through advanced analytics
+Design and implement predictive and optimization models to project patient outcomes dependent on demographic and clinical care variables
+Storyboard, stress test, and articulate arguments to key decision-makers
+Prepare rapid feasibility analysis to evaluate requirements for new and revised projects
+Other duties as assigned
+
+Qualifications
+
+Following are the qualifications and certifications associated for this job position. Some are required and others are preferred.
+3+ years' experience as a data analyst/ manager with proven analytic skills, including mining, evaluation, analysis, and visualization
+Experience integrating disparate data sets held in a number of repositories
+Ability to produce statistical analyses using a range of statistical analysis software (eg. SPSS, SAS, R, Python, etc)
+Experience in manipulating and querying data at scale
+Good grasp of classical statistical methods, such as fitting regression models, inference testing and sampling
+Expert level experience with Excel and Microsoft Office functionalities
+Experience writing programming languages including SQL and Python
+Business Intelligence software experience a bonus (eg. QLIKSense, PowerBI, Tableau)
+Bachelor's Degree with a focus in Information Systems/ Mathematics/ Computer Science or another quantitative discipline preferred
+Experience working in an organisation that provides healthcare services (e.g., NHS trust, hospital system, community care provider) preferred
+Good knowledge of healthcare involving Real-World Evidence or experience with patient-level, longitudinal data
+
+Additional Information
+
+Personal Attributes and Skills
+A proactive, innovative and pragmatic approach to problem solving and an ability to think critically and independently with attention to detail
+Good stamina, resilience and humor; able to work well under pressure
+Excellent written, verbal, and interpersonal communication skills with an acute ability to listen attentively and to communicate effectively throughout all levels of the organisation
+Ability to work independently, shift focus, adapt to changing priorities, maintains patience in high-pressure situations and takes initiative where appropriate
+An innovation mindset; able to look at problems from multiple perspectives and think differently
+Juggle and successfully prioritise competing work streams and strong follow-up skills
+Commitment to personal and professional growth. Ability and willingness to seek and receive feedback constructively as development opportunities
+Live, uphold and model DaVita's core values of Service Excellence, Integrity, Team, Continuous Improvement, Accountability, Fulfilment and Fun with the ability to demonstrate those positively and proactively in daily performance and communication
+DaVita promotes equal opportunity employment. All qualified applicants will receive consideration for employment without regard to race, colour, religion, gender, sexual orientation, national origin, disability, age, or any other impermissible criteria under law.
+
+DaVita reserves the right to modify this description at any time with or without notice.
+
+Interested?
+
+Please apply by using the 'Apply' button.
+Seniority Level
+Entry level
+Industry
+Information Technology & Services Financial Services Hospital & Health Care
+Employment Type
+Full-time
+Job Functions
+Engineering Information Technology

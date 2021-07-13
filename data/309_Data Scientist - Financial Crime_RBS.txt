@@ -1,0 +1,48 @@
+Data Scientist - Financial Crime
+RBS
+London, England, United Kingdom
+Join us as a Data Scientist
+
+Joining us in Financial Crime, you’ll be identifying and working with large, complex data sets to solve difficult, non-routine analysis problems, applying advanced analytical methods as needed
+We’ll look to you to actively participate in the data community to identify and deliver opportunities to support the bank’s strategic direction through better use of data
+This is an opportunity to achieve excellent exposure in a challenging role and to make a real impact with your work
+
+What you'll do
+
+As our data and analytics capabilities come online, we'll need you to apply your data science toolkit to help us prevent, detect and disrupt criminals seeking to exploit Mettle. This means detecting patterns and anomalies in our data, working either from upstream intelligence, observations from financial crime investigators, or directly from the data itself.
+
+As well as this, you'll be evaluating and improving business processes and products using scientific rigour and statistical methods. As such, you'll be supporting and collaborating with multidisciplinary teams of data engineers and analysts on a wide range of business problems including the prevention of financial crime, understanding customer interactions with the bank and the management of credit risk.
+
+You’ll also be:
+
+Using our data to suggest new and improved configurations for our detection systems, and in due course, leading on the development of machine learning models to place directly in to those system
+Identifying other areas to apply your skills across Mettle's financial crime technology and processes
+Developing and deepening your knowledge of data structures and metrics, advocating for changes where needed for product development
+Communicating effectively across the functions and franchises to make business recommendations, gaining business buy-in to solutions tailored to customers need
+Conducting analysis that includes data gathering and requirements specification in collaboration with business stakeholders
+Iteratively building and prototyping data analysis pipelines to provide insights that will ultimately lead to production deployment
+Identifying new methods, tools, techniques and opportunities to deliver business value via cost reduction, income generation or improved customer experience through the application of data science
+
+The skills you'll need
+
+To succeed in this role, you’ll need evidence of previous project implementation and work experience gained in data analysis related field as part of a multidisciplinary team. Additionally, you’ll hold a degree in a quantitative discipline or have evidence of equivalent practical experience.
+
+You'll be familiar with a variety of data science tools and techniques, supporting business decision making, statistical inference, machine learning and artificial intelligence and with relevant programming languages, especially SQL and Python, frameworks and visualisation tools.
+
+You’ll also demonstrate:
+
+Experience with statistical software, database languages, big data technologies and cloud environments
+Experience articulating and translating business questions and using statistical techniques to arrive at an answer using available data
+The ability to demonstrate leadership, self-direction and a willingness to both teach others and learn new techniques
+Effective written and verbal communication skills and the ability to adapt the communication style to a specific audience
+Extensive relevant work experience, including expertise with statistical data analysis such as linear models, multivariate analysis, stochastic models and sampling methods
+
+If you need any adjustments to support your application, such as information in alternative formats or special requirements to access our buildings, or if you’re eligible under the Disability Confident Scheme please contact us and we’ll do everything we can to help.
+
+Apply for this job
+Industry
+Banking
+Employment Type
+Full-time
+Job Functions
+Engineering Information Technology

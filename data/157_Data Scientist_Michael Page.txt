@@ -1,0 +1,52 @@
+Data Scientist
+Michael Page
+London, England, United Kingdom
+Data Scientist
+Data Science role in Central Government
+Massive opportunity for machine learning projects
+
+About Our Client
+
+My client is a large health department in central government within the Public Sector and Government industry.
+
+Job Description
+
+The successful candidate for this Data Scientist 6-month contract role based out of my clients site in London will be responsible for the following -
+Working collaboratively with other Data Scientists / Analysts to implement high-performance machine learning and statistical models into production.
+Working closely with customers and other professionals across the business to deliver innovative analytical tools, apps and policy insight into the business.
+Contributing to the strong cooperative working environment within the team and interacting positively with a variety of stakeholders to build community, capability and credibility.
+Using best practices such as version control, unit testing, code review, and well documented applications.
+Keeping abreast of data science wider landscape and emerging technologies, through commitment to Continued Professional Development of yourself and others;
+Championing data science.
+
+
+The Successful Applicant
+
+To be considered for the Data Scientist 6 month contract the candidate must present evidence of the following -
+
+Essential
+Technical data science skills that will add to our skill base and enable you to contribute actively to new projects such as Statistical programming, for example using tools like R, Python, or SQL
+A track record with data visualisation using tools like R, Python, PowerBI or Tableau
+Working knowledge of advanced analytics methods, for example machine learning, clustering, natural language processing or feature engineering
+
+
+Desirable
+Capability of version control of code and outputs, such as unit testing of code and outputs
+A track record of interactive dashboard building, using tools like R, Python, PowerBI or Tableau
+A track record of teaching data science skills to beginner users cloud computing, using platforms like Azure, AWS, or GCloud
+
+
+What's On Offer
+
+The day rate for this contract is between £350 and £400 per day inside of IR35
+
+Contact: Tom Gilchrist
+Quote job ref: JN-072021-2939151
+Seniority Level
+Entry level
+Industry
+Public Policy Public Relations & Communications Public Safety
+Employment Type
+Contract
+Job Functions
+Engineering Information Technology

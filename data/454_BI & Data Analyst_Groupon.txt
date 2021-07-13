@@ -1,0 +1,45 @@
+BI & Data Analyst
+Groupon
+Bristol, England, United Kingdom
+Groupon’s mission is to become the daily habit in local commerce and fulfil our purpose of building strong communities through thriving small businesses by connecting people to a dynamic, global marketplace for local services, experiences and goods. In the process, we’re positively impacting the lives of millions of customers and merchants globally. Even with thousands of employees spread across multiple continents, we still maintain a culture that inspires innovation, rewards risk-taking and celebrates success. If you want to take more ownership of your career, then you're ready to be part of Groupon.
+
+IDL, part of the Groupon family is one of Europe’s fastest growing mobile marketing companies, with a team of over 100 working on its award-winning vouchercloud and Giftcloud businesses to deliver innovative digital campaigns for world-famous brands. IDL’ s flagship product - vouchercloud - is a UK leading voucher platform, having revolutionised the marketplace with the launch of Europe’s first voucher app in 2010. The app has since been downloaded over 10 million times globally, and the website sees 5 million monthly web sessions, with savvy shoppers across the world accessing a huge range of money saving deals.
+
+We provide a global marketplace where people can buy just about anything, anywhere, anytime. We're enabling real-time commerce across an expanding range of categories including local businesses, travel destinations, consumer products, and live events. Culturally, we believe that great people make great companies. Community matters to us, as it's fundamental to our company's growth and to the well-being of the world at large. We also value self-awareness, curiosity, honesty and fun at work.
+
+Business Intelligence is a key element in Groupon Coupons business. Our mission is to create a single version of the truth for the coupons business, seeking incremental business gains through data. We are looking for somebody who is equally at home discussing technical ETL details, alongside understanding business challenges and designing solutions accordingly. We want to help Groupon be engaging for both merchants and consumers and help to grow our marketplace.
+
+This position will be part of the Global coupons BI team. You will be joining the team right at the start of this journey, and there is a need to be flexible with different tasks. The right candidate will possess a strong combination of analytical prowess, technical aptitude, and business savvy. They will ideally have experience in setting up data structures from scratch.
+
+We're a best of “both worlds” kind of company. We're big enough to have resources and scale, but small enough that a single person has a surprising amount of autonomy and can make a meaningful impact. We're curious, fun, a little intense, and passionate about helping local businesses thrive. Does that sound like a compelling place to work?
+
+You’ll Spend Time On The Following
+Investigating new ways of using data in the Coupon business
+Translating business questions into analytic hypotheses, data needs and reporting requirements
+Creating and maintaining automated dashboards
+Ensuring data-driven decision-making by providing actionable insights drawn from quantitative and qualitative information to help drive business decisions
+Analysing results, and making conclusions and proposals of how to improve effectiveness
+Developing ad-hoc analysis and reports
+We’re Excited About You If You Have
+Experience working with data, developing insights and analysis for corporate use, in particular digital and SEO data
+Strong analytical skills and experience working across different technologies / tools with the ability to comfortably work with large data sets
+Superior problem-solving skills, self-motivation and the capacity to work under pressure and tight deadlines
+Advanced SQL skills including knowledge of BI technologies and scripting languages.
+Ability to thrive in a fast-paced start-up environment, and to manage multiple, competing priorities.
+Good understanding of data
+Background or knowledge of E-commerce or Business Operations is a plus
+Scripting languages such as Python, R, etc is a plus
+Knowledge of machine learning concepts is a plus
+Groupon is an Equal Opportunity Employer.
+
+Groupon's purpose is to build strong communities through thriving small businesses. To learn more about the world's largest local ecommerce marketplace, click here for the latest Groupon news. Plus, be sure to check out the values that shape our culture, guide our strategy and make our company a great place to work. And just don't take our word for it. Hear from real Groupon team members and learn more about our inclusive employee groups. If all of this sounds like something that's a great fit for you, then click apply and let's see where this takes us.
+
+Groupon is an Equal Opportunity Employer
+
+Qualifications for employment, promotion, and other terms and conditions of employment are based upon the ability to perform the job. Equal-employment opportunities are provided to all applicants and employees without regard to race, creed, religion, color, age, national origin, sex, disability, medical condition, sexual orientation, gender identity or expression, genetic information, ancestry, marital status, military discharge status (excluding dishonorable discharge), veteran status, citizenship status, or other legally protected status. We are all responsible for maintaining this policy. Groupon is committed to providing reasonable accommodations for qualified individuals with disabilities and disabled veterans in our job application procedures. If you need assistance or an accommodation due to a disability, you may email us at hraccommodations at groupon.com. If you have concerns related to Groupon’s equal employment opportunities, you may contact Groupon's Ethics Reporting Service Ethicspoint.
+Industry
+Internet
+Employment Type
+Full-time
+Job Functions
+Research Analyst Information Technology

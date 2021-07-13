@@ -1,0 +1,58 @@
+Data Engineer
+Aviva
+Norwich, England, United Kingdom
+Posted by
+Ciaran Markey
+Direct Sourcing Recruiter at Aviva EMEA
+Send InMail
+We are recruiting for a Data Engineer to join our TP&A Process Team within Aviva.
+
+Data is the lifeline of any modern organisation and Aviva is no different. The role sits within a team responsible for the data pipeline that provides Quantum Data Science Practice (covering areas like Machine Learning and AI, Pricing, Financial Crimes, Fraud and Underwriting) with the data they need to provide our customers with the best products.
+
+This is an exciting opportunity to work within our Oracle Cloud environment, which is helping to craft the future of insurance through ground-breaking data delivery to predictive analytics and Data Science. As a team we are part of Aviva’s global Data Science Practise (Quantum) which is recognised as a centre of excellence - providing an Oracle Cloud platform that delivers the data needed to drive improved decision making and performance within Aviva.
+
+Duties & Responsibilities:
+
+Undertake application design, development and testing work to ensure delivery of robust Data applications, enhancements and meeting the needs of the customers
+To work closely with other members of the development team, the I.T. department and with other teams in Quantum Data Science on an ongoing basis
+To contribute during planning meetings, requirement gathering, and meetings with application stakeholders
+Tasks will also include production of relevant technical documentation to support the application
+
+Skills & Experience required:
+
+Degree, diploma or Computer Science or equivalent numerate subject or equivalent relevant experience and knowledge
+Experience using SQL preferably but experience with other languages will be considered
+Good knowledge of general insurance is an advantage
+Knowledge of System Design and Application Development Lifecycle
+Organised self-starter, with drive and commitment; able to work independently with little supervision
+
+What will you get for this role?
+
+A salary up to £25,000 - £30,000 depending on location, skills, experience and qualifications
+Generous defined contribution pension scheme
+Annual performance related bonus and pay review
+Holiday allowance of 29 days plus bank holidays and the option to buy/sell up to 5 additional days
+Up to 40% discount for some Aviva products through “My Aviva Extras” plus discounts for Friends and Family. (Some exclusions apply)
+Excellent range of flexible benefits to include a matching share save scheme
+
+Working at Aviva
+At Aviva, we’re people with a purpose. To be with you today, for a better tomorrow.
+We bring this to life by ensuring managing risk is at the heart of the way we all work. We love people who do the right thing for our customers, and our colleagues. We want people who speak up, who take ownership, and who make good decisions.
+
+The way we do this is important too, we’re all about our people – that’s you – so we can be pretty flexible. If you want to work from home some of the time or change your hours so you can pick up your kids or care for someone in your family, we’re very open to that. In fact, we don’t advertise roles as either part or full time, because we know each person has different needs, just as each business area has different needs. So, it’s up to you to discuss working hours during your interview
+.
+We care deeply about being inclusive and that means we encourage applications from people with diverse backgrounds and experiences. We want our employees to bring their whole self to work and that starts with you.
+
+We interview every disabled applicant* that meets the minimum criteria for the job. Once you’ve applied, please send us a separate email stating that you have a disclosed disability and we’ll make sure we interview you.
+
+We’d love it if you could submit your application online. If you require an alternative method of applying, please give Ciaran Markey a call on 07919 988103 or send an email to ciaran.markey@aviva.com
+
+*As defined in The Equality Act 2010*. By ‘minimum criteria’ we mean you should provide us with evidence which demonstrates that you generally meet the level of competence required and have the qualifications, skills or experience defined as essential to perform the role.
+Seniority Level
+Mid-Senior level
+Industry
+Financial Services
+Employment Type
+Full-time
+Job Functions
+Information Technology

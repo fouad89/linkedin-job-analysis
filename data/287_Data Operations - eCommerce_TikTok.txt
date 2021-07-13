@@ -1,0 +1,27 @@
+Data Operations - eCommerce
+TikTok
+London Area, United Kingdom
+The e-commerce industry has seen tremendous growth in recent years and has become a hotly contested space amongst leading Internet companies, and its future growth cannot be underestimated.
+
+With millions of loyal users globally, we believe TikTok is an ideal platform to deliver a brand new and better e-commerce experience to our users. We are looking for passionate and talented people to join our product and operations team, together we can build an e-commerce ecosystem that is innovative, secure and intuitive for our users.
+
+Responsibilities :
+- Technical familiarity with SQL code to extract data from various databases, cleanse, consolidate, visualize data and create datasets and demonstrate the data visualization.
+- Provide detailed insight and trends based on continuous data monitoring and exploration.
+- Understand Business problems, identify data sources & do Data Analysis and Build Reports;
+- Delivering the data in a useful and appealing way to all stakeholders.
+- Support various teams with specific data requests to inform strategy.
+
+Qualifications :
+- 3-5 years of experience in data analytics
+- Strong knowledge of SQL is required. Strong Knowledge of scripting languages (JavaScript, Python, R)
+- Excellent analytical skills in spotting issues from data
+- Strong communication and teamwork skills to work with cross functional teams
+Seniority Level
+Associate
+Industry
+Internet
+Employment Type
+Full-time
+Job Functions
+Analyst

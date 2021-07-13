@@ -1,0 +1,38 @@
+Python Backend Engineer - Machine Learning  AWS
+European Recruitment
+London, England, United Kingdom
+Posted by
+Nathan Hampson
+Associate Consultant at European Recruitment
+Send InMail
+Strong Python backend experience?
+
+Background working with Machine Learning?
+
+Python Backend Engineer
+ European Recruitment are working closely with a multinational Fintech company, based in London, who are looking for a Python Backend Engineer to join their team.
+
+Responsibilities as Python Backend Engineer:
+Take ownership of a significant part of the team’s solution development.
+Demonstrate end-to-end understanding of applications being created.
+Partner with ML Researchers to push the boundaries on the performance of the latest methods applied to big problems across the insurance domain.
+Contribute to peer review process to ensure code quality.
+
+Requirements:
+Strong Python skills
+Strong Backend development experience
+Some knowledge of Machine Learning and libraries (e.g. Tensorflow, Pytorch)
+Familiarity with build automation and continuous integration (e.g., Gulp, Grunt, Jenkins, CodePipeline)
+Experience deploying and maintaining ML algorithms in production environments
+
+If this role is of any interest please apply directly on LinkedIn or send a copy of your CV to nh@eu-recruit.com.
+ Key Words: Python / Backend / Engineer / AWS / Docker / DevOps / Machine / Learning / TensorFlow / Pytorch
+ By applying to this role you understand that we may collect your personal data and store and process it on our systems. For more information please see our Privacy Notice (https://eu-recruit.com/about-us/privacy-notice/)
+Seniority Level
+Mid-Senior level
+Industry
+Investment Management Computer Software Information Technology & Services
+Employment Type
+Full-time
+Job Functions
+Engineering Information Technology Other

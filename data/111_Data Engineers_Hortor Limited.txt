@@ -1,0 +1,52 @@
+Data Engineers
+Hortor Limited
+London, England, United Kingdom
+Summary
+
+In Customer Insights our mission is to create a competitive advantage by building a clear
+understanding of customers’ total travel behavior. One of the foundational tasks to deliver this is to
+create a source of truth in the company for Trips Data, both at a transactional and Customer level.
+Some of the main projects to deliver this involve connecting data from different products, bringing
+the connected trip to life in our databases, metrics and insights, creating a data warehouse,
+applying use cases of this data to the business such as cross selling opportunities and many more to
+come.
+
+As a Data Engineer, you are responsible for the development, performance, quality, and scaling of our data pipelines, with a special focus on data quality. You will work independently and will also be responsible for making technical decisions within a team.
+
+Important Aspects of The Job Include
+Rapidly developing next-generation scalable, flexible, and high-performance data pipelines.
+Solving issues with data and data pipelines, prioritizing based on customer impact.
+End-to-end ownership of data quality in our core datasets and data pipelines.
+Experimenting with new tools and technologies to meet business requirements regarding
+performance, scaling, and data quality.
+Providing tools that enhance Data Quality company wide.
+Providing self-organizing tools that help the analytics community discover data, assess
+quality, explore usage, and find peers with relevant expertise.
+Acting as an intermediary for problems, with both technical and non-technical audiences.
+Contributing to the growth of our organization through interviewing, on-boarding, or other
+recruitment efforts.
+
+Key skills
+We are looking for driven Data Engineers who enjoy solving problems, who initiate solutions and discussions, and who believe that any challenge can be scaled with the right mindset and tools.
+The ones that fit us best are the people who match the following requirements:
+
+Minimum of 3 years of experience in the field, using 2 or more server-side programming languages -- preferably Java, Python, Perl, etc.
+Experience with building scalable data pipelines in distributed environments with technologies such as Hadoop, Cassandra, Kafka, Spark, HBase, MySQL, etc.
+Knowledgeable about data modeling, data access, and data storage techniques.
+Understands and can develop streaming processing applications using technologies like
+Flink, Kafka-Streams, Spark-Streaming, etc.
+Hands-on experience of developing in and contributing to open-source data technologies,
+such as Hadoop.
+Demonstrable experience with SQL, HQL, CQL, etc.
+Experience of working on systems on large scale.
+Good understanding of basic analytics and machine learning concepts.
+Preferably a university degree in Computer Science.
+Excellent communication, written and spoken.
+Seniority Level
+Associate
+Industry
+Information Technology & Services
+Employment Type
+Contract
+Job Functions
+Information Technology Other

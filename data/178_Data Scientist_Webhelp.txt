@@ -1,0 +1,42 @@
+Data Scientist
+Webhelp
+United Kingdom
+Are you an innovative and organised data and analytics practitioner? Do you have the ability to develop and deliver industry-leading products to solve business and customer issues at scale? If you have a flair for translating difficult problems into practical solutions, then we have an opportunity to join our team as a Lead Data Scientist (Product Development) to support our people first strategy.
+
+Working with Gobeyond Partners as part of the Webhelp group, you will join a community of more than 70,000 people across 160 locations in over 50 countries delivering exceptional customer experiences for some of the world’s leading brands.
+
+Joining our Analytics Practice, which has global responsibility, you will be part of a team who build analytics tool sets across the business, lead the development and deployment of our analytics capabilities, propositions, and expertise.
+
+If you’re ready to take on a new challenge that is sure to lead your career down a rewarding path in the right direction then apply today.
+
+What you’ll be doing
+Taking projects from initial business case into detailed scoping and delivery of each analytics product
+Owning projects through delivery, ensuring time, cost/benefits, and quality of solutions are managed
+Establishing simple and effective governance with each product/business owner to ensure effective management of expectations and outcomes
+Leading a small team of data scientists and data engineers to design and build each analytics product
+Coaching the team in the technical and soft skills required, from product brief through to data manipulation, data science / machine learning, application development and commercial implementation
+Utilising internal solutions along with third party vendor applications and where relevant, open source algorithms, continually scanning the market for innovative analytics and data science capabilities that could benefit our business and clients
+Utilising the cloud analytics platform and ensuring future product needs are accommodated in the development roadmap
+
+What you’ll need
+Strong technical understanding of analytics tools, techniques, and strategy, acquired through extensive first-hand experience of designing and delivering data and analytics projects
+Experience of leading teams of data scientists, with the ability to develop both the technical capabilities and ‘soft-skills’ of the individuals within their area
+Credibility in front of senior stakeholders, with the ability to turn complex topics into compelling and simple products that address customer needs and drive tangible business value
+Strong project management and commercial knowledge, able to design commercial models for analytics solutions that maximise value for the client (internal and external) and develop business cases that demonstrate a strong ROI
+Experience and expert knowledge of regulation, risk and security topics relating to data security, and privacy
+Extensive experience on SQL or related RDBMS language is a must, along with a working knowledge of R / Python and use of big data frameworks and visualisation tools such as PowerBI
+Working knowledge of unstructured data analytics, with a particular focus on speech, text, and digital data
+Strong project management experience using waterfall or agile methods
+Experience of delivering analytics/data-led solutions within a Professional Services/Consulting organisation (Desirable)
+A proven track record of working with data and analytics within a regulated environment such as Financial Services (Desirable)
+Experience and hands on knowledge of MS Azure infrastructure and analytics tools (Desirable)
+
+Take this opportunity to join our collaborative team of game-changers.
+Seniority Level
+Mid-Senior level
+Industry
+Outsourcing/Offshoring
+Employment Type
+Full-time
+Job Functions
+Analyst

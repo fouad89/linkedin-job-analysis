@@ -1,0 +1,43 @@
+Senior Data Scientist
+NielsenIQ
+Oxford, England, United Kingdom
+Job Description
+
+Senior Data Scientist, Oxford
+
+Our Data Science teams help to provide NielsenIQ’s clients with the most complete understanding of the market and its consumers. With a footprint in over 100 countries across the globe, our expansive data and measurement capabilities provide market context and confidence. We are constantly innovating to keep pace with emerging market trends and the increasingly diverse, demanding, and connected consumer.
+
+What You’ll Do
+Support the development of new/improved methodologies. The primary areas include – but are not limited to – data interpretation, representation/ sampling, bias reduction, indirect estimation, data integration, automation, data validation
+Identify, develop and make recommendations for process improvements and best practices; own implementation of recommendations required.
+Help solve client challenges (e.g. performance mgmt., product or methodology evolution POC). Translate Clients’ requirements into actionable solutions or products.
+Interpret, document, and present/communicate analytical results to multiple business disciplines and stakeholders, providing conclusions and recommendations based on customer-centric data. Be an internal expert in advanced capabilities.
+We’re Looking For Statisticians Who Have
+Previous experience with Panel Data and/or data interpretation in a research context.
+Experienced in high-level programming languages (Python preferred)
+Knowledge in SQL, working with queries and large-scale databases
+Experience in technology stack for cloud computing (Azure, Linux) nice to have
+Eager to continuously learn and adopt changing technologies and tools
+Excellent communication, data visualization & presentation skills, with the ability to effectively interface across cross-functional technology teams and the business
+Bachelor’s or Master’s Degree in Mathematics, Statistics, Socio-economics or other related fields
+About NielsenIQ
+
+NielsenIQ is a global measurement and data analytics company that provides the most complete and trusted view available of consumers and markets worldwide. We provide consumer packaged goods manufacturers/fast-moving consumer goods and retailers with accurate, actionable information and insights and a complete picture of the complex and changing marketplace that companies need to innovate and grow. Our approach marries proprietary NielsenIQ data with other data sources to help clients around the world understand what’s happening now, what’s happening next, and how to best act on this knowledge. We like to be in the middle of the action. That’s why you can find us at work in over 90 countries, covering more than 90% of the world’s population. For more information, visit www.niq.com.
+
+NielsenIQ is committed to hiring and retaining a diverse workforce. We are proud to be an Equal Opportunity/Affirmative Action-Employer, making decisions without regard to race, color, religion, gender, gender identity or expression, sexual orientation, national origin, genetics, disability status, age, marital status, protected veteran status or any other protected class.
+
+About NielsenIQ
+
+Additional Information
+
+NielsenIQ is a global measurement and data analytics company that provides the most complete and trusted view available of consumers and markets worldwide. We provide consumer packaged goods manufacturers/fast-moving consumer goods and retailers with accurate, actionable information and insights and a complete picture of the complex and changing marketplace that companies need to innovate and grow. Our approach marries proprietary NielsenIQ data with other data sources to help clients around the world understand what’s happening now, what’s happening next, and how to best act on this knowledge. We like to be in the middle of the action. That’s why you can find us at work in over 90 countries, covering more than 90% of the world’s population. For more information, visit www.niq.com.
+
+NielsenIQ is committed to hiring and retaining a diverse workforce. We are proud to be an Equal Opportunity/Affirmative Action-Employer, making decisions without regard to race, color, religion, gender, gender identity or expression, sexual orientation, national origin, genetics, disability status, age, marital status, protected veteran status or any other protected class.
+Seniority Level
+Associate
+Industry
+Marketing & Advertising Consumer Goods Retail
+Employment Type
+Full-time
+Job Functions
+General Business

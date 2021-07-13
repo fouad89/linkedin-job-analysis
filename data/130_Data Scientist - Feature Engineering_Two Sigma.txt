@@ -1,0 +1,30 @@
+Data Scientist - Feature Engineering
+Two Sigma
+London, England, United Kingdom
+Two Sigma is a financial sciences company, combining data analysis, invention, and rigorous inquiry to help solve the toughest challenges in investment management, insurance technology, securities, private equity, and venture capital.
+
+Our team of scientists, technologists, and academics looks beyond the traditional to develop creative solutions to some of the world’s most complex economic problems.
+
+Two Sigma's data engineering platform enables us to harness some of the world's most complex & challenging content, as we structure and integrate new datasets into a diverse ecosystem of syndicated financial and industry-specific data products. Two Sigma's data scientists are focused on joining, enriching, and transforming datasets into novel creative measures of economic activity. We utilize a variety of modeling techniques to generate financially-relevant features which feed into Two Sigma’s systematic investment management research processes, we measure the performance and impact of our predictions in a variety of settings, and we further distill economic insights and thematic analyses from our data & observations.
+
+You Will Take On The Following Responsibilities
+Design & implement granular domain-specific features from data, relating them to company, industry, and macroeconomic factors
+Manage requirements for a set of dependent data products derived from a large portfolio of integrated data feeds
+Own end-to-end data workflows and develop deep domain expertise on the underlying actors and behaviors manifested through data
+Contribute to data sourcing strategy across multiple industry data verticals supporting our prediction efforts
+
+You Should Possess The Following Qualifications
+3+ years of experience in data analysis or similar role, preferably in an industry setting
+Advanced degree in Computer Science is preferred
+Demonstrated experience highlighting innovation, creativity, and intuition, e.g the ability to laterally identify other sources of useful information and think 'outside the box'
+Strong coding skills with data-frames are a prerequisite, example platforms include Pandas, R, Matlab, and Apache Spark
+Some prior experience in finance would be beneficial
+Strong written & verbal communication and presentation skills, with experience crafting a compelling narrative supported by data
+
+We are proud to be an equal opportunity workplace. We do not discriminate based upon race, religion, color, national origin, sex, sexual orientation, gender identity/expression, age, status as a protected veteran, status as an individual with a disability, or any other applicable legally protected characteristics.
+Industry
+Information Technology & Services Computer Software Financial Services
+Employment Type
+Full-time
+Job Functions
+Engineering Information Technology

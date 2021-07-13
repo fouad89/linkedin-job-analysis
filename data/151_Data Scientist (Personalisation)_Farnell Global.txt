@@ -1,0 +1,48 @@
+Data Scientist (Personalisation)
+Farnell Global
+Leeds, England, United Kingdom
+Farnell, part of Avnet, is currently recruiting for the role of Front End Developer – UI (Personalisation) to join our growing Agile team. We are one of the world’s leading brands in high-service electronics components and technology products distribution.
+
+We’ve been here for over 80 years and a part of that success is because we put people at heart and center of everything we do. Earlier this year we embarked on an Agile transformation journey, standing up multiple cross-functional scrum teams who are all committed to building products that our customers will love.
+
+We are also moving to modern cloud based architecture and a true DevOps mindset to make sure we give a great experience to our suppliers and customers at any moment of the day, because that’s the Farnell way.
+
+WHo ARE YOU
+
+You thrive off designing and developing data mining tools, modelling complex problems, discovering insights and identifying opportunities through the use of statistical, algorithmic and visualization techniques. You are intellectually curious, and not afraid to stand up and question validity of data where necessary. You have an understanding of Agile methodologies.
+
+More Specifically
+You have at least a Bachelor’s degree in Data Science, Computer Science, Engineering, Statistics, MS or PhD preferred and at least 3+ years experience
+You have Python or R proficiency working with DataFrames and must have proficiency writing complex SQL queries (required)
+You have proficiency with Machine Learning in favour of clustering, classification, regression, anomaly detection, simulation and optimization problems on large scale data sets (required)
+You have proven ability to merge and transform disparate internal & external data sets together to create new features (required)
+You have experience with Big Data technologies (e.g., Hadoop, Spark) and with data visualization tools (e.g., Tableau, R Shiny) (preferred)
+You have exceptional communication and collaboration skills to understand business partner needs and deliver solutions, and a bias for action, with ability to deliver outstanding results
+
+
+What You’ll Do
+
+The Personalisation team is on a mission to tailor digital experiences to multiple segments globally across digital channels. As a data scientist in an agile team, you are responsible for building next generation advanced analytics engines and services which will support strategic business decision making. You will leverage your strong expertise in artificial intelligence through use of machine learning, data mining, and information retrieval, and will collaborate with business partners to define the technical problem statement and hypothesis to test; with the support of a cross-functional team. You are comfortable working in a constantly changing work environment.
+
+Furthermore
+You will collaborate with business partners to develop novel ways to meet objectives utilising cutting edge techniques and tools
+You will lead analytic approaches, integrating work into applications and tools with data engineers, business leads, analysts and developers
+You will create repeatable, interpretable, dynamic and scalable models that are seamlessly incorporated into analytic data products
+You will engineer features by using your business acumen to find new ways to combine disparate internal and external data sources
+You will share your passion for Data Science with broader enterprise community; identify and develop long-term processes, frameworks, tools, methods and standards
+
+
+a Career With Farnell
+
+A career at Farnell means you will work alongside remarkable people who will help you reach your full potential and have a successful career with us. Your unique voice will be heard here and together we can build a better, stronger and more inclusive workplace that will bring us to being the leading B2B eCommerce brand for another 80 years.
+
+Farnell is an equal opportunity employer and all qualified applicants will receive consideration for employment without regard to race, colour, religion, sex, national origin, age, disability status, veteran status, marital status, citizenship status, sexual orientation, gender identity or any other characteristic protected by law. We provide reasonable accommodations for individuals with disabilities to ensure that they have an equal opportunity to apply and be considered for a position.
+
+Seniority Level
+Entry level
+Industry
+Information Technology & Services Consumer Goods Financial Services
+Employment Type
+Full-time
+Job Functions
+Engineering Information Technology

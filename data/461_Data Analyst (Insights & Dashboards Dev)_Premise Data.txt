@@ -1,0 +1,38 @@
+Data Analyst (Insights & Dashboards Dev)
+Premise Data
+London, England, United Kingdom
+What do we do?
+
+Premise provides visibility, attribution, and on-the-ground insights in key markets in a matter of days, not weeks. Our unique combination of global Contributors and advanced machine learning provides you with Data for Every Decision™. Premise is currently available in over 110 countries and more than 35 languages around the world.
+
+We think differently about market research, an industry undergoing fundamental changes right now. We’re adopting technology around new data collection methods, geolocation and in-the-moment customer experience that will modernise how (and how deeply) companies understand their customers.
+
+We are hiring across our business development, customer success and data analytics teams in London, to help us deliver growth as we establish our business in the UK.
+
+Our Data Analyst works in the data and analytics team, a group of analysts, engineers, developers, and data scientists who are responsible for turning our raw data into the insights our customers need to make faster, more effective decisions.
+
+Who You Are
+Ability to understand collection requirements and goals through engaging closely with customers, both on-site and virtually, to understand the crucial questions that they need answers to.
+Build customer-facing deliverables and/or visualisations by working alongside customer success teams to build data collection mechanisms, evaluate early submissions, and create ongoing reports and analyses
+Work with analytics team to build interactive dashboards using SQL queries and Data Studio to engage the underlying data
+Critically evaluate customer data and refine collection strategies by performing ongoing analysis of data to uncover issues related to quality, consistency, and/or comprehension of questions and tasks
+Highlight key insights using statistics and other analytically rigorous tools, packaging them for end users in easily digestible language and formats
+Recommend concrete suggestions for improvement and work with other teams to implement, tracking their impact and utility over time
+Translate research and requirements into recurring products by working with product and data science teams to prototype new products and capabilities based on your research and/or customer requirements
+
+Base Salary: £65k - £80k + Commission
+
+Who We Are
+
+We are a passionate tight-knit team that appreciates candor, and deeply values the diversity of our backgrounds. Our diversity mirrors the global nature of our work: we’ve lived in 65 countries, speak 38 languages, and believe in the value of life experience that an unconventional background inherently brings. What unites us is our innate curiosity and collective ambition to build technology that ultimately has measurable human impact.
+
+Do you want to impact the future of global insights and analytics...then let’s talk.
+
+Seniority Level
+Entry level
+Industry
+Information Technology & Services Computer Software Internet
+Employment Type
+Full-time
+Job Functions
+Information Technology

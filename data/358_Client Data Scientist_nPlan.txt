@@ -1,0 +1,54 @@
+Client Data Scientist
+nPlan
+London, England, United Kingdom
+We are looking for a data scientist to join our brand new Client Data Science team, working closely with our clients to unlock insights and value in the largest infrastructure projects in the UK and worldwide.
+
+Over the last 4 years, nPlan has accrued the largest known data set of construction schedules, and we are using this data to unlock a trillion dollars of new project value through data-derived forecasting. Through our advanced Machine Learning research & developments, nPlan are forecasting risk to major construction projects more accurately than ever. A crucial step on this journey is the delivery of deep insights about very large project forecasts - this is where you come in.
+
+In this role, you’ll be working with client project teams to generate bespoke insights for their use-case, and prototyping ideas that will shape the future of our product. By working so closely with our largest clients (including HS2, Heathrow & Crossrail), you will have the opportunity to design, build, and validate new ideas that help them deliver major projects on time and on budget, changing the construction industry forever. Within nPlan, you will be collaborating with Risk Engineers, Customer Success Managers, as well as other Data Scientists, Machine Learning and Software Engineers, to answer our clients’ most difficult questions by diving deep into their project data and our own data & insights on historical projects.
+
+You’ll be joining a world class team from around the world, working on projects that are exciting for our clients & investors. GV, among other top investors, all believe in the future we are creating, and have backed this with a recent $18.5m investment round. We have even more ambitious growth plans for 2021 and beyond, as we scale our product and team at an exciting pace to match the market demands.
+
+At nPlan we believe that diversity within the team helps us to be our best. Whilst growing our team we see the benefits that a range of views and opinions can bring. This supports an environment of creativity and innovation which has helped drive our product and service forward. It’s important to us that our whole team feel that nPlan is the place that they can achieve their aspirations whilst feeling welcome, supported and respected.
+
+What We Need You To Do
+Drive big data exploration from the front, with the intention of finding new insights and visualisations for our clients - helping reduce delays on major projects from day one!
+Help with the communication and presentation of these insights to client project teams, as part of the Client Data Science chapter
+Help to understand the gap between client need and the product, and prototype tools to bridge that gap in collaboration with our diverse technical teams
+We Need You To Have
+An undergraduate degree (or above) in Mathematics, Computer Science or another numerical subject (or equivalent experience)
+Experience using Python and associated Data Science libraries and tools (pandas, numpy, seaborn, matplotlib, scipy), with a strong data visualisation component
+Proactive stakeholder management and communication skills, to identify problems and quickly iterate on new solution prototypes
+An ability to translate client questions into actions that lead to either prototypes or reports that satisfy the (sometimes implicit) need
+Strong collaboration skills, allowing you to work closely with Software Engineers, Data Scientists, ML Engineers, Risk Engineers, and various other roles. You will have to be comfortable communicating the client agenda to the product teams and bring as much product feedback to product management as possible.
+We Would Like You To Have
+Experience in self-driven exploration of datasets and communication of results to stakeholders
+Familiarity with version-control systems (git or similar), testing and code review processes
+Understanding of SQL (BigQuery, MySQL, …)
+Attention to detail is important - please mention the word ‘crane’ in your application
+Strong coding skills
+A solid understanding of Probability Theory
+The Typical NPlanauts Are
+Generally curious about the world.
+Serious, without taking themselves too seriously.
+Able to define their own work independently.
+Proactive about improving the world around them.
+Open-minded about new technical ideas.
+Willing to change their mind on the basis of the evidence.
+What Working At NPlan Will Be Like
+We're still a small team so there's plenty of opportunity for a high degree of ownership over different areas of the product, and you will be directly exposed to all areas of the business.
+Your voice will always be heard. What you do or say counts, not who you are or where you're from.
+We have three core values that underlie everything we do: Learn from Everything, Be Radically Truthful, and Aim High, Run Fast. These enable us to create a collaborative, inclusive environment where we can move effectively and efficiently to implement the best solutions.
+We are a cross-disciplinary team, and come from all backgrounds and countries.
+Fantastic benefits package for Health & Wellbeing, Learning & Development, family leave, weekly team lunches and more.
+We give all employees share options in the company - these have the potential to grow in value significantly if we continue on our current trajectory (though it’s important to know that the value of shares can go down as well as up)
+We are committed to addressing the diversity problem in the tech industry, and that starts with making sure we have a diverse team where everyone feels at home and can contribute as an equal.
+Having time to yourself and a private life is important. We offer a very flexible work environment and a generous holiday policy.
+Seniority Level
+Mid-Senior level
+Industry
+Information Technology & Services Computer Software Internet
+Employment Type
+Full-time
+Job Functions
+Engineering Information Technology

@@ -1,0 +1,47 @@
+Data Scientist
+NatWest Group
+London, England, United Kingdom
+Join us as a Data Scientist
+
+You’ll be identifying and working with large, complex data sets to solve difficult, non-routine analysis problems, applying advanced analytical methods as needed
+We’ll look to you to actively participate in the data community to identify and deliver opportunities to support the bank’s strategic direction through better use of data
+This is an opportunity to achieve excellent exposure in a challenging role and to make a real impact with your work
+
+What you'll do
+
+As a Data Scientist, you’ll be evaluating and improving business processes and products using scientific rigour and statistical methods. You’ll be supporting and collaborating with multidisciplinary teams of data engineers and analysts on a wide range of business problems including the prevention of financial crime, understanding customer interactions with the bank and the management of credit risk.
+
+You’ll also be:
+
+Developing and deepening your knowledge of data structures and metrics, advocating for changes where needed for product development
+Communicating effectively across the organisation to make business recommendations, gaining business buy-in to solutions tailored to customers' needs
+Conducting analysis that includes data gathering and requirements specification in collaboration with business stakeholders
+Iteratively building and prototyping data analysis pipelines to provide insights that will ultimately lead to production deployment
+Identifying new methods, tools, techniques and opportunities to deliver business value via cost reduction, income generation or improved customer experience through the application of data science
+
+The skills you'll need
+
+We’re recruiting for multiple roles across a range to levels, up to and including experienced Managers.
+
+To succeed in these roles, you’ll need evidence of previous project implementation and work experience gained in a data analysis related field as part of a multidisciplinary team. Additionally, you’ll hold a degree in a quantitative discipline or have evidence of equivalent practical experience.
+
+You'll have experience with Python and Scala based data science development using standard data science libraries and big data processing frameworks, as well as experience of the software development and DevOps life cycle and in using tools such as Git, TeamCity, and MLflow. You'll also ideally have experience of building MVP web applications such as Flask and Django.
+
+You’ll also demonstrate:
+
+Experience with data science software, database languages, big data technologies and cloud environments
+Experience articulating and translating business questions and using data science techniques, such as supervised and unsupervised ML, deep learning and graph based models, to arrive at an answer using available data
+Experience designing and building end-to-end machine learning based pipelines
+The ability to demonstrate leadership, self-direction and a willingness to both teach others and learn new techniques
+Effective written and verbal communication skills and the ability to adapt the communication style to a specific audience
+Extensive relevant work experience, including expertise with statistical data analysis such as linear models, multivariate analysis, stochastic models and sampling methods
+
+If you need any adjustments to support your application, such as information in alternative formats or special requirements to access our buildings, or if you’re eligible under the Disability Confident Scheme please contact us and we’ll do everything we can to help.
+
+Apply for this job
+Industry
+Banking
+Employment Type
+Full-time
+Job Functions
+Engineering Information Technology

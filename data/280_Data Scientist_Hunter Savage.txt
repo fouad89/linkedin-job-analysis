@@ -1,0 +1,42 @@
+Data Scientist
+Hunter Savage
+Belfast, Northern Ireland, United Kingdom
+Posted by
+Lindsey McCracken 2nd
+Helping busy technology leaders build exceptional IT teams that transform their businesses. Contact me today at lindsey@huntersavage.com
+Send InMail
+Data Scientist
+Are you an experienced data scientist keen to work on technically challenging projects in a high growth company with an exciting client base?
+Hunter Savage is partnering with a leading analytics company to recruit a number of data scientists to work as part of a relatively new team. You will get the opportunity to work across all stages of the data science projects from data sourcing, integration, data quality and visualisation, model building and deployment and monitoring. You will also get exposure to and use a range of tools to include data integration tools, jupter notebooks and suites of analytics and visualisation tools. Due to the expected rapid growth of this team there will also be a very clear career path.
+They are looking for data scientists who have a real passion for data and to create models and insight to drive valuable decision making. You will also need to be a quick learner and be able to pick up and apply new tools and techniques quickly.
+The Role
+You will be required to;
+- use different database technologies and integration tools to pull together the requisite data for analysis
+- use SQL querying and tools like Alteryx to integrate different data sets
+- undertake data quality investigations to understand if the data is sufficiently clean to provide proper insights
+- working closely with engineers, strategists, project managers on project teams to build prototypes and test business hypotheses
+- communicate results clearly to end users through presentations and written reports
+- create dashboards using data visualisation tools such as PowerBI, Tableau and Qlik View
+- using python and R to analyse data and run different models
+The Person
+- Graduate - Computer Science/Maths/Engineering or another related discipline
+- 3 + years' experience in a data science/analysis role
+- Experienced in data gathering, manipulation, investigation and analysis, big data experience is a plus
+- Experience of python/R and associated data & ML libraries
+- Previous data modelling experience (e.g. classification, clustering etc)
+- Experience with visualisation tools such as Tableau, Qlik View
+- Previous experience of quick prototyping and agile development
+Next Steps
+For further information, and to apply for this data science job, please contact Lindsey McCracken. Visit our website for a full list of IT opportunities.
+
+Salary is usually negotiable, salary details listed are to be used as a guide and are based on factors such as your experience and expertise.
+
+We reserve the right to heighten short listing criteria dependent upon the calibre of response.
+Seniority Level
+Entry level
+Industry
+Information Technology & Services
+Employment Type
+Full-time
+Job Functions
+Information Technology

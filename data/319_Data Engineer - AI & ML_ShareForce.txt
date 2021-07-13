@@ -1,0 +1,45 @@
+Data Engineer - AI & ML
+ShareForce
+London, England, United Kingdom
+Posted by
+Lucy Henson
+Scaling Up Europe's Fastest Growing Tech Firms 🚀
+Send InMail
+This is an exciting opportunity for Data Engineers to join a market leading AI Solutions firm.  Our client is operating at the forefront of GCP, proving the capabilities of this exciting new platform in real-world solutions for some of the UK’s leading companies.  This position is for engineers who have strong interest and good experience in artificial intelligence, big data, serverless compute, machine learning and related technologies. 
+
+Responsibilities 
+This is a role for ambitious technologists who wish to work with the latest cloud technologies. You’ll work on projects which have a focus on data, with clients across multiple sectors.   
+Implementing /deploying big data processing workflows 
+Design and build of cloud-scale Services and API’s 
+Handling all aspects of development – design, development, build, deployment, monitoring and operations. 
+Researching and experiment with emerging technologies and industry trends with a view to bringing business value through early adoption 
+Working in an agile, cross-functional team composed of both engineers and data scientists, taking responsibility for delivering predictive data products 
+Using iteration to engage the client in the solution development journey. 
+Refactoring code into reusable libraries, APIs, and tools. 
+
+Skills / Experience Profile 
+Data Engineers work to harness data and develop algorithms that supercharge client’s decision making.  Required skills / experiences include: 
+Expert knowledge in Python and SQL 
+Broad experience across data engineering concepts including, Data Ingestion and Integration, IoT and Event Streaming, Data Storage (i.e. data lakes, blob storage), Relational Databases and Scalable Compute (i.e. MPP architectures). 
+Experience in developing cloud-based applications running on Microsoft Azure, Google Cloud Platform or Amazon Web Services 
+Excellent knowledge of big data frameworks like Hadoop, Apache Beam, Spark. 
+Good Knowledge of orchestration and data movement tools like Apache Airflow, Luigi, Azure Data-factory. 
+Strong experience of containerisation using Kubernetes 
+Great understanding of Reporting and Analytics, Business Intelligence and Data Warehousing concepts / methods. 
+Good communication skills. 
+
+Additional Information 
+Salary Offered: £40k - £80k per annum based on depth of previous experience 
+Benefits: Comprehensive, including bonus, pension and private medical insurance 
+Location: London with occasional client focused travel and flexible working 
+
+Our Client 
+Our client is a well-funded, early stage AI Solutions provider utilising the latest developments in cognitive computing technology to re-imagine decision making for some of the UK’s leading companies. With a number of publicly acclaimed products already in production, our client has embarked on an ambitious period of growth to service significant client demand.
+Seniority Level
+Mid-Senior level
+Industry
+Information Technology & Services
+Employment Type
+Full-time
+Job Functions
+Information Technology Consulting Product Management

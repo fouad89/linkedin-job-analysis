@@ -1,0 +1,55 @@
+Data Scientist - London
+Dataiku
+London, England, United Kingdom
+Dataiku allows enterprises to create value with their data in a human-centered way while breaking down silos and encouraging collaboration. One of the most unique characteristics of our product, Dataiku, is the breadth of its scope and the fact that it caters both to technical and non-technical users. With Dataiku, we aim to empower people through data and democratize data science.
+
+We're looking for a Data Scientist to join Dataiku in our office in London.
+
+Dataiku’s promise to our customers is to provide them with the software and support needed to accelerate their Data Science and Machine Learning maturity. Dataiku’s Data Science team is responsible for delivering on that promise. Internally, we call the team the DataFab, ask us about it!
+
+As a Data Scientist at Dataiku, you will have the opportunity to participate in our customer's journey, from supporting their discovery of the platform, it's installation and configuration, to training users and co-developing data science applications, from design to deployment.
+
+You will get hands-on experience coding in multiple languages and applying the latest big data technologies to business uses cases.
+
+Our ideal candidate is comfortable learning new languages, technologies, and modeling techniques while being able to explain their work to other data scientists and clients.
+
+What You'll Do
+Co-develop data science projects with our customers
+Crunch, analyze and investigate various kinds of data, across industries and use cases
+Explore new machine learning algorithms, and apply them to real-world business applications
+Deploy Machine Learning models to production, and develop its integration or front-end (e.g. a predictive webapp)
+Help users discover the Dataiku platform and to master its use by providing trainings to users with a wide range of backgrounds and skill levels (data science, IT, analysts, managers, etc…)
+Communicate results to non-technical colleagues and clients
+Provide data science expertise to customers and internally to Dataiku’s sales, marketing, and R&D teams
+Who You Are
+Curiosity and a desire to learn new topics and skills
+Empathy for others and an eagerness to share your knowledge and expertise with your colleagues, Dataiku’s customers, and the general public
+2+ years of experience with R or Python
+2+ years of experience with predictive modeling
+Familiarity with data visualization in Python, R or JavaScript
+Understanding of relational data structures and SQL
+Bonus Points For Any Of These
+Experience with PySpark, SparkR or Scala
+Experience developing WebApps
+Experience building APIs
+Experience with cloud infrastructures, especially Kubernetes
+Passion for teaching or public speaking
+Benefits
+Exposure to a wide range of enterprise customers across industries. Examples of Dataiku’s hundreds of customers include GE, Unilever, Comcast, Ubisoft, OVH, Santander, and Capgemini.
+A wide diversity of projects and tasks ensures that no two days will be alike
+Opportunity to contribute to the core vision of our company and product: simplify and democratize the way people work with data and use Artificial Intelligence
+Exposure to the latest, open-source technologies that Dataiku integrates. See our release notes for our latest developments: https://doc.dataiku.com/dss/latest/release_notes/index.html
+Trips to Paris (our European HQ) and other locations worldwide for company-wide and team summits
+Opportunity to work with a smart, passionate and driven team in hypergrowth mode
+Dataiku has a strong culture based on key values: Transparency, Ambition, Excellence, Humility, and Empathy
+To fulfill its mission, Dataiku is growing fast! In 2019, we achieved unicorn status, doubled in size and opened new offices across the globe. 2020 looked no different as we announced a $100 million Series D in August! We are now more than 600 Dataikers globally. Spanning from Sydney to Frankfurt, Denver to London, geography (and remote work) doesn’t stop Dataikers from working closely together and sharing experiences. Collaboration is key within our product and culture. We strive to create a sense of belonging and community while fostering diverse thinking by encouraging cross-team, cross-office interactions like our annual company offsite or Paris onboarding. Fly over to Twitter , LinkedIn , and Instagram to read stories about our culture, people, and success.
+
+Our practices are rooted in the idea that everyone should be treated with dignity, decency and fairness. Dataiku also believes that a diverse identity is a source of strength and allows us to optimize across the many dimensions that are needed for our success. Therefore, we are proud to be an equal opportunity employer. All employment practices are based on business needs, without regard to race, ethnicity, gender identity or expression, sexual orientation, religion, age, neurodiversity, disability status, citizenship, veteran status or any other aspect which makes an individual unique or protected by laws and regulations in the locations where we operate. This applies to all policies and procedures related to recruitment and hiring, compensation, benefits, performance, promotion and termination and all other conditions and terms of employment.
+Seniority Level
+Entry level
+Industry
+Information Technology & Services Computer Software Internet
+Employment Type
+Full-time
+Job Functions
+Engineering Information Technology

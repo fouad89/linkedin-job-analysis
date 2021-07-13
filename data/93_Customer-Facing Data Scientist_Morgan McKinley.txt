@@ -1,0 +1,28 @@
+Customer-Facing Data Scientist
+Morgan McKinley
+London, England, United Kingdom
+Morgan McKinley is partnering with a fast-growing consulting company based in London. This is a great opportunity for Data Scientists who are extremely passionate about data, innovation and are also looking for a customer-facing role.
+
+Projects And Duties Include
+Using Data Science to solve a range of business problems such as financial crime detection, customer retention, improve product take-up rates and portfolio optimisation
+Coding primarily in Python, but also in associated languages such as R, SQL, working with both structured and unstructured data sets
+Working as part of a multi-disciplinary, agile, team that also includes Business Analysts, Data Engineers and Data Visualisation SMEs
+Required Experience
+3 years+' commercial hands-on Data Science experience in a customer or business facing capacity.
+Confident Python ML software coding skills
+Demonstrable hands-on experience with ML libraries (such as scikit-learn and/or TensorFlow)
+Strong client-handling skills, able to deal maturely with client requests and challenges
+A Master's degree in maths, physics, computer science or other highly numerate discipline
+Please get in touch to discuss the role further.
+
+Morgan McKinley is acting as an Employment Agency and references to pay rates are indicative.
+
+BY APPLYING FOR THIS ROLE YOU ARE AGREEING TO OUR TERMS OF SERVICE WHICH TOGETHER WITH OUR PRIVACY STATEMENT GOVERN YOUR USE OF MORGAN MCKINLEY SERVICES.
+Seniority Level
+Entry level
+Industry
+Information Technology & Services Staffing & Recruiting Financial Services
+Employment Type
+Full-time
+Job Functions
+Engineering Information Technology

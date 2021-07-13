@@ -1,0 +1,32 @@
+Lead Data Scientist
+Tesco Bank
+Edinburgh, Scotland, United Kingdom
+Posted by
+Kevin McLaren
+Resourcing Consultant at Tesco Bank
+Send InMail
+You’ll bring the ambition, we’ll provide the opportunities
+ Tesco has built its success – and its reputation – on a tradition of excellent service and dedication to the customer, but Tesco Bank is about more than bringing these values to a new market. It’s about bringing a new approach to personal finances and retail banking. As we look to build upon existing talent within our senior and specialist roles, we’re creating a backbone of excellence – offering the highest-calibre of professional a chance for wide-ranging and long-lasting impact in a business that’s breathing new life into the industry.
+  Overview:
+ A technical lead using data science to lead the development and deployment of predictive models delivering benefit to the business and the customer. Working in a project environment to drive forward data science with tangible benefits.
+  What You’ll Be Responsible For:
+  Be the technical interface with business stakeholders to ensure commercial and credit risk requirements are accurately captured and data science solutions are delivered in the right form to meet their needs.
+Always keep the customer in sight and ensure a Minimal Viable Product is delivered to make a tangible difference.
+Support the Data Science Manager in growing the technical capability of Data Science colleagues and be an advocate for Data Science across the Customer Division.
+Keep abreast of Data Science innovation with external centres of excellence and be the expert point of contact for data science use cases across the Bank.
+Ensure that all models are built and used within the Bank's model governance framework. Act as the lead contact with internal oversight functions.
+Be the lead technical interface into other areas of Analytics and the wider Customer division to extract tangible value from data science solutions delivered by the team.
+  What You’ll Bring:
+  Extensive experience of data science and predictive modelling to tackle business problems in banking commercial and/or credit risk.
+Strong background in maths/stats, computer science
+Grasp of profit / loss drivers in retail banking and an understanding of credit risk principles and application.
+Extensive experience working in a fast paced project environment.
+   Wherever your talent lies, you’ll find challenge and reward in equal measure. We’re here to go the extra mile for our customers – and we’ll do the same for you. It’s simple. As long as you have the ambition, we’ll provide the opportunity for success. Visit our website and find the role that’s right for you. 
+  Seniority Level
+Mid-Senior level
+Industry
+Banking
+Employment Type
+Full-time
+Job Functions
+Engineering Information Technology

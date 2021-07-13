@@ -1,0 +1,35 @@
+Senior Data Scientist
+Johnson Matthey
+Billingham, England, United Kingdom
+Role:
+The Senior Data Scientist in Battery Materials’ Process Development department will play a key role in the digitalisation efforts of the department. Initially, the focus will be on supporting the implementation, configuration and embedding of new solutions that are being rolled-out for data capture and management. As the department’s data maturity increases, the focus will shift towards the use of advanced analytics and Machine Learning to support data-led decision making.
+
+Key responsibilities:
+Be a data and analytics champion, i.e. promote and enable good data practices and use analytics capabilities and expertise to educate and coach colleagues to leverage these capabilities in achieving their business goals.
+Identify opportunities for improving data quality and practices in the department with the aim to develop FAIR data and increase the department’s data maturity.
+Play an active role in understanding the needs of the researchers in the team and working with solution providers to configure solutions where necessary to ensure ease of use and adoption.
+Build data analytics capabilities to deliver insight to the team and allow faster data-led decision making.
+Drive the implementation and configuration of new data capture and management systems within Process Development to meet business needs and enable advanced analytics.
+Deliver measurable business value and improvement through system implementation in an agile way.
+Coach scientists in the use of novel data analytics to generate insight into research challenges.
+
+Are you the ideal candidate?  
+Proven experience in Data Science, Computer Science, Informatics, or related discipline.
+Knowledge of FAIR data principles.
+Statistical analysis and interpretation of data.
+Experience with Machine Learning.
+Experience with scientific data management tools (e.g. LIMS and ELN).
+Experience with Advanced Analytical tools (e.g. AWS Redshift / Tableau).
+
+How to apply:
+If you have the necessary skills and experience to join our team, please apply online.  For any queries or should you require any reasonable adjustments to support your application please contact UKRecruit@matthey.com.
+Closing date for applications: 25 July 2021
+Johnson Matthey Plc is an equal opportunities employer and positively encourages applications from suitably qualified and eligible candidates regardless of sex, race, disability, age, sexual orientation, marriage or civil partnership, pregnancy or maternity, religion or belief.
+Seniority Level
+Mid-Senior level
+Industry
+Chemicals
+Employment Type
+Full-time
+Job Functions
+Information Technology

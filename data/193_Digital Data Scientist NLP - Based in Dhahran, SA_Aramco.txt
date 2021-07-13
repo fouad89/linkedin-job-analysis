@@ -1,0 +1,64 @@
+Digital Data Scientist NLP - Based in Dhahran, SA
+Aramco
+London, England, United Kingdom
+Position Description
+
+Saudi Aramco is seeking an experienced Digital Data Scientist specializing in NLP to join the Digital Transformation AI and Analytics Organization (DT AI&A).
+
+The Digital Transformation AI & Analytics Organization (DT AI&A) is responsible for providing AI-powered solutions to various business functions within Aramco.
+
+The solutions leverage the latest technological advancements of Artificial Intelligence (AI) and analytics to create business value across the value chain. The DT AI&A organization will be a center of excellence in Saudi Aramco for AI technologies and data science.
+
+The digital data scientist’s primary role is to work closely with business functions, stakeholders, and functional teams to consult on AI use cases, identify potential value from data, formulate AI and data science ideas, and conceptualize them. In addition, build, evaluate and productionize models as appropriate
+
+Minimum Requirements
+
+As the successful candidate, you will hold a Master’s degree in Data Science, Computer Science, Computer Vision, Applied Mathematics, or a related field from a recognized and approved program. A Ph.D. degree is preferred.
+
+You must have at least 5 years of experience with hands-on data science, NLP, and/or machine learning projects/products preferably in the oil and gas industry.
+
+You must also be able to bring ideas from conceptualization to productionalization (putting models in production) using the right tools.
+
+Having very strong expertise in data collection, cleaning, preprocessing, and wrangling is a requirement.
+
+Expertise in handling text data from different data sources is a must.
+
+Knowledge and experience in building knowledge graphs is necessary.
+
+You must be fluent in either R or Python, preferably both, and familiarity with Golang is a plus.
+
+Proficiency in visualization tools and packages; and in communicating data science topics to a nontechnical audience is a requirement.
+
+You must be experienced in information retrieval (content recommendation, search metrics, search query, document classification, entity recognition, topic modelling, etc.).
+
+Proficiency in transfer learning and in fine tuning open-sourced models like BERT is necessary.
+
+Duties & Responsibilities
+
+You will be required to perform the following:
+
+Work with stakeholders throughout the organization to identify opportunities for leveraging company data to drive business solutions.
+
+Mine and analyze data from company data sources to drive optimization and improvement of product development, and business strategies.
+
+Assess the effectiveness and accuracy of new data sources and data gathering techniques.
+
+Develop custom data models and algorithms as needed and appropriate to address problems.
+
+Use predictive modeling to increase and optimize production facilities, revenue generation, and other targeted outcomes.
+
+Develop A/B testing mechanisms and test model quality and value, and validate the associated hypothesis accordingly.
+
+Coordinate with different functional teams to implement models and monitor outcomes.
+
+Develop necessary documentation as per established standards.
+
+AOC Job Category
+
+Information Technology & Systems
+Industry
+Electrical & Electronic Manufacturing Oil & Energy Renewables & Environment
+Employment Type
+Full-time
+Job Functions
+Engineering Information Technology

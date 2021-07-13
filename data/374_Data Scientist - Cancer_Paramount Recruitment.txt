@@ -1,0 +1,99 @@
+Data Scientist - Cancer
+Paramount Recruitment
+London, England, United Kingdom
+Posted by
+Seema Rana
+Senior Recruitment Consultant at Paramount Recruitment
+Send InMail
+Data Analyst - Cancer!
+
+Paramount is working closely with a client who is now moving towards a future of enabling faster, deeper genomic research, bringing genomic healthcare to all who need it.
+
+They are looking for a data scientist or data analyst to join their amazing team in London. You will focus on Cancer.
+
+As a data scientist/data analyst you will be working in the genomics team and will investigate and develop solutions to extract more information from the genome (alignment and variant calling) and to interpret the genome in the context of a persons clinical features.
+
+Genomics data scientists or analysts work as part of squads, building translating state of the art analytics into clinically-fit production quality solutions.
+
+Key responsibilities;
+
+*Benchmarking and fine-tuning tools for quality control, processing and analysis of whole genome sequence data, e.g., alignment, variant callers for types of variants
+
+*Develop algorithms for variant prioritisation / classification to improve their diagnostic potential or actionability
+
+*Performing custom computational analysis for a range of projects in rare disease/germline or cancer/somatic samples and carefully document results using reproducible computing principles
+
+*Developing, prototyping, and validating new features for genome analysis in collaboration with internal and external stakeholders
+
+*Work with other squad members to ensure that solutions are implemented in a robust, scalable, fit for clinic, accredited, production ready for converting prototypes to production pipelines
+
+*Continuously scan the scientific literature to identify new approaches to genome analysis that can be implemented to improve our capabilities
+
+*Contribute to the publication and dissemination of their learnings in the form of scientific papers, white papers, conferences, etc.
+
+
+Essential skills;
+
+*[RD] Excellent knowledge and experience in one or more areas of human DNA analysis, such as rare disease genomics, family-based analysis, genetic association testing, risk score prediction, structural variation, pharmacogenomics, typing of complex genomic regions such as HLA/KIR
+
+*[Cancer] Excellent knowledge in cancer genomics, approaches to call somatic variation and interpret cancer genomes.
+
+*Strong knowledge of statistics and/or machine learning
+
+*Strong knowledge of high throughput sequencing algorithms and available resources. Experience with full cycle of analysing NGS data from sequencing QC to annotation and prioritization of variants.
+
+*Strong programming skills (Python, R)
+
+*Excellent technical writing skills
+
+*A decent publication record demonstrating their ability to conceive and carry to conclusion scientific investigations
+
+*Excellent ability to represent and visualise data to derive insights
+
+*A demonstrable ability to cope under pressure and deliver to deadlines
+
+*Experience in handling large data sets
+
+*Ability to communicate effectively within a multidisciplinary team
+
+*Flexible and co-operative approach to colleagues
+
+*Experience and flexibility to collaborate on code with others including good working knowledge of Git
+
+*Ability to work independently and to show initiative within a team
+
+*Ability to prioritise and balance competing demands
+
+
+Desirable skills:
+
+*Ability to develop production quality code as a part of team
+
+*Experience using container technology / building tools into containers (docker)
+
+*Experience writing pipelines in WDL and or CWL (WDL preferred).
+
+*Experience data wrangling
+
+*Academic or vocational qualifications and/or professional memberships without which this role cannot perform
+
+*PhD experience of working within Rare Diseases or Cancer Bioinformatics/Computational Biology/Systems Biology/ or equivalent work experience
+
+*Ideally undergraduate studies in a strongly quantitative discipline such as (e.g. physics, computer science, or maths). These skills could also have been developed, for example, through a PhD in computational biology, statistical genomics, or statistical genetics.
+
+This is an exciting and challenging role which will require strong technical abilities. Our client is offering a competitive package, with excellent benefits and career progression.
+
+For more information on this role, and to discuss the benefits on offer, please call me on t: +44 (0)121 616 3404 | m: +44 (0)7985 635091 or Email srana@pararecruit.com
+
+Keywords: Human genetics, biomarker discovery, statistics, biostatistics, bioinformatics, data science, transcriptomics, drug discovery, computer science, data engineering, pharmaceutical, genomics, immunology, oncology, rare diseases, cancer, data analyst, London
+
+
+Paramount Recruitment Limited provides services as an agency and an employment business. We regularly have similar roles in this area. Please see our website for details or send your CV in to us to find out the latest opportunities. By applying for this position you agree to our privacy policy which can be found here: https://www.pararecruit.com/legal/privacy-policy/
+Seniority Level
+Entry level
+Industry
+Pharmaceuticals Research
+Employment Type
+Full-time
+Job Functions
+Research Science

@@ -1,0 +1,40 @@
+Network Artificial Intelligence (AI) Researcher
+Samsung Electronics
+Staines-upon-Thames, England, United Kingdom
+Posted by
+Ellis Wadsworth
+Talent Acquisition Manager at hackajob 🚀
+Send InMail
+hackajob is partnered with an innovative software company that works globally for clients across healthcare, commercial, and the public sector. The company specializes in Digital services and Workday, by harnessing cutting-edge technologies this company has established strong relationships on a global scale and has been ranked in the Sunday Times Top 100 Best Companies to work for.
+
+The Data Engineer will be responsible for designing and developing data processing and data persistence software components for solutions which handle data at scale. Working in agile teams, Data Engineers will take responsibility for the quality of the codebase as well as the match to user needs.
+
+Minimum (essential) requirements:
+
+2 + years commercial experience with Python 
+Experience with cloud platforms such as AWS / Azure
+Experience with SQL
+Experience with Data Pipelining
+Experience Data modelling.
+
+Desirable experience:
+
+Software development experience with Cloudera’s distribution of Apache Hadoop and with Python.
+Experience of data visualisation and data complex data transformations, including ETL tools such as Talend.
+Able to productionise machine learning algorithms.
+Understanding of text processing including Natural Language Processing.
+Experience with steaming and event-processing architectures including technologies such as Kafka and change-data-capture products.
+Data modelling experience with data storage technology, such as document, graph, log stores and other non-relational platforms.
+Open source contributor
+
+This position will be client-facing so candidates must be flexible in terms of travel.
+
+If you're interested in finding out more about this fantastic opportunity please get your application in and we can arrange a call.
+Seniority Level
+Mid-Senior level
+Industry
+Internet
+Employment Type
+Full-time
+Job Functions
+Engineering Information Technology

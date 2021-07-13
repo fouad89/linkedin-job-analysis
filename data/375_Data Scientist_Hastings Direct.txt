@@ -1,0 +1,67 @@
+Data Scientist
+Hastings Direct
+Bexhill, England, United Kingdom
+Bexhill London
+
+The Data Scientist will assist in the identification and creation of cutting-edge data assets and predictive models that feed into Hastings’ market-leading pricing activities. This role is within a combined team of Actuaries and Data Scientists championing the adoption of the latest machine learning (ML) techniques to leverage powerful insights from vast amounts of customer information.
+
+About The Role
+
+Your remit will include the following:
+Create and maintain analytical tools to support in the management of our risk portfolio.
+Develop best in-class models to predict claims outcomes, fraud and other risk KPIs.
+Engineer powerful new rating factors to be deployed into our rating algorithms.
+Identify, analyse and monetise new data sources.
+Essential
+
+About you
+
+Experience building predictive models in a commercial environment.
+Keen interest in emerging ML techniques and their commercial value.
+Proficiency in Python and/or R.
+Proficiency in SQL.
+Strong communication skills.
+Ability to work cross-functionally with Data Engineers, Data Scientists, Actuaries and Pricing Analysts.
+Personal Attributes
+
+Natural problem solver who loves building quality solutions to complex real-world challenges.
+Ability to work independently to deliver solutions to a well-defined set of requirements.
+Dynamic, flexible and delivery-focused work ethic required to adapt to a fast-paced environment.
+Benefits For You
+
+For us, flexibility is key. Alongside the financials of a pension contribution match up to 10%, 25 days of holiday (which you can buy or sell more of) and up to 5% bonus, we are an agile group that understands talent hasn’t got a template. Our team is spread across offices in London and Bexhill, with options to work from home to suit you and variable hours that we can commit to moulding the role to you.
+
+Hastings Group is an equal opportunities employer which means we treat people fairly. We welcome applications from all suitably skilled persons regardless of their gender, age, race, disability, ethnic background, religion/belief, sexual orientation, gender reassignment or marital/family status.Please also note that we have a thorough referencing process, which includes credit and criminal record checks.
+
+Job posting end date:
+
+22/07/2021
+
+Posted 21 Days Ago Full time 60005471
+
+Hastings Direct is a fast growing, agile, digitally focused general insurance provider of products and services to over 2.8 million customers in the UK, employing over 3,400 colleagues. Our vision – to be the best and biggest digital insurance provider in the market.
+
+It's our attitude and the way we run our business that makes us different. We focus on getting it right for our colleagues, customers, company and community. It's a dynamic, flexible, fun and constantly changing environment. You'll enjoy the scope to make a real difference for our customers, influence our company, benefit the communities we work in and have fun along the way.
+Lead Data Scientist
+Posted 5 Days Ago
+Bexhill, More...
+Data Analyst
+Posted 30+ Days Ago
+Bexhill, More...
+Data Analyst
+Posted 7 Days Ago
+Bexhill, More...
+Senior Data Engineer
+Posted 21 Days Ago
+Bexhill, More...
+Data Enrichment Product Owner
+Posted 25 Days Ago
+Bexhill
+Seniority Level
+Entry level
+Industry
+Insurance
+Employment Type
+Full-time
+Job Functions
+Engineering Information Technology

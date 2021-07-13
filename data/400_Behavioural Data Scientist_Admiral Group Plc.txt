@@ -1,0 +1,72 @@
+Behavioural Data Scientist
+Admiral Group Plc
+Cardiff, Wales, United Kingdom
+Posted by
+Laura Pengilly
+Internal Careers Manager | Nurturing and Retaining Internal Talent
+Send InMail
+We have an opportunity for an experienced Behavioural Data Scientist to join one of the fastest growing parts of Admiral Group.
+
+Our Data Vision and Team's Purpose
+
+At Admiral Financial Services (AFSL), we believe that understanding and engaging with our customers is central to everything we do. The way we gather, analyse and understand our customer data will be critical to the launch and success of our propositions. We believe that the right way to scale our business is to intelligently automate so that our amazing colleagues can focus on the value-add interactions with our customers and other stakeholders.
+
+All of this relies on us having an amazing set of data capabilities across technology, people and processes and we are on an exciting journey to evolve all of these through significant investment.
+
+The Data Science function is a new team that is here to supercharge our usage of data to support the stakeholders we care deeply about.
+
+Main Responsibilities
+
+The Behavioural Data Scientist will be responsible for using Data Science techniques to evolve our understanding of our customers to help solve some of the most fascinating business challenges . Ultimately, we'd love to not only understand the probability of customer events but also be able to articulate the why so that we can create products and strategies that best serve all of our stakeholders. As a Behavioural Data Scientist you will work with our other Data Scientists to evolve Data Science best practice and put models into production; Engage with various parts of our amazing business to understand their challenges and about our customers; design experiments that lead to deeper understanding of our customers and why certain events happen; build machine learning algorithms that predict customer behaviour.
+
+The Role's Objectives
+
+Data Strategy| You will understand our strategic plans (data, business and product level) and create meaningful data sets for modelling and analysis. You will source and access data from within the group as well as external. You will define how we analyse our customer data which will feed into product design as well as the algorithms you create to model customer behaviour.
+
+Shape technology and ways of working| Working with our Data Product Owner and Data Science Chapter lead to steer and shape the platform which we use to create a class leading, technology led Data Science Lifecycle. We'll also be looking for you to play a role in embedding new ways of working such as Agile and ML Ops.
+
+Tool Creation and Deployment| Working with business leads you will understand their campaign objectives and work with them to source, select, and access the best data to achieve their business aims. You will make data available in formats, timings, and quality that accelerates the success of the business campaigns.
+
+Problem Solving| Working with business leads you will understand our objectives and use a range of advanced statistical and machine learning techniques to inform and influence development and deployment plans. You will deploy accessible visual aids (dashboards etc.) to enable us to track performance. You will work with test groups to test and prove assumptions on customer behaviours.
+
+Engagement & Presentation| You will actively keep abreast of new trends and developments in technology and data science. You will promote the use of data and data science as a key part of our strategic development. You will present insight and learnings in an accessible but compelling way to enable our business leads to make well-informed decisions.
+
+Business Partnering| You will effectively communicate the status, value, and importance of data to partner with AFSL business leaders as an SME. You will engage with relevant teams in the Admiral Group (Data and Analytics community) to drive collaboration and development of Data Science across the business. Where appropriate you will work with other companies to develop bespoke solutions or new capabilities
+
+About You
+Have a minimum of 2 years experience working in Data Science for a financial services organisation
+A post-grad in Behavioural Data Science is desirable but we will consider degrees in Computer Science, Mathematics, Physics, Engineering, Statistics, or another technical field provided some relevant experience
+Experience of using data insight to drive business decisions, growth, and innovation
+Experience of sourcing data sets through purchase and partnerships
+Excellent communication and interpersonal skills with technical and non-technical audiences and a desire to work within a fast-paced, dynamic team environment
+Experience in leveraging Cloud technologies such as AWS / Azure / GCP is advantageous
+Experience in good software development best practices, such as Source Code Management and Test Driven Development, as well as experience in Agile ways of working is advantageous
+
+Additional Information
+
+In this role you will work closely with our Data Engineers,Analysts and ML Engineers and report into the Head of Behavioural Data Science.
+
+We’re a big believer in personal development and preparing you for success in this role as well as your next. We’ll provide a range of on-the-job training as well as other opportunities to learn all the key skills you’ll need.
+
+Due to Covid, the whole Admiral Financial Services is working remotely. We will provide you with everything you need to work comfortably from home. We expect you to be working remotely for the foreseeable future, however, once it is safe to return to the office, we will have days when the whole team comes together to collaborate. You can decide if you want to come to the office between 2-5 days per week.
+
+About AFSL
+
+Admiral Group is a FTSE 100 Financial Services company with a presence in eight countries. The company was set up in 1993 as a car insurance specialist, but since then the Group has expanded in other countries and other insurance verticals such as household and travel insurance, in loans, price comparison platforms, and has developed innovative products.
+
+Admiral Financial Services was formed five years ago and has been an amazing growth story with major ambitions to grow even further. This means we are now looking to enhance all our capabilities, particularly how we leverage data and automation.
+
+The Group has 7 million customers worldwide and employs over 11,000 people across its operations. Admiral is a growth story with an enviable track record of strong financial performances, ROE consistently over 50%, a turnover of £3.5 bn, and a profit before tax of £520 m in 2019.
+
+Admiral’s philosophy is that ‘people who like what they do, do it better’ and Admiral is proud to offer an open culture where achievement is rewarded and recognised and where coming to work is exciting every day. In 2019, Admiral received a special award from ‘Best Companies to Work For’ as the only company to feature within their rankings since they began 20 years ago: a true testament to the Group’s culture.
+
+Benefits and Work-Life Balance
+
+At Admiral, we are proud to be a diverse business where we put our people and customers first. We have great benefits to ensure employees have a great work-life balance; it's one of the reasons we're voted no. 1 in the 2019 Sunday Times Best Big Companies to Work For in the UK. We want you to have an element of freedom to define a working lifestyle that supports this, so accommodate flexible hours wherever possible.
+
+Industry
+Financial Services Information Technology & Services Insurance
+Employment Type
+Full-time
+Job Functions
+Engineering Information Technology

@@ -1,0 +1,65 @@
+Data Scientist
+Luxoft
+United Kingdom
+Project Description
+
+A requirement to join the DXC Analytics and Engineering team as a Data Scientist. You will be joining on the Home Office account as part of our service line, as a Data Scientist your scope can range from ad-hoc analysis of customer data and BI dashboards to mission critical state-of-the-art deep learning AI products that are deployed in production
+Must be eligible for SC clearance
+
+Responsibilities
+Responsibilities include the following:
+
+Participate in requirements gathering, technical specification, design and development of complex operationalizing machine learning projects.
+Contributes to architecture design, development of data or machine learning pipelines, and integration into enterprise systems
+Responsible for Build and configure multi-tenant machine learning environments on-prem, cloud or hybrid
+Responsible for Build, test and optimize Machine Learning models
+Interact with teams of engineers from multiple disciplines Identifying and defining the scope of data science products
+Defining technical approach, data and algorithms needed
+Responsible for building out the data product from POC to production-ready system
+Communicating value, insight, possibilities and limitation of Data Science product for customer and internal stakeholders
+
+Skills
+
+Must have
+7-10 years experience
+Individual contributor - Ability to translate business requirements into plausible technical solutions for articulation to other development team members.
+Basic knowledge of operationalising analytics projects at scale
+Advanced Experience in python and ML
+Experience with at least one CI/CD tool, e.g. Jenkins, Github actions, or cloud equivalents
+Experience in application containerization and orchestration tools - Docker, Kubernetes, or cloud equivalents.
+Knowledge on a range of Machine Learning and AI techniques (e.g. supervised and un-supervised machine learning techniques, deep learning, graph data analytics, statistical analysis, time series, geospatial, NLP, sentiment analysis, pattern detection, etc.)
+Experience using Python, R or Spark to extract insights from data
+Knowledge of SQL for accessing and processing data
+Experience using the latest Data Science platforms (e.g. Databricks, Azure Machine Learning, AWS SageMaker) and frameworks (e.g. Tensorflow, MXNet, scikit-learn)
+Software engineering practices (coding practices to DS, unit testing, version control, code review)
+Hadoop (especially the Cloudera and Hortonworks distributions), and streaming technologies (Kafka, Spark Streaming)
+Deep understanding of data manipulation/wrangling techniques
+Delivering insights using visualisation tools (such as Power BI, Qlick) or libraries
+Experience building and deploying solutions to Cloud (AWS, Azure, Google Cloud)
+Experience with containerisation and virtualisation (e.g. Docker, Kubernetes, VMs etc.)
+Kubeflow
+AWS Sagemaker
+Google AI Platform
+Azure Machine Learning
+Python, Scala
+Nice to have
+Good customer facing skills and ability to clearly communicate technical issues to both technical and non-technical audiences.
+Can-do, will-do attitude.
+Hunger to learn new technologies and methodologies.
+Strong problem solving, analytical and logical skills.
+Excellent team & communication skills.
+Ability and desire to share technical experience with colleagues.
+Demonstrated ability to develop robust enterprise strategies and solutions within timelines.
+Solid understanding of software design principles and best practices
+Willingness to learn new skills
+
+Languages
+English: C2 Proficient
+Seniority Level
+Internship
+Industry
+Information Technology & Services Computer Software Internet
+Employment Type
+Full-time
+Job Functions
+Information Technology Engineering

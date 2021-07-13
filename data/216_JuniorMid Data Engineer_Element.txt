@@ -1,0 +1,71 @@
+JuniorMid Data Engineer
+Element
+London, England, United Kingdom
+Who We Are
+
+Element is the startup which employs the core team behind Matrix— the leading project for secure, open decentralised communication.
+
+Matrix’s mission is to make messaging as open as email— allowing everyone to choose where their data is hosted, enjoy private conversations and ultimately be in control of their own communication.
+
+Practically speaking this means building open, self-sovereign alternatives to WhatsApp/Slack/Teams for governments, civic institutions and communities. At one end of the scale the French government has adopted Matrix for all of its instant messaging needs and more recently we delivered the world’s largest-ever single contract for a collaborative software service helping schools in Germany support remote learning. On the other end of the scale open source communities such as Mozilla have adopted Element for all of its community chat replacing IRC
+
+The Role
+
+We’re looking for a Junior Data Engineer to support the business operations of the company. The successful candidate will report to the Revenue Operations Manager and collaborate closely with them, the COO, and the Sales, Marketing and Finance functions in order to bring together the different data available inside the business in critical dashboards giving the pulse of the company. They will be responsible for warehousing and collating the data from the various silos in order to process them and give the company a detailed view of the health of its operations. As secondary tasks, the candidate may be involved in other data gathering and processing across other parts of the company, or in building demos and tutorials for the Matrix ecosystem.
+
+A natural enthusiasm and talent in data presentation, as well as good aesthetics would be a plus. This role is ideal for any software developer having an interest in business metrics and looking to know more about the running of a company by the numbers.
+
+Responsibilities
+Figure out the architecture of a system based on the requirements from the business team
+Help define the best way of gathering and tracking metrics based on the tools used by the business
+Build the software required to extract and process various data form different systems based on the requirements from the business team
+Build the dashboards allowing to expose said raw and processed data
+Maintain and improve the integrations as time goes and as tools and needs evolve
+
+
+Requirements
+Confidence in any appropriate scripting language (e.g. Python, SQL, Javascript etc).
+Confidence with a relational database (e.g. Postgres).
+Strong understanding of how to query and interrogate APIs.
+We don’t require that you have come from a computer science background but we do expect to see evidence of experience in glueing various systems together. This can be in a commercial or hobbyist environment.
+
+Nice to haves
+
+The following experiences would be beneficial
+Experience in integrating and using some of the following tools Stripe, Pipedrive, Force24,, Metabase, Matrix...
+Element is an open-source company, experience as a community member, or code contributor of an open source project would be valuable.
+Experience in data processing and presentation.
+
+While it isn’t critical for this role, it is important that you understand we are a mission driven company, trying to grow an ecosystem with a long term view and that we are revolutionising the control people get over their online communication. .
+
+Additionally We Are Looking For Someone Who Is
+smart, curious and enthusiastic
+an articulate communicator who takes great pleasure in helping others
+empathetic, with both their colleagues and the end user
+Is comfortable with the pace, trade offs and ambiguity of an early stage startup (specifically how to take care of yourself and get your work done without working crazy hours).
+
+
+We build things for everyone, and we know we can’t succeed without a diverse team. Our hiring process is designed to be respectful and give candidates the best chance to show us what you can do. If we ever fall down on this, please let us know.
+
+Why this role?
+Now is a great time to join We’re well funded and have rising revenues from a host of interesting customers— from The French Government and Mozilla to Germany, others we’re not allowed to talk about yet(!).
+You’ll work on highly visible projects Our early adopters are in the tens of millions and almost all of our work is open source and we receive regular feedback from our community of users. We’re figuring out how to best practise ‘open design’ in open source and you’ll be able to help shape that. We also speak regularly at conferences, meetups and talks.
+You’ll be joining a small mission-led team with a supportive culture.
+
+
+Benefits
+
+Our general approach is to treat people like adults and acknowledge that by being flexible we create an environment for people to do their best work. For more details here is our manifesto. That said specific points that differentiate us include
+Generous holiday allowance, private healthcare for you and your family and opportunities for development and progression as we scale.
+Family friendly environment, many of the team have small children and we look to accommodate that as best we can.
+People tend to stay with the company for a long time, we take this as a sign that we have a cohesive, supportive culture, that we have engaging challenging work and that people can develop their skills and careers here for the long term.
+
+Element does not discriminate on the basis of race, sex, colour, religion, age, national origin, marital status, disability, veteran status, genetic information, sexual orientation, gender identity or any other reason prohibited by law in provision of employment opportunities and benefits.
+Seniority Level
+Entry level
+Industry
+Information Technology & Services Computer Software Internet
+Employment Type
+Full-time
+Job Functions
+Finance

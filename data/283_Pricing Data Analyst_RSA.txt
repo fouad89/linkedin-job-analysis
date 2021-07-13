@@ -1,0 +1,50 @@
+Pricing Data Analyst
+RSA
+London, England, United Kingdom
+Posted by
+Jay Dullip
+Recruitment Business Partner at RSA
+Send InMail
+We are a major UK general insurer, with top 3 positions in PL Home and PL Pet…and a desire, supported by investment, to become a major player once again in PL Motor, under our MORE THAN brand.
+
+In order to achieve this goal we are prioritising improving our data and pricing processes. The key responsibilities of this role are to assist in the development of the company’s data assets to enable effective use of data by the Personal Lines pricing teams. What this means in practice is finishing developing and automating our key data processes then reviewing all of our pricing processes and making them more efficient, more transparent and more automated. The role will also include running our vital regular data processes, responding to data queries and creating and automating bespoke reports for the business.
+
+The role sits within the Personal Lines Risk Pricing Team within the Chief Underwriting Office. The team as a whole is responsible for the development and maintenance of risk cost models across all UK Personal Lines business. The role will report into a Pricing Data Consultant, who in turn reports into the overall leader of this team.
+
+From June, RSA and MORE THAN will be part of the Intact Financial Corporation (IFC), the clear market leader in scale and profitability in Canada. IFC has built its competitive advantage and market position on very strong technical capability – specifically, data science, advanced modelling including use of Artificial Intelligence (AI), and customer pricing…all with a clear focus on nurturing technical talent, and identifying and executing on the great work driven by individuals and teams.
+
+On the back of our purchase, and to support our UK ambitions, we are seeking talented, ambitious, pricing and data practitioners, who want to make a difference – people who want to help shape and drive, who come with energy and spirit, and want to be part of a UK Motor transformation
+
+You will be intellectually curious, technically strong, have a desire to understand how things work end-to-end – you are someone who wants to see the difference they personally make in the performance of the business, and not just be a cog in a very big wheel where the end decisions are taken somewhere else by someone else.
+
+What’s in it for the candidate
+• Be part of a great Motor, PL, UK and global Pricing community, with the career development opportunities that come with that
+• Have flexible working, with a need to be in the PL head office in Horsham around on average 2 days per week; the focus for office time will be on collaboration and problem solving with your colleagues, with working from home on other days, supported by the latest technology
+• Be a key part of a UK PL Motor transformation – those opportunities are rare; a chance for you to make a real difference
+
+Responsibilities
+• Building on existing personal lines data assets, primarily through the development and improvement of existing SQL and SAS programs, to enable the best possible data for use in pricing.
+• The successful applicant will need to be organised and naturally detail-focused, with a strong interest and demonstrable prior experience of programming – ideally in SQL or SAS.
+• An ability to work with others to understand business needs, tailoring their solutions to meet these needs is also a pre-requisite.
+• Across the pricing and data teams we use lots of tools to manipulate data including SQL, SAS, WPS, VBA, R, Python, Radar, Earnix and Qliksense. Experience of any of these will be useful for the role, but the key things we are looking for are a desire to learn and make things better!
+
+The Individual
+You will have:
+• Experience at preparing large & complex datasets for analysis, preferably within the General Insurance industry
+• Strong numeracy and problem-solving skills
+• Some experience of working within an actuarial or statistical environment preferable but not essential
+• SQL – intermediate/advanced
+• SAS – intermediate/advanced
+
+Apply Now
+A welcoming, diverse and inclusive culture is an important element for RSA in our best-in-class ambition. RSA thrives when everyone feels comfortable bringing their best self to work. We celebrate difference, whilst striving to create an environment where colleagues feel respected and valued for their unique potential. Our commitment to diversity is sincere, continually growing and led right from the top.
+
+If you require flexibility in when, where or how you work, we’d love to hear from you. We also want to ensure that you are supported throughout the application process to enable you to be at your best. If you require adjustments during your application process, please flag this on your application form.
+Seniority Level
+Associate
+Industry
+Insurance
+Employment Type
+Full-time
+Job Functions
+Analyst Other

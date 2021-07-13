@@ -1,0 +1,43 @@
+Data Scientist
+AXA UK
+Royal Tunbridge Wells, England, United Kingdom
+Our Analytics COE team are at the core of the latest developments and key decisions within our business. We are an expanding team and currently on the lookout for an experienced Data Scientist to join us on a permanent basis. Our team is driven by a passion to help make a tangible and lasting difference in peoples’ lives through the innovative transformation of our products, and you will have that same passion. Within this role, you will hold responsibility for the creation and subsequent review of models following an industry standard methodology. You will effortlessly create value from our raw data, analysing a wide range of structured and unstructured data from both internal and external sources. You will also identify potential bias within predictive models, working collaboratively with the team to overcome this and ensure the model fits correctly. Working as part of the wider data team, you will deliver and build on our data collection, whilst implementing the ethics strategy across the analytics lifecycle. Presenting to Senior Level Execs will be a regular part of this role, as will continuously seeking out projects and opportunities that will add value to AXA Health. Please note this role will be a hybrid office/home working set up, which will be reviewed regularly as government restrictions due to Covid-19 evolve. We’re also committed to the work/life balance of our teams, so we’re happy to consider flexible working options.
+You will ideally have a BSc in Computing, Mathematics or Statistics, however the key for us is having spent time working in the Data Science/Big Data Analytics space, where you will have gained experience with analytics tools and languages (e.g. R, Python), as well as in big data ethics and model development and validation.
+
+Although not essential, it would be advantageous to have had exposure to Big Data ETL processes, Big Data Streaming insights and programming skills beyond analytics languages.
+
+In keeping with our team culture, you must have an agile mindset and thrive in an environment of change, consistently looking for ways to improve. You should also be a someone that works well as part of a team, with the ability to communicate effectively with a variety of stakeholders.
+
+With a presence in over 60 countries, and 165,000 employees serving the needs of 107 million customers, AXA is big.
+
+But never too big to care for every single person who works here. So when you join us, we promise to put our collective might behind you and your career.
+
+You’ll work in an open and supportive environment where you’ll be developed, challenged and encouraged to move around to achieve even bigger and better things – nationally and internationally. You’ll learn directly from senior leaders, from the best in our business. And you’ll enjoy real responsibility, really early on.
+
+Every large company today talks about supporting diversity and inclusion. But at AXA UK, these values form an integral part of everything we do. For us, it’s about bringing together the best talent, helping people to realise their full potential by being 100% themselves at work and delivering outstanding service to everyone – regardless of difference.
+
+AXA Health is the UK healthcare specialist for the AXA Group.
+
+Whatever our customers’ health goals, we help them get there. That could be getting someone physio for an injury that’s holding them back, or finding them the right specialist to take their treatment forward.
+
+Our team are experts in their fields: from experienced cancer nurses to pioneering data analysts; from our highly respected customer service team to our wide-ranging in-house team of clinicians. We all work together to be the best we can be.
+
+AXA UK is proud to have just been awarded 24th Best Place to Work by Glassdoor, reflecting how much our colleagues love working here and feel rewarded. As well as a supportive working culture and competitive remuneration, you'll enjoy the following benefits:
+
+Performance related bonus scheme
+28 days paid holiday per year (plus bank holidays), with the flexibility to buy up to 5 additional days or sell up to 3 days
+Pension scheme, with the option to pay additional voluntary contributions to increase your retirement benefit
+Life cover: 10 x base salary, linked to our pension scheme
+Share Plan Scheme
+Employee Medical Benefit after 12 months service
+A huge range of discounts and savings at over a thousand national and local retailers, including AXA products
+
+We are an Equal Opportunities Employer. AXA is proud to support the needs of our employees and as such understands everyone has individual work and home life responsibilities. We are therefore happy to discuss flexible working arrangements for this role, should this be a requirement for you.
+Seniority Level
+Entry level
+Industry
+Financial Services
+Employment Type
+Full-time
+Job Functions
+Engineering Information Technology

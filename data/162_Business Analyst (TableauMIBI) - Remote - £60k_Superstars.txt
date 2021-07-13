@@ -1,0 +1,48 @@
+Business Analyst (TableauMIBI) - Remote - £60k
+Superstars
+United Kingdom
+Posted by
+Paul (Pavlo) Coufal
+Business Partner and Global Talent Attractor
+Send InMail
+Business Analyst (Data/Tableau/BI/MI) - Remote/UK
+£60k
+ My client, an award-winning Media Publisher is looking for a Business Analyst who has experience Databases, ideally large scale data warehouse implementations. Any experience with BI / MI as well would be a nice to have.
+
+This role is 100% remote
+
+Job Introduction
+
+Reporting up into the Head of Visualisation and Analytics, the Business Analyst (BA) will focus on capturing the requirements for the Enterprise Data Warehouse (EDW).
+Publishing House currently utilises Tableau as their visualisation platform. The dashboards are sourced from data held within a customer data lake housed within AWS. Currently the business intelligence team uses queries built in Athena to create tables and views that support the dashboards within Tableau.
+Publishing House are looking to create an EDW to improve the reporting capability within the business intelligence team. As the data lake already exists within the AWS suite of services, Redshift has been chosen as the platform to house the EDW. 
+
+Key Responsibilities
+
+You will liaise with technical and non-technical staff in order to understand the data landscape, analyse, and prioritise key data processes.
+Create direct channels of communication between the business and data team that facilitates the creation of the EDW without managerial interjection.
+Using your ability to understand data you will highlight and flag potential impacts to data pipelines in use for the EDW.
+You will need to capture and investigate data to determine its viability for reporting alongside the business requirements.
+Mapping out business processes to understand how data flows between systems, this includes liaising with stakeholders explaining to them what data is available and how it could be used from a strategic perspective.
+Complete the business analysis around EDW requirements to a high standard, including definition glossary terms, business concepts and data workflow mapping.
+ The Ideal Candidate
+
+Degree-level education Computer Science or Information Management, or equivalent experience.
+3+ years as a business analyst working with data teams, ideally focused on work in or around data warehouses.
+Ability to work effectively remotely and resourcefully, with excellent remote management and communication skills.
+Experience of working in an AGILE fashion.
+Worked with business facing Data and BI teams to capture requirements and translate them into data warehouse specific items of work.
+Experience of working on Data projects from the outset/ requirement gathering stage.
+Experience in Agile delivery environment as a data business analyst.
+Should possess excellent analytical and decision-making skills with the experience/ability to prioritise based on benefit/value.
+Understanding of Data Analytics best practices.
+Solid understanding of data warehousing principles, concepts, and best practices (e.g. ODS, Data Mart, Data Lakes).
+The ability to write and comprehend simple SQL queries is a requirement to help facilitate a thorough understanding of the data.
+Seniority Level
+Mid-Senior level
+Industry
+Information Technology & Services
+Employment Type
+Full-time
+Job Functions
+Analyst

@@ -1,0 +1,48 @@
+Graduate Data Analyst
+NCR Corporation
+Dundee, Scotland, United Kingdom
+About NCR
+
+NCR Corporation (NYSE: NCR) is a leading software- and services-led enterprise provider in the financial, retail and hospitality industries. NCR is headquartered in Atlanta, Georgia, with 36,000 employees globally. NCR is a trademark of NCR Corporation in the United States and other countries.
+
+Working as part of our Dundee Corporate Financial Planning & Analysis Team, for a Fortune 500 Technology company, within an environment that emphasizes collaboration, creativity and high performance, we are looking for an ambitious individual to join us in creating next-generation management reporting to help deliver our Digital transformation goals
+
+Position Summary & Key Areas Of Responsibility
+Preparation of large-scale data, including cleansing, reconciling and improving integrity of the data, as the foundation to driving accurate and timely management reporting,
+Design and deploy new management reporting, to increase performance & efficiency of the business
+Assist with the on-going development of reporting analytics to give senior business leaders the next generation of high-quality tools and models for decision-making
+Develop new techniques to aid the global business performance.
+
+To Be Successful You Will
+Be enthusiastic about new technologies and software
+Take pleasure in finding clever, practical solutions as well as learning new techniques and skills
+Have a strong academic record, be flexible and can operate well in a team
+Enjoy the challenge of solving complex problems in tight timescales
+
+You Will Have
+A passion for numbers, learning and Problem Solving, with interests in Big Data, Statistical & Predictive Modeling
+Technical Skills: You will be able to perform high-quality Analysis with a good understanding of data structure, advanced data mining, statistical methods and data visualisation.
+Analytical Skills: You will be able to identify trends and insights in large volumes of data to further develop our reporting
+Time Management Skills: You will be able to work on multiple projects as well as large scale complex processes and deliver to deadlines
+Excellent communication skills and the ability work well with others in collaborative projects
+
+Preferred Kills & Qualifications
+Have a Degree in Data Science, Mathematics, or a related subject
+Proficiency in at least one of R, Python and SQL languages
+Working knowledge of Data Visualisation tools such as Tableau
+Familiar with Microsoft Office tools – Excel, Outlook, Powerpoint
+Offers of employment are conditional upon passage of screening criteria applicable to the job.
+
+EEO Statement
+Integrated into our shared values is NCR's commitment to diversity and equal employment opportunity. All qualified applicants will receive consideration for employment without regard to sex, age, race, color, creed, religion, national origin, disability, sexual orientation, gender identity, veteran status, military service, genetic information, or any other characteristic or conduct protected by law. NCR is committed to being a globally inclusive company where all people are treated fairly, recognized for their individuality, promoted based on performance and encouraged to strive to reach their full potential. We believe in understanding and respecting differences among all people. Every individual at NCR has an ongoing responsibility to respect and support a globally diverse environment.
+
+Statement to Third Party Agencies
+To ALL recruitment agencies: NCR only accepts resumes from agencies on the NCR preferred supplier list. Please do not forward resumes to our applicant tracking system, NCR employees, or any NCR facility. NCR is not responsible for any fees or charges associated with unsolicited resumes.
+Seniority Level
+Entry level
+Industry
+Information Technology & Services Computer Software Staffing & Recruiting
+Employment Type
+Full-time
+Job Functions
+Information Technology

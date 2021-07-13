@@ -1,0 +1,33 @@
+Principal Data Scientist
+EVera Recruitment
+Swindon, England, United Kingdom
+Posted on behalf of
+
+Dyson
+
+A state-of-the-art R&D laboratory facility supporting the development and testing of novel battery designs is now looking for a Principal Data Scientist. In this position you will lead data analysis activities within the energy storage team. The focus of this role will be to implement and utilise a new data analysis platform.
+
+The Principal Data Scientist Will
+Identify and implement new approaches to data analysis.
+Manage, understand and investigate data.
+Take accountability for devising and implementing a data structure to manage our current data flow, accounting for future needs. This includes using cloud solutions (e.g. AWS) in addition to local solutions.
+Develop new solutions to analyse existing data. This may include analysis based on physics, statistics or a blend of both.
+Provide technical leadership, defining new data analysis strategies.
+
+
+The Principal Data Scientist Will Have
+Master’s degree or equivalent practical experience in Computer Science or similar field.
+Experience designing data models and data warehouses
+Experience using SQL and NoSQL database management systems, as well as Matlab and Python.
+Experience using Unix/Linux operating systems and commands, and web technologies such as HTML, CSS, JavaScript and HTTP and version control
+Ability to work across structured, semi-structured, and unstructured data, extracting information and identifying linkages across disparate data sets
+Experience transferring models cross functions
+Experience utilising data analysis tools to characterise materials, such as spectroscopy, thermal, diffraction, or mechanical.
+Seniority Level
+Entry level
+Industry
+Staffing & Recruiting
+Employment Type
+Full-time
+Job Functions
+Engineering Information Technology

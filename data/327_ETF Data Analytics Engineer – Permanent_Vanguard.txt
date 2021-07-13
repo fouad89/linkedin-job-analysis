@@ -1,0 +1,50 @@
+ETF Data Analytics Engineer – Permanent
+Vanguard
+London, England, United Kingdom
+Vanguard is one of the world's largest Investment Management firms, with around 380 low-cost traditional Funds and ETFs, operating in 19 locations worldwide with about 16,600 crew members.
+
+There are many reasons Vanguard is unlike any other financial firm; but none as prominent or powerful as our people. Vanguard crew members form a believing, supportive community in which all crew members worldwide feel a sense of belonging. We believe our culture of inclusion is crucial for each of us to fully thrive in our careers and to provide superior value to our clients and communities.
+
+Our crew steward more than $5 trillion in assets for over 20 million client and live our mission to take a stand for our investors, treat them fairly, and to give them the best chance for investment success.
+
+In Global Investment Financial Systems (GIFS), ETF Eco system/platforms are critical to achieving our mission. We just crossed 1Trillion in AUM for ETFs, and we continue to grow in that space. You have the opportunity to learn the core of how the global investment industry and ETF primary market trading works while working with complex and modern technologies in a truly global organization. You will also have the opportunity to work closely with portfolio managers and ETF specialists with in ETF business.
+
+If you are looking for both differentiation in your IT career and an opportunity to build your technical and investment acumen, GIFS is a phenomenal place for you. Our crew in GIFS gain tremendous in depth knowledge of Investment Management and Fund Financial Services. You’ll receive hands on experience with how ETF portfolios are managed, ETF orders are placed and flow through our front, middle and back office while working on systems used in the United States, United Kingdom, and Australia.
+
+Key Technical Skills
+Python/pyTest/unitTest (should be able to maintain >80% test coverage for all repos)
+BDD, or any automated testing experience
+pySpark
+SQL/ NoSQL Databases
+Git / BitBucket
+Glue ETL
+
+Any Of The Below Would Be Advantageous
+AWS core services: EC2, S3, Dynamo DB/ PostgreSQL/ Data Analytics/ML (high-level)
+Messaging
+Continuous Integration with Bamboo
+Automated deployment with Ansible
+
+Key Functional Skills
+Ability to analyse and solve complex problems
+Ability to work autonomously
+Ability to work toward aggressive timelines
+Experience working in Agile
+Investment Management knowledge is preferable
+Previous quantitative or technical role working on or with a trading desk (irrespective of asset class)
+
+Qualifications
+Undergrad degree in Computer Science, Mathematics, Engineering and, or any related field
+Proficiency in an object oriented or functional paradigm such Java, Python
+Interest in the investment management industry is a must
+
+Special factors
+Vanguard is not looking to provide sponsorship for this position
+Seniority Level
+Associate
+Industry
+Financial Services
+Employment Type
+Full-time
+Job Functions
+Information Technology

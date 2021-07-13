@@ -1,0 +1,99 @@
+Data Scientist
+Capita
+London, England, United Kingdom
+Shape our future as Data Scientist
+
+Capita Consulting is a new division created in December 2019 to take a new approach to the market bringing our earned experience from industry and the broad knowledge across the group to provide advice, guidance and our combined expertise to guide and develop unique offerings and solutions to our wide range of existing clients and to develop new streams of revenue.
+
+Capita is looking for talented, innovative and creative people to join our Data Science team to work on a number of exciting new technology initiatives like Chatbots, Blockchain, Knowledge Mining, and Artificial Intelligence.
+
+*This role will be associated with a local office hub location but requirement will be to work from home for the most part and have flexibility to travel on occasion to client sites*
+
+Job Title
+
+Data Scientist
+
+Job Description
+
+We’re supporting our clients as they adapt to a new world in the wake of COVID-19. We’re now recruiting for roles which will help our clients to deliver vital services and to resume business wherever possible.
+
+What You’ll Be Doing
+
+As a Senior Data Scientist , you will work with other Data Scientists, Data Engineers, A.I. Experts, Technical Architects and Project Managers on interdisciplinary projects using Machine Learning and Natural Language Processing to derive structure and insight from raw data across various industry sectors. Using cutting edge analysis techniques, you will influence many of the recommendations our clients need to positively change their businesses and enhance performance
+work closely with your business to identify issues and use data to propose solutions for effective decision making
+build algorithms and design experiments to merge, manage, interrogate and extract data to supply tailored reports to colleagues, customers or the wider organisation
+use machine learning tools and statistical techniques to produce solutions to problems
+test data mining models to select the most appropriate ones for use on a project
+maintain clear and coherent communication, both verbal and written, to understand data needs and report results
+create clear reports that tell compelling stories about how customers or clients work with the business with modern data visualisation techniques
+assess the effectiveness of data sources and data-gathering techniques and improve data collection methods
+horizon scan to stay up to date with the latest technology, techniques and methods
+conduct research from which you'll develop prototypes and proof of concepts
+look for opportunities to use insights/datasets/code/models across other functions in the organisation (for example in the HR and marketing departments)
+stay curious and enthusiastic about using algorithms to solve problems and enthuse others to see the benefit of your work
+use Agile DevOps and appropriate CI/CD processes
+communicate ideas and insights effectively to other Data Scientists, Data Engineers, Product Owners and clients.
+recruit, train and lead a team of data scientists
+have influence in the formulation on the Capita data science strategy
+be involved in new systems and processes and look for opportunities to improve the flow of data
+apply new and emerging technologies in conjunction with our Director of Artificial Intelligence
+
+What We’re Looking For
+Degree educated in any of the following subjects (computer science, data science/computer and data science, engineering, mathematics, mathematics and operational research, physics, statistics). Other STEM subjects considered. MSc desirable and PhD strongly recommended
+Excellent proven programming skills in Python and experience with querying data from a multitude of different data sources. Experience with SQL and SPARK is required
+Excellent practical understanding of Machine Learning techniques and algorithms. Strong interest in AI
+Five or more years’ experience of applying algorithms to solve problems using ML and AI as well as experience around process automation possibly gained in commercial environments
+Good interest of Cloud Computing (exposure to Azure environment would be beneficial)
+Excellent written and verbal communication skills, with the ability to explain complex analytical concepts to people from outside the field.
+Broad practical awareness of software development methodologies and best practices. Experience of Agile DevOps is a must.
+Ability to deliver high-quality work under pressure in a fast-paced Agile environment.
+Experience / desire to mentor other Data Scientists.
+planning, time management and organisational skills
+great attention to detail
+teamworking skills and a collaborative approach to sharing ideas and finding solutions
+What’s in it for you?
+A competitive basic salary and benefits
+Private Healthcare
+25 days holiday (rising to 27) with the opportunity to buy extra leave
+Company matched pension, life assurance, a cycle2work scheme, 15 weeks’ fully paid maternity, adoption and shared parental leave…and plenty more
+Voluntary benefits designed to suit your lifestyle – from discounts on retail and socialising, to health & wellbeing, travel and technology
+The opportunity to take a paid day out of the office, volunteering for our charity partners or a cause of your choice
+Access to our Employee Network Groups, which represent every strand of diversity and allow colleagues to connect and learn from each other on an open, inclusive platform
+You’ll get the chance to follow your chosen career path anywhere in Capita. You’ll be joining a network of 63,000 experienced, innovative and dedicated individuals across multiple disciplines and sectors. There are countless opportunities to learn new skills and develop in your career, and we’ll provide the support you need to do just that. Our purpose is to create a better outcome for you.
+
+About Capita Consulting
+
+Capita Plc are the largest UK management, services, engineering and consultancy employing more than 55,000 staff aligned to providing services to the finance and critical infrastructure sectors and heavily aligned to all levels of government supporting key functions across the UK.
+
+Our breadth of skills, services and reach makes us the UK's top player in delivering management, engineering and development consultancy solutions for our customers.
+
+Capita Consulting is a new division created in December 2019 to take a new approach to the market bringing our earned experience from industry and the broad knowledge across the group to provide advice, guidance and our combined expertise to guide and develop unique offerings and solutions to our wide range of existing clients and to develop new streams of revenue.
+
+What We Hope You’ll Do Next
+
+Looking to discover more? Choose ‘Apply now’ to fill out our short application and send us your CV. Any questions before taking the next step? You can contact alison.cunningham@capita.com for support.
+
+All interviews, assessments and background checks will continue to take place online, to completely remove the need for face-to-face contact. All Capita colleagues who can work from home should do so; and where it is not possible for colleagues to work remotely, we have taken important steps to protect those working from Capita’s offices. Social distancing, enhanced hygiene and safety measures are already in place at all Capita locations that are open to protect our colleagues and manage the risk of COVID-19. The welfare of our people is of paramount importance to us, and we’re doing everything we can to keep our colleagues and customers safe during this time.
+
+We’re an equal opportunity employer, which means we’ll consider all suitably qualified applicants regardless of gender identity or expression, ethnic origin, nationality, religion or beliefs, age, sexual orientation, disability status or any other protected characteristic. We recruit and develop our people based on merit and their passion for creating better outcomes, and we’re committed to creating an inclusive environment for all employees.
+
+Location:
+London
+,
+United Kingdom
+
+Time Type
+
+Full time
+
+Contract Type
+
+Permanent
+Seniority Level
+Entry level
+Industry
+Information Technology & Services Staffing & Recruiting Financial Services
+Employment Type
+Full-time
+Job Functions
+Engineering Information Technology

@@ -1,0 +1,57 @@
+Data Scientist (Forecasting Analyst), UK & Ireland Exams
+British Council
+London, England, United Kingdom
+Pay Band – PB 7 Salary (£26,934 – £30,354) and additional London weighting of £3,300 where applicable for London-based candidates.
+
+Location – UK Flexible (Manchester or London)
+
+Contract type: 2 Year FTC.
+Closing date: 23:59 (UK time) on the 25th July  2021.
+Applicants must have the right to work in the UK (or other location applied for)
+
+Role Purpose
+The purpose of the Data Scientist role is to support the strategic objectives of the UK & Ireland Exams business through: 
+ ·       accurate demand forecasting of business and market performance metrics, e.g. sales volume, using a range of methodologies such as algorithmic forecasting;
+·       data analysis of business performance, with a view to identifying potential performance improvements; 
+·       the development of reports and dashboards in Power BI for internal customers;
+·       and the generation of actionable insights from the analysis and synthesis of multiple data sets.
+ Main opportunities and challenges for this role:
+Dealing with complex data modelling concepts and translating them into business needs; 
+Working with business and external stakeholders to understand and define their needs, then creating data models and reports in a customer-focused way; 
+Supporting the development of customer-focused and insight-led working; and
+Responding to new concepts and solutions in a fast-paced environment.
+ Main accountabilities but not limited to the following:
+ Support the development of Exams key performance indicators (KPIs) and be responsible for the creation, maintenance, and ongoing development of Exams dashboards and reports in line with the Corporate Data Strategy and governance framework
+Build credible statistical models from data and using the best coding practices to generate reproducible work 
+Deal with complex data modelling concepts and translate them into business needs 
+Use analytical expertise to produce quantitative and qualitative analysis on business performance and strategic issues 
+Produce accurate short-term and long-term product volume forecasts at the product, venue & session level. This will involve algorithmic forecasting techniques, e.g. ARIMA, ARMA, or exponential smoothing 
+Support the adoption of insight-led working across the Exams business 
+Support the development of the Corporate Data Strategy and governance framework 
+Support the development of the global data analyst community
+ Role specific knowledge and experience:
+Experience of presenting findings and data to technical and non-technical audiences 
+Experience of working with raw data and skilled in managing, interpreting and evaluating activities using qualitative and quantitative data. 
+Experience of managing large data sets and knowledge of other data visualisation / data mining tools 
+Advanced knowledge of Power BI, SQL, and Microsoft Excel to prepare and analyse large datasets. Experience of DAX coding would be useful
+·       Knowledge and experience of demand forecasting methodologies  
+·       Knowledge and experience of quantitative analysis and methodologies  
+·       Experience of translating complex data specifications into usable datasets (non-financial and financial data) 
+·       Experience of statistical analysis using R and/or Python and relevant statistical packages (e.g. NumPy) would be useful
+When to apply
+The deadline for applications is 25th July 2021 (23.59 UK time)
+
+
+What you will receive:
+Outstanding Civil Service Pension Scheme
+32 Days Holiday
+Annual Travel Season Ticket Loan
+Annual Performance related bonus
+  Seniority Level
+Associate
+Industry
+Non-profit Organization Management
+Employment Type
+Contract
+Job Functions
+Information Technology Analyst

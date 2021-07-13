@@ -1,0 +1,41 @@
+Data Scientist
+Real Chemistry
+London, England, United Kingdom
+Real Chemistry is a global health innovation company with offices across the United States and Europe. We believe that the way to real, transformative change is through the uncommon combination of disciplines, technologies, and our greatest asset – our people. We are currently looking to add to our alchemic mix of more than 1,800 talented professionals. This is a great opportunity to join a dynamic, fast-growing global company committed to making the world a healthier place for all.
+
+Job Summary
+
+We’re looking for a Data scientist to join our Data Science team. Applicants should be smart, curious, and interested in finding data-driven, evidence-based answers to hard problems. You will work side-by-side with our team of data scientists, account staff, and analysts to find creative solutions to the hardest business problems from some of the biggest brands in the world like Intel, Red Bull, and Takeda Pharmaceutical Company.
+
+Our data sciences team splits its time between creating the best products in the marketplace; building and maintaining our data and tools platforms; and working directly with analysts to make sure every project is putting the best data, the smartest algorithms, and the most efficient processes to work for our clients. The data sciences team members collaborate on a variety of projects and have a diversity of technical talent including computer science, statistics, machine learning, information systems, and engineering. We work on a wide range of infrastructure, ranging from python notebooks to cloud computing.
+
+Responsibilities
+Partner with analytics team to deliver data-driven answers to clients’ complex business questions
+Collaborate and communicate effectively with stakeholders from teams in data sciences, analytics, account managers, and creative
+Assist in executing the plan by pulling data, applying algorithms, etc.
+Compose the right research plan for the project
+Craft the narrative to explain the results to internal and client stakeholders
+Support the software team in growing and maintaining data and tools platform
+Mentor analysts and other staff to use platform most effectively
+Drive integration of new data, algorithms, and prototypes into the tools
+Develop new data sets and tools to answer clients’ business questions better
+Discover new patterns in available data
+Develop prototypes of new products and solutions
+
+Requirements Skills & Experience
+A Bachelors, Masters or Doctoral degree in Computer Science, Computational Linguistics, Engineering, Statistics, Machine Learning, Natural Sciences, Mathematics, Economics, or any other related quantitative field
+Experience in data science or a closely related field
+Experienced in writing Python code for ETL pipelines
+A knack for explaining complex concepts in simple terms
+Experience in data collection, knowledge engineering, machine learning, computational linguistics, or data modelling
+Experience with data engineering, data architecture, or data transformation pipelines
+Experience with to software development practices – especially Agile
+Real Chemistry offers a comprehensive benefit program and perks, including a primary office location outside Spitalfields Market, 25 days holiday, private medical insurance, dental insurance, pension contributions and a five-week sabbatical program. Other perks include health and wellness reimbursements, a subsidised Real Chemistry amazon shop, Friday afternoon happy hours, and free healthy snacks to keep you running all day long. Learn more about our great benefits and perks at: http://www.realchemistry.com/ .
+Seniority Level
+Entry level
+Industry
+Marketing & Advertising Computer Software Internet
+Employment Type
+Full-time
+Job Functions
+Engineering Information Technology

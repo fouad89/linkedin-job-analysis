@@ -1,0 +1,61 @@
+Data Scientist
+Jellyfish
+London, England, United Kingdom
+Jellyfish delivers digital marketing solutions across the world for a host of impressive brands from offices across five continents. Our award-winning combination of technology and talent help us deliver paid media, UX, SEO, social media, analytics, optimization, creative, and development solutions
+
+We have an exceptional opportunity for an ambitious and talented Data Scientist to join our team and assist in the Machine Learning and Artificial Intelligence applications that Jellyfish uses to drive thought leadership, innovate, and transform solutions and services for our clients.
+
+As a data scientist, you will work in a fast-paced cross-functional team interacting with a wide range of stakeholders. You will wrangle large and messy datasets of structured and unstructured data, build and implement models and algorithms, and design and run experiments to optimize media and customer experience. The ideal candidate will have a relentless curiosity about various business problems and a passion for inventing data-based solutions to those challenges.
+
+Responsibilities
+
+Analyze data to discover hidden trends; deliver insights and analysis with clear actionable recommendations
+Design, build, and implement predictive models to improve and optimize media performance, customer experiences, revenue generation, and other business outcomes
+Build well-managed data solutions, tools, and innovative prototypes to enable self-service frameworks
+Deliver effective presentations of findings and recommendations to technical and non-technical stakeholders
+Document analytics projects in a manner that ensures specific processes can be replicated and scaled across an organization
+Collaborate with multiple teams and stakeholders in an agile, fast-paced, dynamic, and entrepreneurial environment
+
+Requirements:
+
+BS in Computer Science, Mathematics, Physics, or related fields.
+At least 3 years of professional experience in data science.
+At least 3 year of hands-on experience building machine learning models
+Demonstrated experience and understanding of Machine Learning, such as linear/logistic regression, random forest, SVM, and neural networks, etc.
+Proficient at using machine learning frameworks, such as Scikit-Learn or TensorFlow, etc.
+Programming proficiency in Python with at least 3 years of hands on experience.
+Proficiency in manipulating large relational databases using SQL with at least 3 years of hands on experience.
+Experience with big data technologies and cloud platforms, such as GCP, AWS, or Azure, etc.
+Experience with visualizing data using Matplotlib, Data Studio, Looker, or Tableau
+Experience with code development in a collaborative setting, proficient at using GitHub or Bitbucket.
+Demonstrable skills in creative problem solving with strong attention to detail.
+Clear, concise and engaging communications skills, and the ability to distill and translate complex analysis into actionable insights that a client will understand.
+
+
+
+
+
+Preferred Qualifications
+
+
+MS or Ph.D. in Computer Science, Mathematics, Physics, or related fields.
+Hands-on experience with deep learning frameworks like Tensorflow.
+A broader understanding of the marketing ecosystem and measurement framework, including but not limited to paid display, search, social, video, organic, web, and app.
+Experience in analyzing media and web data, such as Google Ads, Campaign Manager, Facebook, and Google Analytics.
+Working knowledge with Natural Language Processing or time series forecasting models
+Experience in designing rich and engaging data visualizations.
+Demonstrable skills in problem-solving of complex and advanced technical subject matters.
+Experienced working with Agile development methodologies
+Key attributes
+
+Superb problem solving skills
+Attention to detail, data skeptic, ensure accurate and quality results
+A curious thinker who demonstrates interests in a wide range of business and technical subjects
+Seniority Level
+Entry level
+Industry
+Marketing & Advertising Online Media Internet
+Employment Type
+Full-time
+Job Functions
+Engineering Information Technology

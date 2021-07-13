@@ -1,0 +1,50 @@
+Principal Data Scientist
+RAIL SAFETY AND STANDARDS BOARD LIMITED
+London, England, United Kingdom
+The Data Insights Team within RSSB is a centre of excellence, tasked with unlocking the value in organisational data through the generation of novel insights that will improve decision making, both for internal customers within RSSB, as well as customers in the wider rail industry.
+
+The Principal Data Scientist will play a leading role across all aspects of data insights, from understanding customer needs, prioritising areas of focus, leading the aggregation and exploration of data, the development of models and garnering of insights, and the translation of these into new services. The successful candidate will also champion the potential benefits to be gained through the application of data science, both within RSSB, and our wider customer group.
+
+Drive an effective data insights pipeline
+Lead the engagement with internal and external customers to understand needs, assess data requirements and availability, curate the pipeline of prioritised opportunities and generate hypotheses to test.
+Lead the data insight activities using an Agile methodology.
+Contribute to the development and implementation of analytics policy, processes, standards and guidelines.
+Maintain a user-focussed delivery approach for insights work, ensuring results are accessible, repeatable and have clear provenance.
+Actively ensure security is addressed and managed across the data pipeline, contributing to a culture of information security.
+Champion data science techniques to deliver insights
+Lead the application of statistical analysis to explore data and highlight any potential data quality issues.
+Lead the application of Machine Learning and advanced analytics techniques to generate actionable insights from data and text, such as classification and prediction tasks.
+Develop, deploy and monitor ML models on the Azure cloud.
+Lead, motivate and coach a team of data specialists to ensure they remain upskilled on tools and techniques and provide a responsive service.
+Work with Subject Matter Experts to refine analyses, further embed domain knowledge into the approach, and drive acceptance of the veracity of the data insights.
+Lead the engagement with data architects, data engineers and BI developers to implement data models, pipelines and categorisations based on data insights and customer needs.
+Format and communicate results using appropriate visualisations and storytelling.
+Develop and embed the organisations data science capability
+Identify the communication and relationship needs of stakeholder groups to assess and promote the understanding and value of data science.
+Act as a primary point of contact for the organisations data science capability, by developing and maintaining relationships, and working with stakeholders in this area.
+Mentor and coach internal stakeholders on the application of analytics and data science to deliver value to our customers.
+Contribute to areas including data architecture, data engineering and business intelligence development; both leading teams and supporting others.
+Maintain a good understanding of the overall RSSB data insights platform, and wider rail data ecosystem.
+Actively seek out knowledge in the area of data science, as well as specific domains that include safety, sustainability, and the rail industry.
+A degree in a maths, science or computer science discipline, an equivalent level professional qualification, or relevant experience.
+Demonstrable experience of working in teams and using code repositories and testing to optimise development.
+Demonstrable experience of working with data engineers to evaluate and implement ML deployment options, and the monitoring of performance to ensure continued veracity of model outputs.
+Demonstrable experience of delivering organisational value through the application of data science and advanced analytics.
+Demonstrable experience of applying complex data science techniques and principles to a wide and unpredictable range of contexts. Demonstrating creative, innovative and ethical approaches.
+Demonstrable experience of managing development teams and mentoring others in technical and soft skills.
+Demonstrable experience of influencing and leading others, in relation to the applicability of data science to various challenges, and landing project outcomes.
+A collaborative approach to problem solving, with effective communication skills and the ability to explain complex ideas, both formally and informally.
+Experience of working with Python, including relevant data manipulation and data science libraries.
+Experience of working with various types of data, proficient at using SQL for data extraction and manipulation, and spark for big data analytics.
+Experience of selecting the correct statistics, modelling and data science concepts to deliver a positive outcome.
+Experience of analysing requirements, designing and planning solutions, and managing work to deliver to cost, time and quality objectives.
+Continually keeping track of the best methods, tools, and standards for data science as the technology develops.
+Early applications are encouraged, as we may close this vacancy before the advertised deadline if sufficient numbers of applications are received.
+Seniority Level
+Entry level
+Industry
+Marketing & Advertising Information Technology & Services Financial Services
+Employment Type
+Full-time
+Job Functions
+Engineering Information Technology

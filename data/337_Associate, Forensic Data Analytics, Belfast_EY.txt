@@ -1,0 +1,70 @@
+Associate, Forensic Data Analytics, Belfast
+EY
+Belfast, Northern Ireland, United Kingdom
+Associate - Forensic Data Analytics – Belfast
+
+At EY, you’ll have the chance to build a career as unique as you are, with the global scale, support, inclusive culture and technology to become the best version of you. And we’re counting on your unique voice and perspective to help EY become even better, too. Join us and build an exceptional experience for yourself, and a better working world for all.
+
+EY’s Forensic Data Analytics (FDA) practice is a global, data-focused team within the Forensic & Integrity Services (FIS) department. Our team supports clients in dealing with the complex issues of fraud, regulatory compliance and business disputes.
+
+The opportunity
+
+The FDA team practices the full life cycle of data analysis from the early stages of data discovery and capture, to its management, analysis and reporting. Our engagements typically require working with large datasets from disparate sources to support investigations, disputes and proactive risk detection. Our projects primarily involve FTSE100 clients covering a wide range of industries such as Life sciences, Oil & Gas, Government and Telecoms.
+
+Your Key Responsibilities
+Work with blue chip clients, fraud investigators, internal and external auditors, lawyers and regulatory authorities in sensitive situations
+Be involved in the end to end lifecycle of projects - Data extraction, transformation, loading (ETL), analysis, visualisation, deployment and client delivery
+Handle a large amount of structured and unstructured data from a variety of data sources
+Carry out reactive and proactive data analysis of large datasets using a wide range of technologies, database management systems, Business Information reporting and visualisation software
+Develop algorithms and solutions to detect, respond, prevent, continually monitor and investigate areas of fraud, bribery & corruption, misconduct and financial crime
+Develop supporting material using a suite of visualisation software to clearly present the benefits of the analysis to clients
+Align to various strategic teams in the areas of technology and innovation
+
+To qualify for the role you must have
+Strong academic qualifications with a degree in a STEM discipline (Computer Science, Engineering, Statistics, Mathematics, etc.) or equivalent work experience
+Demonstrable proficiency in SQL and a broad awareness of programming languages such as Python, R, C#, JavaScript as well as Visualization techniques
+Ability to work independently and learn new technologies as needed
+Strong critical thinking, problem-solving skills, understanding of algorithms and appreciation of working with data
+Excellent communication skills and ability to explain complex analytical concepts to stakeholders from different backgrounds
+
+Ideally, you’ll also have
+Previous consulting experience and experience with any of the below areas would be an added benefit
+Relational databases, e.g. SQL Server, PostgreSQL, Oracle, MySQL;
+Data visualisation software Spotfire, Tableau, or Power BI;
+Azure cloud computing platform;
+Big data technologies such as Spark, Elasticsearch, Hadoop;
+Statistical techniques (regression, clustering etc.);
+Machine learning, pattern recognition, NLP etc;
+Front-end web development e.g. HTML, JavaScript;
+What We Look For
+
+We are looking for tenacious and curious individuals with a desire to ‘get to the bottom’ of things. You will be intellectually rigorous, with extremely strong analytical skills, have a passion for data, be adaptable and show an ability to build strong relationships.
+
+What We Offer
+
+We offer a competitive remuneration package where you’ll be rewarded for your individual and team performance. Our comprehensive Total Rewards package includes support for flexible working and career development, and with FlexEY you can select benefits that suit your needs, covering holidays, health and well-being, insurance, savings and a wide range of discounts, offers and promotions. Plus, we offer
+Continuous learning You’ll develop the mindset and skills to navigate whatever comes next.
+Success as defined by you We’ll provide the tools and flexibility, so you can make a meaningful impact, your way.
+Transformative leadership We’ll give you the insights, coaching and confidence to be the leader the world needs.
+Diverse and inclusive culture You’ll be embraced for who you are and empowered to use your voice to help others find theirs.
+
+If you can demonstrate that you meet the criteria above, please contact us as soon as possible.
+
+The Exceptional EY Experience. It’s Yours To Build.
+
+Apply now.
+
+EY | Building a better working world
+
+EY exists to build a better working world, helping to create long-term value for clients, people and society and build trust in the capital markets.
+
+Enabled by data and technology, diverse EY teams in over 150 countries provide trust through assurance and help clients grow, transform and operate.
+
+Working across assurance, consulting, law, strategy, tax and transactions, EY teams ask better questions to find new answers for the complex issues facing our world today.
+
+Industry
+Accounting Financial Services
+Employment Type
+Full-time
+Job Functions
+Information Technology

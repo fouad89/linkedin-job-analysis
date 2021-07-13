@@ -1,0 +1,51 @@
+ML  Data Engineer - Contract
+KFC UK & Ireland
+Woking, England, United Kingdom
+Posted by
+James Bridger
+Talent Acquisition Partner at KFC UK & Ireland
+Send InMail
+ML / Data Engineer - Contract
+ Tech @ KFC…
+At KFC, our platform has constantly evolved to make it as easy as possible to order our great chicken. We brought our development in-house four years ago which has helped to drive collaboration and innovation. Here at KFC, we empower people to be their best selves, make a difference and have fun.  
+ Think you can only buy our chicken in-store at our restaurants?! Think again! We’ve created a fast, simple omnichannel experience to help people order and get their food in the way that is most convenient to them, whether that be through our app to collect service via the front counter or drive-thru, in-store kiosk integrations, or fully integrated aggregator delivery (Deliveroo, JustEat, UberEats etc) and there’s more to come. 
+ We use React on our front-end and Node.js on our back-end, within a Serverless environment (AWS), so experience with JavaScript is ideal, but we’re happy to support your learning if you don’t have it. You can read more about our tech stack here… 
+https://aws.amazon.com/blogs/architecture/the-technology-behind-kfcs-finger-lickin-good-success/
+  About the role…
+As a Data Engineer in the KFC Digital Tech Team, you’ll be working across teams to support the development of the Digital products for web and app as well as the integrations to the many external services.
+ Your focus will be on the data and analytics side, developing some of the prediction elements that will help to power many of KFC’s products. Focusing on the analysis of data you will help to drive transactions and guest satisfaction. You will have experience in development and be proficient using third party open-source packages and relevant code libraries.
+ As part of a team consisting of Developers, Scrum Masters, QA’s, DevOps and Designers, you will be able to communicate with these departments, contribute to ideas, and innovate where required.
+ KFC’s digital landscape is constantly evolving and as part of the design team you will also be working to shape what’s next. You will partner with experts in marketing, operations and technology as well as some of the UK’s top agencies to help deliver exciting new digital projects and powerful new features.
+ Whilst we’re one of the world’s biggest and most loved brands, we’re still a small tech team of around 50 people (and growing!) so it’s a great environment to get exposure to lots of different projects. 
+
+
+What we’d love from you…
+ Technical Experience…
+·      Excellent AWS knowledge
+Understanding of modern ML Architectures, Platforms, and backend systems
+Software engineering with intermediate skills in python and good experience in PyTorch, Tensorflow, or other deep learning frameworks, experience in NodeJS is a bonus
+Understanding of data warehouse fundamentals and concepts. Alongside working SQL knowledge and experience working with relational databases and familiarity with one or more cloud-based data warehouses such as Snowflake or Redshift
+Understanding of Terraform and IAC
+Experience with AWS services (SageMaker, Redshift, Lambda, S3, etc)
+Possess an ability to simplify complex concepts, explain AI technologies in ways that can be consumed by non-technical stakeholders
+You’ll have Graduate studies in Computer Science, Data Science or a related discipline or good experience in delivering AI & ML technology streams, but if that’s not the case (and you have experience/ skills you feel are relevant and beneficial to the role) we’re interested to hear from you.
+You have the technical competence to perform more advanced analytics
+Experience in Quicksight is a bonus
+Experience performing analysis with large datasets
+  About You…
+ We deliver together as a team so are highly collaborative, even when remote, so we’re looking for skills to help further foster this…
+·      Familiarity and use of Agile frameworks including Scrum & Kanban
+·      Highly analytical mind
+·      Team Player
+·      Proactive and not afraid to ask questions or for help when needed
+·      Good communication skills (especially verbal)
+·      Positive can-do attitude
+  KFC can be a sociable company if that’s your thing, and we strive to incorporate our company value of fun whenever we can from payday drinks to weekly sports clubs; there's extensive wellness and mental health support with Sanctus Training and yoga classes so you can choose how little or how much you get involved.
+Seniority Level
+Mid-Senior level
+Industry
+Food & Beverages Computer Software
+Employment Type
+Full-time
+Job Functions
+Product Management Information Technology

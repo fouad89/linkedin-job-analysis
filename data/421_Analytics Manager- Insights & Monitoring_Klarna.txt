@@ -1,0 +1,55 @@
+Analytics Manager- Insights & Monitoring
+Klarna
+London, England, United Kingdom
+About Klarna
+
+Klarna was founded in Stockholm, Sweden in 2005. Since then we've changed the banking industry forever. And now we're creating the world's smoothest shopping experience. We serve over 90 million consumers worldwide, and partner with 250,000 merchants – with a new merchant joining us every 8 minutes. Including some of the world's leading brands, such as H&M, ASOS, IKEA, Adidas, Samsung and Lufthansa. Our offices are spread over 17 different markets, hosted by 4000+ employees from 100+ nationalities.
+
+Klarna strives to become the world’s favourite way to buy, and you can contribute to reaching this goal! We are looking to hire great people, who are passionate about using their talents to generate success. Analytics is no exception! We are currently looking to grow our Analytics teams to satisfy the company’s ever increasing need for complex problem solving and data driven decision making.
+
+Who You Are
+
+We are looking for ambitious people with significant drive! We need problem solvers, initiative takers, people that see opportunities and potential to improve. You should be passionate about your job and enjoy a fast paced international working environment. You will play an important role in taking Klarna to the next level - thus, you should desire to go above and beyond to deliver and grow as an individual. At Klarna we embrace change, you should dare to challenge the status quo and be persistent in doing so.
+
+What You Will Do
+
+You'll take on leadership of a newly created UK insights & monitoring team in the Product Domain working closely with our HQ in Stockholm to build lovable products here in the UK!
+
+This role will see you understand and own the key performance indicators of our products, identify and solve customer and product performance issues, and reporting of our product unit economics and profitability.
+
+It’s an excellent career opportunity to help define and shape the way we optimise the Klarna product offering in the UK.
+
+As a team, we will take data driven decisions to deliver customer obsessed outcomes through our products.
+Lead and deliver high quality customer & product insights through data analytics to identify UK product improvements
+Use your strong analytical skills to define, forecast and track UK Key Performance Indicators and lead monthly UK Group Reviews
+Define, track and monitor product profitability analytics (e.g Unit Economics, LTV)
+Use wide spread data sources including external UK market data, UK sales performance, growth forecasts to identify and analyse market trends and identify opportunities for our customers and products
+Accountable Lead for the Insights & Monitoring team to define road map, initiatives and responsibility for delivery high quality insights from the team
+Demonstrate SQL skills to build out monitoring dashboards with tools such as Qliksense
+Pro-actively and effectively communicating with various stakeholders, building strong lasting relationships, discussing the root cause of trends and drive positive outcomes
+Delivering ad-hoc data analysis to support wider business activities e.g. Risk & Controls & UK Sales
+Developing as a professional in an entrepreneurial organisation that provides opportunity to work with your areas of interest
+You'll Have
+A degree in Science, Technology, Engineering, Mathematics or a Business field
+5 years or more experience in customer or product insights, product profitability, data visualisation and monitoring
+Experienced in leading a team of analysts & creating high performing teams
+A strong understanding of consumer credit in a tech setting in the UK
+An understanding for how to perform data extraction and manipulation, as well as programming languages is a plus (SQL, R, Python, MatLab, Java, C# etc.)
+Experience in using structured approaches to problem solving
+Significant drive and ambition
+Strong conceptual ability
+Strong attention to detail
+A curious mindset - you’ll be someone who loves to question the why
+How To Apply
+
+Send over a CV in English.
+
+Klarna is an equal opportunity employer. We celebrate diversity and are committed to creating an inclusive environment for all employees and candidates. Please refrain from including your picture and age with your application.
+Seniority Level
+Mid-Senior level
+Industry
+Computer Software Internet Financial Services
+Employment Type
+Full-time
+Job Functions
+Research Analyst Information Technology

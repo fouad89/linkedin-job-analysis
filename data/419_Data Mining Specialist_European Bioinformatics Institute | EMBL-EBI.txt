@@ -1,0 +1,67 @@
+Data Mining Specialist
+European Bioinformatics Institute | EMBL-EBI
+Hinxton, England, United Kingdom
+Posted by
+Rosa Aimi Vazquez
+Talent Management
+Send InMail
+An exciting opportunity has been created for a talented scientist to work on the development of new methodologies to identify relevant bioactivity data from the literature and other sources for incorporation into the world-leading ChEMBL database. This work will directly contribute to two on-going projects. The first, BioChemGraph, is supported by the BBSRC and aims to enhance data integration between the ChEMBL, PDBe and CSD databases. The second project is sponsored by Open Targets and will deliver evidence linking specific protein targets to disease phenotypes.
+Both projects need to efficiently identify published bioactivity data associated with small molecules that interact with target proteins. In the case of BioChemGraph these data are for ligand-protein pairs where a structure of the protein:ligand complex has been deposited in the worldwide Protein Data Bank. In the case of Open Targets, the primary focus will be on published chemical probes which are active in a disease-relevant bioassay.
+The successful candidate will be based in the Chemogenomics Team at the European Bioinformatics Institute (EMBL-EBI) and will closely with partners from both PDB-e and Open Targets teams, together with other groups and collaborators as required. 
+
+Your role
+Your role will include the following:
+Working with the ChEMBL, BioChemGraph and Open Targets teams to understand and capture key use cases for each project
+Developing, testing and validating text-mining techniques and other computational workflows to identify sources of relevant data
+Working with colleagues on the chemogenomics team to ensure that relevant data identified by these workflows are fed into the ChEMBL data extraction and curation pipelines.
+Identrifying, extracting and delivering relevant ChEMBL data to the BioChemGraph knowledge graph and the Open Targets informatics platform
+Working with software development team to productionise methods
+Representing the team and the institute at project meetings, with other collaborators and at international scientific conferences.
+Contributing to the broader goals of the team in developing resources for the scientific community
+
+You have
+You will possess a range of key skills including (a) an understanding of bioassays and bioactivity data and how these relate to drug discovery; (b) knowledge of chemical structures and their computer representations (e.g. SMILES, connection tables, InChI); (c) a sound understanding of proteins and protein structure; (d) good computer programming/scripting skills; (e) good familiarity with relevant literature and database sources of bioactivity and drug discovery data. We anticipate applying machine learning and text analytics methods to this problem in order to deliver an effective automated approach, so knowledge of this area would be a significant advantage. You also need to have excellent attention to detail, good communication skills and be able to interact not only with experts from your immediate area of expertise but also with scientists from other areas. 
+A PhD (or equivalent) in a biological, chemical biology or biomedical science.
+Sound knowledge of pharmacology in the context of target-based and phenotypic bioassays used in drug discovery and chemical biology
+Good knowledge of chemical structures, proteins and protein structure
+Demonstrable hands-on expertise in at least one programming/scripting language (ideally Python).
+Experience in data handling, file manipulation
+Ability to work accurately and quickly to meet deadlines
+Ability to work independently and as part of a team
+Good communication skills (both verbal and presentational)
+
+You might also have
+Practical knowledge of modern machine learning and text-mining techniques
+Knowledge of SQL and experience working with relational databases.
+Practical experience working in a drug discovery and development environment.
+
+Why join us
+Do something meaningful
+At EMBL-EBI you can apply your talent and passion to accelerate science and tackle some of humankind's greatest challenges. EMBL-EBI, part of the European Molecular Biology Laboratory, is a worldwide leader in the storage, analysis and dissemination of large biological datasets. We provide the global research community with access to publicly available databases and tools which are crucial for the advancement of healthcare, food security, and biodiversity.
+
+Join a culture of innovation
+We are located on the Wellcome Genome Campus, alongside other prominent research and biotech organisations, and surrounded by beautiful Cambridgeshire countryside. This is a highly collaborative and inclusive community where our employees enjoy a relaxed atmosphere. We are committed to ensuring our employees feel valued, supported and empowered to reach their professional potential. 
+
+Enjoy lots of benefits:
+Financial incentives: Monthly family, child and non-resident allowances, annual salary review, pension scheme including 17% employer contribution, death benefit, long-term care, accident-at-work and unemployment insurances
+Flexible working arrangements
+Private medical insurance for you and your immediate family (including all prescriptions and generous dental & optical cover)
+Generous time off: 30 days annual leave per year, in addition to eight bank holidays
+Relocation package including installation grant (if required
+Campus life: Free shuttle bus to and from work, on-site library, subsidised on-site gym and cafeteria, casual dress code, extensive sports and social club activities (on campus and remotely)
+Family benefits: On-site nursery, 10 days of child sick leave, generous parental leave, holiday clubs on campus and monthly family and child allowances
+Benefits for non-UK residents: Visa exemption, education grant for private schooling, financial support to travel back to your home country every second year and a monthly non-resident allowance.
+ What else you need to know
+Contract duration: This position is a project-limited contract estimated for 3 years (estimated from 01/09/2021 until 31/08/2024).
+International applicants: We recruit internationally and successful candidates are offered visa exemptions. Read more on our page for international applicants. 
+Diversity and inclusion: At EMBL-EBI, we strongly believe that inclusive and diverse teams benefit from higher levels of innovation and creative thought. We encourage applications from women, LGBTQ+ and individuals from all nationalities. 
+Job location: This role is based in Hinxton, UK and you will be required to relocate once it is safe to do so, if you are currently based abroad. Read more about how we are recruiting during the pandemic. 
+How to apply: To apply please submit a cover letter and a CV through our online system. We aim to provide a response within two weeks after the closing date: 06 July 2021. 
+Seniority Level
+Entry level
+Industry
+Computer Software International Affairs Research
+Employment Type
+Full-time
+Job Functions
+Engineering Information Technology Science

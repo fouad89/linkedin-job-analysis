@@ -1,0 +1,102 @@
+Data Science Consultant
+Accenture
+London, England, United Kingdom
+Job title: Data Scientist Consultant
+Salary: Competitive salary and benefits
+Location: London
+Level: Management Consultant
+
+Accenture is a leading global professional services company, providing a broad range of services in strategy and consulting, interactive, technology and operations, with digital capabilities across all of these services. With our thought leadership and culture of innovation, we apply industry expertise, diverse skill sets and next-generation technology to each business challenge.
+
+We believe in inclusion and diversity and supporting the whole person. Our core values comprise of Stewardship, Best People, Client Value Creation, One Global Network, Respect for the Individual and Integrity. Year after year, Accenture is recognized worldwide not just for business performance but for inclusion and diversity too.
+
+“Across the globe, one thing is universally true of the people of Accenture: We care deeply about what we do and the impact we have with our clients and with the communities in which we work and live. It is personal to all of us.” – Julie Sweet, Accenture CEO
+
+As a team:
+
+The Data Science Consultant will be part of Accenture Analytics as an Industry Data Scientist with the Industry Data Science Centre of Excellence, which works mainly in the engineering solutions area. They will be working with the team that identifies and develops advanced analytics solutions to engineering problems, using Engineering Knowledge, statistical models, machine learning methods and solutions for Accenture Resources clients to improve various business outcome indicators.
+
+In our team you will learn:
+
+Accenture is committed to the investment of its people, and the Global AI team is no exception. As a Data Science Consultant, you will have the opportunity to gain access to some of the brightest minds in the data science field, surrounded by peers who are involved in your future development.
+
+You'll work on novel challenges in the industry and will expand your technical skills in creative and inventive ways, with the added benefit of improving your interpersonal and presentation skills by going on site with clients and communicating with a wide range of stakeholders.
+
+Our data scientists spend time on the ground with engineers, whether that's in a mine, laboratories or on rigs, which offers you an industry experience like no other.
+
+In this role you will:
+
+Successfully develop, conceptualize and test various Engineering solutions, using statistical and machine learning models
+
+Integrate the outcomes as real time analytics to elevate Accenture’s ability to create value for clients in areas and through means not immediately apparent to clients
+
+Follow multiple approaches for project execution from adapting existing assets to Analytics use cases, exploring client data
+
+Collaborate with other data scientists, subject matter experts, sales, and delivery teams to create solutions
+
+Deliver strategic advanced analytics projects from design to execution.
+
+
+We are looking for experience in the following skills:
+
+Experience as a data scientist in relevant domains (Energy, Oil & Gas, Chemicals, Natural Resources, Mining & Metals, Utilities or Power) – with hands on experience handling data driven decisions in these areas or similar
+
+Experience in at least one of the following – engineering related solutions, supervised and unsupervised learning, classification models, cluster analysis, neural networks, non-parametric methods, multivariate statistics, reliability models, Markov models, stochastic models, Bayesian models, deep learning, genetic algorithms, fuzzy logic or inference systems
+
+Experience in various statistical and machine learning models, data mining and unstructured data analytics in corporate or academic research environments
+
+Experience in statistical software (Python, R, Octave, Tensorflow)
+
+Programming experience (Python, R or similar)
+
+
+Set yourself apart:
+
+As a Data Science Consultant we expect you to:
+
+Solve engineering solutions using Statistical Methods, Machine Learning models
+
+Think creatively to solve real world engineering business problems, which are not obvious, and use the clients extensive engineering knowledge and staff to develop with the clients, solutions that deliver increased efficiency, predict failures, etc.
+
+Identify the key parameters that are involved in the solution and using the best algorithm to solve it
+
+Work in a global collaborative environment where you will lead a small team
+
+Developing and delivering machine learning models that work in an engineering production setting
+
+Knowledge of UNIX or Linux environments
+
+Work with sensor data coming of working assists, time series analysis, failure analysis using time series data
+
+Work with large data streaming technologies like Spark
+
+Work with relational databases and have an intermediate level knowledge of SQL
+
+Proficient verbal and written communication skills in English
+
+
+
+What’s In It For You
+
+At Accenture in addition to a competitive basic salary, you will also have an extensive benefits package which includes 30 days’ vacation per year, private medical insurance and 3 extra days leave per year for charitable work of your choice!
+
+Flexibility and mobility are required to deliver this role as there will be requirements to spend time onsite with our clients and partners to enable delivery of the first-class services we are known for.
+
+About Accenture
+
+Accenture is a leading global professional services company, providing a broad range of services in strategy and consulting, interactive, technology and operations, with digital capabilities across all of these services. We combine unmatched experience and specialized capabilities across more than 40 industries — powered by the world’s largest network of Advanced Technology and Intelligent Operations centers. With 509,000 people serving clients in more than 120 countries, Accenture brings continuous innovation to help clients improve their performance and create lasting value across their enterprises. Visit us at www.accenture.com
+
+Accenture is an equal opportunities employer and welcomes applications from all sections of society and does not discriminate on grounds of race, religion or belief, ethnic or national origin, disability, age, citizenship, marital, domestic or civil partnership status, sexual orientation, or gender identity, or any other basis as protected by applicable law.
+
+Closing Date for Applications 31/08/2022
+
+Accenture reserves the right to close the role prior to this date should a suitable applicant be found.
+
+Seniority Level
+Mid-Senior level
+Industry
+Information Technology & Services Computer Software Financial Services
+Employment Type
+Full-time
+Job Functions
+Research Strategy/Planning

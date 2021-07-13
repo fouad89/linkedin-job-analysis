@@ -1,0 +1,62 @@
+Senior Data Scientist
+Ninety Percent of Everything (90POE)
+London, England, United Kingdom
+Posted by
+Neha Patel
+Talent Partner at 90PoE
+Send InMail
+About Us:
+90POE is a company with a goal to revolutionise shipping by creating a suite of comprehensive software solutions for the Maritime industry. Our journey begins now. Over the next couple of years, our teams and squads will build more than 30 products from the ground up. This includes everything from global vessel tracking to vessel performance analysis, crew optimisation and so much more.
+
+Our Mission
+To profoundly advance the safety, efficiency and reliability of the shipping industry through the
+application of digital technologies.
+
+The Role
+90POE’s mission is big. It’s not going to be easy but with the support and determination from our stakeholders and the brilliant people we have hired we can achieve anything. Right now, we're seeking a Data Scientist to use cutting edge techniques to build predictive models and use them to help optimise the shipping industry. This is an incredible opportunity to help to build on our success in a number of areas from finding the best crew person for any job on any ship, anywhere in the world to understanding and predicting the behaviour of a ship at sea in all conditions and using that find its best route, saving time, money and reducing CO2 emissions. We have achieved much in a short amount of time by working closely as a supportive team, building on the success of each other and not being afraid to try new and innovative techniques.
+Your new team are made up of Data Scientists and Data Engineers and are responsible for delivering insights and recommendations that allow ship operators to save time, money and fuel. Your team will gain not only from your experience and knowledge of your domain but also from your collaborative and results driven style.
+
+What’s in for you
+90PoE is a growing start-up, championing real change in the shipping industry. This is an exciting and challenging opportunity to apply cutting-edge technology to revolutionising an iconic industry.
+ You will demonstrate our values, strive for excellence, engage and motivate those around you and be accountable for your contribution to the team’s priorities. You have the chance to own your and the company’s growth in terms of:
+ Cleaning and filtering a wide range of data sets and live inputs
+Understanding how different statistical and mathematical techniques can be applied to a variety of optimisation problems
+Building and refining machine learning models to understand and predict a range of real-world problems
+Deploy and maintain algorithms and models in production
+Always striving to increase your own and your teams understanding of data science and how to apply it to the interesting field of shipping
+ What you will be responsible for:
+
+Continuous improvement mentality
+Incredible work ethic, drive and passion
+Excellent internal and external rapport builder/ people skills, establishing strong relationships
+The ability to advocate for good ideas regardless of where they come from
+Demonstrable experience in taking a data science problem from concept to a working system in production
+Strong numerical skills
+Writing well structured, easy to read and testable python code
+Good understanding of statistics and significance and their application to noisy data
+Fluency in English and strong communication skills, both verbal and written
+Being accountable for your contribution to achieving company priorities
+  It would be great if you have:
+BSc or higher in a STEM subject
+A track record of taking on interesting problems and defining, researching and implementing your own effective solutions
+Great Python programming skills
+Proficient with SQL databases
+Experience creating, training and testing mathematical models
+Superb visualisation skills
+Expert knowledge of Pandas or similar tool
+Enthusiasm to learn and work in a diverse team
+ Benefits
+We offer a competitive financial package which includes a competitive salary, company bonus scheme, employee referral scheme, a contributory pension and a travel to work loan
+We have a positive attitude to flexible working, a competitive annual holiday allowance, cycle to work scheme, supportive family polices and discounted gym membership
+We have a culture of which we are proud, a highly skilled and diverse workforce as well as impressive offices in central London and Kiev
+ For more information about 90POE check out our website https://openocean.studio/
+Or our company video here https://www.youtube.com/watch?v=WZ89Ps0VB_M
+If you would like to join our team and be part of this exciting journey, please get in touch
+Seniority Level
+Mid-Senior level
+Industry
+Computer Software
+Employment Type
+Full-time
+Job Functions
+Engineering Information Technology

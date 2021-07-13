@@ -1,0 +1,93 @@
+Data Scientist
+SpotX (now part of Magnite)
+Belfast, Northern Ireland, United Kingdom
+Join SpotX, now part of Magnite, as a Data Scientist in Belfast.
+
+SpotX is the leading video advertising platform shaping digital video and the future of TV globally and is headquartered in Denver with 9 offices throughout the US, EMEA, and APAC regions. SpotX reaches 4 out of 5 viewers of ad-supported CTV, or 70 million households in the US.
+
+We are a global software company with development offices in Belfast. In Belfast we build out new applications that run on a platform operating at volumes many times higher than stock exchanges. We compete against the world’s biggest tech companies to support Ad Funded businesses. Our customers include many household names in the media and gaming industry.
+
+The Role
+
+SpotX is looking for a highly talented and motivated Data Scientist. We are looking for someone who is versatile, methodical, excited by modern technology and enjoys focusing on tackling software challenges. Does that sound like you?
+
+Key Responsibilities
+Research and experiment with different machine learning algorithms and techniques for pattern analysis, statistical modeling, feature engineering and predictive model building
+Prototype and produce the developed Machine Learning solutions
+Work with Engineers to make sure the models scale well on high volumes of data
+Use Hive, Scala, Java or Python to utilize Hadoop/Spark to process large-scale datasets
+Able to identify, analyze, and interpret trends or patterns in complex log-based data sets
+Explore and interpret data, analyze results using statistical techniques
+Use big data skills to bring high volumes of data and data modeling together
+Awareness of priorities of client-driven and internal projects
+Partner with Data Engineers to get projects into production
+Conduct and participate in design and code reviews for data science projects
+Requirements And Preferred Experience
+Masters or PhD degree in a quantitative field (e.g. mathematics, statistics, computer science or engineering)
+1+ years’ experience working for a technology company (required)
+In depth knowledge and experience with: Regression, Random Forests, Support Vector Machines, Bagging, Boosting, Decision Trees, Clustering, Optimization, Stochastic Processes
+Solid understanding of predictive analytics, statistical modeling, and data-mining (theory, algorithms, and application)
+Able to make intelligent approximations and design effective, practical, and scalable mathematical models
+Able to identify assumptions and the limitations of models/algorithms and the impact on reporting and decision-making
+Proficient in Python (required)
+Experience with Jupyter Notebooks
+Experience with Spark and "Big-Data" is desirable
+Experience with Version Control such as git
+Comfortable working in a Linux/Mac development environment
+Training & Career Development
+Access to enterprise education resources with open subscription to Lynda.com and pluralsight.com
+SpotX knowledge for industry background
+When You Join Our Team, We Offer
+Company paid social events and treats (e.g. boat trips, bowling, pub quiz, etc)
+Subsidised Gym Membership
+Active Social Committee
+Stocked snack cupboard & beer fridge!
+Free Friday breakfasts
+Weekly Scone and Fruit delivery
+Great work-life balance and flexibility
+Great holidays, (25 days plus 10 bank holidays PLUS exceptional extras over Christmas!)
+Company pension plan and healthcare
+Learn in a fun, casual, team environment
+Amazing office location with panoramic views
+Free concert viewing from our office overseeing Custom House Square!
+Games room - ping pong, pool, games consoles
+SpotX Is
+An innovative company building best-in-class technology from 9 offices around the world (including Denver, New York City, London, Singapore, Sydney, Tokyo and Belfast)
+A fun, casual, and collaborative culture with a commitment to work-life balance
+An award-winning organization, check out our latest accolades here
+Proud to give back through the SpotX for Change Program matches up to $250 per year of employee donations to charities. SpotX contributed over $50K USD to charitable organizations in 2020
+Featured on The Muse, learn more about our company and view employee testimonials here
+In the news...check out our latest updates here
+SpotX Values
+
+We LOVE our customers.
+
+We BELIEVE in our people.
+
+We RESPECT each other.
+
+We are DRIVEN.
+
+We COLLABORATE.
+
+We INNOVATE.
+
+We EVOLVE.
+
+We are SPOTX.
+
+About SpotX
+
+SpotX is the leading video advertising platform shaping digital video and the future of TV globally. The company’s solutions enable media owners to monetize content across all screens and streams while providing advertisers with direct access to brand-safe, premium inventory. With best-in-class technology purpose-built for video, SpotX’s trusted, privacy-compliant solutions are employed by some of the largest media owners in the world including A+E Networks, Crackle Plus, The CW Network, Dentsu CCI, Discovery, Fox Corporation, fuboTV, LG, Microsoft, Newsy, Pluto TV, Roku, Samsung, Sling TV, and Vudu. In the US, SpotX works with nearly all major OTT stakeholders and reaches 4 out of 5 viewers of ad-supported CTV, or 70 million households. SpotX is a subsidiary of Bertelsmann’s RTL Group and is headquartered in Denver with 9 offices throughout the US, EMEA, and APAC regions. Learn more at www.spotx.tv .
+
+SpotX is an equal opportunities employer
+
+Learn more at www.spotx.tv and follow @SpotX on Twitter and LinkedIn.
+Seniority Level
+Entry level
+Industry
+Marketing & Advertising Information Technology & Services Computer Software
+Employment Type
+Full-time
+Job Functions
+Engineering Information Technology

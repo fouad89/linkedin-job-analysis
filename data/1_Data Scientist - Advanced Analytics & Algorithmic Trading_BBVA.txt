@@ -1,0 +1,51 @@
+Data Scientist - Advanced Analytics & Algorithmic Trading
+BBVA
+London Area, United Kingdom
+BBVA is a global company with over 160 years of history present in 30 countries with over 79 million customers. We are more than 125,000 professionals working in multidisciplinary and diverse teams.
+
+At BBVA, we are ahead of the transformation that is taking place in the banking sector, challenging the status quo, to make life easier to our customers.
+
+Being part of BBVA means developing your career in one of the most innovative companies in finance.
+
+Are you curious about financial markets? Do you want to develop a career in mathematics and data science applied to trading? In Advanced Analytics & Algorithmic Trading at BBVA Global Markets, we are looking for a talented data scientist to help us grow our portfolio of Equities, Fixed Income and FX projects. You will join an international team spanning locations in Madrid, Mexico, and now London
+
+Responsibilities
+The successful candidate will have the opportunity to work in exciting areas like:
+Development of advanced analytics models for decision-making of traders and trading algorithms
+Design and implementation of data-driven dynamic pricing models for financial products
+Automated detection of commercial opportunities: cross-selling, axe-matching, repricing, attrition risk, etc
+Analysis of market and client behaviour to detect relevant patterns and signals
+
+To give you an idea, a few examples of papers and books you should feel excited to read and code are:
+Introduction to Algorithmic Marketing, by Ilya Katsov
+Big Data Science in Finance, by Marco Avellaneda and Irene Aldridge
+Machine Learning in Finance, by Dixon, Halperin and Bilokon
+The Financial Mathematics of Market Liquidity, by Oliver Gueant
+Optimal client recommendation for market makers in illiquid financial products, by Dieter Hendricks and Stephen J. Roberts
+The behavior of dealers and clients on the European corporate bond market: the case of Multi-Dealer-to-Client platforms, by Fermanian, Gueant and Pu
+
+How can you expect that a typical day unfolds if you join the team?
+You will start the day checking the markets opening to make sure that our real-time trading algorithms and models have a smooth start
+You will join the data scientists in Europe in an online morning discussion of their different lines of work. If you are working in a multi-team agile project, you will probably meet your scrum team.
+Sitting on the open trading floor in London, you will have extensive time to progress your work at your desk and computer, and have frequent discussions with traders and sales in different locations (UK, Spain, rest of Europe, México, US, Latam) to ensure your work has a large impact in the business.
+During breaks, you will have the opportunity to enjoy the vibrant atmosphere of Canary Wharf in London
+Some time will also be allocated for learning and training, either on site in Madrid or London, or with the rest of the team in our journal and book club sessions, where we discuss in group the latest books and papers relevant to our activity.
+We also do frequent innovation & brainstorming sessions to ensure everyone in the team has a voice in the transformation of our businesses to a scientific, data-driven, one.
+
+Qualifications
+The ideal candidate will have:
+A master degree in Physics, Mathematics, Statistics, Engineering or Computer Science. A PhD will be highly valuable. We encourage talented female data scientists to apply. 
+Ideally, 1 - 2 years of experience in a data science role in a business environment, but we welcome applications from highly qualified candidates that have recently graduated.
+Outstanding mathematical literacy: you should be able to discuss business problems using mathematical terms on a piece of paper
+Programming skills in languages like Python or Scala
+Practical knowledge of standard statistics and machine learning libraries, and big data frameworks like Hadoop and Spark
+Good English level. Spanish is valuable but optional: we welcome international applications.
+Ability to work under pressure. We work in a business environment and this requires from time to time to commit to tight deadlines
+Seniority Level
+Associate
+Industry
+Banking
+Employment Type
+Full-time
+Job Functions
+Finance Analyst

@@ -1,0 +1,45 @@
+Data Scientist  Machine Learning
+SR Investment Partners
+London, England, United Kingdom
+Renowned Hedge Fund is looking for a talented Quantitative Data Scientist who has experience working in high-frequency or market-making trading desk who has experience in conducting research to identify new arbitrage opportunities This is for someone who is technical, passionate about data science. Expertise in Search engines using machine learning
+
+Culture
+No politics, collaborative, close-knit team with great growth potential.
+
+Experience
+
+Expertise in Search engines using machine learning
+Someone who can put together a nice search engine to navigate research and beyond for the objective becomes the equivalent of the Google Bar for our clients.
+Familiar with the concept of indexing data, tagging it, and then understanding queries in natural language to give back the precise document or sentence that the user is looking for.
+Building high-performance components for both live trading and simulation defining and increasing automation and robustness of the research infrastructure including alpha estimation, risk modeling, and backtesting components
+Conducting alpha research and designing systematic strategies.
+Build trading algorithms
+Understanding data science techniques to create the best results
+Higher scientific training (statistics, mathematics, physics), you have 2 to 5 years of experience in Data Science.
+Supporting desk strategists by providing them with quantitative tools
+Strong technical skills with experience in a quantitative analysis team (coding / developing in python, modeling, systems)
+Building efficient storage and access scheme for data and reference data across price, economic, and big data sets
+Researching and implementing performance analytics, including signal performance and post-trade analytics
+
+Experience Required:
+·      MS or Ph.D. in finance, computer science, mathematics, physics, or another quantitative discipline.
+·      Experience Data Science.
+·      Experience researching
+·      Strong programming skills with a high level of proficiency in Python.
+
+•      Location:  London
+•      Salary: £ Competitive + Bonus and great amounts of benefits
+
+REFER A FRIEND/ COLLEAGUE
+•      If you're interested in this opportunity, please forward you're CV ASAP. Alternatively, if you would like to know more information or have a confidential discussion please contact Shanaz Rob - call on +44 (0)203 603 4474 emails: shanaz.rob@srinvestmentpartners.com for more details.
+
+•      Follow for updates: https://www.linkedin.com/company/srinvestmentpartners
+
+  Seniority Level
+Mid-Senior level
+Industry
+Investment Banking Financial Services Banking
+Employment Type
+Full-time
+Job Functions
+Engineering Finance Information Technology

@@ -1,0 +1,53 @@
+Consumer Credit Risk Analyst
+Klarna
+London, England, United Kingdom
+About Klarna
+
+Klarna was founded in Stockholm, Sweden in 2005. Since then we've changed the banking industry forever. And now we're creating the world's smoothest shopping experience. We serve over 90 million consumers worldwide, and partner with 250,000 merchants – with a new merchant joining us every 8 minutes. Including some of the world's leading brands, such as H&M, ASOS, IKEA, Adidas, Samsung and Lufthansa. Our offices are spread over 17 different markets, hosted by 4000+ employees from 100+ nationalities.
+
+Klarna strives to become the world’s favourite way to buy, and you can contribute to reaching this goal! We are looking to hire great people, who are passionate about using their talents to generate success. Analytics is no exception! We are currently looking to grow our Analytics teams to satisfy the company’s ever-increasing need for complex problem solving and data driven decision making.
+
+Who You Are
+
+We are looking for ambitious people with significant drive! We need problem solvers, initiative takers, people that see opportunities and potential to improve. You should be passionate about your job and enjoy a fast-paced international working environment. You will play an important role in taking Klarna to the next level - thus, you should desire to go above and beyond to deliver and grow as an individual. At Klarna we embrace change, you should dare to challenge the status quo and be persistent in doing so.
+
+What You Will Do
+
+We are looking for ambitious and talented people! We need problem solvers, initiative takers, people that see opportunities and potential to improve. You should be passionate about your job and enjoy a fast paced international working environment. You will play an important role in taking Klarna to the next level - thus, you should desire to go above and beyond to deliver and grow as an individual. At Klarna we embrace change, you should dare to challenge the status quo and be persistent in doing so.
+
+Analytics at Klarna is divided into several teams with their unique responsibilities. One of these areas is our Credit Risk Analytics teams, which focuses on the continuous improvement of our credit risk real-time decisions for every transaction processed by Klarna. We are looking for a number of analysts at varying levels to join our teams! Our Analysts aim to understand consumer behaviors to identify and address consumer credit risk with the help of various tools to protect our business from credit risk-related losses and consumers' over-indebtedness and abuse.
+
+Day to day will see you
+Perform statistical analysis to design and assess the impact of changes in credit strategy in a rapidly evolving industry.
+Implement new credit strategies in Java code for real-time, automated decision making.
+Proactively and effectively communicating with various stakeholders, discussing the root cause of trends, assessing their impact, and proposing solutions/optimizations.
+Create, test, and monitor new credit tools and strategies from scratch
+Ensure metrics and strategies are fit for purpose in terms of the current credit environment and emerging risks (e.g. macro trends)
+Supporting wider business objectives by providing analytical expertise on new products and system developments and collaborating closely with other teams where relevant.
+Ensure adequate controls, monitoring and testing programs are in place
+Developing as a professional in an entrepreneurial organization that provides the opportunity to work with your areas of interest.
+Using analytical tools (e.g. SQL, R, or similar) to analyze data and problem solve with the end goal of detecting trends and making decisions.
+You should have
+A degree from a university in Science, Technology, Engineering, Mathematics, or a Business field.
+Excellent track record in optimizing business performance and identifying gaps in business strategy, with a focus on financial services, ideally credit risk
+Tech savviness with the ability to write rules for credit decisions.
+An understanding of how to perform data extraction and manipulation, as well as programming languages, is a plus (SQL, R, Python, MatLab, Java, C#, etc.).
+Significant drive and ambition.
+Experience in using structured approaches to problem-solving
+Fantastic stakeholder management skills
+A curious mindset - you’ll be someone who loves to question the why!
+You might also have
+Strong attention to detail
+Strong conceptual ability
+Significant drive and ambition.
+Interested?
+
+Please send us a CV in this application and we will come back to you as soon as possible if we find your profile relevant for the role.
+
+Klarna is an equal opportunity employer. We celebrate diversity and are committed to creating an inclusive environment for all employees and candidates. Please refrain from including your picture and age with your application.
+Industry
+Computer Software Internet Financial Services
+Employment Type
+Full-time
+Job Functions
+Finance Sales

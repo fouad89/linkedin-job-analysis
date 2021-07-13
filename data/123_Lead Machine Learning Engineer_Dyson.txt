@@ -1,0 +1,53 @@
+Lead Machine Learning Engineer
+Dyson
+Malmesbury, England, United Kingdom
+About Us
+
+Dyson is a global technology enterprise. We solve the problems others choose to ignore, with surprising new inventions that defy convention and simply work better.We’re driven by progress and thrive on the challenge of relentless improvement. We’re growing fast and our ambition is huge – more categories, more locations and more people.
+
+We push the boundaries of what others have definedas possible. Our engineering approach starts with different thinking. Then we continuously refine our ideas – unwilling to compromise and driven by an obsession for findinga better way. Today we employ more than 5,800 people around the world in software engineering, mechanical engineering and science-related roles.
+
+About the role The Machine Learning team, responsible for delivering tangibly intelligent products across all categories at Dyson, is looking for a Lead Machine Learning Engineer to join the UK team.
+
+Working alongside researchers, engineers and designers, we blend cutting-edge machine learning and artificial intelligence techniques with an in-depth understanding of user behaviours. We utilise anonymised data from our connected devices and build prototype rigs to conduct rigorous qualitative and quantitative experiments and trials, inventing novel solutions to 'impossible' problems.
+
+You will play a pivotal role in a rapidly growing team, developing intelligent features for our existing product categories, or enabling core functionality in our future products that most can’t even imagine.
+
+Accountabilities
+Work alongside researchers, engineers and designers to design, develop and conduct detailed investigations for embedding intelligent functionalities on Dyson’s future products.
+Act as a subject matter expert for applying machine learning techniques onto various challenges presented across all Dyson product categories.
+Perform investigatory analysis of large multivariate datasets, suggesting improvements for data collection and experimentation strategy to optimise system performance.
+Apply statistical methods to establish confidence in findings.
+Identify potential machine learning research opportunities based on scientific insights.
+Design and develop clean, documented, and easy to maintain code. Integrate software builds with the corporate CI environment where appropriate.
+Progress projects using the Dyson’s research milestone process; conduct and analyse investigations, document and report findings, communicate to key stakeholders, and handover to downstream teams.
+Work independently to manage tasks with competing priorities.
+Generate novel intellectual property.
+About you
+
+Skills
+Master’s or doctorate degrees in Engineering, Computer Science, or Applied Mathematics with demonstrable working experience in a related field.
+Proven experience of develop and implement machine learning algorithms across complex platforms such as microprocessors and cloud etc to solve real-world problems.
+In depth knowledge of feature engineering, unsupervised/supervised machine learning algorithms, time series analysis and statistical modelling.
+Hands on coding experience of Machine Learning frameworks (Keras/PyTorch) and commonly used libraries (scikit-learn).
+Ability to code using both low-level and high-level languages as appropriate, including Matlab, Python, C, C++ etc.
+Superb research and problem-solving abilities; enthusiasm to learn and share latest methods/techniques within the team.
+Great communication and collaboration skills.
+Benefits
+27 days holiday plus eight statutory bank holidays
+Pension scheme
+Performance related bonus
+Private medical insurance
+Life assurance
+Sport centre
+Free on-site parking
+Subsidised café and restaurants
+Discounts on Dyson machines
+Seniority Level
+Associate
+Industry
+Information Technology & Services Computer Software Retail
+Employment Type
+Full-time
+Job Functions
+Research Engineering

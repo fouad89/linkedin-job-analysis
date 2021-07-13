@@ -1,0 +1,50 @@
+Data Engineer - Digital Health
+electronRx
+Cambridge, England, United Kingdom
+At electronRx, we are building the interface between technology and the human body that will usher in a new therapeutic paradigm, transforming how we deliver healthcare and treat disease.
+
+As a data engineer, you will be expected to take ownership of the data infrastructure and to work closely with our data science team. We are looking for someone with experience in building out cloud-based data infrastructure for business cases and a keenness to apply this to digital health; someone who can take on the responsibility of building a robust ecosystem of digital services in one of today's most complex data landscapes in digital medicine.
+
+In your role you'll have the freedom to design and implement cloud infrastructure from ground up as you see fit. At electronRx, we prize ideas over egos, so if you can articulate and explain your reasoning we'll listen and support you all the way. You will help design and build a novel infrastructure of scalable services that will power a suite of biometric data collection and ML processing tools. You will be expected to develop an understanding of the whole pipeline, therefore getting a privileged overview of the digital health ecosystem.
+
+We are mostly remote working at the moment and may be able to accommodate permanent or semi-permanent remote working for the right candidate.
+
+Responsibilities
+Contribute towards building a multi use-case data platform in AWS, utilising a variety of services capable of fulfilling all internal and external data requirements
+Help with determining the data strategy of the company through research into best approaches and prior experience
+Maintain and extend existing data engineering frameworks used as part of existing and future data science projects
+Work alongside data scientists in developing and maintaining data pipelines for a variety of projects and using a variety of types of data
+Contributing towards internal software libraries and code reviews
+Developing and maintaining dashboards, technical reports, and presentations
+Willingness to work on multiple ongoing projects with varying requirements, timescales and budgets
+Requirements
+Bachelor’s in Mathematics, Physics, Engineering, computer science or related field
+1+ years of experience with Python
+Prior exposure to cloud platforms (preferably AWS), with a focus on utilising cloud platforms for business use-cases
+Experience with building and deploying models in the cloud (preferably with experience in AWS SageMaker and MLFlow)
+Experience with SQL/NoSQL databases
+Eagerness and willingness to define and expand upon a data platform for a variety of use cases and data types (sensor, video, text, etc.)
+A desire to research new cloud services, with the aim to bring into the wider data platform, and help make decisions on directions to take with our data
+Strong communicator and ability to interact well with both data scientists and non-technical audiences
+Proactive developer, capable of building services which foresee future use cases
+Openness to learning new domain knowledge and new technologies to apply to our use cases
+Enthusiasm for digital health and desire to do real good in the work you do
+
+Nice-to-haves
+Master’s or PhD in a related field (machine learning, computer vision, NLP)
+Experience in utilising Python for AWS solutions (e.g. ‘boto3’)
+Experience in building data pipelines utilising AWS services (Lambda, Glue, Kinesis, Redshift)
+Previous experience in developing healthcare-based applications
+Experience in data visualisation tools (e.g. Tableau, Power BI, AWS QuickSight)
+Experience in machine learning libraries (e.g. sklearn, TensorFlow, PyTorch)
+Comfort in adopting and testing new ideas and approaches from cutting-edge research
+Preferable experience with CNNs, RNNs, and transformer models
+Medical and/or signal processing domain knowledge
+Seniority Level
+Entry level
+Industry
+Health, Wellness & Fitness
+Employment Type
+Full-time
+Job Functions
+Information Technology

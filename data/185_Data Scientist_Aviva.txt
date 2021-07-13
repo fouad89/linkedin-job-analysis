@@ -1,0 +1,66 @@
+Data Scientist
+Aviva
+London, England, United Kingdom
+Do you love data science and analytics?
+Are you passionate about putting the customer first?
+Would you thrive in a fast-paced, start-up environment, empowered to innovate?
+ If so, we are looking for top data science and analytics talent to be part of our incredible journey and as we build a world-class Customer Science team.
+ Aviva is not just any old insurer. The industry is ripe for disruption and that is just what we are doing. Over the past 2 years we have been on one of the most visionary digital transformation journeys of any company, and we continue to transform the way our 31m+ customers engage with our products and services, by reinventing our ways of working and consistently innovating.
+ Here in the UK we have crafted a purpose-built office in London’s trendy tech hub, Hoxton Square. It’s certainly not your stereotype ‘insurance company’ of boring offices and grey suits. This is a buzzing, start-up environment with top talent from a broad range of industries. We work in agile, collaborative, cross-functional teams, with a real passion for helping customers defy uncertainty.
+ Aviva Quantum
+Data, in all its forms, is more readily available than ever before and increasing exponentially. Today’s consumers demand ever-more personalised products and services. Tools and computing power now exist to turn vast data assets into actionable insight. Our ability to understand and drive value from data will shape Aviva’s ability to compete and grow.
+ Data science is a strategic imperative for us, with sponsorship and buy-in from the CEO down. We have invested heavily into Aviva Quantum - our global data science practice that brings together 700 data scientists from across the globe to understand customers and deliver the very best experiences.
+ Using cutting-edge data science techniques, on one of the richest insurance datasets in the world, Quantum data scientists innovate to tackle Aviva’s toughest problems. We’ve even created a specific Quantum job family to recognise, support and reward our data scientist community.
+ Customer Science Team
+Within Aviva Quantum sits a very special Customer Science Team. We believe that everything is better when we put the customer first; data science helps us do that at massive scale. We use advanced analytical techniques and rich data assets to create actionable insights, models and tools that support Aviva’s strategic priorities and help customers defy uncertainty.
+ We have been assembling some of the best talent to drive world-class customer data science into action. We are not a typical, back-room data science team, we combine data science expertise with a consultancy-like approach and execution. We are passionately customer-first, and partner to drive strategic change and impact through our work.
+ We have been recognised as the Best Place to Work in Data in 2019 and 2020 by DataIQ.
+https://www.dataiq.co.uk/articles/articles/dataiq-awards-2020---best-place-to-work-in-data-aviva-customer-science-teamAviva
+ Responsibilities in the role:
+
+The creation and delivery of extraordinary customer-first data science driven through to
+action - work that delivers significant, measurable customer and commercial benefit
+Collaborate with colleagues to identify and solve the real business problems
+Identify new and existing data sources and data science techniques to generate best-in[1]class models, insights and understanding
+Craft high-impact insights, models and recommendations
+Create and sharing knowledge, developing team capability and collaboration
+Develop innovative approaches and solutions to problem
+ Skills and experience we’re looking for:
+
+Be educated to degree level in a mathematical- or programming-oriented subject,
+(Computer Science, Applied Science etc), or able to demonstrate equivalent knowledge and experience. Post-graduate qualification a plus but not essential
+Experience working with natural language programming (NNLP)
+Be highly numerate with expertise in statistics, machine learning, analytics or similar
+Be passionate about putting the customer first, with real-world experience of doing this
+Good experience working with Spark
+Enjoy communicating and collaborating with others to deliver brilliant, high-impact work
+Be able to communicate complex technical concepts to specialist/non-specialist audiences
+Have programming experience (essential) with Python and SQL
+ Desirable skills:
+
+For our more technical Machine Learning roles, you will have good working knowledge of Git-based code version control, experience of building data pipelines with Spark, and experience of productionising Machine Learning models at scale.
+Have experience of digital and big datasets (eg clickstream, Adobe Marketing Cloud)
+Have programming experience with R
+ What will you get for this role?
+Competitive salary pending on location, skills, experience, and qualifications
+A generous defined contribution pension scheme
+Annual performance related bonus and pay review
+A holiday allowance of 29 days plus bank holidays and the option to buy/sell up to 5 additional days
+Up to 40% discount for some Aviva products through “My Aviva Extras” plus discounts for Friends and Family (some exclusions apply)
+Excellent range of flexible benefits to include a matching share save scheme
+ Working at Aviva
+ At Aviva, we’re people with a purpose. To be with you today, for a better tomorrow.
+ We bring this to life by ensuring risk handling is at the heart of the way we all work. We love people who do the right thing for our customers, and our colleagues. We want people who speak up, who take ownership, and who make good decisions.
+ The way we do this is important too. We always ‘Care More’. It’s our thing. We’re all about our people – that’s you – so we can be pretty flexible. If you want to work from home some of the time or change your hours so you can pick up your kids or care for someone in your family, we’re very open to that. In fact, we don’t advertise roles as either part or full time, because we know each person has different needs, just as each business area has different needs. So, it’s up to you to discuss working hours during your interview.
+We care deeply about being inclusive and that means we encourage applications from people with a diverse group of backgrounds and experiences. We want our employees to bring their whole self to work and that starts with you.
+ We interview every disabled applicant* that meets the minimum criteria for the job. Once you’ve applied, please send us a separate email stating that you have a disclosed disability, and we’ll make sure we interview you.
+ We’d love it if you could submit your application online. If you require an alternative method of applying, please give Lacey Lane Mckoy a call on 0207 255 0884 or send an email to lacey.lane-mckoy@aviva.com
+ *As defined in The Equality Act 2010*. By ‘minimum criteria’ we mean you should provide us with evidence which demonstrates that you generally meet the level of competence required and have the qualifications, skills or experience defined as essential to perform the role.
+  Seniority Level
+Mid-Senior level
+Industry
+Financial Services
+Employment Type
+Full-time
+Job Functions
+Information Technology Other

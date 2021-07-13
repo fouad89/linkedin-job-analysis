@@ -1,0 +1,68 @@
+Healthcare Data Scientist – U.K Home-based
+IQVIA
+Brighton, England, United Kingdom
+Posted by
+Kevin Veeren
+Talent Acquisition Manager at IQVIA
+Send InMail
+Healthcare Data Scientist – U.K Home-based
+
+OMOP Productised Analytics, Real World Solutions (RWS) Technology
+
+IQVIA Real-World Solutions (RWS) is a fast-growing and highly successful business, focusing on delivering tangible results to clients across healthcare value chain internationally. RWS teams help clients lever patient-level healthcare datasets of varying degree of complexity and richness to understand healthcare treatment patterns and outcomes to make more informed decisions and deliver results. Our approach enables the transformation of the industry utilizing Real-World Evidence (RWE) to provide deeper insight into market dynamics, therapy area changes, outcomes, unmet needs, treatment economics and other scientific and market questions. We are collaborative, intellectually curious, entrepreneurial, and constantly looking for opportunities to harness the value of RWE in a constantly evolving industry.
+
+IQVIA has adopted OMOP/OHDSI as a systematic and standardized approach to RWE. Data are converted into the OMOP Common Data Model, making queries and analytics interoperable and sharable. In addition, the generation of these queries and tools and its execution can be separated, both physically as well as logically, creating the opportunity to develop code for purposes of descriptive statistics or hypothesis testing in the absence of a direct data access to all data assets being targeted. As a consequence, the generation of insights becomes an industrialized process, including the characterization of data and the generation of insights.
+
+The OMOP Productised Analytics team's mission is to deliver world class and globally scalable projects through:
+
+
+Rapid analytics - to assess study feasibility and availability of data
+Standardised characterisations of the composition of a population: their demographic structure, the distribution of their comorbidities, the duration between diagnosis and intervention, etc.
+Protocol-driven analytics - estimating the association between clinical interventions and their outcomes – benefits and adverse events.
+Predictive models for determination of populations (phenotypes) or outcomes (patient-level predictions)
+
+This requires global leadership across technical and data architecture, data manipulation, analytics script and report generation, software development and data visualization. The solutions are delivered to a variety of clients across life-science, government, payer or provider organizations. The team also curates the largest collection de-identified Real-World Data in the world in OMOP Common Data Model, from different patient care settings in multiple countries worldwide, making it the forefront of “Big Data” in healthcare.
+
+In this role you can expect to;
+
+Work on the development and implementation of solutions for retrospective research and analytics
+Support the building of a dedicated, enthusiastic team of data scientists
+Collaborate closely with both developers and data scientists, plus other team members such as Sales Professionals and IQVIA Data Teams to manage the development cycle from ‘thought to delivery’
+Collaborate with members of the OHDSI community, participate in the OHDSI community through study projects such as study-a-thons, code development and knowledge sharing
+Build and maintain good relationships with clients through research projects
+Prepare rapid feasibility analysis to evaluate requirements for new and revised projects
+Translate detailed research specifications into documented instructions, debug routine queries and prepares necessary documentation
+Complete documentation and procedures for installation and maintenance of cohorts.
+Using current programming language and technologies, write code, complete programming, and perform testing and debugging of applications and queries
+Ad-hoc script writing in R, SQL, SAS.
+
+Our ideal candidate will have;
+
+Bachelor's Degree Computer Science or related discipline and experience of analysing healthcare data
+Advanced script writing in R and SQL
+Experience in manipulating and querying data at scale
+Good grasp of classical statistical methods, such as fitting regression models, inference testing and sampling.
+Exposure to epidemiology / biostatistics, particularly analytical issues relating to studies of treatment effectiveness, disease progression, adherence, healthcare utilization,
+Good knowledge of healthcare / life science issues involving Real-World Evidence or experience with patient-level, longitudinal data.
+A proactive, innovative and pragmatic approach to problem solving and an ability to think critically and independently.
+Flexible and adaptable in a client focused, results driven environment.
+Ability to manage team members effectively across multiple time-zones.
+Experience of a fast-paced, consultancy environment.
+
+Location and travel
+
+Role based in remotely but within commuting distance to our Brighton office for semi-regular visits. (now working from home under current government guidelines)
+Minimal travel expected to other IQVIA offices (London, East Coast US) or to attend conferences.
+
+IQVIA is a strong advocate of diversity and inclusion in the workplace. We believe that a work environment that embraces diversity will give us a competitive advantage in the global marketplace and enhance our success. We believe that an inclusive and respectful workplace culture fosters a sense of belonging among our employees, builds a stronger team, and allows individual employees the opportunity to maximize their personal potential.
+
+
+
+At IQVIA, we believe in pushing the boundaries of human science and data science to make the biggest impact possible – to help our customers create a healthier world. The advanced analytics, technology solutions and contract research services we provide to the life sciences industry are made possible by our 70,000+ employees around the world who apply their insight, curiosity and intellectual courage every step of the way. Learn more at jobs.iqvia.com.
+
+Industry
+Pharmaceuticals
+Employment Type
+Full-time
+Job Functions
+Engineering Information Technology

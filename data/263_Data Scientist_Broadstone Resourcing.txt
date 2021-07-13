@@ -1,0 +1,48 @@
+Data Scientist
+Broadstone Resourcing
+London, England, United Kingdom
+Data Scientist - Central London - Competitive salary plus bonus and benefits
+
+My client, a global healthcare company based in Central London, is looking to recruit a Data Scientist. The Data Scientist will provide data-driven insights and products to drive commercial value and to enable a wide range of strategic business decision processes. This will be achieved by working on complex analyses and/or by developing models to optimise our sourcing approach, drive business growth, reduce waste and support automation across all areas of the business.
+
+Key responsibilities:
+
+Develop our data science capability and advocate for the use of company data and information assets.
+Grow the test & learn capability of the company to optimise sourcing strategies.
+Provide commercial deep dives into specific business area and translate data into actionable insight & recommendations.
+Develop models (rule-based segmentation, decision trees, predictive models) to help decision-making processes.
+Serve as a subject matter expert on statistical analysis and convey technical results effectively to a variety of audiences, including those with a non-technical background
+Sharing learning and insights across multiple levels and multiple business units
+Present complex ideas and recommendation to various level in the organisation
+Ensure outputs are accurate, timely and meet the business needs.
+Work with wider Analytics team to define new data sources or improving existing ones and on other topics.
+Key skills:
+
+Strong data query language/tools skills (e.g. SQL, Alteryx).
+Commercial acumen ( e.g. commercial deep dives, business driver reviews).
+Skills in creating segmentation and/or predictive models.
+Ability to take ownership of projects and to work autonomously.
+An understanding of relevant statistical techniques and the ability to interpret the findings from this data.
+Be able to set up A/B and multi-variate tests.
+R and /or Python language would be beneficial.
+Extreme attention to detail and follow-through.
+Outstanding interpersonal and communication skills both written and verbal, flexible and adaptive to changes in the business.
+Ability to build positive working relationships with internal and external business partners and to influence a diverse set of stakeholders.
+Life Sciences/Pharmaceutical exposure desirable.
+
+
+
+
+
+
+
+Broadstone Resourcing Ltd acts as an Employment Agency and an Employment Business and all appointments will be made on merit alone.
+
+Seniority Level
+Mid-Senior level
+Industry
+Hospital & Health Care Logistics & Supply Chain Pharmaceuticals
+Employment Type
+Full-time
+Job Functions
+Information Technology

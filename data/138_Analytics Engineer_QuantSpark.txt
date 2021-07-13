@@ -1,0 +1,91 @@
+Analytics Engineer
+QuantSpark
+London, England, United Kingdom
+Posted by
+Aurora Jee
+Talent Acquisition Manager looking for top strategy analysts and developers for Quantspark!
+Send InMail
+Who we are
+
+QuantSpark is a strategic data science and analytics consultancy based in London. Our mission is to create strategic value for our clients through advanced analytics. We deeply care about the commercial impact of our work and this entrepreneurial approach informs everything we do. After 5 years of growing QuantSpark incrementally we are now looking to accelerate our growth as we scale up in 2021. As well as increasing the team size we are looking to increase the specialist knowledge within our Analytics team.
+
+We're a close-knit, friendly team who thrive solving problems together - our core way of working is collaborating between our Analytics, Model Engineering, and Development teams. We are also an equal opportunities employer and strongly encourage the broadest possible range of applicants for this role. More than anything else we look for team members who are passionate about solving business problems and enjoy supporting clients in transforming their businesses.
+
+We are now looking for an enthusiastic and highly technically proficient Data Engineer to work at the heart of our Analytics team alongside our entrepreneurial CEO to propel QuantSpark to the next stage of our growth as a small business.
+Our Approach
+
+We combine the commercial insight of strategy consulting with the rigour of advanced analytics and scalability of software engineering. Our Analytics and Software Development teams work in harmony to help our clients to realise the value of data based on coherent data strategy and deployment of high-impact analytics solutions whether that be through our Analytics Diagnostic, visualisation services, predictive modelling, or bespoke software development. Our core practices serve clients in the Consumer (Retail, Grocery, Fashion), B2B / Recurring Revenue (SaaS), and the Private Equity industries.
+What we do
+
+For our clients we develop foundational analytics (data architecture, business intelligence), deploy advanced analytics and predictive models, and build data-driven software to solve specific high-impact commercial problems. All of this is underpinned by our commercial approach to identifying analytics solutions that will drive meaningful value for our clients. This is guided by our Analytics Diagnostic and results in an Analytics Value Creation Plan that provides the roadmap for strategic transformation through data analytics.
+What the role is about
+
+Before embarking on predicting analytics projects, it is vital that we develop best-in-class data architecture to support the foundational layer of descriptive analytics. To this end we are looking for an experienced Data Engineer to work within our Analytics team to develop ETL processes and data pipelines between cloud and on-prem data systems and build cloud-based data warehouses / data cubes.
+
+As an Analytics Engineer you enable the Analytics team to accelerate work in developing dashboards in Microsoft PowerBI, Tableau, and other BI solutions. By developing data cleansing routines and by consolidating data in centralised cloud-based data warehouses you will also enable the Model Engineering team in their work to model and analyse large datasets which often includes systematic errors in need of automated cleansing scripts. You will also support the Development team in optimising data pipelines and architectures supporting our own range of SaaS products and bespoke tool development projects.
+
+To succeed in this data engineering position, you must be able to extracting data from a broad range of cloud and on-premise data systems and integrating this into purpose-built data warehouses and data cubes. We're especially interested in candidates who have experience integrating datasets from a broad range of systems and databases - one example of many: we might connect a SQL database with a Python runtime environment and integrate with SAP and Salesforce.
+
+
+
+The future of this role
+
+QuantSpark is growly quickly so it's hard to predict how this role will grow and change over time. However, what we can say is that there will be significant opportunities for learning and development as the business grows.
+
+
+
+Responsibilities
+
+Analyse existing data architectures and provide advice on how to build effective ETL processes, pipelines, data connectors, and data warehouses / data cubes
+Build bespoke data connectors from existing databases and systems and integrate with purpose-built data cubes in the major cloud platforms
+Develop client Single Customer Views (SCVs) in a variety of mainstream platforms
+Reconcile differences in datasets with a view to ensure that the updated data architecture provides accurate reporting
+Identify systematic errors in large datasets and build automated data cleansing scripts
+Engage collaboratively with client technical teams to deploy updated data architectures
+Enable the Analytics team to be more effective in developing descriptive and predictive analytics solutions
+
+Requirements:
+Our teams thrive because of the diverse and creative way we approach problems along with our focus on cross-team collaboration. For this role we're looking for a team member who has great interpersonal skills and enjoys engaging with client teams to help support their data analytics journey.
+More than other roles, as a Data Engineer you will be working closely with the client's technical and IT teams - diplomacy and warmth goes a long way to ensure successful project engagements.
+
+Technical Requirements
+
+Minimum of three years' experience as Data Engineer or in a similar functional role
+Knowledge of building data warehouses on the major cloud-based platforms such as Google Cloud Platform, Microsoft Azure, AWS Redshift, Snowflake
+Experience of building bespoke data connectors and working with 3rd party APIs e.g. Skyvia, Stitch to extract and connect data from client CRMs, financial systems, sales systems, HR systems
+Ability to work creatively with a broad range of CRMs and ERPs
+Experience with relational database design and advanced ability in SQL
+Experience creating server environments and building architecture required to support data analytics
+Attention to detail and ability to cleanse complex datasets by identifying systematic errors and automating cleansing scripts
+Experience with data cleansing at scale
+Advanced coding skills in Python and/or R are essential
+Data Engineering certification (e.g IBM Certified Data Engineer) is a plus
+
+Benefits:
+£60k- £70k salary (dependent on experience)
+Private healthcare with Vitality
+Pension scheme
+Work from home flexibility
+Your own high-end Mac Pro
+25 days holiday (plus bank holidays)
+Cycle to work scheme; Various discounts including on gyms and cinema tickets
+Annual training and conference budget
+Working with a great team of enthusiastic, entrepreneurial, and driven colleagues
+
+
+
+We are an equal opportunity employer and value diversity at our company. We do not discriminate on the basis of race, religion, colour, national origin, gender, sexual orientation, age, marital status, or disability status.
+
+Desired Skills and Experience
+AWS
+Data engineering
+Python
+R
+Seniority Level
+Associate
+Industry
+Management Consulting
+Employment Type
+Full-time
+Job Functions
+Information Technology

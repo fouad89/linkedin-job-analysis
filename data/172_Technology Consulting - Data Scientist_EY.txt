@@ -1,0 +1,74 @@
+Technology Consulting - Data Scientist
+EY
+London, England, United Kingdom
+Technology Consulting – Data Scientist
+
+Technology is at the center of business change – and provides opportunities to improve performance, manage risk and drive innovation. Getting the technology right can be the start, or the end point, of a transformation. Every organization’s needs are different. To succeed, you need innovative insight, business perspective and change expertise to unlock the potential to drive growth, save costs today and invest in tomorrow. We are inspired to ask better questions and work with you to create innovative answers. EY Technology aim to be recognised as a leading provider of differentiated technology consulting services harnessing new disruptive technology, alliances and talented people to solve our client’s issues.
+
+The Opportunity
+
+We live in a data rich World and more & more of our personal and business interactions are being driven by the application of advanced analytics and artificial intelligence (AI). At EY, we are helping organisations transform, to continually improve the way they ‘do business’ and lead in the market. We are doing this by challenging the norm, by taking on the ‘too hard’ problems and by helping organisations become insight driven.
+
+We have a fast-growing Data & Analytics practice within Advisory, where Data Science & AI Engineers are at the tip of the spear for driving growth. Whether you are an expert in computer vision, have a passion for NLP, love playing with Graph we would really like to hear from you. We also believe all sector experience has something to offer, so whether you are Telco or FS, Consumer Products or Utilities, it will all add to the richness of services we can offer our clients.
+
+Your Responsibilities
+
+We are looking to bring in talented people like you across all our grades. No day would be ‘typical’, but you could expect to be involved in some or all of the activities listed below during the course of your career
+Supporting the pursuit of new work through client conversations and presentations
+Research & development in support of new AI based offerings
+Leading & delivering client solutions using a range of DS/AI technologies
+Learning about new technologies/research and how they could be applied for the benefit of our clients
+Mentoring other experienced and aspiring Data Science & AI Engineers
+Development of innovative prototypes to bring to life our capability
+Support of bid response work to articulate what value we can bring
+Speaking at conferences, meetups and other EY brand promotion events
+Blogging about what we do
+Collaborating with our partners and other parts of EY
+
+Skills & Attributes For Success
+
+Clearly your technical expertise is welcomed and expected, but we are also looking for your experience and guidance to drive the right solution and approach for the problem at hand. To be transformative, we often have to go after the ‘too hard’ business problem, which requires our people to be creative and really challenge themselves to deliver. We want you to be thinking how you can apply your knowledge and push yourself to learn more in order to solve the difficult stuff.
+
+If you have some or all of the below, then get in touch
+Strong inter-personal, collaborative & team player skills
+Professional experience in delivery of advanced analytics/DS/AI projects
+Excellent understanding of mathematical, probability & statistics principles, and of algorithm theory
+Detailed knowledge of a range of AI techniques including, graph data analytics, time series, NLP, deep learning, supervised and unsupervised machine learning etc
+Programming skills in Python or R, Spark and SQL
+Excellent communication skills, with the ability to analyse and clearly articulate complexities in a simple, clear and compelling way
+Worked with open source data science libraries and understand how to apply them to various problem types
+Experience of using the latest Data science platforms (e.g. Databricks, AzureML) and frameworks (e.g. Tensorflow, MXNet, scikit-learn)
+Data wrangling and manipulation techniques
+Experience of development & deployment tooling, such as Jenkins, Ansible, Docker etc
+
+Ideally, you’ll also have
+Experience of working on a Microsoft Azure platform
+Used a data visualisation technology, like Tableau, Power BI or Qlik
+Software engineering experience (e.g. coding standards, version control, testing, review)
+Experience of IoT
+Domain knowledge across public sector, utilities, pharma, consumer products, telco or retail
+
+Whilst we are looking for machine learning experts, we aren’t looking for machines; what we need is your human IQ and EQ to be part of our high performing team. Success isn’t achieved from a cookie cutter template, nor from re-inventing the wheel every time, rather it’s a combination of balancing the innovation and industrialisation experience you can bring.
+
+What working at EY offers
+
+We offer a competitive remuneration package where you’ll be rewarded for your individual and team performance. Our comprehensive Total Rewards package includes support for flexible working and career development, and with FlexEY you can select benefits that suit your needs, covering holidays, health and well-being, insurance, savings and a wide range of discounts, offers and promotions. Plus, we offer
+Support, coaching and feedback from some of the most engaging colleagues around
+Opportunities to develop new skills and progress your career
+The freedom and flexibility to handle your role in a way that’s right for you
+
+About EY
+
+As a global leader in assurance, tax, transaction and advisory services, we’re using the finance products, expertise and systems we’ve developed to build a better working world. That starts with a culture that believes in giving you the training, opportunities and creative freedom to make things better. Whenever you join, however long you stay, the exceptional EY experience lasts a lifetime. And with a commitment to hiring and developing the most passionate people, we’ll make our ambition to be the best employer by 2020 a reality.
+
+If you can confidently demonstrate that you meet the criteria above, please contact us as soon as possible.
+
+Join us in building a better working world.
+
+Apply now.
+Industry
+Accounting Financial Services
+Employment Type
+Full-time
+Job Functions
+Engineering Information Technology

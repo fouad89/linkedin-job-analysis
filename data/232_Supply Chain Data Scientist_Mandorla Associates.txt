@@ -1,0 +1,23 @@
+Supply Chain Data Scientist
+Mandorla Associates
+Greater Bristol Area, United Kingdom
+We are working with a scale up consulting client looking to build their team with Supply Chain-focused Data Science expertise. A strong analytical mindset and great communication skills will be key to success.
+
+We are seeking a generalist, with experience in data science, engineering and analysis, ideally with three or more years in supply chain and/or consulting.
+
+Essential skills and experience for a successful applicant:
+Database querying with SQL languages
+Data manipulation and processing in Python, R, or similar
+Data visualisation using Microsoft Power BI (and Power Query) or other BI tools
+Presentation and communication of your work to senior stakeholders
+
+Additional preferable skills and experience include:       
+Python application development
+Microsoft Power Apps experience
+Practical application of statistics
+Working with Agile (sprint-based) methods
+Solution design/architecting
+
+This is an exciting chance to join a small team with a highly collaborative, inclusive employee model and who have a strong desire to change the consulting approach in its markets.
+Employment Type
+Full-time

@@ -1,0 +1,50 @@
+Data Scientist
+Compass Lexecon
+London, England, United Kingdom
+We are one of the world’s leading economic consulting firms. We strive to recruit and develop talented people to work together to produce meaningful economic analysis of exceptional quality, and to create a positive impact on our clients and society.
+ Our European Practices provide expert economic advice on competition policy, economic and financial regulation, public policy and the assessment of damages in complex disputes. We work on some of the most high-profile cases before the European Commission, the General Court and national competition authorities, regulators and courts.
+ We believe that working in diverse teams, where everybody’s views are considered and respected, helps us to deliver work of the highest standards of quality and integrity.
+
+Compass Lexecon is recruiting Data Scientists to join its growing Data Science team. This team is part of the broader Research Team, which aims to advance our thought leadership, develop increasingly effective methods to analyse complex data and construct compelling arguments grounded in empirical analysis.
+
+Data is a core part of every project at Compass Lexecon, and turning that data into compelling empirical analysis is fundamental to what we do. With increasing amounts of data being generated and made available, there are exciting opportunities to apply tools from data science, machine learning, and data engineering to the challenging policy and competition questions that arise in our work. Some examples of the work the team has done so far include:
+
+· Developing and deploying tools in Python to conduct geographical analysis – what is the effect on consumers if companies A and B merge but most of their stores are within 30 mins of each other? 
+
+· Conducting Natural Language Processing on competition authority decisions to analyse trends in enforcement – what topics are the authorities most concerned about, and how is this changing?  https://www.compasslexecon.com/ecmergerdecisions
+
+· Using network analysis on patent datasets to understand developments in innovation within an industry – who are the most important innovators within a technology, and how will this affect consumers down the line?
+
+· Building large-scale web scrapers to construct datasets – do we have a full picture of the competitive situation in an industry?
+
+The team aims to (a) advance our thought leadership in the industry, bringing Compass Lexecon to the forefront of data analytics, (b) introduce new tools and techniques to address challenges encountered in economic consulting, and (c) broaden and deepen all Compass Lexecon economists’ specialist skillsets to offer our clients the most effective, creative and cutting-edge analysis and advice. In doing so, we aim to push the frontier of how data is used to shape markets in some of the world’s most important industries.
+
+As a data scientist in the Research Team, you will help bring this vision to life.
+
+The role
+Working on client-facing projects, applying data science tools to solve data challenges or develop novel analysis. Each project is different – one week you may be solving a difficult data processing challenge, the next you may be working on causal statistical models.
+Contributing to cutting-edge research projects, helping develop Compass Lexecon’s thought leadership in the application of advanced analytics to competition and finance cases.
+Conducting training, sharing knowledge, and building tools to allow project teams to improve how they work with data.
+
+You should apply if
+You have a number of years of experience in data analytics, for example at a technology company, a professional services firm, or a public body.
+You’re comfortable getting hands-on and solving data and programming challenges, but also stepping back and thinking strategically about higher-level questions such as avenues for research or internal development. o You’re familiar with a variety of data science tools and concepts (such as machine learning, natural language processing, data infrastructure, and version control systems).
+You have experience in several programming languages (in particular Python, R, and SQL), and have a good overview to know when to pick the right tool.
+You can work both independently – figuring out solutions to problems with little guidance – and collaboratively in a team of people with different skillsets.
+
+You can expect
+Competitive salary and benefits
+The opportunity to work on high profile, challenging projects, with top law firms, corporations, government bodies and academics
+A blend of professional and academic environments
+Training and further development opportunities to expand your knowledge and skills
+A very steep learning curve, coupled with a supportive and collaborative team
+
+Compass Lexecon is an equal opportunities employer.
+Seniority Level
+Mid-Senior level
+Industry
+Management Consulting
+Employment Type
+Full-time
+Job Functions
+Consulting Research

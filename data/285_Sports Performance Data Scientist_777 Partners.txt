@@ -1,0 +1,46 @@
+Sports Performance Data Scientist
+777 Partners
+London, England, United Kingdom
+Overview
+
+777 Partners, a Miami based investment firm, acquired the London Lions, a basketball franchise based in London, UK.
+
+About 777 Partners
+
+777 Partners is a Miami-based investment firm focused on a broad spectrum of financial services businesses across insurance, lending, specialty finance, and media and entertainment. Operating in attractive markets and often times esoteric asset classes, 777 seeks to make control investments across the business life cycle in companies with scalable profiles and ambitious management teams. For more information on 777 Partners, visit www.777part.com.
+
+About The London Lions
+
+The London Lions is one of the most successful professional basketball clubs in the UK. The club competes in both Europe and the top two domestic competitions, the BBL and WBBL. The club has the ambition to compete at the highest level of European basketball. To do this, the Lions are looking to become a more data-driven organisation and leverage advance analytics across talent identification, recruitment, training & gameday and injury prevention.
+
+About The Job
+
+We are looking for a Talent ID & Performance Data Scientist to support the Director of Basketball and Head Scout across the performance-side of the business. The analyst will lead the development of cutting-edge basketball analytics systems across the Lions, covering talent identification, player performance, training and gameday insights and injury prediction / avoidance.
+
+ESSENTIAL RESPONSABILITIES:
+Identify and implement new approaches to using advanced analytics across the basketball performance functions
+Provide statistical analysis to assist decision-making of the Director of Basketball and Head Scout
+Create new approach, using predictive analytics, to evaluate the quality, performance and value of potential players to support with talent identification and player recruitment
+Provide support to coaching staff with gameday and training insights to support with designing winning strategies and to predict and avoid player injury
+Present findings from analysis to suggestions to key members of performance functions
+
+SKILLS / KNOWLEDGE ABILITIES:
+Expert-level analytics skills and experience in techniques such as: statistical modelling, predictive modelling, evaluations
+Strong programming skills (e.g. SQL, R, Python)
+Experience developing and managing supervised or unsupervised models
+Demonstrated ability to take raw data and turn it into actionable insights and work plans that deliver measurable basketball performance outcomes
+Ability to communicate findings to internal partners
+Demonstrated comfort-level with ambiguity and working with large streams of data across different formats and entry points
+Relevant PhD degree (e.g. computer science, mathematics)
+Interest in sports preferred but not essential
+Eagerness to join an entrepreneurial, fast-growing organisation, developing the club's approach to analytics
+Collaborate effectively on team projects and work autonomously on individual work as appropriate
+Focused, pro-active and embraces responsibility across multiple workstreams
+Seniority Level
+Entry level
+Industry
+Information Technology & Services Insurance Financial Services
+Employment Type
+Full-time
+Job Functions
+Engineering Information Technology

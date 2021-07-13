@@ -1,0 +1,47 @@
+Project Control Data Analyst
+ISG
+Blyth, England, United Kingdom
+Job Title: Project Controls Data Analyst
+
+Location: Blyth/North East
+
+Job Purpose
+
+ISG have recently secured a £500m new-build Battery Gigaplant project in Blyth. We are looking for a Software Developer / Data Analyst with a passion for creating and managing innovative data assets to support our vision in delivering a world class project.
+
+Key Responsibilities
+As our inhouse Data Analyst/Engineer your focus will be on the development and management of the underlying data assets in order to improve the delivery and efficiency of engineering and construction, structuring work and creating processes that are easy to understand, scalable and flexible enough to deal with the complexities of projects. These assets will draw from various sources - internal and external systems and databases, external APIs and so on.
+The ambition is to search the evolving global data environment to identify, investigate and exploit new data to enable project teams to engage with and gain benefits from the delivery of structured data throughout the project lifecycle, to address real-life issues and inefficiencies and better understand risk and opportunity.
+You will be required to manage the pipelining (collection, storage, access), engineering (cleansing, feature creation/selection/derivation) and understanding (documentation, exploration) of this data.
+You will have immediate exposure to client assignments which will draw on your imagination and creativity as well as your ability to analyse data, draw insights and present results.
+
+
+Experience & Skills
+Analysis and Grounding in either Alteryx, Tableau, Scala, R, Python, Power BI, particularly accessing and wrangling data from different sources (CSV, Spark, SQL, APIs etc.)
+The ability to collect the raw data, transform, manipulate, combine and understand it, describe it creatively and prepare it for further analysis
+Appreciation of the benefits of a structured software engineering environment and good documentation of processes
+The ability to design, implement and use simple database structures to ensure data is organised effectively across the environment (relational databases, non-relational, distributed file system)
+The ability to understand the pitfalls in different data sources and to perform the necessary provenance and lineage checks
+Ability to write deliverables/reports in a clear, concise and appropriate way and communicate them
+A passion for quality software coding, data and analytics and a good knowledge of statistics
+Desire to work collaboratively with fellow associates, both in the Client and Internal Services Model, and to show commitment to exceptional delivery
+Desirable Requirements
+Experience or desire to apply predictive modelling techniques to the data
+
+Person Specification
+Minimum of a degree in a quantitative subject, likely containing data science, machine learning analytics or actuarial modules
+
+
+How To Apply
+
+If you'd like to be part of #TeamISG – to dream smart, speak frankly, always care and never stop learning – the next step is to make your application by following the link below.
+
+Build something special
+Seniority Level
+Entry level
+Industry
+Construction Staffing & Recruiting Financial Services
+Employment Type
+Full-time
+Job Functions
+Information Technology

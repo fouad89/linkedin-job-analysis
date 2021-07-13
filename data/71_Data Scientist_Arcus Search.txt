@@ -1,0 +1,36 @@
+Data Scientist
+Arcus Search
+London, England, United Kingdom
+Posted by
+Liam Wilson
+Senior Consultant | Business Intelligence & Data Engineering at Arcus Search
+Send InMail
+Data Scientist
+London / Remote
+£60,000 - £80,000
+
+Arcus Search are currently partnered with a hugely innovative and tech driven Legal Technology start-up founded in 2018. They have seen exponential growth over the past year and plan to double in the next 12 months. With this in mind, they're hiring their first member of the Data Science team to become the point person for everything data.
+
+Initially you will work on data pipelining, but as the business evolves you will build on Machine Learning with view to build a best in class Data Science team.
+
+Tech stack is cutting edge. Built in BigQuery, Dbt, Looker & Fivetran. Their aim is to become a super power in the industry.
+ Responsibilities
+Be the first data person and become the point person for data
+Be responsible for the data strategy of the company
+Work with all departments, with a focus on democratizing data for all
+Develop and scale ETL pipelines for a growing data team
+Work with engineers to make sure they collect the right data to produce relevant business insights from our app and tools
+
+Qualifications
+3+ years in a data analyst or scientist role, with experience working across a data stack
+Experience conducting analysis to inform decision making
+Proficiency with SQL, Python & Machine Learning
+Strong analytical and problem-solving skills
+Seniority Level
+Mid-Senior level
+Industry
+Information Technology & Services
+Employment Type
+Full-time
+Job Functions
+Legal Information Technology

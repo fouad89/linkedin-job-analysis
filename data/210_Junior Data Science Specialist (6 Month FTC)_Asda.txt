@@ -1,0 +1,40 @@
+Junior Data Science Specialist (6 Month FTC)
+Asda
+Leeds, England, United Kingdom
+Job Advert
+
+Do you have an analytics and data science background and looking for an opportunity to innovate, own and drive data science based solutions to business problems ?
+
+As a Junior Data Science Specialist at George, you will help specify and deliver a suite of tools and capabilities to drive our Trade Analytics function. Trade analytics covers the key business areas of Merchandising , Supply and Applied Analytics so you'll be right in the data heart of george.
+
+You will help to shape and drive the functionality of our new tools and capabilities. Working alongside Experts in Merchandising, Planning and Supply Chain you will deliver analytics solutions to help solve some of the major issues the business faces today using predictive analytics and machine learning.
+
+Your Role
+
+As the Junior Data Science Specialist, you will be accountable for the management and delivery of Data architecture and sources to support stakeholders across the business in making key commercial decisions.
+
+Alongside your colleagues, you will manage data architecture to support the full end to end Omin-Channel visibility and requirements. You'll be provided with the opportunity to develop and set up the capability to visualise through Power BI and create and launch a Power BI dashboard.
+
+You will play an integral role in supporting the business to deliver our automation and intelligence aspirations and will ensure ways of working are well embedded into all system design.
+
+About You
+You will ideally have studied a mathematic or Data Science based degree and 3 months + work experience
+The successful candidate will likely have a strong data background with experience of SQL server, SSRS, Analytics and visualisation tools.
+A strong understanding of Tableau and Power BI is essential, as is a proven track record of providing insightful analytics that empowers stakeholders to make informed decisions.
+You'll be a strong relationship builder and have the ability to challenge and influence key stakeholders to help shape business requirements.
+You will pro-actively embrace and drive change using new technologies and have the ability to prioritise and manage your workload in order to meet tight deadlines
+If flexible working is important to you, then look no further! At George, we are proud of our culture and our commitment to flexible working. This role is based at Asda House, Leeds with the opportunity to work from home 2-3 days per week
+
+You will also get an excellent benefits package including;-
+Discretionary company bonus
+Company pension up to 7% matched
+10% colleague discount, free parking and many additional rewards.
+We want all colleagues to be able to bring their best and true selves to work, every day. Simply put, we want our colleagues to be Proud to be George and proud to be themselves.
+Seniority Level
+Entry level
+Industry
+Staffing & Recruiting Retail Financial Services
+Employment Type
+Full-time
+Job Functions
+Engineering Information Technology

@@ -1,0 +1,48 @@
+Data Scientist - Anti-Financial Crime (AFC)
+Deutsche Bank
+Birmingham, England, United Kingdom
+Job Title: Anti-Financial Crime (AFC) Data Scientist
+Location: Birmingham
+Corporate Title: Assistant Vice President
+ You will be joining the AFC Modelling team, which is responsible for developing and optimising methods and models to monitor clients’ transactional behaviour that aligns with the Bank’s risk appetite, identifying systemic transactional threats to proactively combat financial crime matters, and support Financial Crime Investigation team from data and analytic needs.
+What we’ll offer you
+A healthy, engaged and well-supported workforce are better equipped to do their best work and, more importantly, enjoy their lives inside and outside the workplace. That’s why we are committed to providing an environment with your development and wellbeing at its centre.
+You can expect:
+Competitive salary and non-contributory pension
+30 days’ holiday plus bank holidays, with the option to purchase additional days
+Life Assurance and Private Healthcare for you and your family
+A range of flexible benefits including Retail Discounts, a Bike4Work scheme and Gym benefits
+The opportunity to support a wide ranging CSR programme + 2 days’ volunteering leave per year
+
+Your key responsibilities
+Responsible for supporting model development within the AFC analytics programme including: monitoring rule design, development, segmentation, risk assessment and validation within the team
+Responsible for performing proactive risk assessments using subject matter expertise, industry trends, emerging AFC risks
+Work with the Financial Crime Operations Team and the Risk Coverage / Governance Team to ensure the Transaction Monitoring rules are reviewed on a regular basis based on the level of risk and that the systems are appropriately optimised
+Conduct Anti-Money Laundering (AML) tuning and optimisation across multiple line of business’s (including correspondent banking, retail, commercial, brokerage, and trade finance) and multiple Transaction Monitoring Systems (Mantas and Smaragd), ensure sound risk coverage, adequate quantitative model assessment and validation, and data quality completeness and integrity
+Support the development and maintenance of bespoke Threat Analytics models targeting specific money laundering risks
+Your skills and experience
+Excellent knowledge of AML Transaction Monitoring systems particularly Oracle Mantas
+Demonstrated experience in analytics platforms (Big Data, Scala, PySpark, Python, R, etc.) for modelling, data mining and statistical analysis
+Demonstrably strong knowledge of SQL
+Good experience in Financial Crime Compliance, Risk Assessment or Quality Assurance in Financial Services, Banking or Regulatory environment
+Experience in dealing with internal and external audit
+
+How we’ll support you
+Training and development to help you excel in your career
+Coaching and support from experts in your team
+A culture of continuous learning to aid progression
+A range of flexible benefits that you can tailor to suit your needs
+
+About us and our teams
+Deutsche Bank is the leading German bank with strong European roots and a global network. Click here to see what we do.
+
+Our values define the working environment we strive to create – diverse, supportive and welcoming of different views. We embrace a culture reflecting a variety of perspectives, insights and backgrounds to drive innovation. We build talented and diverse teams to drive business results and encourage our people to develop to their full potential. Talk to us about flexible work arrangements and other initiatives we offer.
+We promote good working relationships and encourage high standards of conduct and work performance. We welcome applications from talented people from all cultures, countries, races, genders, sexual orientations, disabilities, beliefs and generations and are committed to providing a working environment free from harassment, discrimination and retaliation.
+Seniority Level
+Mid-Senior level
+Industry
+Financial Services
+Employment Type
+Full-time
+Job Functions
+Finance Legal Information Technology

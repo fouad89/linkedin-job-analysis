@@ -1,0 +1,71 @@
+Customer-Facing Data Scientists - Edinburgh
+Mudano
+Edinburgh, Scotland, United Kingdom
+Edinburgh with travel (post Covid)
+Permanent, Full Time
+£50-70,000 (DOE)
+
+What Doesn’t Challenge You, Doesn’t Change You.
+
+At Mudano, we’re on a mission to deliver the promise of people and technology and there’s no time to waste.
+We only work with people as ambitious and driven as we are, who are excited by the pace of change and are determined to make a mark on the future.
+
+People with this drive and fire are our life blood. They aspire to do and be more.
+
+That’s why our acceptance rate is tougher than Harvard.
+
+Our people. Our practitioners. Focused on project efficiency and business value delivery. Passionate about removing bias and guesswork and replacing it with informed, objective decision-making.
+
+Accenture Applied Intelligence - The agility of a start-up, the scale of a global leader
+
+Farewell to the Mundane.
+
+We exist at the heart of the Accenture Applied Intelligence Financial Services organisation and lead the direction for the strategy, delivery and growth of the capability.
+
+But we retain our start-up mentality and work at speed, with a common set of beliefs, behaviours and values that sets us apart.
+
+Culture is how we work together. Easy to experience, harder to pin down and define in words. It is inclusive and it is diverse. It is award winning. It is a place for each person to live and work in a way that is right for them.
+
+Our benefits and policies are designed for each person to integrate their work and life in a way that is right for them, as well as provide extensive support for career development, whatever that path may be.
+
+Build on what you can do. Realise the potential you have.
+
+We are looking for hands-on authentic and committed Data Scientists to support a range of different clients on all aspects of data science – from cradle through to grave. We work mainly, but not exclusively, in the Financial Services sector and our clients call on us to deliver the most challenging assignments going.
+
+Job Description And Duties
+Using Data Science to solve a range of business problems such as financial crime detection, customer retention, improve product take-up rates and portfolio optimisation
+Coding primarily in Python, but also in associated languages such as R, SQL and Hadoop/Hive, working with both structured and unstructured data sets
+Often, our hands-on Data Scientists work as part of a multi-disciplinary, agile, team that also includes Business Analysts, Data Engineers and Data Visualisation SMEs
+From time to time, you may also be transitioned away from full-time customer-facing work into an internally-facing role
+
+
+Requirements
+Minimum 3 years’ commercial hands-on Data Science experience
+Broad understanding and experience of ML/AI principles (key assumptions and benefits of ML/AI; algorithm types; experiment design; limitations etc)
+Experience in ML applications such as Deep Learning, NLP, Information retrieval, Text mining, Bayesian models, Graph theory, Recommendation engines
+Confident Python ML software coding skills
+Demonstrable hands-on experience with ML libraries (such as scikit-learn and/or TensorFlow)
+Fluent communicator in both written and spoken English, with an engaging personality and a professional and approachable style
+Strong client-handling skills
+
+
+Benefits
+
+Excellent training and development programme
+Comprehensive coaching programme
+Comprehensive benefit package including private medical, wellbeing cover, and life insurance
+Leading health and wellbeing services and resources via AXA PPP healthcare
+24/7 Employee assistance programme
+25 days’ annual leave plus bank holidays + 3 days paid volunteering leave
+Pension scheme with employer contribution
+Cycle to work scheme
+PerksAtWork discounts
+Discounted gym membership
+Seniority Level
+Mid-Senior level
+Industry
+Information Technology & Services Insurance Financial Services
+Employment Type
+Full-time
+Job Functions
+Information Technology

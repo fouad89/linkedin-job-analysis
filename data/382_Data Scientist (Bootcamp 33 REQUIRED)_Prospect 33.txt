@@ -1,0 +1,30 @@
+Data Scientist (Bootcamp 33 REQUIRED)
+Prospect 33
+United Kingdom
+Are you seeking to advance your Data Science career in the Financial Services industry? Eager to consult with some of the top players in the industry? If so, look no further!
+
+We are seeking eager Data Scientists who are looking to enter the Financial Services field and impact real change in the industry. To qualify for these opportunities, you must first attend Bootcamp 33- please follow the link to be taken to our website, simply click "Apply Now" and be directed to our Qualifying Quiz.
+
+The ideal candidate's favorite words are learning, data, scale, and agility. You will leverage your strong collaboration skills and ability to extract valuable insights from highly complex data sets to ask the right questions and find the right answers. 
+ Responsibilities
+Analyze raw data: assessing quality, cleansing, structuring for downstream processing
+Design accurate and scalable prediction algorithms
+Collaborate with engineering team to bring analytical prototypes to production
+Generate actionable insights for business improvements
+
+Qualifications
+Master's degree or equivalent experience in quantitative field (Statistics, Computer Science, Engineering, etc.)
+At least 1 - 2 years' of experience in quantitative analytics or data modeling
+Deep understanding of predictive modeling, machine-learning, clustering and classification techniques, and algorithms
+Fluency in a programming language (Python, C,C++, Java, SQL)
+Familiarity with Big Data frameworks and visualization tools (Cassandra, Hadoop, Spark, Tableau)
+A desire to work in the financial services industry
+Location is open
+Seniority Level
+Entry level
+Industry
+Banking Financial Services Investment Banking
+Employment Type
+Full-time
+Job Functions
+Consulting Finance Information Technology

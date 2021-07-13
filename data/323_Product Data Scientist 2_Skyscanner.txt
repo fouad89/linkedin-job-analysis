@@ -1,0 +1,45 @@
+Product Data Scientist 2
+Skyscanner
+Edinburgh, Scotland, United Kingdom
+Skyscanner is proud to be the world’s most trusted travel app and website. Here, our mission is to lead the global transformation to modern and sustainable travel and ensure a seamless experience for all those who want to explore the planet while protecting it.
+
+At Skyscanner, our global presence offers scale and our inclusive work environment gives everyone the chance to create real impact. Wherever you’ll join us, you’ll work alongside people who’ll encourage you to achieve your best while pursuing some of the most exciting challenges within the travel sector.
+
+The team is responsible for building and commercialising advertising and data products.
+
+Every day, millions of people search for their perfect flight, hotel or rental car on Skyscanner! We are responsible for helping our partners to reach them with powerful ads that encourage actions. We are turning our global data into significant insights and helping airlines run more profitably, airports find new customers, and destination and marketing agencies understand demand.
+
+What You’ll Do
+Work with cross-functional teams of designers, engineers, product and commercial managers to drive our advertising and data product forward
+Design and evaluate thorough experiments to generate findings and measure the effectiveness of our products
+Contribute to scoping, defining, prototyping new data products and improving existing ones
+Perform data analyses to extract impactful insights that will help drive product decisions
+Define metrics and implement reporting solutions tailored to partners’ goals
+Design and develop dashboard and data visualisations to monitor product performance and users behaviour
+Influencing product teams through presentations of data-based recommendations
+Contribute to authoring pipelines via SQL and Python-based ETL framework
+Spreading analytics best practices to product teams
+Who You Are
+You have worked 1+ years in a Data Science or product analytics role
+You have a user-centric mentality.
+You can communicate clearly with both technical and non-technical colleagues.
+You’re comfortable with Python and/or R (Spark useful as well)
+You have good data querying skills using variations of SQL
+You have statistical competence (such as regression modelling, a/b testing, significance testing etc)
+You enjoy working in a dynamic and constantly evolving environment with teammates from a variety of disciplines.
+You can manage multiple stakeholders and priorities
+You collaborate to identify and scope out new opportunities to positively impact Skyscanner product and vision
+You are happy to work independently and ask for help when needed
+Actively look to evangelize Data Science across Skyscanner.
+Travel means discovering new perspectives and experiencing diverse cultures. And we believe that travel is for everyone! We know that Skyscanner will be strongest when our team is both inclusive and diverse and we are committed to taking that journey together. We will recognise and challenge everyday biases, remove obstacles to inclusion and ensure that all of our people can thrive as their authentic selves.
+
+Already a global leader in travel, we want to elevate the way we work to a whole other level. In return, you’ll get important things like medical insurance, health screenings, headspace subscriptions and the option to buy more holiday And you’ll have the opportunity to work from your home country for 3 weeks a year, and 30 days in our other global offices. Everything, in other words, to help you relax and give your best.
+
+Seniority Level
+Entry level
+Industry
+Computer Software Information Technology & Services Internet
+Employment Type
+Full-time
+Job Functions
+Information Technology Engineering

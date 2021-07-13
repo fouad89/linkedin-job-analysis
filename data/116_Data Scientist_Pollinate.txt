@@ -1,0 +1,65 @@
+Data Scientist
+Pollinate
+London, England, United Kingdom
+Posted by
+Beate Vogt
+Talent Manager at Pollinate International
+Send InMail
+Are you ready to step into the fast-paced world of fintech? We’re Pollinate. We combine the agility and flexibility of a high-growth company with the global ambitions and backing of an established brand. 
+ We are growing fast. In the past six months, we’ve expanded our international footprint, and recently closed a $50m Series C funding round to support our global growth. Our mission is to support banks as they reclaim the central role in the lives of their business customers by working with them to deliver the technology to help small businesses grow and create unforgettable payment experiences to customers.
+ We are headquartered in London but have small teams in Australia, South Africa and the US. We’re already working with major global banks, such as NatWest and National Australia Bank, but we’re continuing to grow rapidly and need talented people like you to join us on our journey.
+ About the role
+As a Data Scientist at Pollinate you will be responsible for collaborating with the product design team and engineering to develop an understanding of the needs for our exciting new product offering.  The data scientist shall research and devise innovative statistical models for data analysis, communicate findings to all necessary stakeholders. They will enable smarter business processes and implement analytics for meaningful insights whilst keeping current with technical and industry developments.
+ Responsibilities
+·As a client facing data scientist you will be working with strategy to identify solutions on projects. These can be leveraged through our product capabilities. You will then work closely with the engineering team to strategize and execute the development of data products.
+Bring rigorous, scientific analyses to departmental decision making, acting as an advisor and expert on best practices.
+Apply your expertise in quantitative analysis, data mining, and the presentation of data to see beyond the numbers and understand how our business users interact with our products and how those insights can inform our product strategy.
+Execute analytical experiments methodically to help solve various problems and make a true impact across various domains and industries.
+Devise and utilize algorithms and models to mine big data stores, perform data and error analysis to improve models, and clean and validate data for uniformity and accuracy.
+Analyse data for trends and patterns, and Interpret data with a clear commercial objective in mind.
+Implement analytical models into production by collaborating with software developers and machine learning engineers.
+Communicate analytic solutions to stakeholders and implement improvements as needed to operational systems. 
+ What we are looking for
+You may have experience working in a data consultancy environment or working as a data science advisor within a larger team.
+You have a self-starter mindset; are versatile and proactively identify issues and opportunities and tackle them without being told to do so.
+You're a team player whom your colleagues can rely on.
+Experience with Python, SQL, and/or other languages
+Experience with dashboarding/front end technologies.
+You have experience in Data Visualization and can place down analysed data in form of visuals  i.e. graphics, images, for the purpose of explaining the analysed trends to various stakeholders.
+You are comfortable with independent working and have ability to fill the gaps in the dataset and understand business trends.
+You're commercially minded and can put numbers into business perspective
+Comfortable working in a dynamic, research-oriented group with several ongoing concurrent projects.
+
+Who we are looking for
+Starter-finisher attitude to manage work
+Strong verbal and written English communication skills
+High energy and drive that suits a start-up environment
+Comfortable working outside of rigid structures and frameworks
+Effective working in ambiguous environments
+ What we stand for
+We believe we are better together when we listen, engage and support each other, we want you to bring your expertise and experience to work every day.
+We are passionate about what we are doing and want you to share this with us, enjoy your time with us, stay calm under pressure and bring positive energy to the team.
+We are all on a journey together, we want your ambition and flexible mind set to embrace the twists and turns as we grow as a business.
+ Your wellbeing and professional growth is important to us. If you join Pollinate, you can expect:
+Benefits including up to 20% bonus, pension, life assurance, health cash plan, and share options in Pollinate through our CSOP scheme.
+Access to the mental health platform, Unmind, and a weekly Yoga class to support your individual wellbeing journey.
+A dedicated growth and opportunity initiative, ‘GO!’ focused on empowering and inspiring you to push yourself and your career forward. – this includes access to LinkedIn Learning, A Cloud Guru, an internal coaching and mentoring programme, and a series of sessions with external experts covering a range of topics, such as leadership and intrapreneurship, and more
+Flexible working – at the moment, and for the foreseeable future, this role will be 100% home-based. We are currently in the process of developing a ‘Future of Work’ strategy that will include hybrid working.
+Regular social activities – these are, of course, virtual at the moment but we hope to be able to bring these back offline soon.
+ Pollinate’s platform
+Our platform has picked up multiple industry awards, including:
+‘Banking Innovation of the Year’ at the 2020 Future Digital Awards
+‘Innovation Frontier’ award at the Celent Model Bank 2020 Awards through our work with NatWest’s Payit
+'Best payment industry newcomer' at the Card and Payment Awards for Tyl by NatWest platform
+We’re also shortlisted in the Women in Tech Employer Awards 2020
+ As part of Pollinate, you’ll be working with experts across payments, technology, customer experience, and financial services, supported by a world-class network of partners. Join us to be a key part of a team that’s changing the future of payments, with the freedom to make your mark. Together, we’ll push the boundaries of what’s possible with payment enabled merchant services for SMEs around the world.
+ This Job Description covers the main areas of your responsibilities - it is not an exhaustive list.
+ We can only accept candidates who have the right to work in the UK.
+Seniority Level
+Mid-Senior level
+Industry
+Financial Services
+Employment Type
+Full-time
+Job Functions
+Engineering Information Technology

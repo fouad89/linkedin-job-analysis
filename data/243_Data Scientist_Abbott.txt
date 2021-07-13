@@ -1,0 +1,75 @@
+Data Scientist
+Abbott
+Witney, England, United Kingdom
+Abbott Rapid Diagnostics is part of Abbott’s Diagnostics family of businesses, bringing together exceptional teams of experts and industry leading technologies to support diagnostic testing which provides important information for treatment and management of diseases and other conditions
+
+1. Position Summary
+
+The Data Scientist, Divisional Quality is responsible for providing data analysis to support the Divisional Quality Systems team.
+
+This job function has accountability for complying with the applicable elements of Abbott Corporate Quality & Regulatory (AQR) Policies, ARDx Quality Framework and the ARDx Divisional Quality Management System (QMS).
+
+2. Essential Duties and Responsibilities (Key Activities)
+Carries out duties in compliance with established business policies and procedures.
+Demonstrates commitment to the development, implementation, and effectiveness of applicable Quality Processes as per ISO, FDA, and other regulatory agencies.
+Responsible for exhibiting professional behaviour with both internal/external business associates that reflects positively on the company and is consistent with the company’s policies and practices.
+Responsibility to understand and maintain awareness of the quality consequences which may occur from the improper performance of their specific job.
+Perform other duties and projects as assigned.
+Principal Responsibilities
+Preparation and distribution of reports to support management requirement and highlights key trend performance on process and product quality metrics.
+Data analytics using AI/ ML/ Statistical techniques to provide predictive and insightful analysis giving accessible, clear input for Business and Quality improvements
+Provision of troubleshooting analysis and reporting to internal customers.
+Supporting Operations to ensure accuracy of data and build new trend rules.
+Collation of product quality outcomes and reporting on the efficiency and effectiveness of quality and operations strategies.
+Filtering and “cleaning” data, and reviewing computer reports, printouts, and performance indicators to locate and improve data quality
+Addressing questions relative to sources and resources included in reports and methodology used to analyse data.
+Developing and implementing data collection systems and other strategies that optimize statistical efficiency and data quality
+Monitoring of process performance and improvements in key metrics.
+Analysing of Alere entity cycle times of Agile PLM Quality objects to determine where focus needs to be applied for improvement opportunities.
+Analysing of CAPAs globally to determine potential trends in root causes.
+Evaluation of the benefit in raising Quality Incidents.
+Performing detailed ad hoc analysis on multiple data streams with findings summarized in report format for internal customers
+Designing new trend rules using basic methodologies
+Designing new trend rules using advanced techniques (regression, predictive analytics & machine learning)
+Supports, initiates, develops and executes specific projects as assigned.
+3. Dimensions – Education / Experience / Skills
+
+Education / Experience
+
+Minimum of (3) three years’ experience in reporting and analytics with frequent use of either Minitab or SPSS or R or Python or Tableau or Power BI.
+
+Minimum of (3) three years’ experience in reporting and analytics using Microsoft XL
+
+Degree or equivalent with strong Maths/Statistics component (e.g. Science, Engineering, Computing degree)
+
+Progressive experience with data analysis and process mapping; Deep knowledge and highly exposed to trending techniques including SPC, root cause analysis and action planning.
+
+Experience/Exposure in Lean/Six Sigma, or similar is desirable.
+
+Essential Skills
+
+Proficient communicator with excellent written and verbal communication skills.
+
+Precise at analysing information and capable of solving complex problems.
+
+Foster open communication channels at all levels of interaction
+
+A solid team player who can work collaboratively with all members of the team in person and remotely.
+
+Easily adapts to change, works independently, and requires minimal supervision.
+
+Self-starter that can work independently, meet timelines, and obtain guidance when appropriate.
+
+Ability to use Microsoft Excel/Visio/PowerPoint/Word to capture, analyse, and present ad hoc analysis
+
+Able to collaborate closely with colleagues outside their immediate department to meet critical production timelines
+
+Able to document activities in scientific/regulatory reports and generate documents and methods to support process development activities
+Seniority Level
+Associate
+Industry
+Hospital & Health Care
+Employment Type
+Full-time
+Job Functions
+Quality Assurance

@@ -1,0 +1,36 @@
+Machine Learning Engineer - Discover
+Snap Inc.
+London, England, United Kingdom
+Snapchat is a camera and messaging app that connects people to their friends and the world. Every day around the globe, millions of people use Snapchat to communicate with friends, build relationships, play, and learn. No matter where you are or how you express yourself, it’s always the fastest way to share a moment!
+
+Snap Engineering teams build fun and technically sophisticated products that reach hundreds of millions of Snapchatters around the world, every day. We’re deeply committed to the well-being of everyone in our global community, which is why our values are at the root of everything we do. We move fast, with precision, and always execute with privacy at the forefront. Some core features we build and maintain include Snapchat’s Camera, Creative Tools, Maps, Chat, Memories, Stories, Discover, Games, and Minis. Our Infrastructure teams deliver an innovative and cost-efficient platform that ensures Snapchat is the fastest way to communicate with your friends, no matter where you are in the world. We have one of the fastest growing digital ad platforms, and our Monetization teams drive measurable returns for advertisers through novel ad formats like Augmented Reality. As a Snap Engineering team member, you’ll help us build the future of communication.
+
+We’re looking for Machine Learning Engineers to join our Discover Engineering team in London!
+
+What You’ll Do
+Create models which help drive value for users, advertisers, and our company
+Evaluate the technical tradeoffs of every decision
+Perform code reviews and ensure exceptional code quality
+Build robust, lasting, and scalable products Iterate quickly without compromising quality
+Knowledge
+
+, Skills & Abilities
+Strong understanding of machine learning approaches and algorithms
+Able to prioritize duties and work well on your own
+Background working with both internal and external partners
+Background in solving open ambiguous problems
+Possesses a desire to learn and help others
+Minimum Qualifications
+BS/BA degree in technical field such as Computer Science, Mathematics, Statistics or equivalent years of experience
+5+ years ML industry experience or 4+ years ML industry experience and MS and/or PhD in computer science or related field
+Preferred Qualifications
+Experience working with machine learning frameworks such as TensorFlow, Caffe2, PyTorch, Spark ML, scikit-learn, or related frameworks
+M.S. degree and/or PhD in computer science or related field Experience working with machine learning, ranking infrastructures, and system designs
+Seniority Level
+Entry level
+Industry
+Marketing & Advertising Computer Software Internet
+Employment Type
+Full-time
+Job Functions
+Engineering Information Technology

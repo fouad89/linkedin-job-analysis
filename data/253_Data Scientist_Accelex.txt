@@ -1,0 +1,12 @@
+Data Scientist
+Accelex
+London, England, United Kingdom
+The private markets ecosystem is awash with unstructured content in the form of PDFs and other documents carrying difficult-to-access investment information. Many firms struggle with highly manual data extraction, sharing and reporting processes that are costly, inefficient and time-consuming.Powered by cutting-edge data science, artificial intelligence and machine learning techniques, Accelex streamlines the extraction, analysis and reporting of critical private investment data. Using dynamic data acquisition algorithms, our next-generation SaaS platform brings automation, scale and auditability to demanding workflows. As investors seek greater transparency into funds and their underlying assets, the Accelex solution automates the extraction of unstructured performance and transaction data from a wide range of private investment documents.*About the role:*Accelex is looking to hire a Junior Data Scientist in our London office. The candidate should have a masters degree in machine learning or a related discipline and a strong background in computer science. Experience of and interest in tackling NLP or machine vision problems would be advantageous. Good knowledge of Python is essential, along with experience of using Python’s data science toolkits such as TensorFlow or Scikit-learn. The ideal candidate should enjoy greenfield development in a startup environment.Accelex's data science stack uses a variety of techniques from NLP to machine vision to rules-based pipelines, but is increasingly focused on hybrid models for visually rich document understanding. This exciting and emerging field focuses on understanding documents where both spatial and semantic features convey meaning. We have a modern cloud-native tech-stack running on kubernetes and offer the right candidate an excellent opportunity to work in a dynamic startup environment using cutting-edge techniques.-* Share options* Cycle to work scheme* Enhanced maternity cover* First interview* Coding test* Technical interview* Offer!Python, NLP, Computer VisionKubeflow, Python, Tensorflow, Kubernetes, Kafka
+Seniority Level
+Entry level
+Industry
+Financial Services
+Employment Type
+Full-time
+Job Functions
+Engineering Information Technology

@@ -1,0 +1,96 @@
+Platform Engineer - Data Science
+OVO
+Bristol, England, United Kingdom
+Platform Engineer
+
+The OVO Group’s purpose is to drive progress towards net zero carbon living. To reach Plan Zero, we need everyone to come together - not just as customers buying energy, but as members with a common goal. As part of this ambitious plan, our goal is to become the ‘Leading Employer in the UK’ by 2030. If you think you could be the talent we’re looking for, then come and join the adventure!
+
+We launched in 2009 with a mission to change energy for the better. Since then, we’ve welcomed over a million members, planted a million trees, and set our sights on helping save the planet.
+
+As a Group, we’re working to become a net zero carbon business by 2030, while helping our OVO Energy members halve their carbon footprints at the same time.
+
+Green energy and technology are great tools to fight the climate crisis with. But it’s people power that will rewrite history.
+
+So we’re building a zero carbon team inside and out. Of people who share our values, feel inspired by our mission, and want to make change happen. When you work for OVO, it’s not just a job. It’s the work of a lifetime. And we want the sharpest minds to help.
+
+Up for the challenge?
+
+Where in the world of OVO will I be working?
+
+This role is within our Data Science team. We create data products. For example, for our energy supply customers, we offer insights which help reduce carbon impact by analysing smart meter data. The Data Science team have internal customers, too, such as our operational and product teams - whose challenge is to work out the best way to serve and delight our customers in a highly regulated and competitive market.
+
+To ensure consistency of data driven insights, and that teams are making the right decisions for each customer interaction, we embed a common value framework into all strategy, decision making and customer interactions. This set of data assets & propensity models translates and automates data insights into valuable internal tools, such as Next Best Action (NBA) services delivered through API. The overall aim is to ensure a great customer experience, operational efficiency and commercial value.
+
+Data is the foundation of everything we do at OVO, and to deliver our vision we need curious, tenacious people who can turn this data, and their knowledge, into strategy and actions.
+
+Diverse teams are the best teams. Only when we represent everyone, can we create services which benefit everyone. We’re keen to meet people with varied backgrounds: the more inclusive we are the better our work will be. We understand some people may not apply to jobs unless they tick every box. And we know 'normal' office hours don't work for everyone, so we're open to discussing flexible working requests. If you're excited about joining us and think you have much of what we're looking for, even if you're not 100% sure… we'd love to hear from you.
+
+What will I be doing?
+
+As a Platform Engineer within the Data Science team you’ll play a key role in achieving our vision of creating clean, affordable energy for everyone contributing to our Plan Zero strategy.
+
+Key responsibilities include:
+Design and build infrastructure to support data pipelines and backend services which brings machine learning models to users, e.g. via API which other teams integrate.
+Work with data scientists, analysts and product managers in your team, contributing to designing and delivering an end to end process.
+Use your skills to understand requirements and iterate upon them quickly.
+Create scalable solutions that are well documented and version controlled, enabling simple maintenance and development in future.
+
+Is this the job for me?
+
+This is a fantastic opportunity to work with a small use case focused data product team, building infrastructure to make it seamless for Data Scientists to make ML models available in production settings, and share data via APIs and integrations with kafka.
+
+Essential Skills And Experience
+Proven career experience with Python, SQL, Rest APIs (ideally FastAPI/Flask) and Kafka
+Experience in cloud data services, Google Cloud Platform (BigQuery, Dataflow, Airflow) or AWS
+Experience with using beam/spark/flink/etc for productionising machine learning pipelines
+Experience with networking, routing and firewall management to ensure a security-based approach
+Experience with Docker and containerisation technologies for quickly deploying apps
+Can confidently take an idea, pick the right technologies for the job and team and then take that idea to production
+Experience of working in a fast paced environment where prioritisation is required
+Excellent communication skills - able to capture requirements, understand ways of working and suggest alternative solutions, sometimes with non-technical domain experts
+Proven ability to engage productively with internal and external stakeholders
+Able to document and share the knowledge so others can pick it up and build on it
+
+Ideally you will have
+Experience building tools for internal workflows
+A strong understanding of programming principles and data pipelines.
+
+Want to check out more?
+
+Working in Tech at OVO Energy
+
+Check out our Tech Stack
+
+Watch our video about joining OVO Tech Team
+
+See how we work on our blog and our Tech Blog
+
+OVO tech GitHub: https://github.com/ovotech
+
+From us you’ll get*
+An annual discretionary bonus
+4% of your salary to spend on flexible lifestyle benefits
+5% matched employer contribution to your pension
+25 days holiday + 1 for your birthday
+Flexible working hours
+And many more...
+
+(*) Please note that certain benefits kick-in once you have passed probation which can be up to 6 months after your start date.
+
+We want the best people
+
+At OVO, we empower our people to have choice around where and when they work - flexible working arrangements can be discussed for all of our roles. Please speak to the Talent Acquisition team for more info.
+
+We’re keen to meet people with varied backgrounds - our view is the more inclusive we are, the better our work will be. We want to build teams which represent a variety of experiences, perspectives and skills, and we recognise talent on the basis of merit and potential.
+
+We understand some people may not apply for jobs unless they tick every box. If you're excited about joining us and think you have much of what we're looking for, even if you're not 100% sure… we'd love to hear from you.
+
+Learn more about working in the OVO family of companies on our careers page and Glassdoor. We’re also delighted to have received a Top Employers certificate in 2018, 2019 and 2020!
+Seniority Level
+Entry level
+Industry
+Utilities Information Technology & Services
+Employment Type
+Full-time
+Job Functions
+Engineering Information Technology

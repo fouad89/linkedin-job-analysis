@@ -1,0 +1,33 @@
+Data Scientist
+Oliver James
+London, England, United Kingdom
+OJ are currently recruiting for a leading consultancy for an advanced Data Scientist.
+
+Rate: £900 - £1200 Inside IR35
+
+Experience
+Hands on experience in developing models (end to end)
+Logistic regression
+Clustering
+Decision Tree
+Random Forest
+Support Vector Machine
+Naïve Bayes
+Gradient Boosting Machine
+Deep learning
+Natural Language Processing
+Tools
+Python, R
+Experience processing large amount of data using BigData technologies is preferred
+Knowledge of any of the visualization tools like Tableau, R Shiny etc. is a plus
+Note - to apply for this role you must have experience in the insurance or finance industry and be a UK tax resident.
+
+To discuss, please submit your CV via this advert or contact Ella Halliday at Oliver James at ella.halliday@oliverjames.com
+Seniority Level
+Entry level
+Industry
+Information Technology & Services Staffing & Recruiting Financial Services
+Employment Type
+Full-time
+Job Functions
+Engineering Information Technology

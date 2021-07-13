@@ -1,0 +1,55 @@
+Data Engineer
+Lionbridge
+Reading, England, United Kingdom
+L ionbridge Gaming is looking for a motivated, imaginative Data Engineer to join our team working on some of the biggest franchises in gaming, helping us to build high quality products that delight our customers.
+
+This is a remote-based role, but you will need to be in the Reading area as weekly site visits will be required.
+
+A successful candidate will design and build solutions to objectively measure the progress and status of various key quality metrics as our gaming products mature during development and their integrity once released to production. The candidate will work both collaboratively and alone to understand available data sources & models, define and construct datasets for analysis applying ETL/ELT principles, and build reporting/insights to communicate status and observations to consumers. As a team we work end-to-end with our customer game development studios and quality teams to define the questions we seek to answer via data, identify appropriate methods to accurately & reliably measure confidence/risk, author & instrument required data points to support analyses, to ultimately build a product that delivers on the requirements.
+
+The Nature And Subject Of Our Work Is Inherently Varied As We Explore Efficient & Effective Applications Of Data To Assess Quality, But Is Focused On The Following Core Areas
+
+The use of data in our industry to measure product quality is an emerging and fast evolving area, and as such there is great opportunity to develop new and innovative solutions to the challenges presented.
+Product Health: Measuring the functional quality of our gaming products against key targets
+Software Development Lifecycle: Measuring our own and partner team's activity during development and the artifacts that contribute towards release confidence
+Customer Value: Understanding what is of most value to our end-users, so that we can recognise and articulate those quality factors that influence a successful product
+Data Quality: Ensuring that the data we leverage can be trusted to serve our derived insights.
+
+
+We prioritize high quality and reliable solutions, with a focus on scalability and ease of maintenance as we continue to expand our capability in this area. We typically use Azure Data Explorer (ADX), SQL Server, Azure Data Factory, R/Shiny, Power BI, SSRS, C#, PowerShell, Visual Studio, Azure DevOps, and GIT.
+
+Skills Essentials
+Strong practical experience with T-SQL or any variant from other RDBMS.
+Proficient in applying data modelling approaches; normalization etc.
+Comprehensive knowledge of data query concepts; joins, grouping, pivots etc.
+Practical experience of at least one data visualisation platform
+Experience working with source control, such as GIT, TFVC etc.
+Writes clear, reliable, & easily maintainable code
+Clear communication and effective collaboration
+Nice To Haves
+Object orientated (ideally C#) programming capability in .Net environment
+Powershell
+SQL Server administration
+Familiarity with Visual Studio IDE
+Understanding of Data Science, Machine Learning and/or Statistical concepts
+Experience with statistical analysis in R or Python
+Experience with Azure Data Explorer
+Development of ETL & ELT pipelines
+Familiarity with NoSql/Non-relational databases
+Working in the Azure cloud environment
+Agile principles and Scrum methodology
+Understanding of GDPR/Privacy requirements
+WORK RELATIONSHIPS
+Customers Studios Quality Test Leads, Managers, SDETs
+Lionbridge test teams (internal and external), team leads and managers
+Development producers, designers, area owners and key stake holders
+
+This document describes the major duties, responsibilities, and authorities of this job, and is not intended to be a complete list of all tasks and functions. It should be understood, therefore, that incumbents may be asked to perform job-related duties beyond those explicitly described. It is also a standard description and therefore neither the percentage of time devoted to the various tasks nor can the required qualifications be guaranteed to match those of any given incumbent.
+Seniority Level
+Entry level
+Industry
+Marketing & Advertising Information Technology & Services Computer Software
+Employment Type
+Full-time
+Job Functions
+Information Technology

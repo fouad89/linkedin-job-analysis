@@ -1,0 +1,75 @@
+Data Science Consultant
+Capgemini
+London, England, United Kingdom
+Who You’ll Be Working With
+
+At Capgemini Invent we ideate and bring to life what’s next for our clients. By combining strategy, technology, data science and creative design expertise with an inventive mindset, we work with our clients to solve their most complex business and technology challenges. Located in more than 30 offices and 10 creative studios around the world, we have a 6,000+ strong team.
+
+As a globally renowned technology and digital leader, we have the responsibility, the ambition and the means to contribute to solving major societal questions that are shaping our future world. Invent for Society aims to value how social impact is part of the fabric of what we do.
+
+It’s an exciting time to join the A&AI team that is growing fast. We’ve built a successful team because we know that there is more to your career than high-value client delivery.
+
+See what it’s like to work at Capgemini Invent, visit our
+
+Collaboration And Innovation
+
+We really believe in creating a partnership with our customers. Using our Accelerated Solutions Environment (ASE), you’ll get to know the customer’s needs and challenges, demo innovative solutions and quickly solve problems. It’ll help you discover unexpected answers together.
+
+Why this role?
+
+Skills
+
+This role calls for the skills and behaviours needed to manage client deliverables and expectations therefore we expect candidates to be
+Motivated, self-starter, bringing a proactive, can-do attitude to delivery
+Engaging storyteller who can bring to life the value of Analytics, AI & Automation, with excellent written & oral communication skills
+Comfortable working in stimulating roles and experience working in agile delivery models. You’ll be resilient and have a strong focus on speed and quality of execution
+Ability to apply creative thinking and innovative methods to your clients’ business needs to gain commitment and deliver outstanding work
+Why You?
+
+You’ll have a good grounding in some of the following areas:
+Experience ideally in consulting; delivering agile projects, including planning and implementing solutions with data, analytics or BI at the core. This Project Leader experience may be across multiple sectors or focussed in one, and ideally will include analytics service design and transformation
+In-depth technical expertise and sector knowledge combined with project delivery experience, enabling you to understand business needs and to design, plan and implement tailored solutions
+Architectural / feature knowledge of one or more of the listed AI Platforms: Google Cloud Platform; Amazon Web Services; Microsoft Azure; Salesforce Einstein; Adobe Sensei
+Experience of data and analytics strategy; visioning; roadmap and business case development; strategy formation; operating model design; business analysis and maturity assessments
+Strong stakeholder management skills and have experience enabling client departments to understand and deliver better value from their data
+Hands-on experience managing end to end ML projects (supervised & unsupervised) with both structured & unstructured data
+Strong foundation in statistical modelling, natural language processing, time series analysis, spatial data analysis and mathematical modelling
+Experience manipulating data and drawing insights from large data sets using Python/R/SQL
+Exposure to distributed and parallel database systems Hadoop or Spark
+Experience visualizing data using Tableau/Power Bi
+Demonstrated thought-leadership for translating data into action and business insights
+Why Us?
+
+As a Team, We Value
+Your growth and ambitions
+Engagement: We believe in providing a stimulating working environment where our consultants are empowered to share their values and are engaged in purposeful work
+
+Specialism: We value sector expertise and ensure you’re aligned to your area of interest to maximise your sector knowledge
+
+Empowerment: Our consultants are empowered to shape their own development plans, taking into account the needs of the business, together with their own interests and aspirations
+Feeling part of the team
+We are building a diverse and inclusive environment that embraces and values different points of view. We run regular meet-ups, alumni events, and away days twice a year – all as chances to connect with the team, have fun and learn something new
+
+Diversity
+
+Capgemini positively encourages applications from suitably qualified and eligible candidates regardless of sex, race, disability, age, sexual orientation, gender reassignment, religion or belief, marital status, or pregnancy and maternity. We are commited to hiring, developing and retaining the best people to deliver innovative, world-class solutions for our clients. We foster an inclusive culture that enables everyone to achieve their full potential and enjoy a fulfilling career with us. Our comprehensive flexible benefits package and lifestyle policies enable our employees to balance their individual, family and work-life needs.
+
+Learning And Development
+
+There’s an endless amount to learn at Capgemini, and an endless number of ways to do so. You will have the opportunity to regularly go on training and receive best-in-class management consulting training from our Capgemini university in Paris. You can pursue a range of technical learning opportunities and you will have access to industry-wide training courses and accreditations.
+
+Whilst you will have London, Manchester or Glasgow as an office base location, you must be fully flexible in terms of assignment location, as these roles may involve periods of time away from home at short notice.
+
+We offer a remuneration package which includes flexible benefits options for you to choose to suit your own personal circumstances and a variable element dependent grade and on company and personal performance.
+
+In order to commence a role with Capgemini UK plc you will be required to provide documentary proof prior to joining the Company that you are entitled to live and work in the UK.
+
+More information is at available at: https://www.capgemini.com/gb-en/service/invent/
+Seniority Level
+Mid-Senior level
+Industry
+Information Technology & Services Computer Software Staffing & Recruiting
+Employment Type
+Full-time
+Job Functions
+Information Technology

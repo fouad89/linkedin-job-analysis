@@ -1,0 +1,64 @@
+Data Engineer
+S-RM
+London, England, United Kingdom
+Posted by
+Daisy Woolnough
+Recruitment Coordinator at S-RM
+Send InMail
+DATA ENGINEER / DATA ARCHITECT 
+S-RM nurtures a culture of equality, diversity and inclusion and we are dedicated to developing a workforce that displays a variety of talents, experiences and perspectives. 
+
+S-RM is recruiting a Data Engineer/Data Architect to play a key role in the expansion of our digital services. This individual will be responsible for designing and developing a data warehouse and creating infrastructure to support data science initiatives as a core pillar of the company’s digital transformation agenda. 
+ ABOUT S-RM  
+S-RM is a global risk and intelligence consultancy. Founded in 2005, we have 250+ practitioners spanning six international offices, serving clients across all regions and major sectors. 
+ We support our clients by providing intelligence that informs critical decision-making and strategies, from investments and partnerships through to disputes; by helping organisations build resilience to cyber, operational and security threats; and by responding to cyber-attacks, security incidents and organisational crises.  
+ Technology sits at the heart of our business and is central to our growth strategy. Our existing digital services include Portal, a secure report-management application, Monitor, an integrity and reputation monitoring service, GSI, a security risk platform and Swan, an intelligence collection platform. We are constantly adding new services and investing in digital transformation across all areas of the business, as we expand the scope of our Corporate Intelligence and Cyber Security offerings. 
+ MAIN DUTIES AND RESPONSIBILITIES 
+Reporting to the Head of Digital, the Data Engineer / Data Architect will play a pivotal role in developing the company’s data infrastructure. The Jobholder will work closely with other developers and the Business Units as well as operational teams such as Finance, Sales, IT and external partners. As we begin to integrate our various  enterprise applications such as CRM, ERP and AWS web applications into our core Azure corporate platform, we are looking for an established data engineer who can build the foundational components of our data infrastructure that will enable us to deploy AI/ML solutions to tackle key business problems. 
+Play a central role in data architecture and implementation across key digital transformation initiatives in the business 
+Work with key business stakeholders to establish data architecture principles and a data model to support business objectives around analytics and management information 
+Design and implement ETL pipelines and data warehousing infrastructure 
+Establish and maintain automated deployment and integration pipelines for data infrastructure  
+Work with Corporate Intelligence and Cyber Security business units to tackle emerging data engineering problems associated with open source intelligence, forensics and incident response. 
+  LOCATION  
+The role will be based in our London office  
+ SKILLS, QUALIFICATIONS & EXPERIENCE  
+The qualifications and experience required to perform this role successfully are: 
+Degree level education in a computer science, maths or related numerate subject, or equivalent practical experience 
+5+ years’ experience as a data engineer, DBA or in similar role 
+Strong grounding in SQL and experience setting up and managing ETL pipelines in an enterprise environment 
+Experience building and managing a data infrastructure in the Azure platform 
+Demonstrable ability to work with business stakeholders in a data architecture capacity 
+Preference will be given to candidates who also have experience in Elasticsearch and/or Neo4j technologies and those who have worked on Machine Learning and/or Natural Language Processing solutions 
+ The jobholder will need to have the following key personal skills and attributes to perform successfully in this role: 
+Excellent organisational skills 
+Excellent attention to detail 
+Ability to work independently and collaborate across different teams 
+A proactive approach and a willingness to work outside the job specification when required  
+Excellent interpersonal skills 
+ ELIGIBILITY 
+The successful candidate must have permission to work in the UK by the start of their employment. 
+ BENEFITS 
+We put a lot of effort into ensuring that out benefits package is not only meaningful, but it is also constantly evolving with our employee’s needs. Below you will find some information on a few of the benefits that all our employees can take advantage of:
+  Market leading maternity and paternity benefits including:
+–          Maternity leave: 26 weeks full pay followed by 13 weeks half pay
+–          Paternity leave: 6 weeks of full pay
+25 holiday days per year + bank holidays, which increases with service to a maximum of 30 days
+5% matching pension contribution
+4 x annual salary life insurance
+Support of your mental wellbeing, including counselling sessions available to you and your family
+Flexible working hours
+Availability of a variety of training courses including online learning
+Very comprehensive private medical insurance as well as eye tests and glasses reimbursement, and seasonal flu vaccination
+50% discount with a nationwide gym chain
+Season ticket loan for your train commute
+Cycle to work scheme
+A formalised recognition programme
+  Seniority Level
+Mid-Senior level
+Industry
+Security & Investigations Computer & Network Security
+Employment Type
+Full-time
+Job Functions
+Information Technology

@@ -1,0 +1,47 @@
+Data Scientist
+wejo
+Manchester Area, United Kingdom
+Posted by
+Victoria Yates
+Senior Talent Acquisition Partner (Tech) at Tractable
+Send InMail
+Role Summary- These roles can be remote or Manchester flex
+
+The connected car space is one of the fastest growing sectors in the Internet of Things. A new generation of vehicles are coming off the production line that are more like computers and are by default connected. Car manufacturers are looking to extend what have been traditional infotainment systems, Insurers are looking to provide better understanding of risk, Users are demanding more feedback, and everyone has increasing amounts of data available that they need support to understand what to do with it.
+ The purpose of the data scientist role is to propose and utilise state-of-the-art techniques for drawing insights from geospatial and transport data to help build algorithms for Wejo’s data products for both stream and batch systems. You will be required to perform some engineering activities to across a wide range of datasets to prepare/curate the data. Once prepared data is in place you will then utilise and apply the necessary industry/academic data models/algorithms to help understand and shape the data to underpin Wejo as a “data driven business”.
+ Key Responsibilities
+·       Perform research into algorithms and techniques for extracting valuable insights from connected car data
+·       Evaluate usefulness of data sources and analyses for increasing understanding of Wejo data holdings
+·       Socialise learnings from research and assist other members of the Data Science group to incorporate candidate technologies
+·       Propose new data structures and methodologies for manipulation of connected car data
+·       Review new external data sets and open data sources to understand potential usage
+·       Participate in establishing processes and best practices around development standards, version control, quality control, deployment, maintenance and change management
+
+Other Responsibilities – what you will be doing sometimes.
+·       Produce and present webinars to invited audiences
+·       Create blogposts and articles highlighting Wejo’s expertise
+ Essential Skills / Knowledge & Experience
+·       Data Science related qualification at degree level or higher
+·       Ideally 4+ years of experience in the field of big data engineering.
+·       Strong experience with Hadoop and Spark using Python OR Scala
+·       Solid understanding of statistical and predictive modelling concepts, machine-learning approaches, clustering and classification techniques, and recommendation and optimization algorithms
+·       Knowledge of some / all of regression, neural networks, decision trees (random forest, gradient boosted trees etc.), agglomerative clustering, k-means, gradient descent, logistic regression etc.
+·       Ability to analyse large, complex, multi-dimensional datasets using SQL, R and / or python
+·       Experience in working with geospatial data and understanding of appropriate analytical tools and techniques
+
+
+Desirable Skills / Knowledge & Experience –Experience working with an Agile environment.
+·      Experience with SQL query engines. e.g., Spark SQL, Hive.
+Experience with cloud computing environments. e.g., AWS, Azure or Google Cloud Platform.
+Experience with data modelling and data warehousing. e.g., Postgres, Redshift.
+Experience with other NoSQL technologies. e.g., Elasticsearch, Cassandra, Redis or Ignite.
+Experience Managing Data ingestion and processing operations
+Experience of working on graph analytics, transport network modelling.
+Seniority Level
+Mid-Senior level
+Industry
+Information Technology & Services
+Employment Type
+Full-time
+Job Functions
+Engineering Information Technology

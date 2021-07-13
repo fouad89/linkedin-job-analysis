@@ -70,25 +70,32 @@ def get_jobs(browser=browser):
     counter = 1
     for job in list_items:
         # executes JavaScript to scroll the div into view
-        browser.execute_script("arguments[0].scrollIntoView();", job)
-        job.click()
-        time.sleep(3)
-        # get info:
-        [position, company, location] = job.text.split('\n')[:3]
-        details = browser.find_element_by_id("job-details").text
-        position = position.replace("/", "").strip()
-        # writing job info into a text file titles by position_company
-        with open(f'./data/{counter}_{position}_{company}.txt', mode='w+') as f:
-            f.write(f"{position}\n{company}\n{location}\n{details}")
-        counter+=1
+        try:
+            browser.execute_script("arguments[0].scrollIntoView();", job)
+            job.click()
+            time.sleep(3)
+            # get info:
+            [position, company, location] = job.text.split('\n')[:3]
+            details = browser.find_element_by_id("job-details").text
+            position = position.replace("/", "").strip()
+            # writing job info into a text file titles by position_company
+            with open(f'./data/{counter}_{position}_{company}.txt', mode='w+') as f:
+                f.write(f"{position}\n{company}\n{location}\n{details}")
+            counter+=1
+        except:
+            counter+=1
+            pass
 
 
 
 
 if __name__=="__main__":
     
-    for page in range(2,8):
+    for page in range(2,30):
         # from page 2 until the 7th page
         time.sleep(5) # give time for the page to load
         get_jobs()
-        browser.find_element_by_xpath(f"//button[@aria-label='Page {page}']").click()
+        try:
+            browser.find_element_by_xpath(f"//button[@aria-label='Page {page}']").click()
+        except:
+            pass

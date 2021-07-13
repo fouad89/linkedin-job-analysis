@@ -1,0 +1,49 @@
+Data Scientist
+Life Science People
+Cardiff, Wales, United Kingdom
+Life Science People are a strategic growth partner within the Life Science industry, providing bespoke services to the life science community from SMEs through to blue-chip organisations and sourcing the best talent to make a tangible contribution to healthcare.
+
+Life Science People is working with an Artificial Intelligence company that's has created a platform for data-driven health. They are looking to appoint a Data Scientist who are using deep tech to solve difficult clinical challenges to bring about positive patient results.
+
+You will help support the AI platform development from a UX perspective and have the opportunity to develop into the platform and enhance its capabilities.
+
+If you are looking for the opportunity to develop yourself, a team and a department then this could be just the role for you. With excellent development opportunities and the chance to be part of this rapidly expanding, market leading healthcare firm, now really is the time to get in contact to explore further.
+
+Requirements
+
+Skills and Experience Required:
+A mid / senior level Data Scientist
+Experience in creation and implementation of complex data analytics / visualisations as well as models from statistical methods to CNN's
+Experience with ensemble technologies
+A creative thinker, able to look at complex problems and solve them in innovative ways
+Commercial awareness
+Excellent communication
+Desirable
+Python/Java
+Experience in agent-based (or rule) optimisation
+Knowledge of image processing (particularly medical), NLP and Bayesian methods
+Knowledge of healthcare API'S
+Recruitment Process
+
+If this Data Science position interests you, then please apply now. You can submit your CV and cover letter highlighting your expertise as a Data Scientist. We will send you a confirmation of acknowledgement, and please note feedback can take up to 2-3 weeks. Upon successful selection for an interview, the process will occur in the following three stages:
+
+First stage: This will be an initial screening call with a Life Science People representative
+
+Second stage: An initial phone call with the hiring manager to go through background and experience in relation to the role
+
+Final Stage: This will be a final interview with key stakeholders within the business
+
+Benefits
+
+The Data Science role is a full-time permanent position, paying a competitive salary & benefits package. You will be based in Cardiff with flexible working hours, and occasional travel within the UK will be required. Full details will be provided on application. In addition to a generous basic salary, the company offers the following benefits package:
+Stock Options
+Hardware/home working budget
+28 days holiday
+Seniority Level
+Entry level
+Industry
+Biotechnology Hospital & Health Care Pharmaceuticals
+Employment Type
+Full-time
+Job Functions
+Engineering Information Technology

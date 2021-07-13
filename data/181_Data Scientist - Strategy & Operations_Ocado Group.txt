@@ -1,0 +1,72 @@
+Data Scientist - Strategy & Operations
+Ocado Group
+London, England, United Kingdom
+Posted by
+Zara Belmar (she/her)
+Senior Recruitment Business Partner @ Ocado Technology
+Send InMail
+“We are on a mission to transform the future of grocery retail through sustained technology innovation.”
+
+Ocado Technology is putting the world’s retailers online using the cloud, robotics, AI, and IoT. We develop the innovative software and hardware systems that power Ocado.com, the world’s largest online-only grocery retailer as well as the global ‘Ocado Smart Platform’. With everything from websites to fully autonomous warehouse that we design in-house, our employees need to be specialists in a wide range of technologies to help drive our business.
+
+A Little About The Team...
+
+Data Science already powers products and capabilities in every part of Ocado Technology but we’re really just getting started. The Data Science - Strategy and Operations team was set up this year to ensure that Ocado Technology gets the best out of Data Science, and that it’s a brilliant place to be a Data Scientist. We’re recruiting for talented new team members to deliver on this mission. We will need to,
+Drive a consistent strategy around the use of data and data science across Ocado Technology
+Identify and embed data science best practices including in MLOps, knowledge-sharing, and responsible and beneficial data innovation.
+Ensure that Ocado Technology can take advantage of developments in data science research and innovation.
+What will you do?
+
+As a Data Scientist in the strategy & operations group, you will be a part of a small team working on high impact tasks with multiple stakeholders. For example,
+Identifying opportunities to improve how we do Data Science
+Creating content and events to support Data Science knowledge-sharing and story-telling inside and outside of Ocado Technology
+Developing tools for Data Scientists
+Implementing new processes, perhaps tailoring existing frameworks like the Machine Learning Canvas or Consequence Scanning agile methodology
+Ensuring that we use data responsibly and in accordance with Ocado Technology’s values
+You will be supported to make a difference and make your mark. You will collaborate with teams across Ocado Technology to solve critical problems and gain exposure to data science in diverse applications from demand forecasting, search, recommendations, routing, object detection and robotic control.
+
+We're interested in people with..
+A well established understanding of data science and machine learning through its full life-cycle and the business impact it can have
+Curiousity and passion to build your knowledge and expertise in data science and machine learning
+Are a proactive problem-solver, comfortable with ambiguity
+Are a great story-teller, who can tailor content and complexity to your audiences
+Can readily build productive alliances and manage complex stakeholder relationships
+And if you are keen to learn more about the following areas (in no particular order):
+Building data science or machine learning products or services
+MLOps
+Technology Change Management
+Data and Data Science Policy and Strategy
+Community Building
+Responsible AI
+What We Can Offer You
+
+Our employee benefits are designed for you, we care about people and we’ve ensured we have a wealth of benefits that focus on your well-being. We can offer technically stretching work, a competitive salary and;
+Flexible working patterns and options for remote working (depending on your role/team)
+Wellbeing support through Apps such as Unmind and an Employee Assistance Programme
+25 days annual leave, rising to 27 days after 5 years service (plus optional holiday purchase)
+Pension scheme (various options available including employer contribution matching up to 7%)
+Private Medical Insurance
+22 weeks paid maternity leave and 6 weeks paid paternity leave (once relevant service requirements complete)
+Train Ticket loan (interest-free)
+Cycle to Work Scheme
+Free shuttle bus to and from Hatfield Train Station to the Hatfield offices
+Opportunity to participate in Sharesave and Buy as You Earn share schemes
+15% discount on Ocado.com and free delivery for all employees
+Income Protection (can be up to 50% of salary for 3 years) and Life Assurance (3 x annual salary)
+We also have regular divisional socials, sports clubs not to mention the Ocado Technology Academy for a packed schedule of courses, conferences and events. If you think you have what it takes to make a difference, please submit your application below.
+
+We are thrilled to welcome applicants from across the world. Whilst we are able to offer visa sponsorship, please note that we are only able to cover the company-specific costs. For all employment offers made for UK roles, it is expected that you will be based in the UK in commutable distance, ready for your first day of work, so please keep this in mind. If you have any questions, please don't hesitate to ask.
+
+Due to the energising nature of Ocado's business, vacancy close dates, when stated, are indicative and may be subject to change so please apply as soon as possible to avoid disappointment. If you have applied and been rejected for this role in the last 6 months, or applied and been rejected for a role with a similar skill set, we will not re-evaluate you for this position. After 6 months, we will treat your application as a new one. All benefits information is subject to change and the terms of the individual arrangements.
+
+Be bold, be unique, be brilliant, be you. We are looking for individuality and we value diversity above gender, sexual orientation, race, nationality, ethnicity, religion, age, disability or union participation. We are an equal opportunities employer and we are committed to treating all applicants and employees fairly and equally.
+
+We are committed to making reasonable adjustments to provide a positive barrier-free recruitment process and supportive work environment. If you have any support or access requirements, we encourage you to advise us at the time of application.
+Seniority Level
+Entry level
+Industry
+Information Technology & Services Computer Software
+Employment Type
+Full-time
+Job Functions
+Engineering Information Technology

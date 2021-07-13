@@ -1,0 +1,57 @@
+Data Scientist, NLP
+Thomson Reuters
+London, England, United Kingdom
+Job Description
+
+We are looking for an Applied Research Scientist, NLP to join us in London!
+
+Are you excited about working at the forefront of applied research in an industry setting? Thomson Reuters Labs in Zug is seeking a scientist with a passion for solving problems using state-of-the-art Machine Learning and Natural Language Processing.
+
+What does Thomson Reuters Labs do? We experiment, we build, we deliver. We support the organization and our customers through applied research and the development of new products and technologies. TR Labs innovates collaboratively across our core segments in Legal, Tax & Accounting, Government, and Reuters News. We undertake a diverse portfolio of projects today, while investing in long term research for the future.
+
+As a scientist in Labs, you will be part of a global interdisciplinary team of experts. We hire specialists across a variety of AI research areas, as well as Engineering and Design, to drive the company’s digital transformation. TR Labs is known for consistently delivering Artificial Intelligence projects that advance the state of the art in support of high growth products and serve Thomson Reuters customers in new and exciting ways.
+
+About Thr Role
+
+In this opportunity as an Applied Research Scientist, NLP you will:
+Experiment and Develop: You will execute the entire model development lifecycle, building, testing and delivering high quality solutions. You will apply best practices for conducting reproducible research and well-managed software delivery.
+Collaborate: Working on a collaborative cross-functional team, you will share information, value diverse ideas, and partner effectively with colleagues across the globe.
+Deliver: You will be accountable for timely, well-managed deliverables.
+Innovate: You will be empowered to try new approaches and learn new technologies. You will implement innovative ideas to solve real-world challenges.
+Inspire: You will be a proactive communicator who is excited to share your work. You will be articulate and compelling in describing ideas to both technical and non-technical audiences.
+About You
+
+To be considered for the role of Applied Research Scientist, NLP, you will need:
+
+Basic Qualifications
+PhD in a relevant discipline or Master’s plus a comparable level of experience
+At least one year industry experience building ML/NLP systems
+Solid software engineering skills for prototyping
+Preferred Qualifications
+Proven academic or industry experience building ML or NLP systems with the demonstrated ability to translate cutting edge research into working applications
+Proficiency in Python, Java, or Scala and experience with working in a large enterprise environment
+Proven communication skills and ability to work on deliverables independently
+Publications at workshops or conferences such as ACL, EMNLP, KDD, ICML, NeurIPS, or similar
+Do you want to be part of a team helping re-invent the way knowledge professionals work? How about a team that works every day to create a more transparent, just and inclusive future? At Thomson Reuters, we’ve been doing just that for almost 160 years. Our industry-leading products and services include highly specialized information-enabled software and tools for legal, tax, accounting and compliance professionals combined with the world’s most global news services – Reuters. We help these professionals do their jobs better, creating more time for them to focus on the things that matter most: advising, advocating, negotiating, governing and informing.
+
+We are powered by the talents of 25,000 employees across more than 75 countries, where everyone has a chance to contribute and grow professionally in flexible work environments that celebrate diversity and inclusion. At a time when objectivity, accuracy, fairness and transparency are under attack, we consider it our duty to pursue them. Sound exciting? Join us and help shape the industries that move society forward.
+
+Accessibility
+
+As a global business, we rely on diversity of culture and thought to deliver on our goals. To ensure we can do that, we seek talented, qualified employees in all our operations around the world regardless of race, color, sex/gender, including pregnancy, gender identity and expression, national origin, religion, sexual orientation, disability, age, marital status, citizen status, veteran status, or any other protected classification under applicable law. Thomson Reuters is proud to be an Equal Employment Opportunity/Affirmative Action Employer providing a drug-free workplace.
+
+We also make reasonable accommodations for qualified individuals with disabilities and for sincerely held religious beliefs in accordance with applicable law.
+
+More information about Thomson Reuters can be found on thomsonreuters.com.
+
+Locations
+
+London-United Kingdom
+Seniority Level
+Entry level
+Industry
+Information Technology & Services Computer Software Financial Services
+Employment Type
+Full-time
+Job Functions
+Engineering Information Technology

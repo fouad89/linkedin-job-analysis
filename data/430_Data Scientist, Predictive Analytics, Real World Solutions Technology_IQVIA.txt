@@ -1,0 +1,63 @@
+Data Scientist, Predictive Analytics, Real World Solutions Technology
+IQVIA
+London, England, United Kingdom
+Posted by
+Richie McArdle - HIRING 📣 💻 🏃
+Senior Tech recruiter hiring software developers and more for IQVIA's Product and analytic teams in the UK. 📣 💻🏃
+Send InMail
+
+
+We are looking for a collaborative, organised, intellectually curious and detail-oriented Data Scientist, with experience in applying machine learning methods to solve real-world problems with small teams, to join our London (Paddington) team. This is an exciting opportunity to work in one of the world's leading human data science teams, working with one of the largest medical healthcare datasets to help our clients answer specific questions, make more informed decisions and deliver results.
+
+A typical day might include:
+
+Working with the team and client to shape and develop requirements for answering ambitious life science questions (e.g. can we predict a rare disease diagnosis or an optimal dosing frequency in patients?)
+Supporting projects being executed by our offshore India team of skilled data scientists, including discussing methodology questions, providing technical support, reviewing code and outputs, and coordinating with our client-facing consulting team in the US.
+Addressing those requirements by developing and applying appropriate ETL processes (for feature creation from our raw data) and machine learning methodology (for constructing predictive models in an unbiased manner).
+Researching machine learning techniques that could be used to improve our offering.
+Communicating technical concepts and analytical outputs to a diverse set of stakeholders (internal and external).
+Proactively identifying opportunities for innovation and areas for improvement across the workflow.
+
+Ideally you will have:
+
+Postgraduate degree or higher in a technical or scientific domain or experience working in a technical / consulting environment involving advanced analytics, preferably in a commercial setting.
+Strong scientific programming skills (ideally in Python).
+Prior experience in managing projects involving small technical teams.
+Appetite for applying new and existing technologies to challenging problems in health care, i.e. motivated by solving the problem.
+Knowledge and practical experience of applying supervised machine learning methods, such as regularised regression, ensemble tree-based models (e.g. xgboost) and deep learning methods.
+Excellent organisation skills and ability to deliver results to deadlines.
+Excellent communication skills, including ability to present technical concepts clearly (in writing, face-to-face discussions and on conference calls), write project analyses, pitch ideas effectively and persuasively to clients / internal stakeholders, etc.
+A proactive, innovative and pragmatic approach to problem solving, and an ability to think critically and independently.
+Ability to work collaboratively as part of a cross-functional team.
+
+Bonus points for:
+
+
+PySpark / big data experience.
+Experience of code development in collaborative environments (e.g. doing code reviews through pull requests).
+Knowledge of healthcare patient-level data.
+Knowledge of epidemiology / biostatistics, particularly analytical issues relating to studies of treatment effectiveness, disease progression, adherence, healthcare utilisation, etc.
+Knowledge of healthcare / life science issues.
+
+The Team
+
+“Big Data” is changing the way that the healthcare world operates and, now more than ever, the key to better patient outcomes is through better use of technology, seamlessly integrated information and analytics. Our Predictive Analytics team within the Real-World Solutions (RWS) Technology division is a fast-growing group of collaborative, enthusiastic, and entrepreneurial individuals. In our quest to harness the value of Real World Evidence (RWE), we are at the centre of IQVIA’s pursuit of machine learning and cutting-edge statistical methods to advance healthcare. Our efforts improve retrospective clinical studies, under-diagnosis of rare diseases, personalised treatment response profiles, disease progression predictions, and clinical decision-support tools.
+
+You will join this high-profile team to work on ground-breaking problems in health outcomes across disease areas including Ophthalmology, Oncology, Neurology, Chronic diseases (such as diabetes), and a variety of very rare conditions. The Predictive Analytics team works hand-in-hand with statisticians, epidemiologists and disease area experts across the wider global RWE Solutions team, leveraging a vast variety of anonymous patient-level information. The data encompasses IQVIA’s access to over 530 million anonymised patients as well as bespoke, custom partnerships with healthcare providers and payers.
+
+We offer competitive compensation and benefits, and a variety of training and development opportunities.
+
+We thank all applicants for their interest; however, only those selected for an interview will be contacted.
+
+We invite you to join IQVIA™.
+
+IQVIA is a strong advocate of diversity and inclusion in the workplace. We believe that a work environment that embraces diversity will give us a competitive advantage in the global marketplace and enhance our success. We believe that an inclusive and respectful workplace culture fosters a sense of belonging among our employees, builds a stronger team, and allows individual employees the opportunity to maximise their personal potential.
+
+At IQVIA, we believe in pushing the boundaries of human science and data science to make the biggest impact possible – to help our customers create a healthier world. The advanced analytics, technology solutions and contract research services we provide to the life sciences industry are made possible by our 70,000+ employees around the world who apply their insight, curiosity and intellectual courage every step of the way. Learn more at jobs.iqvia.com.
+
+Industry
+Pharmaceuticals
+Employment Type
+Full-time
+Job Functions
+Engineering Information Technology

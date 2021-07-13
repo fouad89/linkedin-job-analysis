@@ -1,0 +1,80 @@
+Data Science Specialist
+Citi
+London, England, United Kingdom
+Job Id: 21265105
+An exciting opportunity exists to join the Data Science Insights (DSI) team within Citi Global Data Insights (CGDI) unit of ICG. The successful candidate will be a curious and critical thinker eager to solve a wide variety of analytical challenges, while communicating any output in simple terms; verbally, through visualizations &/or by effective summary statistics. As part of DSI you will work with external clients to execute on their bespoke projects by utilizing alternative datasets, different data platforms and data science techniques. You will be part of CGDI which is responsible for ICG Big Data efforts. Based in London, this role will appeal to a highly motivated individual looking to leverage their strong quantitative skillset in a highly visible and growing front-office department.
+
+Responsibilities:
+
+Based in London, you will be working in a rapidly growing team of DSI which is establishing its presence across multiple locations globally.
+Liaise with Relationship Management team and corporate bankers to prioritize project leads and explore new business opportunities with buyside and corporate clients
+You will be a visible data science expert, working closely with external clients in interpreting their briefs and converting them to high quality actionable data science projects.
+You will participate in investigating new project ideas, design a framework of a solution, evaluate its effort and feasibility and provide recommendations to management who will align against financial value.
+You will work on all stages of the data analysis cycle - collect, process and enrich data of different formats from multiple sources using a variety of technologies and platforms; load, manipulate data using free SQL writing; analyze the data using various analysis tools and visualize data.
+You will also work closely with Innovation Lab globally, leveraging their capabilities to deliver bespoke data science projects from external clients.
+Supervise the derived data assets available in DSI, to effectively push a project from data curation to data analysis and execute on the agreed form of output and into production.
+Create a strong relationship with the different stakeholders of each project updating on the progress and consulting iteratively when necessary.
+Gather, validate, and analyze large complex information sets; understand the meaning of the data and how it applies to end users; identify and trouble-shoot / problem solve issues with data or results.
+
+Experience:
+
+Proven experience with working on various databases including Big Data platforms. This includes data engineering, analysis and modeling.
+Strong knowledge and experience of statistical and data mining and machine learning algorithms such as regression techniques, neural networks, decision trees, clustering, pattern recognition, probability theory, stochastic systems, Bayesian inference, statistical techniques and dimensionality reduction
+Strong analytical and project management skills, including a thorough understanding of how to interpret business requirements and provide data to help observe trends and identify anomalies.
+Evidence of an ability to work under pressure, within tight time-lines and with strict attention to detail.
+Demonstrated report development skills; ability to design and develop reports and dashboards based on business requirements and optimal user experience.
+Financial industry knowledge; an understanding of, and keen interest in, investment management and financial markets highly desirable.
+
+Skills:
+
+Programming experience with Java, Python, R or other related tools
+Strong working knowledge of SQL, ETL and BI tools
+Expertise in visualizing data using Tableau, Power BI or similar tools a bonus.
+Expertise in Data Science tools and techniques like Arima, regime based models, VAR, error correction models, multivariate time series models
+Intermediate to advanced Microsoft Excel and/or other data transformation tools
+Basic knowledge of OOP fundamentals
+Experience in Big Data (Hadoop ecosystem) highly desirable.
+Intermediate to advanced Microsoft Office skills, especially Word and Excel bonus.
+
+Competencies:
+
+Ambitious with a positive attitude combined and an ability to take the initiative. Detail oriented who takes pride in hard work. Able to work independently with minimum supervision.
+Creative problem solver with great attention to detail.
+Ability to pick up new tasks quickly; work well within a team while multi-tasking and re-prioritizing tasks. Translate business questions to data based analysis
+Excellent verbal, comprehension and written communication skills (English) for technical and business audiences. Ability to work well in a team with diverse skills located around the world.
+Ability to effectively work with demanding internal clients across multiple cultures and geographies
+
+Education:
+
+BSc or MSc degree with emphasis on one or more of the following: big data, data science, computer science, computer engineering, statistics, mathematics or equivalent quantitative discipline. A PhD is a strong bonus.
+-------------------------------------------------
+
+Job Family Group:
+Product Management and Development
+-------------------------------------------------
+
+Job Family:
+Product Management
+------------------------------------------------------
+
+Time Type:
+
+------------------------------------------------------
+
+Citi is an equal opportunity and affirmative action employer.
+
+Qualified applicants will receive consideration without regard to their race, color, religion, sex, sexual orientation, gender identity, national origin, disability, or status as a protected veteran.
+
+Citigroup Inc. and its subsidiaries ("Citi”) invite all qualified interested applicants to apply for career opportunities. If you are a person with a disability and need a reasonable accommodation to use our search tools and/or apply for a career opportunity review Accessibility at Citi.
+
+View the "EEO is the Law" poster. View the EEO is the Law Supplement.
+
+View the EEO Policy Statement.
+
+View the Pay Transparency Posting
+Industry
+Banking Financial Services Investment Banking
+Employment Type
+Full-time
+Job Functions
+Engineering Information Technology

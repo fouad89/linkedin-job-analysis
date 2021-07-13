@@ -1,0 +1,40 @@
+Data Science Researcher
+Groundsure
+Greater Brighton and Hove Area
+Posted by
+Drew Hardy
+Research Manager at Groundsure
+Send InMail
+We are looking for an experienced Data Researcher to join our team in order to deliver intelligent analysis of our data, drive automation and efficiency, and to explore new ideas and ways of exploiting our significant data resources. It’s not only processing and analysing new data sources, but a role which demands innovation, creativity, and client-focused savvy to fully explore and exploit the vast potential of the market and resources we hold.
+
+Key responsibilities
+- Be able to take raw data and apply innovative analysis, creative thinking and and processing to create outputs which deliver significant gain for our customers that couldn’t be gained elsewhere
+- Devise procedures to increase automation and internal efficiency
+- Create risk algorithms to deliver intelligent outputs from raw data
+- Create imagery and tools to tell data-driven stories
+- Support the Research Manager in both day to day data queries and analysis of data, and in
+supporting the wider strategic goals of Groundsure.
+
+This list is not exhaustive and there may be other activities you are required to deliver.
+
+Who are you?
+
+You will be skilled and comfortable in extracting and manipulating key aspects of data to produce meaningful analysis, and in creating procedures for automation. The ideal candidate will be comfortable working independently without constant supervision, whilst being diligent enough to ensure that tasks are completed and documented to the desired specification. Additionally, the candidate will have the confidence to question the reasoning behind requests and play a major part in refining and negotiating the outputs. Tenacity and creativity with code and data are key to succeeding in this role.
+
+Your skill set:
+
+Essential
+● Advanced use of GIS applications (QGIS primarily, but also ArcGIS, Mapinfo)
+● Administration or engagement with spatial databases (SQL Server Spatial or PostGreSQL/PostGIS) : writing and optimising scripts, procedures, and functions, creating appropriate indexes
+● Extracting useful data from various web-platforms, such as through scraping or use of
+APIs
+
+Desirable
+● Fluency in Safe FME for a variety of data processing tasks
+● Some experience in object oriented or functional programming, such as Python, R, or JavaScript
+● Understanding of the state of geospatial data in the UK
+● Understanding of appropriate statistical analysis techniques
+
+To apply, please submit a CV along with a brief covering note. For more information about the position, please message me directly.
+Employment Type
+Full-time

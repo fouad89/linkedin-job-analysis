@@ -1,0 +1,32 @@
+Data Scientist
+Metrica Recruitment
+London, England, United Kingdom
+The Company
+
+The data and technology division of a global marketing agency, this is a really fast moving and innovative place to work, with the overall purpose to help clients build new capabilities to meet the challenges faced across the marketing landscape. They do this via an extremely customer-centric and data-driven approach.
+
+Operating at the intersection of marketing technology, data and user experience, they have around 300 staff globally consisting of consultants, technologists, data scientists and customer success practitioners.
+
+The Role
+
+In this role, you can expect apply your advanced analytical and programming skills across a variety of cutting-edge data science projects including recommender systems, NLP, machine learning, whilst working closely with the Head of Data Science and Data Science Directors to develop the team?s commercial offering.
+
+The team are looking for a data scientist who is able to add commercial value through cutting edge techniques and methodologies. They deploy everything they create and therefore want practitioners who how to put data science projects into production.
+
+Working with the team leads, you?ll contribute to pitches and present simple and compelling solutions to complex client problems.
+
+The Individual
+Proven commercial data science experience and has taken models into production
+Must have cloud experience, preferably AWS
+Marketing domain experience preferable but not essential
+Job Owner: d.prosser
+
+Tagged as: AWS, Python, Spark, SQL
+Seniority Level
+Entry level
+Industry
+Marketing & Advertising Computer Software Financial Services
+Employment Type
+Full-time
+Job Functions
+Engineering Information Technology

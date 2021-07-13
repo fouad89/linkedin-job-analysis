@@ -1,0 +1,67 @@
+Genome Analyst  Data Scientist
+Genomics England
+London, England, United Kingdom
+Company Description
+
+Genomics England successfully led the world-leading 100,000 Genomes Project, which compared and analysed individuals’ genetic codes to help diagnose, treat and prevent illness.
+
+We're now accelerating our impact, working with the NHS to further develop and embed genomic healthcare and research in Britain. Our next chapter involves working with patients, doctors, scientists, government and industry to improve genomic testing, and help researchers access the health data and technology they need to make new medical discoveries and create more effective, targeted medicines for everybody.
+
+Job Description
+
+If you want to be at the cutting-edge intersection of science, healthcare and technology, and you are passionate about how you can improve patients’ wellbeing, Genomics England is the place to be. We are looking for Genome Analysts to work on a range of exciting projects, including:
+New feature development and improvement for our clinical whole genome sequencing analysis pipelines which help patients with Rare Diseases and Cancer,
+Development and improvement of methods and tools for genomic analysis in diverse and underrepresented populations,
+Pioneering the use of long read sequencing in healthcare, using one of the largest collections of clinical long read sequencing in the world,
+Investigating the feasibility of whole genome sequencing in newborn screening for treatable conditions.
+Your Daily Tasks May Include
+
+You will work in an agile environment as part of multidisciplinary team, building state-of-the-art analytics into clinically-fit production quality solutions.
+developing and fine-tuning algorithms for variant prioritisation and classification to improve diagnostics and/or actionability,
+benchmarking and improving tools for processing and analysis of whole genome data (e.g. alignment, variant callers, quality control), and
+performing custom computational analyses.
+You'll work with other team members to ensure that solutions are implemented in a robust, scalable, fit for clinic, accredited, production-ready way. To do so, you will also be researching the scientific literature, identifying new approaches to genome analysis, as well as contributing to the publication and dissemination of our learnings in the form of scientific papers, white papers and conferences. You'll also be establishing general bioinformatics resources for day-to-day use by colleagues and members of our Research Environments.
+
+Skills And Experience For Success
+
+It's essential for this role that you have good knowledge of EITHER:
+cancer genomics, approaches to call somatic variation and emerging pan-genomic markers & clinical interpretation of cancer genomes.
+- OR -
+one or more areas of human germline DNA analysis, such as rare disease genomics, population genetics, family-based analysis, genetic association testing, risk score prediction, structural variation, pharmacogenomics, typing of complex genomic regions such as HLA/KIR.
+It is essential to that you have strong programming skills (Python, R).
+
+In Addition, You Will Have Some Of The Following
+a strong knowledge of statistics and/or statistical genetics and/or machine learning,
+experience of high throughput sequencing algorithms,
+experience with large data sets,
+data visualisation skills,
+the full cycle of analysing NGS data from sequencing QC to annotation and prioritisation of variants,
+excellent technical writing skills.
+Experience of collaboration with stakeholders, both internal and external, in order to develop, prototype and validate new features for genome analysis, as well as demonstrable research outputs (e.g. publications) will be additional strengths.
+
+If you match what we are looking for, or are close with a keen desire to develop, we'd love to hear from you.
+
+Qualifications
+a PhD involving one of the following: Rare Diseases, Cancer Bioinformatics, Computational Biology, Systems Biology, Statistical Genetics or equivalent work experience,
+Ideally, undergraduate studies with a strong quantitative discipline component (such as physics, computer science, or maths). These skills could also have been developed, for example, through a PhD in computational biology, statistical genomics, or statistical genetics.
+Additional Information
+
+Benefits
+
+Being part of this journey is a reward in itself, however we're pleased to offer our colleagues a great benefits package including
+
+Originally conceived as a project, Genomics England has transformed to meet the long-term opportunities created by our scientific breakthroughs in understanding the Human Genome.
+competitive salary
+30 days holiday
+generous pension scheme
+individual learning budgets for every colleague
+a raft of other benefits
+Talk to our Talent Team and find out how a career with Genomics England will benefit you.
+Seniority Level
+Mid-Senior level
+Industry
+Information Technology & Services Computer Software Hospital & Health Care
+Employment Type
+Full-time
+Job Functions
+Information Technology

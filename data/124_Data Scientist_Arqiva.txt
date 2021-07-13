@@ -1,0 +1,62 @@
+Data Scientist
+Arqiva
+London, England, United Kingdom
+Posted by
+Kevin D.
+Sourcing Specialist at Arqiva
+Send InMail
+*****Data Scientist*****
+
+Location: The role is remote, with incidental traveling to our head office in Winchester.
+
+
+Role Overview: 
+We have an opportunity for a Data Scientist to join our new Advanced Analytics team, which has been recently set up to deliver value from the data in Arqiva. Alongside the Advanced Analytics Manager and Data Analyst, you will play an important role in delivering our data strategy.
+You will be part of the central Data & Insight team and work on data products in collaboration with business stakeholders, data operations, and BI developers. As this is a new role, you will need to be comfortable being involved in all stages of the process, including exploration, experimentation, modelling and deploying. You will help shape the direction of the team and therefore, there will be lot of room to explore, experiment and learn as we go.
+
+
+Your key responsibilities will include:
+Use advanced analytics methods and build predictive and prescriptive models to help inform strategic decisioning and drive customer value
+Translate business requirements into data science projects and determine requirements for training and performance levels
+Develop and deploy machine learning solutions with i.e. time series, classification and sound and image processing
+Lead data mining and collection and perform large-scale experimentation on business data
+Maintain existing solutions and retrain models if needed to keep delivering quality results
+Evangelize insights and best practices to the Data Community and other stakeholders
+Communicate complex solutions in a clear and understandable way to stakeholders with different backgrounds
+Mentor Data Analysts to develop Data Science skills
+Stay up to date on new techniques and tools in machine learning/artificial intelligence and lead the discussions on what to do next
+
+
+Must haves:
+Experience designing and developing ML solutions to solve business problems
+Experience specifying Project or Technical Requirements in collaboration with business stakeholders
+Experience building data pipelines for manipulating and cleaning data
+Experience with big data analysis tools and techniques
+Experience developing, testing and evaluating models with Python
+Data auditing (SQL)
+
+
+Might haves
+A bachelor’s or master’s degree in computer science, statistics, mathematics, engineering or related discipline or equivalent
+Resourceful and proactive person with a natural curiosity
+Visualisation experience
+Up-to-date knowledge of machine learning and data analytics
+
+
+More than anything, we want to work with people who are passionate about what they do and believe in our vision. So, if you think you have most of the skills and / or experience we are looking for, then please do apply for the role - we want to hear from you!
+
+Inclusive Arqiva
+For us, building a working environment that is diverse, inclusive and engaged, is a positive for both our colleagues and our customers. This is why we have invested in our partnerships with initiatives and organisations such as Tommy's Pregnancy at Work, Inclusive Employers and WISE (Women in Science and Engineering).
+
+We also have active and thriving networks to support our colleagues like our Working Families network, Women at Arqiva and Diversity Ambassadors. Take a look at our LinkedIn Life page for more details - https://www.linkedin.com/company/arqiva/life
+
+We are working hard to ensure that we are making exciting opportunities accessible to all, and that every employee feels valued, heard and respected so that we can continue to build a high performance, high engagement culture.
+ #LI-REMOTE
+Seniority Level
+Mid-Senior level
+Industry
+Telecommunications
+Employment Type
+Full-time
+Job Functions
+Engineering Information Technology

@@ -1,0 +1,64 @@
+Data Scientist
+Full Circle Recruitment Ltd
+London, England, United Kingdom
+DATA SCIENTIST
+This is an ongoing recruitment drive due to team expansion 
+£40-47,000 (dependant on experience)
+
+My client is an established consulting firm who are looking for numerical, analytical Data Scientists to join their market-leading data analytics advisory practice delivering professional services to a range of financial institutions, including investment banks, hedge funds and central banks, and energy, retail, telecoms, utilities and government clients. 
+
+This would be a great role if you are an aspiring data scientist looking to work on complex data analytics problems in a big data environment. You will be working on proactive fraud prevention management, anti-money laundering, concept clustering, social network analysis, sentiment analysis, data visualization and dashboarding, developing their centres of excellence internally and their overall service offerings. 
+
+This firm is well-known for providing employees with opportunity to expand their experience, knowledge, and their skills in the data science. You will also develop consulting skills and will work with clients, fraud investigators, internal and external auditors, lawyers and regulatory authorities. They have a flexible culture, with inclusive values, and lots of development opportunities. 
+
+For the junior roles, you do NOT need any experience in Financial Crime or Fraud. 
+
+This exciting role will fully utilise your existing programming, data analysis and data science skills. Strong technical skills are essential as you will be required to develop solutions either individually or as part of an integrated multi-disciplinary team. 
+
+Experience with SQL: functions, stored procedures, pivoting, cursors, recursion, CTEs, triggers, dynamic SQL, query optimisation, transactions and XML.
+A working knowledge of database architecture, specifically designing and reviewing data storage structure, database normalization (1NF, 2NF, 3NF etc) and ensuring these structures are fit for purpose and scalable.
+Good understanding of using Python including its built-in functions and knowledge of data manipulation packages.
+Proven experience in automating manual tasks and ETL.
+Experience using any version control system (e.g. Git or CVS).
+Knowledge of full stack development in any programming/scripting language.
+Basic understanding of working with or building an API (REST)
+Ability and curiosity to conduct root-cause investigative work in relation to a system’s performance, configuration or data flow issues.
+
+Desired: 
+Knowledge of statistical techniques and analysis (such as regression, clustering, sampling and social network analysis).
+Experience in cloud-based deployment (e.g. Azure, GCP or AWS)
+Applied knowledge of machine learning and cognitive computing.
+
+You: 
+Excellent communication skills with the ability to explain complex technical analysis to a non-technical audience. 
+Tenacious problem solving attitude: the ability to identify and fix issues before they become critical. 
+Independent worker: you are reliable and can be trusted to deliver high-quality work with minimal oversight.
+Self-review system: you use a structured approach to ensure that your deliverables would require only minor review points from a stakeholder.
+
+Essential skills:
+It is essential you have a minimum of a Degree in a technical or analytical based subject (e.g. Computer Science, Mathematics, Physics, Engineering) from a top-tier University with good A Levels (or equivalent) 
+
+Depending on experience you will need to show experience of, or the ability to develop skills in the following:
+Show great skill in stakeholder and project management
+Be proactive, diligent and interested in the subject matter; you won’t be the sort of person who is always waiting for the next stage of the process: you will be inquisitive and proactive
+Show great attention to detail
+Desire to work in a leading consulting firm (with this comes a structured career path, regular appraisals, with specific KPIs you come up with in order to further your own career) 
+In-depth analysis of complex data
+Experience in writing reports and presentations to explain the findings
+Ability to come up with solutions to complex problems
+Ability to manage time, prioritise tasks and work independently
+Excellent communication skills, both written and oral
+
+This is a great place to develop a career, as the organisation has an excellent reputation on a global scale, and a wonderful client roster. You will have the opportunity to work with subject matter experts and to learn new disciplines as you grow with the firm. The successful candidates will perform a client delivery-focused role, which typically involves the management, manipulation and analysis of data and transformations using innovative techniques to leverage insight into a client’s structured and unstructured data, to provide answers to complex analytical problems. This team are committed to being the best at what they do. 
+
+There is a need for great people with strong analytics knowledge, as more emphasis is being put on not only understanding the issues companies are facing with their data, but how they can better leverage their data and use it to mitigate risk and fraud. 
+
+Benefits include: a great salary, healthcare, gym, pension plan, mobile phone, and laptop.  
+Seniority Level
+Associate
+Industry
+Management Consulting Banking
+Employment Type
+Full-time
+Job Functions
+Information Technology

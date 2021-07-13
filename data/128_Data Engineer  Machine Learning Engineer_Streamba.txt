@@ -1,0 +1,56 @@
+Data Engineer  Machine Learning Engineer
+Streamba
+Glasgow, Scotland, United Kingdom
+As a Data Engineer / Machine Learning Engineer you will be responsible for developing our intelligence technology to help our customers remove harmful emissions and inefficiency from global operations. Working closely with our world class engineering team, your skills will be put to the test within challenging environments. Our data and machine learning engineers leverage the latest in cloud ML technologies from Azure & GCP to bring valuable insight and innovation to heavy industry. We are particularly proud of our work in recognising cargo through deep learning technologies and we have a lot more interesting challenges to push your way.
+
+This role involves working closely with some of the worlds largest energy and mineral companies, so working at scale and at pace should be expected as well as being unafraid of large data sets and putting the technical horsepower of Azure to the test.
+
+No recruitment companies please***
+
+We do not expect anyone to meet every expectation below, so please use the following as a guide only, if you learn fast and have a strong foundational skill set and experience, we’d like to hear from you.
+
+What You Can Offer
+Experience integrating data from clients, third-party APIs and our production systems
+Data modelling and preparation for training, predictions and analytics
+Developing algorithms to optimise tasks in the heavy industry supply chain industry
+Knowledge of Python ( C# is a plus)
+Experience with GCP, Azure or any other cloud services is a plus
+Able to demonstrate good communication skills, external and internally.
+Ability to perform ad-hoc data analysis.
+Willing to help build great products in a lean, agile environment.
+An excellent, analytical, critical thinking mind with a passion for modern methodologies and technology
+Kaizen – proactive continuous learning and improvement
+Positivity and a friendly, approachable manner – you can communicate your ideas soundly and help others put across theirs
+Confidence – You’re not always right and you’re willing to take a risk at being wrong
+The ability to identify risks, challenges and potential pain points within our engineering processes and suggest alternatives
+A genuine belief in building great software for our customers and improving heavy industry
+
+Streamba Can Offer You
+Genuine autonomy, trust and a chance to make a measurable difference within a rapidly growing company
+A significant, but highly rewarding challenge. There’s no time for boredom here and every day we’re learning new skills
+Freedom and the resources required to implement your vision
+The opportunity to work with smart, focused engineers and the investment in your skillset to ensure each of us pushes one another towards excellence
+An opportunity that doesn’t come along too often – to be part of an early, growing technology company
+Competitive salary & benefits
+
+What do you need to apply?
+A passion for learning coupled with an insatiable curiosity
+Self-managing, both in motivation and learning
+A Computer Science/Engineering/Maths/Physics degree or similar is preferred, but if you’re exceptional at what you do and can show us, then this is optional.
+
+Perks And Benefits
+Pension Plan
+Performance Bonus
+Remote Working
+Flexible Working - At Streamba, we take a flexible approach to working. Work comes second to life-events and we encourage employees to take time when they need it.
+Maternity/Paternity Leave
+Sick Pay
+Annual Leave - We have a minimum 33 days annual leave that employees are actively encouraged to take
+Seniority Level
+Entry level
+Industry
+Information Technology & Services
+Employment Type
+Full-time
+Job Functions
+Information Technology

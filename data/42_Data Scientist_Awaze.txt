@@ -1,0 +1,56 @@
+Data Scientist
+Awaze
+Manchester, England, United Kingdom
+Posted by
+Jody Marks
+CEO | Founder @ MRJ Group (MRJ Recruitment & MRJ Talent) | NED/Advisor @ Nebuula | Co-Organiser of Tech Leads NW |
+Send InMail
+Welcome to AWAZE 🏡
+ To deliver on our promise of “everyday amazing holidays”, we’re investing heavily in new tech to UNIFY our brands, TRANSFORM the experience of our Guests & Owners and CREATE something special for the vacation rentals market.
+ Home to some of the continent’s most trusted travel brands, including Cottages.com, Hoseasons, and Novasol, we've never been busier and it’s safe to say that everybody has definitely had enough of staying at home 🔒 and can’t wait to get away for a family staycation ☀️.
+ We've hired some great people since October (50+) and we're continuing to move full steam ahead with our growth plans with more key hires to be made within our engineering teams.
+
+What will you be doing in your role?
+
+Working within our Data Science team, you will play a key role in the development and optimization of machine learning algorithms to power our pricing and revenue management platforms.
+
+We’re currently rebuilding the pricing engines which sit at the core of our Awaze platforms, so it’s a super exciting time to join our team. Working closely with our Engineering, Revenue Management, and wider Data teams, we’re looking for an experienced Data Scientist to deliver machine learning and NLP capabilities s we take our approach to pricing to the next level.
+
+Day-to-day you will:
+
+Work closely with the pricing Product team as well as key stakeholders from Revenue Management to help embed insight and analytics at the heart of our pricing strategy
+Build and iterate products for pricing and revenue management using appropriate statistical and machine learning techniques.
+Communicate findings and recommendations, tailored to the relevant audience.
+Contribute to the development of demonstrable prototypes to showcase our innovations.
+Work closely with other analysts, data scientists, data engineers and technologists to share knowledge, evaluate opportunities and pro-actively recommend improvements in data, systems, experimentation and propositions.
+ What key skills do you need?
+
+Proven experience creating and optimising machine learning models that have been operationalised to drive positive business and user-behavioural outcomes
+Experience in pricing/revenue management modelling and/or travel industry
+Experience using Python/Scala/R
+Experience using a range of machine learning and NLP techniques (neural networks, decision trees, clustering, sentiment & classification analysis)
+Exceptional problem solving skills with an emphasis on product development
+Motivated to learn and grow in a fast paced environment
+Excellent communication skills - able to communicate clearly with Product and Engineering team members
+
+What we will give you
+ Not only will you be joining a brand new international team, you’ll also have the freedom to inform the best way of working to get the job done and play a key role in helping us shape the culture of our new, City Centre office.
+ We also provide:
+ Competitive salary plus bonus
+18% Discount (Awaze holidays)
+Flexible working
+Matched pension scheme
+Life assurance
+25 days annual leave + bank holidays
+Perkbox subscription
+
+Let's talk
+ If you're interested in transforming the industry and reinventing how our technology powers everyday amazing holidays, please send your profile to jody.marks@awaze.com and let's chat today.
+Seniority Level
+Mid-Senior level
+Industry
+Leisure, Travel & Tourism
+Employment Type
+Full-time
+Job Functions
+Engineering Information Technology

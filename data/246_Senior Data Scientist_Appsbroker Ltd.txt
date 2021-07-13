@@ -1,0 +1,107 @@
+Senior Data Scientist
+Appsbroker Ltd
+Swindon, England, United Kingdom
+Posted by
+Andy Mott
+Recruitment Manager at Appsbroker Ltd
+Send InMail
+Are you looking for us?
+
+
+
+
+
+
+Appsbroker is Google's largest Premier Partner in Europe. We are delighted to hold MSP status and are Google's Partner of the Year; Application Development. Our expertise in Data, Application development, Infrastructure and Managed Services helps us to solve problems for some of the world's most exciting brands using Google Cloud Technology.
+
+Our culture is fun and supportive with a determination to put the Appsbroker team and our customers at the heart of everything we do.
+
+We are in a very exciting period of growth and we need more high calibre wonderful professionals to help drive further expansion.
+
+
+
+
+
+
+Requirements:
+
+Are we looking for you?
+
+
+You will be working with clients to build Machine Learning-based models that help to deliver value for their organisations. Given that we're passionate about ensuring we build models that are delivered into production, you'll not only be prototyping, but with the help or Appsbrokers' team of data engineers and architects you'll also be advising and assisting clients on deployment.
+
+
+Our clients come from many industries and are using ML to solve a variety of problems, so from project to project you will be making use of different approaches and methods from the Data Science playbook. What's common across all of our projects is that we develop and deploy on Google Cloud.
+
+
+You are passionate about delivering value to customers and prized for going the extra mile. You're flexible and creative in your approach and prepared to make a difference. You're professional - fair, honest and committed. You're happy to travel/work from client sites and excited to get involved in the ‘next big thing' whatever that might be
+
+
+Required skills that come naturally to you...
+
+
+Demonstrated ability to communicate technical concepts to a non-technical audience.
+Ability to take a business problem and design a technical solution to tackle the problem.
+Strong grasp of fundamental concepts of statistics and probability.
+Solid understanding of main machine learning algorithms for supervised and unsupervised learning including how they work, their advantages, limitations and uses.
+Excellent Python and SQL skills.
+Experience of working with machine learning frameworks such as tensorflow, scikit-learn and torch.
+Familiarity with Cloud ML tools and an understanding of principles of ML model productionization.
+Familiarity with version control (e.g. git) and with agile working practices.
+
+Collaborative and proactive
+Strong attention to detail, problem-solving and critical thinking
+Logical and methodical
+Articulate, persuasive and commercially aware
+Excellent communication (verbal and written)
+
+It would be great if you have (or are excited to gain)...
+
+
+Commercial or Academic experience with Computer Vision, NLP or reinforcement learning.
+Experience in consultancy.
+Commercial experience of MLOPs .
+Experience of working with Google Cloud.
+
+
+
+
+
+Appsbroker is committed to building a diverse and inclusive community where we can all be ourselves and succeed on merit.
+
+
+As an applicant please review our Privacy statement; https://www.appsbroker.com/privacy-policy
+
+
+Benefits:
+
+Holidays - 25 days holiday (raises to 26 after 2 years and 27 after 3 years)*
+
+
+4 x salary life assurance
+4% contributory pension and Appsbroker pays in 4% as well
+Opportunity to join our Vitality Health Insurance scheme (Appsbroker will cover the premium for yourself only, other plans available at costs)
+Opportunity for flexible working and work from home
+Opportunity to join our Electric car lease scheme
+Opportunity to join our Bike to Work scheme
+Subsidized gym membership
+Volunteer days
+Employee recognition rewards through Bonusly
+
+
+Desired Skills and Experience
+Big Data
+Data modernisation
+data Scientist
+google cloud
+machine learning
+python
+sql
+Seniority Level
+Mid-Senior level
+Industry
+Information Technology & Services
+Employment Type
+Full-time
+Job Functions
+Information Technology

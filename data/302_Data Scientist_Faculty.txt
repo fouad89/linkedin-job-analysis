@@ -1,0 +1,57 @@
+Data Scientist
+Faculty
+London, England, United Kingdom
+Who we are
+Faculty is an applied AI company that helps organisations who have the scale, data, and foresight to adopt AI into their business. We’re helping make AI real across society by providing a unique combination of strategy, software and skills to our customers: everything needed to successfully create value from AI. Founder-led and with over 80 PhDs, we’re a team of specialists with experience across healthcare, finance, government, retail, engineering, construction and a host of other sectors.
+We believe that AI should be trustworthy, impactful and beneficial across society. Those principles have shaped our work with more than 230 organisations across the public and private sectors as we help them use AI to act faster, make better decisions and understand more deeply. Thanks to our dedicated AI safety research programme, we’re constantly refining our systems to make AI safer, more secure and more reliable.
+
+The Role
+As a data scientist, fundamentally your role is to help customers solve their problems using data science and AI; this involves using a range of techniques both in terms of background and sophistication, from simple data analysis and statistics, to designing and implementing bespoke machine learning algorithms. We have an amazing set of customers and projects ranging from counter terrorism, government agencies, retail, marketing, healthcare to financial services.
+Your contribution will not be limited to programming. Using practical and business sense, you will help our excellent commercial team build strong relationships with our customers, shaping the direction of both current and future projects.
+As we are a growing business, we need people who take initiative. You will take on more responsibility from day one than you would expect in comparable roles elsewhere. Data scientists at Faculty take pride in:
+Solving problems with the best data-science techniques and in the most scientifically robust fashion.
+Communicating technical content at the right level both internally and to customers.
+Fostering a collaborative work environment, sharing knowledge, and bringing the best out of everyone in the team.
+Seeking out innovative ways to help Faculty grow, for example, by turning project work into reusable code.
+
+Requirements
+Now for the practical part - to succeed in this role, you’ll need:
+At least 3 years of experience in either a professional data-science position or a quantitative academic field.
+Strong programming skills as evidenced by earlier work in data science or software engineering. Although your programming language of choice (e.g. R, MATLAB or C) is not important, we do require the ability to become a fluent Python programmer in a short timeframe.
+A high level of mathematical competence and proficiency in statistics.
+A solid grasp of machine learning with the ability to develop new algorithms when an innovative solution is necessary.
+An excellent command of the standard libraries for data science (NumPy, Pandas, Scikit-Learn, Keras or equivalents in other programming languages).
+An appreciation for the scientific method as applied to the commercial world; a talent for converting business problems into a mathematical framework; resourcefulness in overcoming difficulties through creativity and commitment; a rigorous mindset in evaluating the performance and impact of models upon deployment.
+Eagerness to work alongside our customers and to learn about the commercial aspects of the job.
+Effective verbal and written communication. You should be comfortable with presenting your work in front of customers.
+Experience composing and following a project plan/sticking to self-imposed deadlines/proactively solving your own problems.
+
+In addition to the above, we’d love it if you had...
+Prior research experience (PhD or Postdoc) as evidenced by academic publications and conference talks.
+Government or consumer business experience
+Deep-learning frameworks such as TensorFlow and PyTorch;
+Probabilistic programming languages such as Stan, PyMC3, Edward or Greta;
+Database programming languages, in particular SQL;
+Distributed-computing frameworks such as Spark and Dask;
+Utilities for the creation of web apps such as Flask, Dash and React.js;
+Contributions to open-source projects
+Prior commercial experience, particularly if this involved customer-facing work or project management.
+
+Benefits
+Unlimited holidays: We encourage each other to use this time to take a break, work on personal projects, or to spend time with their friends and family.
+Genuinely flexible working: We believe people have needs, responsibilities and interests that require something different to a strict 9-6 working day. We trust people to organise and take accountability for their own work and do our best to support their lives outside Faculty.
+Sanctus mental health coaching: We offer access to confidential coaching sessions with mental healthcare professionals from Sanctus to ensure we offer the opportunity for our employees the chance to discuss and maintain their mental health
+Parental Leave: We offer a progressive, equal, and generous parental leave policy. All parents are given 15 weeks leave at full pay in addition to statutory time off.
+Cycle to work scheme for all employees
+Access to TechScheme monthly personal tech repayment process
+£100 Work from Home equipment fund for any work-essential tech or home office equipment (on top of your laptop, of course)
+Breakfast and more fruit, drinks and snacks than you could ever eat provided (for office-based employees)
+Yoga sessions twice a week
+Seniority Level
+Mid-Senior level
+Industry
+Information Technology & Services Computer Software
+Employment Type
+Full-time
+Job Functions
+Engineering Information Technology

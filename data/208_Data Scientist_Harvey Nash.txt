@@ -1,0 +1,34 @@
+Data Scientist
+Harvey Nash
+London, England, United Kingdom
+Job title : Data Scientist
+Contract length : 6 months
+Pay rate : £400 - 500 per day
+Company : Media
+
+
+The main function of the Data Scientist is to produce innovative solutions driven by exploratory data analysis from complex and high-dimensional datasets.
+
+Job Responsibilities:
+
+• Apply knowledge of statistics, machine learning, programming, data modeling, simulation, and advanced mathematics to recognize patterns, identify opportunities, pose business questions, and make valuable discoveries leading to prototype development and product improvement.
+• Use a flexible, analytical approach to design, develop, and evaluate predictive models and advanced algorithms that lead to optimal value extraction from the data.
+• Generate and test hypotheses and analyze and interpret the results of product experiments.
+• Work with product engineers to translate prototypes into new products, services, and features and provide guidelines for large-scale implementation.
+• Provide Business Intelligence (BI) and data visualization support, which includes, but limited to support for the online customer service dashboards and other ad-hoc requests requiring data analysis and visual support.
+
+Skills:
+• Experienced in either programming languages such as Python and/or R, big data tools such as Hadoop, or data visualization tools such as Tableau.
+• The ability to communicate effectively in writing, including conveying complex information and promoting in-depth engagement on course topics.
+• Experience working with large datasets.
+
+Education/Experience:
+• Master of Science degree in computer science or in a relevant field.
+  Seniority Level
+Mid-Senior level
+Industry
+Staffing & Recruiting
+Employment Type
+Contract
+Job Functions
+Engineering Information Technology

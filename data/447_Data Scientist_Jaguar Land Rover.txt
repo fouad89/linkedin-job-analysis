@@ -1,0 +1,58 @@
+Data Scientist
+Jaguar Land Rover
+Coventry, England, United Kingdom
+REQ ID: 56001
+
+JOB TITLE: Data Scientist
+
+SALARY: Competitive
+
+POSTING END DATE: 30/07/2021
+
+LOCATION: Coventry
+
+Dreaming for tomorrow is about more than ideas and ambitions. We’re already building the next generation of vehicles, using repurposed and brand-new technology and techniques. We’re doing more than dream, we’re creating the future of mobility and automotive for years to come.
+
+What To Expect
+
+We’re reinventing what tomorrow looks like at Jaguar Land Rover. There’s a revolution underway in our industry – and we’re leading it. We’ve always been innovators. But our future will be driven by the possibilities created by new technologies as never before.
+
+The Quality Analytics team uses advanced analytics to integrate data from numerous sources throughout the vehicle’s lifecycle and run predictive analytics to identify and prioritise the root causes of product quality issues.
+
+We are currently undergoing an ambitious transformation program that entails building robust analytics solutions to handle the integration, modelling, prediction and inference of all customer quality issues, utilising the best in class data analytics and machine learning tools and methods. We are looking for outstanding problem solvers who are inquisitive and passionate about data-driven change.
+
+Key responsibilities
+Design, prototype and deploy machine learning models.
+Write high-quality code, with production and deployment in mind (version control, TDD, automated pipelines)
+Communicate model assumptions and results to business users
+Partner with various business functions to explore and identify opportunities for improvements
+What You’ll Need
+
+You will have the technical knowledge with hands-on experience working with complex data and solving problems using Python or/and R with knowledge of data manipulation and SQL experience.
+
+Essential
+Numerate degree background
+Keen problem solver with experience in developing analytics solutions to problems
+Experience working with complex data and solving problems using one or more programming language such as Python (preferred) or R
+Data manipulation and SQL experience
+Experience or knowledge of several modelling approaches (clustering, classification, text analytics, regression), and exposure to some of the standard machine learning algorithms.
+Desirable
+Experience with NLP is a distinct plus
+Experience with a cloud environment (GCP or similar)
+Demonstrate a proactive approach to managing own development in data science or software development through (MOOCs), personal projects, public GitHub repo, etc
+Experience in one or more visualisation tool or library (Tableau, Google Data Studio, ggplot2, Matplotlib, Seaborn, etc)
+SO WHY US?
+
+Bring all this to the home of premium innovation, and you’ll find the opportunities to further your career with a world-class team, a discounted car purchase and lease scheme for you and your family, membership of a competitive pension plan and performance related bonus scheme. All this and more makes Jaguar Land Rover the perfect place to continue your journey.
+
+Please be aware that we may close this vacancy for applications before the stated deadline if we receive a high volume of interest. We strongly advise you to submit your application as early as possible.
+
+Jaguar Land Rover is committed to equal opportunity for all.
+Seniority Level
+Entry level
+Industry
+Information Technology & Services Computer Software Automotive
+Employment Type
+Full-time
+Job Functions
+Engineering Information Technology

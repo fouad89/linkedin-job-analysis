@@ -1,0 +1,79 @@
+Attribution Data Scientist
+Entain
+Gibraltar, England, United Kingdom
+At GVC, we do things our own way, with our own personality and attitude, For The Good Of Entertainment. We are a leading, global, digital gaming and gambling business and are constantly looking to push boundaries and develop the industry, making digital gaming and gambling more enjoyable for all our customers.
+
+We welcome you to join a young and vibrant team of data scientists and data engineers excited to use state of the art Google Cloud technology and the most advanced Machine Learning techniques to make a real impact to the business. Bring your ideas, drive, team spirit and love of data science and let’s get started!
+
+We are a global team central to GVC, building intelligent automated decisioning tools, across all our geographies and brands, to acquire, retain and engage our customers. This gives us a vast range of opportunities to work on, and our work is paramount to the company’s vision and success. You can choose one of our offices in London or Gibraltar. You will benefit from access to learning resources and conferences and be part of a fun and inspirational work environment, enjoying monthly free office breakfast and drinks.
+
+We are looking for a Data Scientist with experience in attribution modelling and other CRM advanced analytics, like churn, customer lifetime value, cross sell, and forecasting. The attribution models are being used to understand what channels are more profitable than others. Our other analytics and models are used in CRM targeting, in presenting personalized communications, offers and digital content to our customers, at the right time, and via the right channel.
+
+You will help us discover the information hidden in vast amounts of data and help us make smarter decisions to manage our customers better and deliver even better products. Your primary focus will be in applying data mining techniques, doing statistical analysis, and building high quality prediction systems integrated with our marketing strategy and products/processes
+
+Key Responsibilities
+
+You will be responsible of the following main activities:
+Analyze performance across channels, build attribution models, present suggestions on optimizing ROI and driving growth for all brands and territories under the GVC umbrella
+Create Machine Learning models and analytics that optimize the Marketing and Customer management of our online gaming products
+Build predictive models and machine-learning algorithms and prepare them for deployment into our live production environment
+Conduct research and development activities, data exploration and discovery, develop prototypes, algorithms and proof of concepts, using leading data science and innovative Big Data solutions
+Put forward opportunities that can be solved through advanced analytics and work to develop these
+Propose solutions and strategies to business challenges
+Extract valuable business insights and provide recommendations based on those insights
+Present your findings and recommendations in a visually appealing way to senior stakeholders
+Undertake pre-processing of structured and unstructured data for your analytics
+Analyse large amounts of information to discover trends and patterns
+Collaborate with the Data, Marketing and Product development teams
+Contribute to the design of solutions of monitoring and reporting for our models
+Perform peer QA-ing of advanced analytics activities
+Occasional travel to a few other offices would be required (e.g. once or twice per quarter).
+Essential
+
+Specialist Skills:
+Advanced use and application of data modelling concepts
+Strong math skills (e.g. statistics, algebra)
+Proficient in the use of SQL and Python/R
+Proficient in the use of Excel and Tableau/PowerBI or a similar visualisation tool
+Experience in attribution modelling or econometrics/MMM
+Experience in CRM modelling - CLV, churn, propensities, cross-sell, etc.
+Experience working in a cloud environment, like Google cloud (GCP) or Amazon cloud (AWS)
+Business analyst skills to translate business needs into technical requirements
+Analytics mind-set skill with the ability to turn a business question / problem into an analytics plan, deciding on what data to use, how to transform it, what methods / models to apply, how to turn the outcome into usable, actionable output
+Pragmatic thinking & high degree of attention to detail
+Good understanding of the end to end Machine Learning (ML) environment
+Good communication and stakeholder management skills, including presentation skills, to communicate clearly, regularly, effectively and meaningfully at the senior level of the organization
+Experience using Git or a similar version cont
+Desired
+Familiarity with the e-Gaming industry (Sports betting, Casino, Poker, Bingo, etc.)
+Understanding of Markov Chain and Shapley Value methodologies
+Experience designing experiments to understand incrementality e.g. conversion lift tests, blackout tests
+Hands on experience using Google Analytics (GA) sessions data
+Knowledge of marketing platforms like DCM, Facebook, Snapchat, Twitter, AppsFlyer
+Understanding of testing methodologies like Unit Testing and User Acceptance Testing
+Experience in using BigQuery, Dataproc, and Cloud Composer in the Google Cloud
+
+
+Behavioral
+Self-awareness
+Honesty and integrity
+Team spirit
+Leadership
+Commercially astute
+Passionate
+Fast and keen learner
+We’re Entain. Our vision is to be the world leader in sports betting and gaming entertainment by creating the most exciting and trusted experiences for our customers, revolutionising the space as we go. We’re specialists in safer gambling and the company that is at the forefront of responsibility.
+
+Combining technology and entertainment to build products that push the boundaries, Entain is home to a global family of more than 25 well-known brands - names such as bwin, Ladbrokes, Coral, Gala, Betdaq, and many more. With a focus on sustainability and growth, we will transform our sector for our players, for ourselves and for the good of entertainment.
+
+Diversity and inclusion at Entain
+
+As a global employer, Entain is committed to providing a safe, fun, and inclusive culture where our people feel like they truly belong. We are a multicultural business that values, celebrates and respects individual differences, so whatever your sexuality, gender, gender identity, ability, age, race, religion or belief, you will have a voice here, and the space to do your best work. Our diverse internal networks provide the support for you to express your views and make a positive difference, all for the good of entertainment.
+Seniority Level
+Entry level
+Industry
+Gambling & Casinos Entertainment
+Employment Type
+Full-time
+Job Functions
+Engineering Information Technology

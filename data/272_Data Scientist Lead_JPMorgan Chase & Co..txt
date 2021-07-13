@@ -1,0 +1,35 @@
+Data Scientist Lead
+JPMorgan Chase & Co.
+Glasgow, Scotland, United Kingdom
+We're looking for a lead data scientist to join our Glasgow team which specializes in Natural Language Processing and tasks involving unstructured and semi-structured data.Corporate Technology Machine Learning is an applied research team that uses AI and Machine Learning to deliver innovative solutions across a diverse range of corporate functions: risk, compliance, finance, human resources and legal.
+
+Together we'll work with business and technology partners across the globe, to build imaginative, cutting-edge and well-engineered solutions that will transform business processes and enable new ways of working at one of the world's largest financial institutions.
+
+The Role
+Work with internal clients to understand business challenges/opportunities and shape solutions
+Analyze data, train models and prototype systems to prove out those ideas
+Communicate findings and disseminate research both internally and externally
+Mentor and guide junior research scientists on the team
+Work with engineering teams to deploy production solutions
+Required Skills And Experience
+Good understanding of algorithms and data structures
+Good understanding of mathematics and statistics
+Familiarity with the Python and the associated data science ecosystem
+Expertise in Natural Language Processing (traditional and ML-based)
+Track record of taking machine learning projects into production
+Desirable
+MSc or PhD degree in AI/ML
+Prior experience of financial sector, and an awareness of risk and regulatory concerns
+Familiarity with system architecture and engineering e.g. UNIX, Kubernetes, Kafka
+Familiarity with application architecture and engineering e.g. web services, HTML/CSS/Javascript, UI/UX
+J.P. Morgan is a global leader in financial services, providing strategic advice and products to the world's most prominent corporations, governments, wealthy individuals and institutional investors. Our first-class business in a first-class way approach to serving clients drives everything we do. We strive to build trusted, long-term partnerships to help our clients achieve their business objectives.
+
+We recognize that our people are our strength and the diverse talents they bring to our global workforce are directly linked to our success. We are an equal opportunity employer and place a high value on diversity and inclusion at our company. We do not discriminate on the basis of any protected attribute, including race, religion, color, national origin, gender, sexual orientation, gender identity, gender expression, age, marital or veteran status, pregnancy or disability, or any other basis protected under applicable law. In accordance with applicable law, we make reasonable accommodations for applicants' and employees' religious practices and beliefs, as well as any mental health or physical disability needs.
+Seniority Level
+Associate
+Industry
+Financial Services
+Employment Type
+Full-time
+Job Functions
+Engineering Information Technology

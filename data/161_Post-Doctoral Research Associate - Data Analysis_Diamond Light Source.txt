@@ -1,0 +1,42 @@
+Post-Doctoral Research Associate - Data Analysis
+Diamond Light Source
+Harwell, England, United Kingdom
+Post-Doctoral Research Associate - Data Analysis
+Harwell Science and Innovation Campus, Oxfordshire
+Salary £33,963 - £39,955, dependent upon skills and experience
+Full time / Flexible hours considered
+2.5 Years fixed term
+Ref: 10544
+ About Us
+Diamond Light Source is the UK’s national synchrotron science facility. By accelerating electrons to near light-speed, Diamond generates brilliant beams of light from infra-red to X-rays which are used for academic and industry research and development across a range of scientific disciplines including structural biology, physics, chemistry, materials science, engineering, earth and environmental sciences.
+ About the Role
+We now have an excellent opportunity for a scientific programmer to join the Diamond Diffraction Integration for Advanced Light Sources (DIALS) development team as a Post-Doctoral Research Associate on a 2 1/2 year fixed term basis.
+ DIALS has broken the mould in the analysis of diffraction data by being the first highly collaborative and fully open-source initiative in this field of research. DIALS is a leading software toolkit in use at many labs and synchrotron facilities worldwide.
+ This PDRA role will work on the development of algorithms and code to enhance the quality of DIALS data analysis in the area of X-ray serial crystallography. The successful candidate will join a dedicated team working on cutting edge data analysis techniques, pushing towards the goal of a unified analysis of serial snapshot and rotation diffraction. DIALS has a culture of open development, with an open issue tracker and open code review.
+ The role will involve close interactions with DIALS team members at Diamond and CCP4, and other close collaborators around the world. The position offers opportunities to travel to both UK and international conferences and workshops to present new results and to tutor students and researchers in the best use of DIALS, as well as to participate in experiments at other international facilities such as the European XFEL in Hamburg.
+ The DIALS team works closely with staff and users of Diamond facilities, creating exciting opportunities to engage and contribute to cutting edge experimental work.
+ About You
+You will hold a first degree in science / mathematics / statistics and an appropriate PhD.
+ You will demonstrate experience in algorithm and software development and experience in object-oriented programming, particularly Python and / or C++.
+ Some experience in the following areas is desirable:
+·      Simulation processes e.g. Monte Carlo / Markov modelling
+·      Synchrotron or XFEL-based research, especially serial crystallography;
+·      X-ray / electron crystallography, diffraction or imaging;
+·      X-ray or electron source instrumentation and detectors;
+·      Working on software as part of a team;
+·      UNIX operating systems;
+ You will display good communication and interpersonal skills to interact with staff and facility users at all levels.
+ Benefits
+Diamond offers an exceptional benefits package to support staff in achieving a positive work/life balance. This includes 25 days annual leave plus 13 days of statutory and company holidays, along with flexible working hours and an excellent pension scheme. Staff also have access to a range of amenities on site including a nursery, cafes, a restaurant and sports and leisure facilities.
+ To Apply
+Please use the online application process to apply and tell us why you believe you are suitable for this role.
+ Diamond is a thriving international organisation, attracting a diverse range of talented individuals from around the world. Our staff currently comprises 44 nationalities and we welcome applications from everyone interested in joining us.
+ The closing date for applications is 15th August 2021.
+  Seniority Level
+Mid-Senior level
+Industry
+Research
+Employment Type
+Contract
+Job Functions
+Science

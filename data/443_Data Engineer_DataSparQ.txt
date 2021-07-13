@@ -1,0 +1,43 @@
+Data Engineer
+DataSparQ
+London, England, United Kingdom
+Posted by
+Nikos Gyparis Volakis
+Director @ DataSparQ
+Send InMail
+Data Engineer
+
+By combining data science, design and technology with our clients’ business priorities, we build valuable intelligent products that businesses can use to super-charge their decision making. We design and build intelligent products for everyone; for employees within our clients’ business to drive internal process efficiencies; as well as for businesses to offer innovative data products and services to their customers.
+ Some products we build are bespoke for clients; solving specific high-value opportunities in their business using data and AI; other products are more generalisable across industries and brands and are designed to solve common problems.
+ Our resulting intelligent products are valuable, usable and sustainable. They are tools and services that integrate into our clients’ workflows: Abstract Programming Interfaces (APIs); interactive applications, bespoke data visualisations or even a simple Excel file - whatever it takes to automate, accelerate or augment their decisions.
+ Our team is a mix of talented, and highly accomplished big data engineers, data scientists, product designers and software engineers. Our products are deployed across the cloud ecosystem and our client base spans multiple industries including retail, finance and gaming.
+ Job Description
+ The Data Engineer will be:
+Working on projects which have a focus on data and with clients across multiple sectors.
+Actively looks to stay up to date with the evolving Cloud landscape.
+Constantly developing technical skills using the latest cloud technology, striving towards certifications.
+Working on client-site, office-based development teams or from home, collaborating within a team environment and participating in typical project lifecycle activities such as requirement analysis, testing and release.
+ Experience Profile
+ This is a role for ambitious technologists who wish to work with the latest technology. Whilst we do not expect everyone to have experience with all the concepts below, candidates will need to show their ability to rapidly learn new technologies.
+ Data Ingestion and Integration.
+Data Storage (i.e. data lakes, blob storage).
+Relational and MPP Databases.
+Excellent development with Python and SQL
+Scalable Compute (i.e. MPP architectures, Spark).
+Excellent knowledge of big data frameworks like Hadoop, Apache Beam, Spark.
+Good Knowledge of orchestration and data movement tools like Apache Airflow, Luigi
+Reporting and Analytics.
+Great understanding of Business Intelligence and Data Warehousing concepts and methods.
+Good communication skills.
+  Additional Desirable skills:
+ Development with Go, C++
+Containers and Kubernetes.
+Terraform
+Linux bash scripting
+Understanding of software engineering tools and concepts.
+Experience of using Gitflow workflow.
+Passion for technology and a thirst for knowledge.
+A science related education to degree level.
+
+Employment Type
+Full-time

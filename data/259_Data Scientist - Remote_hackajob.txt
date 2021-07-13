@@ -1,0 +1,50 @@
+Data Scientist - Remote
+hackajob
+United Kingdom
+hackajob are partnered with a commercial motor insurance provider that powers opportunities for businesses, from entire fleets of vehicles to self-employed drivers and riders. They combine best-in-class technology with sophisticated data sources to offer insurance products that save businesses time and money. Since their inception, they have believed that the problem with traditional insurance is that it holds businesses back. It’s too expensive and time-consuming, and it no longer suits businesses that use vehicles to earn money.
+
+The job in a nutshell:
+
+The Data Science team is looking for an experienced Data Scientist to lead their efforts in combating fraud. Your job will entail diving through mountains of data and extracting insights to help them understand the ever-changing environment of fraud, claims, and abuse. This is a dynamic role where you will work closely with Product, Pricing, Engineering, Claims, and Risk teams to develop data-driven insurance claims automation and fraud detection solutions.
+
+Your responsibilities
+
+You will dive into the heart of their R&D efforts and help to build market-leading fraud and claims analytics capabilities.
+You will be responsible for partnering with key stakeholders to develop evidence-driven solutions to important claims and fraud problems.
+You will apply your data expertise to surfacing key insights that will help drive decision-making and develop data tools that will improve their ability to fight financial crime.
+You will become an expert regarding their potential risks related to fraud and apply relevant ML approaches to address these problems in impactful ways.
+You will work with engineering teams to integrate new fraud-related data sources into their systems and processes.
+You will creatively leverage new and existing data to increase the effectiveness and efficiency of their decision-making infrastructure.
+You will support the delivery of predictive analytics and models to allow the development of new fraud management solutions and better understand fraud control strategies.
+You will become a data subject-matter expert in the evaluation and development of new fraud systems tools and their implementation.
+You will conduct pre-and post-deployment impact analysis to quantify the success of new strategies and implementations.
+You will assist stakeholders to articulate their fraud system strategy requirements, guiding and challenging where appropriate.
+You will proactively identify opportunities for using ML, work on uncertainties, and drive projects end to end independently with a focus on results
+You will help to standardize and automate the analytics pipeline for use across the pricing organization.
+You will communicate data-led recommendations to senior stakeholders, both written and orally.
+You will champion a data-driven approach as you partner with stakeholders of different seniority showcasing your inclination as an outstanding individual contributor and develop into other senior roles.
+You will use modern tools and methods and techniques to promote automation in their analytics operations.
+You will constantly generate new research ideas, building a case, and presenting your findings to propel capability forward.
+You must be willing to embrace change and show flexibility in assignments and the work environment.
+
+Tech Stack:
+
+You will need: Python or R, Machine Learning
+Ideally, you'll also have: SQL, Scikit-learn, Tensorflow, Caffe2, PyTorch, Theano
+Their wider tech stack: Scala, Golang, JavaScript, React, Docker, Kubernetes, AWS, Google Cloud Platform
+
+Working for them:
+
+They look for people who have expertise, enthusiasm and who are motivated by change. There’s plenty of room to learn and grow, as part of their ongoing training programs or directly from other experts. You’ll work alongside a talented group of people who respect each other's differences and seek to understand fresh perspectives. They are an equal opportunity employer and value diversity at their company. They do not discriminate on the basis of race, religion, national origin, gender, sexual orientation, age, marital status, or disability status.
+
+They also offer a comprehensive benefits package, if you're interested in finding out more about this fantastic opportunity please get your application in and sign up to our platform to get matched with this role.
+
+*This role requires you to be based in the UK and to have the right to work in the UK*
+Seniority Level
+Mid-Senior level
+Industry
+Internet Information Technology & Services
+Employment Type
+Full-time
+Job Functions
+Engineering Information Technology

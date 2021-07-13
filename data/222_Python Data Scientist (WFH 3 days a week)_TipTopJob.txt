@@ -1,0 +1,36 @@
+Python Data Scientist (WFH 3 days a week)
+TipTopJob
+London, England, United Kingdom
+Our client is hiring two Python Data Scientists to work across a number of wide:ranging data projects, including the execution and management of a series of indices ranking countries or businesses based on a large set of indicators.
+
+Key projects thePython Data Scientists will be working on include a pioneering ranking of the FTSE 100 that investigates companies' performance on social and environmental indicators, and Artificial Intelligence Index, a ranking that considers capacity to build and adapt to a future driven by AI. ThePython Data Scientists will also work on new projects seeking to explore key social, economic, technological and financial trends.
+
+What are my responsibilities and accountabilities?
+
+: Wrangle, extract and analyse a large number of different datasets relating to indices as well as other research projects
+
+: Oversee the bi:annual updates and development of the indices
+
+: Refine and improve data collection and analysis tools
+
+: Analyse results to extract key findings
+
+: What do I know? Useful knowledge, skills and experience
+
+: 2+ years' experience working in Python
+
+: Experience using specialised tools to collect data, e.g. web scraping and APIs
+
+ALL APPLICANTS MUST BE FREE TO WORK IN THE UK FREE FROM THE RESTRICTIONS OF VISAS AND WORK PERMITS.
+
+Exposed Solutions is acting as an employment agency to this client.
+
+Please note that no terminology in this advert is intended to discriminate on the grounds of age, and we confirm that we will gladly accept applications from persons of any age for this role.
+Seniority Level
+Entry level
+Industry
+Marketing & Advertising Staffing & Recruiting Transportation/Trucking/Railroad
+Employment Type
+Full-time
+Job Functions
+Engineering Information Technology

@@ -1,0 +1,77 @@
+Data Scientist
+Vitality
+London, England, United Kingdom
+Overall Job Purpose
+
+We’re looking for an experienced data scientist to work on innovative AI applications across Vitality’s short-term insurance businesses, focusing on pricing, retention, sales, and marketing but also covering health and wellness management, customer service and engagement.
+
+You will enjoy working with rich datasets, cutting edge technology, advance machine learning techniques, see your models used in real business applications and help shape new projects in an innovative company that helps people live healthier lives.
+
+Accountabilities
+Develop and implement advance predictive models and optimisation algorithms
+Produce analytical work that is:
+Customer focused (product design, health and wellness modelling, cross- and up-sell identification, churn, and engagement modelling)
+Business focused (claim modelling, underwriting, fraud identification, and lifetime value modelling)
+Discover trends, patterns and stories told by the data and present them to stakeholders
+Leverage new open data sources and extract further value from existing company data
+Produce creative data visualisations and intuitive graphics to present complex analytics
+Leverage state-of-the-art data mining and machine learning algorithms to drive business value
+Communicate analysis, findings and recommendations to various stakeholders and senior executives
+
+Essential
+
+Skills Required
+Undergraduate degree in numerical subject
+Practical experience of building and implementing machine learning models to solve business problems
+Experience accessing and analysing data using language/tools/databases such as Python, R, SQL, etc.
+Experience using Gradient Boosting Machines, Random Forest, Neural Network or similar algorithms
+Experience working as a data scientist or quantitative / statistical analyst in a similar environment
+Strong knowledge of Microsoft Office tools
+Desirable
+Masters or other advanced degree in Computer Science, Maths, Physics, Engineering, Statistics, or other technical field
+Experience in General Insurance, particularly in a Pricing or Data Science role, or in financial services
+Highly analytical
+Ability to multi-task and prioritise activities
+The ability to communicate the results of analyses in a clear and effective manner
+Passionate about data science, machine learning and big data
+Possesses both creative abilities and business knowledge
+Results driven and self-motivated
+Enthusiastic, curious and able to work autonomously or within teams
+
+About Us
+
+Vitality is an award-winning, dynamic and vibrant financial services provider, with a ground-breaking vision for the future, where individuals are enabled to succeed and are rewarded and recognised for their contribution to our business. We’re the UK insurer and investment provider that rewards people for positive lifestyle choices – a key element of our Shared-value model. With 1.4m UK members and more than 25m globally, we’re out to make the world a healthier, happier place. This applies as much to our people as it does to our members.
+
+Working for Vitality, you'll experience an exciting mix of creativity and innovation, within a framework of challenging objectives and a passion for delivering the best. We think work should be fun and sociable, and we want our people to get the most out of every day. Our people are chosen for their skills, knowledge, enthusiasm and attitude but above all, their belief that anything can be achieved. Wherever possible, we will consider a variety of working options to suit your lifestyle, whether that be working from home, flexible working and part or full time employment. It’s what we call offering shared values, because a healthy happy team is good for us, good for our members and good for you.
+
+Our People
+
+Our Perks
+
+As well as a highly competitive pay package, you’ll enjoy: Free places to Vitality sponsored run events, online fitness classes and wellbeing workshops, competitions to win tickets to top-flight sporting events, health checks and access to our full range of partners and rewards.
+
+Flexible Working
+
+Vitality Health Insurance
+
+Bonus Scheme
+
+Health & Wellbeing Incentives
+
+Training & Development Opportunities
+
+Reward & Recognition Schemes
+
+Our Locations
+
+Previous Next
+
+At Vitality, we are committed to diversity and inclusion because it’s good for our employees, for our business, and for society. This means we treat all job applicants fairly and welcome applications from all communities and affinity groups.
+Seniority Level
+Entry level
+Industry
+Information Technology & Services Insurance Financial Services
+Employment Type
+Full-time
+Job Functions
+Engineering Information Technology

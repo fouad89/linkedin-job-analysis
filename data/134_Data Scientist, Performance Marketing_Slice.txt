@@ -1,0 +1,37 @@
+Data Scientist, Performance Marketing
+Slice
+New York, England, United Kingdom
+Pizza is at the heart of our communities. From birthday parties to gameday potlucks, life’s special moments are bettered by the craftsmanship and tradition found behind local pizzerias’ counters. We’re here to make sure these iconic small businesses serve our communities for generations to come by giving them the digital tools and services commonly found at big chains. Can you imagine what a small mom and pop pizza shop could achieve with the resources of Domino’s?
+
+Slice is looking for a data scientist with solid experience in marketing and digital advertising platforms to join our Business Data Science team. The ideal candidate has a deep understanding of order attribution and how it may affect business outcomes to help drive the success of our marketing efforts. You have a track record of partnering with other teams in Product, Engineering and Operations on cross-functional initiatives. You are scrappy and excited about working in an evolving business and data infrastructure, you feel passionate about building a data-driven culture of the company and having a huge impact on a growing team.
+
+What You’ll Do
+Work on tracking, measuring and modeling acquisition, attribution and campaign performance across different marketing channels
+Partner closely with the data engineers to bring rigor to the performance marketing data flows.
+Execute on strategies and tactics to improve both the marketing effectiveness and efficiency of media performance, drive insights and recommendations to optimize marketing efforts
+Build full-cycle experiments, reports, and dashboards using SQL, R, Python, or other scripting and statistical tools
+Work on cross-functional projects under the direction of Marketing Analytics manager
+Who You Are
+BS in statistics, mathematics or related quantitative fields
+2+ years of analytics experience in Marketing and paid media, either within an agency or in a large marketing organization; experience with A/B testing preferred.
+Proficiency in SQL and experience in data ETL in large database systems
+Experience in running advanced analyses in languages such as Python, R, etc.
+A proven track record of using analysis to impact key business decisions
+The ability to clearly and effectively communicate the results of complex analyses
+Ability to manage small projects and to operate as the point of contact for the business partner.
+Experience in software engineering, data engineering, consulting, or academic research a plus
+About Slice
+
+Slice powers independent pizzerias with the specialized technology, data insights, and shared services they need to serve today’s digital-minded customers. This united network of pizzerias enables these small businesses to thrive against major corporate chains and form the nation’s largest marketplace for authentic pizza. Slice makes it easy for customers to order from their go-to shops and discover their next favorite.
+
+Serial tech entrepreneur Ilir Sela started Slice to solve the digital challenges his family’s New York City pizzerias faced. Today, the Slice team has grown to over 700+ across 5 offices globally. If you’re ambitious, interested in growing your career, and hungry to join one of the fastest growing companies in tech, we may have a role for you. Check out a few awards we’ve recently won for our workplace and culture: Inc., Crain's, BuiltinNYC
+
+Slice is an Equal Opportunity Employer and is committed to building an inclusive environment for people of all backgrounds and everyone is encouraged to apply. We do not discriminate on the basis of race, color, gender, sexual orientation, gender identity or expression, religion, disability, national origin, protected veteran status, age, or any other status protected by applicable national, federal, state, or local law.
+Seniority Level
+Entry level
+Industry
+Marketing & Advertising Computer Software Internet
+Employment Type
+Full-time
+Job Functions
+Engineering Information Technology

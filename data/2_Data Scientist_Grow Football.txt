@@ -1,0 +1,40 @@
+Data Scientist
+Grow Football
+London, England, United Kingdom
+Posted by
+Max Kingdon
+Head of Product at Grow Football
+Send InMail
+Junior Data Scientist – CV & ML
+
+LV8 Sport is an innovative sports-tech startup, introducing a unique data-led approach to performance analysis across a select group of sports. The first product from LV8 Sport is Grow Football, an AR-based iOS application which provides players of all levels with detailed analysis of their performance across a range of drills using Computer Vision and Machine Learning techniques to extract quality data from a phone’s camera feed. Currently in public beta, the full version of this application will launch imminently in partnership with a top European football club.
+
+In addition to football, LV8 Sport has developed performance analysis technologies in several other sports, launched through 2021.
+                                                                             We are looking for a Junior Data Scientist to join our growing team as we continue to develop these unique technologies.
+
+Your responsibilities will include:
+Training, testing and optimising object detection, computer vision and image analysis algorithms for iOS deployment.
+Developing and evaluating quantitative scoring metrics from video and pose estimation data.
+Preparing and processing imaging data for sure in model training.
+Building and maintaining metrics data processing pipelines to improve processes.
+Remaining up to date with current state-of-the-art research and literature in ML and CV.
+
+Successful candidates should have:
+Good knowledge and understanding in machine learning; particularly object detection, image segmentation, pose estimation and optical flow.
+Demonstratable experience applying analytical skills to problems such as data collection, analysis, visualisation, statistics.
+Experience in ML frameworks Tensorflow/Pytorch.
+Experience training custom deep learning networks and pre-trained CV models such as YOLO or MobileNet.
+Experience deploying models in iOS-compatible mobile machine learning frameworks (Apple CoreML, Google MLKit).
+Strong programming skills in Python (NumPy, SciPy, Pandas, Matplotlib).
+Proficiency with good software engineering practices and versioning control (Git).
+Excellent organisational, planning and time management skills.
+An interest in sports analytics and/or biomechanics.
+Previous iOS development is a nice-to-have.
+
+The successful candidate will be hybrid working due to the ongoing COVID-19 pandemic, with travel to SW8 offices.
+
+Please apply via CV and short cover paragraph to careers@lv8sport.com outlining your relevant experience and achievements, and why you feel this opportunity is one that suits your ambitions.
+
+Grow Football (beta) is available on the App Store - https://apps.apple.com/gb/app/grow-football/id1522449055
+Employment Type
+Full-time

@@ -1,0 +1,72 @@
+Data Scientist
+Landmark Information Group
+The Home, England, United Kingdom
+What It's Like To Work At Landmark
+
+We're a friendly, dynamic and supportive team. We encourage passion, ambition and collaboration, both in our performance as a team and individually. New ideas are encouraged. We actively promote involvement in the development and direction of our products and services, as well as finding more efficient ways to work. We also love a good work social and team building events. As well as this we offer:
+Competitive salary
+25 days’ holiday, with optional 5 days unpaid leave per year
+Free parking
+Annual lifestyle allowance of £300 to put towards an activity of your choice.
+Cycle to Work scheme and Gym Flex scheme
+Internal coaching/mentoring system throughout your time here
+Focus on training and career progression.
+Family friendly policies
+Happy to talk about flexible working.
+The Opportunity
+
+This is a fantastic opportunity to support a very high-profile, progressive project within our business that could revolutionise the property market.
+
+The Data Scientist will focus primarily on the classification, summarisation and interpretation of property transaction due diligence information by building models that can extract, interpret and present information back to the customer that can help to speed up the review process, helping transaction times to reduce.
+
+The Role Will Involve
+The design, build and deployment of AI and ML models, especially in NLP
+Working across a range of stakeholders, including product, industry SMEs and software developers to produce consumable model outputs.
+Providing direction on the Machine Learning (ML) engineering and operational activities and set-up needed to both productionise produced models and optimise data pipelines and cloud consumption.
+Working with the Artificial Intelligence (AI) Architect to define repeatable architectural patterns that can be used across the enterprise with an empathise on the ability to scale as model complexity and data inputs growth over time.
+Ensuring data is collected and analysed that enables models and associated products to be evolved based on the understanding of customer and commercial impact.
+Helping to define MLOPs procedures and integrate with DevOps teams to produce MLOPs functionality.
+Evaluating and operating new tools, packages, and ML techniques.
+Ensuring productionised models can be handed over to operational teams.
+Ensuring that solutions meet current requirements and can evolve to support future needs, minimising disruption.
+About You
+
+We are looking for a highly skilled Data Scientist that is innovative, engaging, collaborative, and proactive who will act as an ambassador. You will need to have experience of a broad range of AI techniques but especially in NLP. The chosen candidate will have successfully delivered projects that mine unstructured data and create interpreted output consumable by non-technical business professionals.
+Required skills:
+Tensorflow
+Keras
+NLTK
+Spacy
+Python
+Azure Kubernetes
+AzureML
+Databricks
+MLFlow
+Canary testing
+Model monitoring
+Desired Skills:
+Deep understanding of Machine Learning and AI techniques.
+MLOps, experience of deployment processes.
+Experience applying ML to legal documents.
+Strong technical architecture, design, deployment and operational level knowledge of AI platforms, standards, protocols and devices.
+GraphML
+Image recognition.
+Have a positive and solution-oriented mindset.
+Demonstrated ability to adapt to new technologies and learn quickly
+Please note travel could be required with this role within the UK.
+
+About Us
+
+Landmark Information Group holds a wide portfolio of market leading PropTech businesses that span an incredible range of markets and technology platforms across the sector. With well-known application suites, online services and massive national scale property data as well as premier geospatial datasets we are at the forefront of innovation and thought leadership in the industry.
+
+We deliver award-winning solutions to estate agency, conveyancing, surveying, lender valuations, land asset management, environmental consultancy, and Government markets. This is a chance to join the business as we make major steps forward in leveraging the latest cloud and large-scale technologies to start bringing together the entire market to a unified platform.
+
+We are proud to be an equal opportunities employer. We celebrate diversity and are committed to creating an inclusive environment for all employees.
+Seniority Level
+Associate
+Industry
+Information Technology & Services
+Employment Type
+Full-time
+Job Functions
+Engineering Information Technology

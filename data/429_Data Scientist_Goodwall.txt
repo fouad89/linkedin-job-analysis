@@ -1,0 +1,57 @@
+Data Scientist
+Goodwall
+London, England, United Kingdom
+Goodwall (goodwall.io) brings together young people beyond borders and empowers them to reach their full potential and impact society positively. Our global community has grown to 1.6 million+ students and graduates, spanning 150+ countries.
+
+With our HQ in Geneva, Switzerland, we’ve built a remote-first global team of 50+ with almost more passports than people. Goodwall is an award-winning social enterprise featured in the likes of Forbes, the Wall Street Journal and CNN. Strategically and financially backed by leading investors, we’ve raised over €20m in funding.
+
+Your Mission
+
+We’re on the hunt for an amazing Data Scientist to join our team. We’re looking for someone with a growth-hacking mindset and technical expertise, who can help the company make sound decisions by setting up experiments, conducting user and market research, analyzing data, and forwarding sound recommendations to decision-makers. You will champion the interests of our users by balancing quantitative data analysis and qualitative research as you work closely with the global teams of Product, Engineering, Design, Community, and Business to grow our community.
+
+You will be integral in establishing a data-centric and user-centric decision making culture in the organization and help in making sure that everything we do is backed up by data and user research.
+
+Core Responsibilities:
+
+Analyze and report data to make sound product decisions that benefit the members and the business
+Work with the Product and Engineering Teams to setup experiments, analytics and data tracking
+Identify, analyze, and interpret trends or patterns in complex data sets
+Conduct user and market research to understand our target audience and give recommendations to the Product and Business Team as to how we can deliver the most value to our users
+
+Your Profile
+
+A hands-on, Data Scientist who does not need many layers above or below to deliver excellence with the follow attributes:
+
+Bachelor's degree in Computer Science, Engineering, Operations Research, Math, Economics or related discipline
+3+ years of relevant experience as a Data Scientist or similar role. Preferably working in a consumer-centric company in consumer tech, social, or gaming industries.
+Ability to work effectively & independently
+Strong Analytical skills – has ability to start from ambiguous problem statements, identify and access relevant data, make appropriate assumptions, perform insightful analysis and draw conclusion relevant to the business problem
+Strong SQL knowledge and Hands-on experience
+Knowledge of Python or any other scripting language is required.
+Working experience building dashboards and visualizations with BI reporting tools like Tableau, Looker, Data Studio, etc.
+Demonstrated ability to communicate effectively across stakeholder groups
+Passionate about Goodwall’s vision and mission
+Fluent in English is a must
+
+Nice-to-have skills:
+
+Working experience with Product Analytics tools like Mixpanel, Amplitude, etc.
+Strong understanding of Gen Z user behavior on mobile apps
+Experience in a data engineering or software development role
+Experience with data science and machine learning methods
+Experience with handling GDPR compliance to help Product and Legal teams
+
+What we offer
+
+A unique opportunity to build a game-changing product and community for Gen Z.
+A mission that you can be proud of and the ability to have a real impact both on the company and on the future of the next generation
+An international team and challenging, fast-moving environment where change is constant and creativity is celebrated.
+Competitive compensation, equity opportunities, and a flexible work environment with great colleagues.
+Seniority Level
+Director
+Industry
+Internet
+Employment Type
+Full-time
+Job Functions
+Engineering Information Technology

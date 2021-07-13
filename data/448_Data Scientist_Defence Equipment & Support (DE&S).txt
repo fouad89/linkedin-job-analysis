@@ -1,0 +1,61 @@
+Data Scientist
+Defence Equipment & Support (DE&S)
+Bristol, England, United Kingdom
+Posted by
+Omar Khan
+Talent Acquisition Specialist at Defence Equipment & Support (DE&S)
+Send InMail
+This is a standout opportunity to join our MI & Data Analytics community and support one of the most technically complex programmes in Defence.
+
+As a Data Scientist joining the Submarine Delivery Agency, you’ll support our continued journey to transform the usage and quality of data across the organisation, and the overarching MI & Data Analytics strategy.
+
+You’ll work with stakeholders across the organisation to facilitate better decision making through more effective and intuitive use of data. In order to achieve this, you’ll consult with stakeholders to understand their requirements and utilise applications to manipulate data and create compelling, informative data visualisations.
+
+Alongside gaining hands on experience with best-in-class tools and access to continued learning and development opportunities, the work you help to deliver will be integral to national security and the availability of our continuous at-sea deterrent.
+
+Please note, in order to be eligible for this opportunity you most hold sole UK nationality.
+
+This campaign will close at midnight on July 18th. Apply before then to be considered.
+
+
+Responsibilities of the SDA Data Scientist
+
+Gather, analyse, explore and visualise the data to present the ‘story’ of the data in a meaningful way.
+Build credible statistical models from the data and use best coding practices to generate reproducible work.
+Responsible for identifying complex business problems whilst leveraging data value, use an evolving range of data analysis tools.
+Identify patterns and trends to share insights with the team to inform business decisions.
+Validate, store, process and protect data in order to make it reliable, highlighting any discrepancies and ensuring it is accessible to users in a secure authorised way.
+Support the development and application of the data governance processes.
+Advise application development team members on the details of data structures, associated components and methods of extraction.
+Regularly use intellectual curiosity to explore data, models and software applications to support data mining and more efficient data manipulation and visualisation.
+Work collaboratively with team members and actively grow your analytical and data handling knowledge.
+Be an active part of the MI & Data Analytics community, attend meetings and participate in working groups.
+
+
+What you will be assessed against
+
+To be successful with your application you must demonstrate that you meet the following essential criteria:
+
+• Experience of analysis of data, or production of management information in an organisation
+• Hands on experience using a Data Visualisation application such as Foundry, Power BI, Tableau, Cognos, or similar
+• Aspiring Subject Matter Expert (SME)
+
+It would benefit your application if you be able to demonstrate the following desirable criteria:
+
+• SysAdmin experience
+• Demonstrable knowledge of Python / PySpark
+• Demonstrable knowledge of SQL scripting
+• A relevant degree level qualification such as Computer Science, Stats, Maths, etc.
+
+
+What’s in it for you?
+
+You will receive a generous benefits package including market leading employer pension contributions of around 21% of your salary (not including any personal contribution), annual bonuses, a flexible working pattern to fit you where possible, 25 days holiday +1 additional day every year you work up to 30 days with opportunity for movement and promotion. Some of our sites include an onsite gym, onsite restaurants, cafes and much more.
+Seniority Level
+Associate
+Industry
+Defense & Space
+Employment Type
+Full-time
+Job Functions
+Information Technology

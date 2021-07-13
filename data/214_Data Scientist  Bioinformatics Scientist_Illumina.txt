@@ -1,0 +1,71 @@
+Data Scientist  Bioinformatics Scientist
+Illumina
+Cambridge, England, United Kingdom
+Data Scientist/Bioinformatics Scientist - Cambridge – UK
+
+Why Us
+
+Illumina’s mission is to improve human health by unlocking the power of the genome. We produce technology for DNA sequencing and genetic analysis. Our customers use our products to drive advancements in cancer research, diagnosis of rare genetic diseases and other research and clinical applications. A recent example is the global use of our technology in tracking Coronavirus variants during the ongoing pandemic. We are all deeply passionate about what we do, knowing that our work has the power to improve human health and lives across the world.
+
+Why You
+
+The Systems Analysis team in our R&D organisation helps to deliver the highest performance technology that enables our customers to carry out genomics analysis, such as enabling them to detect cancer at low levels or find antibiotic resistant bacteria in environmental samples. In our group we have people from different disciplines, such as physics, genetics, optics and mathematics. On a day-to-day basis we work with large and diverse datasets using existing tools and methods or developing new ones to help solve problems and gain understanding of complex interactions. We have an open and collaborative culture that works closely with scientists from engineering, chemistry and life sciences at our new state-of-the-art facility, just south of Cambridge.
+
+If you want to push boundaries and join a culture fueled by innovation, collaboration and openness, this role could be for you. If you want a brilliant, fast-paced, mission-driven environment, then Illumina is the place for you.
+
+The role
+
+We are looking for people with focus areas in data analysis and statistics, signal processing, image analysis, inference or numerical methods. But enjoying solving problems, having great attention to detail and being comfortable working collaboratively is more important to the role than any specific domain knowledge or expertise.
+
+Responsibilities Will Include
+Communicating and collaborating with scientists from different disciplines across multiple sites
+Analysing, integrating, modelling and interpreting experimental data
+Translating analysis results into practical recommendations for technology development
+Prototyping numerical analysis methods and/or implementing numerical algorithms
+Developing methods for image analysis or signal processing
+Preferred Background, Skills And Experience
+Critical problem solving and analysis of large data sets
+Applied analysis and modelling of physical, chemical or abstract systems
+Application of statistical inference in a research environment; for example, machine learning techniques or Bayesian inference
+Research experience in numerical analysis, image or signal processing
+Scientific software development experience and scripting, for example using Python, R or Matlab; familiarity with C++ or C would be advantageous
+You should have a degree or PhD in natural sciences, engineering, mathematics, computer science, data science, bioinformatics or equivalent experience
+What Can You Expect
+
+With Illumina you can expect a highly competitive salary accompanied by a market leading benefits package. You will be part of the global leader in the Sequencing industry where you will find robust growth opportunities and career development within Illumina.
+
+Our team members are bright, energetic and dedicated - they are the driving force behind our innovation and impact. To attract the best and brightest, we offer a competitive employee benefits program. We view it as a smart investment in our people, one that recognizes the tremendous value they bring to our business every day. At Illumina, we push boundaries. We think beyond the conventional. We dream big. With the energy of so many bright and accomplished people, the opportunities are endless.
+
+INDHP
+
+Data Scientist/Bioinformatics Scientist - Cambridge – UK
+
+Why Us
+
+Illumina’s mission is to improve human health by unlocking the power of the genome. We produce technology for DNA sequencing and genetic analysis. Our customers use our products to drive advancements in cancer research, diagnosis of rare genetic diseases and other research and clinical applications. A recent example is the global use of our technology in tracking Coronavirus variants during the ongoing pandemic. We are all deeply passionate about what we do, knowing that our work has the power to improve human health and lives across the world.
+
+Why You
+
+The Systems Analysis team in our R&D organisation helps to deliver the highest performance technology that enables our customers to carry out genomics analysis, such as enabling them to detect cancer at low levels or find antibiotic resistant bacteria in environmental samples. In our group we have people from different disciplines, such as physics, genetics, optics and mathematics. On a day-to-day basis we work with large and diverse datasets using existing tools and methods or developing new ones to help solve problems and gain understanding of complex interactions. We have an open and collaborative culture that works closely with scientists from engineering, chemistry and life sciences at our new state-of-the-art facility, just south of Cambridge.
+
+If you want to push boundaries and join a culture fueled by innovation, collaboration and openness, this role could be for you. If you want a brilliant, fast-paced, mission-driven environment, then Illumina is the place for you.
+
+The role
+
+We are looking for people with focus areas in data analysis and statistics, signal processing, image analysis, inference or numerical methods. But enjoying solving problems, having great attention to detail and being comfortable working collaboratively is more important to the role than any specific domain knowledge or expertise.
+
+What Can You Expect
+
+With Illumina you can expect a highly competitive salary accompanied by a market leading benefits package. You will be part of the global leader in the Sequencing industry where you will find robust growth opportunities and career development within Illumina.
+
+Our team members are bright, energetic and dedicated - they are the driving force behind our innovation and impact. To attract the best and brightest, we offer a competitive employee benefits program. We view it as a smart investment in our people, one that recognizes the tremendous value they bring to our business every day. At Illumina, we push boundaries. We think beyond the conventional. We dream big. With the energy of so many bright and accomplished people, the opportunities are endless.
+
+INDHP
+
+Illumina believes that everyone has the ability to make an impact, and we are proud to be an equal opportunities employer committed to providing employment opportunity regardless of sex, race, creed, color, gender, religion, marital status, domestic partner status, age, national origin or ancestry, physical or mental disability, medical condition, sexual orientation, pregnancy, military or veteran status, citizenship status, and genetic information.
+Industry
+Biotechnology Research Medical Device
+Employment Type
+Full-time
+Job Functions
+Engineering Information Technology

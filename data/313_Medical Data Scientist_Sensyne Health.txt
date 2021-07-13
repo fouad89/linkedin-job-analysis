@@ -1,0 +1,55 @@
+Medical Data Scientist
+Sensyne Health
+Oxford, England, United Kingdom
+Posted by
+Emily Wilcock
+Senior Talent Business Partner at Sensyne Health
+Send InMail
+About Us
+
+At Sensyne Health we combine technology and ethically sourced patient data to help people everywhere get better care. To do this, we have created a unique partnership with the NHS that delivers a return to our partner Trusts and unlocks the value of clinical data for research while safeguarding patient privacy. Alongside this, we develop clinically validated software applications that create clinician and patient benefit while providing highly curated data. Our products include vital-signs monitoring in hospitals and patient-to-clinician apps to support self-care and remote monitoring of gestational diabetes and chronic diseases such as COPD and heart failure.
+
+The Life Sciences Team
+Sensyne Health are seeking a smart and adaptable Medical Data Scientist to join the Data Science team within our Discovery Sciences function and help the business deliver on our mission to accelerate medical research and improve patient care.
+We are an agile team of Clinically led data science specialists who use our proprietary clinical AI technology to analyse ethically sourced, clinically curated, anonymised patient data to solve serious unmet medical needs across a wide range of therapeutic areas, enabling a new approach to clinical trial design, drug discovery, development and post-marketing surveillance. The nature of our team is collaborative with an emphasis on genuine passion for healthcare.
+Your skills in data wrangling, preparation and analysis, along with your insights on epidemiology studies will enable the team to deliver on our promise of discovering robust clinical insight that will ultimately make a difference to the lives of patients across a range of therapeutic areas.
+We love to work with people who are collaborative and who will proactively seek to share knowledge. Individuals who have the confidence to speak up when needed and the pragmatism to accept compromise. We'll give you the autonomy to do the best thing, not just the easiest thing. We all have a strong sense of team and are able to support those around us whilst keeping moving forward.
+
+How you'll help
+
+Implementing and updating the pipeline for data influx
+Understanding the medical data first-hand and how it can support developing valid clinical insights
+Extensive data cleaning and preparation for downstream analyses
+Modelling data entities for answering research questions
+Designing, carrying out, and interpreting epidemiological studies to address specific clinical questions
+Collaborating with a wide spectrum of professionals in the team: clinicians, data scientists, IT specialists, and Machine Learning
+
+
+
+Requirements
+
+Be passionate about the medical data from collection to interpretation
+MSc in Epidemiology, Healthcare Informatics, or in any field related to Health Data Science
+Conducting epidemiological studies (Prospective/retrospective cohort, case-control studies)
+Familiarity with Electronic Patient Records
+Understanding of Registry Data (e.g. Death, Cancer)
+Understanding of Data from publicly available datasets (e.g. UK Biobank)
+Data cleaning and wrangling
+Application of various statistical techniques to analyse health data (e.g. survival analyses)
+Extensive use of R, familiarity with SQL
+
+Benefits:
+Company share option scheme
+5% employer matched Pension scheme
+BUPA Health Insurance - Spouse and dependent cover available
+Free Gym Membership
+Cycle to work scheme
+A challenging and fun environment that rewards results
+Seniority Level
+Entry level
+Industry
+Biotechnology Research Medical Device
+Employment Type
+Full-time
+Job Functions
+Analyst Science Research

@@ -1,0 +1,33 @@
+Trainee Data Scientist (Russell Group - Kickstarter)
+Gradfuel
+Nottingham, England, United Kingdom
+This is a Kickstarter Scheme position (candidate must be aged between 16-24 and on, or have applied for, Universal Credit).
+
+We are looking for a trainee data scientist to work in our development team to help develop a data architecture encompassing big data, real-time feeds, machine learning and artificial intelligence, which will underpin the data insights and analytics for the company’s new web platform, which will bring together all its existing applications onto one platform. The successful candidate will learn the latest technologies and get the chance to apply them as part of their daily duties.
+
+Requirements
+
+We are looking for a trainee data scientist with a degree in data science, business analytics and/or equivalent computer science degree.
+
+The successful candidate would have a good understanding of
+generating large databases from various structured and unstructured data
+analysing data and generating statistical information to identify trends and patterns
+be able to develop interactive dashboards to visualise data in real-time.
+
+Knowledge of programming languages to transform big data into data sets, and building machine learning and artificial architectures, is also desirable.
+
+Although industrial experience is not a prerequisite we would expect the candidate to be creative, open to new ideas, willing to learn and be able to communicate well.
+
+Benefits
+
+We are a small Nottingham firm with a global client base that has a strong reputation of achievement in the international (re)insurance markets. We have a long-serving team that enjoys the work, is rewarded with good prospects and now wants to expand its capabilities into new markets.
+
+This is a Kickstarter Scheme position (candidate must be aged between 16-24 and on, or have applied for, Universal Credit).
+Seniority Level
+Internship
+Industry
+Marketing & Advertising Internet Staffing & Recruiting
+Employment Type
+Full-time
+Job Functions
+Engineering Information Technology

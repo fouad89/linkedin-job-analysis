@@ -1,0 +1,78 @@
+Data Scientist
+Capital One
+Nottingham, England, United Kingdom
+Nottingham Trent House (95002), United Kingdom, Nottingham, Nottinghamshire
+
+Data Scientist
+
+About This Role
+
+Our Data Science function is a team focused on solving unique business problems, developing insights and driving actions through the analysis of complex data. We are a talented and collaborative team who leverage the skillsets of others to support delivery. For this role, we are particularly interested in seeing candidates who have a passion for the statistical aspects of Data Science.
+
+What You’ll Do
+
+You’ll delve into complex data science challenges through:
+Analysing data, building and maintaining machine learning models which form the heart of the business.
+Using a combination of business acumen, coding and new technologies to navigate through large amounts of data and extract actionable solutions
+Designing and reviewing statistical testing of new products and processes
+Working on cross-functional analytical projects to support critical decisions
+Identifying opportunities to apply data science to drive sustainable growth
+Ongoing development of both technical skills and business knowledge, to encourage innovations in data science
+
+What We’re Looking For
+Undergraduate or Postgraduate qualification in a STEM-related subject or relevant work experience in a similar role.
+A good understanding of probability, statistics and large data set manipulation.
+Experience of coding languages such as R, Python, SQL.
+Ability to communicate findings to a diverse business focused audience, influencing others in both verbal and written form.
+A drive for continued learning through training opportunities and knowledge sharing to develop innovative solutions.
+
+Where and how you'll work
+
+This is a permanent position and will be based in our Nottingham offices.
+
+We're currently working fully remote until 7th September after which time we're adopting a flexible hybrid working model - one that creates the opportunity to work in your own way, but also provides great spaces for in-person collaboration.
+
+Our core in-the-office days are Tuesday to Thursday, but they aren't mandatory - you’ll be led by your team, the type of work you do and of course your preferences.Many of our team have flexible working patterns so we’re open to discuss flexible working arrangements with you.
+
+You can read more about the full announcement from our Founder and CEO Rich Fairbank here:Update on CapitalOne.com
+
+We are committed to creating a level playing field and seek to create teams that are representative of our customers and the communities we serve. We’d love to hear from you if you identify with a typically under-represented group in our industry and are particularly keen to hear from women and ethnic minority candidates.
+
+What’s In It For You
+Bring us all this - and you’ll be handsomely rewarded with a role contributing to the roadmap of an organisation committed to transformation
+We offer high performers strong and diverse career progression, investing heavily in developing great people through our Capital One University training programmes (and appropriate external providers)
+Immediate access to our core benefits including pension scheme, bonus, generous holiday entitlement and private medical insurance – with flexible benefits available including season-ticket loans, cycle to work scheme and enhanced parental leave
+Open-plan workspaces and accessible facilities designed to inspire and support you. Our Nottingham head-office has a fully-serviced gym, subsidised restaurant, mindfulness and music rooms. In London, you can heighten your mood with a run on our rooftop running track or an espresso at the Workshop Coffee café
+
+What You Should Know About How We Recruit
+
+We pride ourselves on hiring the best people, not the same people. Building diverse and inclusive teams is the right thing to do and the smart thing to do. We want to work with top talent: whoever you are, whatever you look like, wherever you come from. We know it’s about what you do, not just what you say. That’s why we make our recruitment process fair and accessible. And we offer benefits that attract people at all ages and stages.
+
+We Have a Whole Host Of Internal Networks And Support Groups You Could Be Involved In, To Name a Few
+
+We also partner with organisations including the Women in Finance and Race At Work Charters, Stonewall and upReach to find people from every walk of life and help them thrive with us.
+REACH – Race Equality and Culture Heritage group focuses on representation, retention and engagement for associates from minority ethnic groups and allies
+OutFront – to provide LGBTQ+ support for all associates
+Mind Your Mind – signposting support and promoting positive mental wellbeing for all
+Women in Tech – promoting an inclusive environment in tech
+EmpowHER - network of female associates and allies focusing on developing future leaders, particularly for female talent in our industry
+
+Capital One is committed to diversity in the workplace.
+
+If you require a reasonable adjustment, please contact ukrecruitment@capitalone.com All information will be kept confidential and will only be used for the purpose of applying a reasonable adjustment.
+
+For technical support or questions about Capital One's recruiting process, please send an email to Careers@capitalone.com
+
+Capital One does not provide, endorse nor guarantee and is not liable for third-party products, services, educational tools or other information available through this site.
+
+Capital One Financial is made up of several different entities. Please note that any position posted in Canada is for Capital One Canada, any position posted in the United Kingdom is for Capital One Europe and any position posted in the Philippines is for Capital One Philippines Service Corp. (COPSSC).
+
+Job Category - Data Science, Product Innovators
+Seniority Level
+Entry level
+Industry
+Information Technology & Services Computer Software Financial Services
+Employment Type
+Full-time
+Job Functions
+Engineering Information Technology

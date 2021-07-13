@@ -1,0 +1,43 @@
+Junior Data Scientist
+Greenlight
+London, England, United Kingdom
+Job purpose
+ As a Junior Data Scientist, you will have an opportunity to excel in complex analytics working with fascinating, audience centric big data. You will be supported in attaining the requisite skills needed and you will be part of a team that builds bespoke data products, deliver analysis and predictive modelling projects for internal and external stakeholders.
+
+Role & responsibility
+ You will have previous experience in working in similar role. You will have hands-on experience of working on data project in digital marketing context. You would have been exposed to various MarTech platforms such us Google GBM, DCM, Ads, DMPs (Lotame, Oracle, Salesforce), Google Analytics, Google Cloud, BigQuery, social media platforms APIs (Facebook, Twitter, Instagram etc.) data visualization platforms (PowerBi, Tableau). Ideally you have a working knowledge and experience working with object-oriented programming languages like R/Python. You would be comfortable with SQL and various DB systems.
+ Data pipelines – helping to build and maintain complex data pipelines running in the cloud.
+Data Wrangling/Cleaning – Retrieval and collection of open and closed data sources, including data processing, cleansing and verification to help power our bespoke reporting platforms and client specific projects
+Data Analysis/Reporting/Visualisation – you will be helping with data analytics coming from various platforms and piecing together a compelling story for internal stakeholders and our clients.
+Automated tests and monitoring - You will help us to keep our systems up to date, accurate and fully working through writing code driven tests and monitoring tools.
+API/Development - Where applicable, work with developers to integrate specialist third party applications.
+Maintenance / Admin – helping to manage day to day operations through maintenance of our development roadmap.
+
+Qualification & skills requirements
+ Good understanding of statistics
+Experience with Python or R (R preferred)
+Understanding and working knowledge of SQL
+Bachelor’s degree in Computer Science, Mathematics or equivalent quantitative discipline ideal but not necessary
+Show a highly committed attitude
+Must have good analytical skills, methodical, accurate and show great attention to detail
+Communicates in clear and concise manner both written and verbal
+Must be flexible/adaptable to change
+
+What you’ll get
+ Our people make us who we are, so to make sure we attract and retain the best and brightest in the industry, we offer an attractive benefits package. Of course, we offer the usual perks you would expect from a leading agency (stylish office, tick! Pool table, tick! Friday beers, tick! Daily breakfast and fruit, tick!). But not only that, there’s a whole host of benefits – from discounted gym memberships and free eye tests to an employee pension scheme and enhanced maternity, paternity and adoption package. Here’s a snapshot of just some of the benefits we think you might also like:
+ Dynamic working: To keep that work-life harmony in check, we're flexible on where and when you work
+Above-statutory employer’s pension contribution: It matters, so we make sure it’s done properly (4% contribution)
+Private medical insurance: To keep you fighting fit and give you and your family peace of mind
+Life assurance and income protection: We know it feels good to be covered, just in case
+Calm Subscription: Now more than ever, it’s important to mind your mind!
+Perkbox: An employee benefits platform choc-a-block with discounts
+25 days annual leave: This increases to 27 days after three years with us, and then increases every subsequent year up to a max. of 30 days
+Christmas closure: No need to save holiday days for the Christmas closure period. It's on us!
+Seniority Level
+Entry level
+Industry
+Internet Marketing & Advertising
+Employment Type
+Full-time
+Job Functions
+Analyst

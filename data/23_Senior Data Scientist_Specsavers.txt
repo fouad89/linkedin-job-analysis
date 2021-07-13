@@ -1,0 +1,49 @@
+Senior Data Scientist
+Specsavers
+Whiteley, England, United Kingdom
+.
+
+Senior Data Scientist
+
+At Specsavers over the last three decades our purpose hasn’t changed: we are here to make a positive difference to the lives of all.  Through the exceptional products, services, and value we offer, this is what sets us apart. We are proud of how far we’ve come as a business, now we want to see you grow with us. We promise to make you feel good, smart and cared for. To support this promise we offer competitive salaries, pension scheme, medical and dental care including a range of added benefits that make Specsavers a great place to work.
+
+Role Overview:
+
+We have an exciting opportunity for a Data Scientist to work as part of the Global Data team to build machine learning solutions for business functions across Specsavers. You will be a strategic partner, working with stakeholders and collaborating with other team members to deliver business benefit through machine learning and data science. You will also guide more junior team members to help them develop their skills and deliver great data science products for Specsavers’ customers and staff.
+
+This will include:
+
+Building, automating, monitoring, and improving machine learning models that drive value in the business
+Build strong relationships with Specsavers business functions globally to understand their business questions and challenges, and help them get the value from data
+Delivering and presenting analytical outputs to the business in a way that they can clearly convey complex information and articulates the commercial benefits and value to stakeholders.
+Facilitating the business adoption for relying on machine learning and using data to drive decision making.
+Collaborating with other data scientists in code reviews and hackathons to innovate and strive for best practise
+Collaborating within the Data Team and Technology where required for the successful end-to-end delivery of analytics solutions.
+Contributing towards enhancing the Global Data Team’s impact across Specsavers and support the growth of the Specsavers analytics community’s expertise.
+
+
+To be Successful, you will require:
+
+Proficient in using data science and analytics techniques and tools including
+SQL
+Python (pyspark desirable)
+Data Mining
+Machine Learning
+Experience in building and deploying machine learning models in a cloud environment, ideally Microsoft Azure
+Experience manipulating and cleansing large datasets.
+Experience delivering descriptive and/or predictive analytics solutions to create actionable insight and drive business benefit.
+Able to convey complex analytical outputs to non-analytical audiences in a succinct and accessible form.
+A collaborative approach to working, with good relationship building and stakeholder management skills.
+Experience with applying data science to healthcare or customer behaviour (e.g. retail, travel sectors)
+
+
+We can consider homeworking with travel to our Whiteley office as and when required post Covid-19. Happy to discuss Remote Working!!!
+
+Seniority Level
+Mid-Senior level
+Industry
+Information Technology & Services Computer Software Market Research
+Employment Type
+Full-time
+Job Functions
+Analyst Information Technology Marketing

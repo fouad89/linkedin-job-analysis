@@ -1,0 +1,65 @@
+Data Scientist
+Cleo
+London, England, United Kingdom
+Posted by
+Aaron Smith
+Talent Acquisition @ Cleo AI 🚀
+Send InMail
+Meet Cleo
+
+Cleo was created to fight for the world's financial health.
+
+Already, she’s helped 3 million people improve their relationship with money through simplicity and a sense of humour.
+
+Cleo’s not a bank though. She’s an interface for the 99% – an AI assistant defining a new category, one that goes beyond saving up to actually changing how we feel about our finances.
+
+Through chat, Cleo hits you with ridiculously personal insights into your spending, while suggesting personalised financial products that increase your ability to save. But really, it’s our tone of voice that sets us apart.
+
+We’re a product for the next generation. That means meeting our users where they are and building the type of relationship they expect. It also means dropping the BS.
+
+Watch this to dive a little deeper
+
+The team
+
+You’ll join the existing data science function here at Cleo; a hotshot team of six dedicated data scientists with significant industry experience that is at the heart of everything we do at Cleo. You’ll build and deploy in-production models that developers will feed directly into the product.
+
+This position is essential in the expansion of both product and business. We are highly data driven, whether that be understanding natural language, deriving insights from financial data, or determining which financial product is best suited to a user. We have interesting problems to solve on an ever-increasing scale
+
+What You’ll Be Doing
+Improving our current machine learning models in credit risk, income classification and fraud
+Actively building and productionising classifiers - no dependencies on engineering teams
+A wide range of ML tasks: classification, recommender systems, NLP
+Conducting regular A/B tests across the journey of a Cleo user
+Building models of user-segmentation, marketing attribution, customer lifetime value etc.
+Working closely with engineers to make sure we collect the right data to produce relevant business insights
+
+
+About You
+At least 2 years of experience in data science or related roles
+Ability to write production quality code in Python and SQL
+Experience deploying machine learning / deep learning algorithms into production
+Experience conducting large scale A/B experiments
+Experience working with AWS technologies such as EC2, S3, Sagemaker
+A strong ability to communicate findings to non-technical stakeholders in a concise and engaging manner
+
+Nice to have
+Experience with containers and container orchestration: Kubernetes, Docker, and/or Mesos, including lifecycle management of containers
+Experience with NLP methods a plus
+
+What do you get for all your hard work?
+
+Cleo Is An Excellent Place To Work
+An above market compensation package (Base + Equity). You can view our salary bandings & career progression framework for Data here. This role would be from DS2 to DS3 depending on experience - we can pay between £45,000-£79,000.
+The team is exceptional. You'll get to work with brilliantly forward-thinking and dedicated individuals every day
+Our mission is standout. We want to radically improve everyone’s relationship with money. We're not maximising the time consumers spend in a feed, getting fast food delivered, or building an incrementally better bank. We're changing an industry in a visceral way, which you get to see every day in our customer feedback.
+
+We are committed to making Cleo a more diverse and inclusive workplace. We are making continuous changes in order to make sure that all voices, especially those of minorities are heard, supported and celebrated. Our work doesn't stop at hiring, and we are providing every employee with training, support and development throughout their Cleo career, alongside training specific to inclusivity.
+
+Seniority Level
+Entry level
+Industry
+Computer Software Internet Financial Services
+Employment Type
+Full-time
+Job Functions
+Engineering Information Technology

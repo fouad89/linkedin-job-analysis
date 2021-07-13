@@ -1,0 +1,50 @@
+Junior Data Engineer
+Agilisys
+United Kingdom
+Posted by
+Alex Yeates
+Talent Acquisition Lead at Agilisys
+Send InMail
+Role Description
+In your role as a Juinor Data Engineer, you will be at the leading edge of data and insight transformation in local government and the wider public sector.
+
+Agilisys has set a clear ambition to become the number one provider of data and insight services to the UK public sector. Our rapidly expanding team blends huge knowledge of data and insight with a deep understanding of public sector clients’ needs and values. Collectively, our team has many decades of experience working in and with the sector, and we have united that knowledge and affinity with best-in-class data architecture, platform engineering and business intelligence. We lead with people and culture, because this is what leads to lasting change – not least because only an organisation that can use data effectively is able to unlock the promise of technology.
+
+You will be responsible for helping to build, deliver, expand and optimisee our suite of data platform and engineering services. You will lead on data development and management, and will support our data architects to design, build, optimise and manage data platforms, and to set up and configure components within client and internal architectures.
+
+This role will involve working with data architects, developers, and data analysts on data initiatives, and will be central to the design and deployment of data services to our clients. You will be self-directed and comfortable supporting the needs of multiple teams, systems and products.
+Whatever your core skills, we will develop your capabilities to allow you to provide deep support to clients in these areas to enable them to meet the future expectations of their customer/citizens, particularly in a more digital world.
+ Key Responsibilities:
+Assemble large, complex data sets that meet functional/non-functional business requirements.
+Identify, design, and implement internal process improvements: automating manual processes, optimising data delivery, where necessary supporting the redesign of infrastructure for greater scalability, etc.
+Help to build infrastructure required for optimal extraction, transformation, and
+loading of data from a wide variety of data sources using SQL and AWS ‘big data’
+technologies.
+Build analytics tools that utilise the data pipeline to provide actionable insights into financial management, operational efficiency, and other key business performance metrics.
+Work with stakeholders including the Executive, Product, Data and Design teams to assist with data-related technical issues and support their data platform infrastructure needs.
+Keep our data separated and secure across national boundaries through multiple cloud regions, while safeguarding our clients’ data at rest and in transit.
+Develop deep expertise in typical client data-related activities such as statutory returns, subject access requests and the use of standard reporting suites, using your knowledge to structure plans and solutions for our clients.
+Analyse the quality of data, establishing rules to determine and improve it, and planning, delivering and overseeing cleansing activities as required.
+Plan and undertake quantitative research to baseline, track and evaluate services and the impact of proposed and actual change.
+Produce briefing notes, reports and other written outputs relating to the content, structure and quality of data.
+Keep our data separated and secure across national boundaries through multiple cloud regions.
+Create data tools for analytics and data scientist team members that assist them in building and optimising our full suite of data and insight products and services.
+Work with data and analytics experts to strive for greater functionality in our data platform.
+
+What we are looking for:
+An academic background in a relevant subject or same amount of work experience
+Some analytical skills in working with structured and unstructured datasets, manipulating data to extract and visualise insight, using primarily Excel and Power BI
+Knowledge working with cloud data services, primarily Azure
+Knowledge of SQL and experience working with relational databases and query authoring (such as T-SQL)
+Knowledge with Azure PaaS, Azure Synapse, Power BI, DataBricks, data lakes, Azure Data Factory and/or Polybase
+Nice to haves:
+Experience with relational SQL and NoSQL databases, including Postgres and Cassandra.
+Experience with AWS cloud services: EC2, EMR, RDS, Redshift.
+Seniority Level
+Associate
+Industry
+Information Technology & Services
+Employment Type
+Full-time
+Job Functions
+Information Technology

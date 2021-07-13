@@ -1,0 +1,39 @@
+Lead Data Scientist
+Guardian Jobs
+London, England, United Kingdom
+Top media company.
+Working with global brands on a wide range of use cases.
+Central London office with good remote working options.
+Would you like to join an innovative company, using cutting-edge technology and working with household name brands? If that sounds like the role for you, I'm currently working with a media company who'd be keen to speak with you.
+
+What You'll Be Doing
+
+You will lead the team Data Science team in a leading company investing heavily into the data function. Working with other senior leaders you’ll play a major role in the development and direction of their growing team. Focussing primarily on customer data you’ll lead projects like recommendation systems, customer segmentation, single customer view and more.
+
+What Experience You'll Need To Apply
+
+A MSc/PhD in a STEM or Technology related field (Maths, Computer Science, Engineering, Physics etc.)
+
+experience in Python (using libraries like Pandas, Numpy and Scikit-learn), Tensorflow, Keras and other deep learning frameworks.
+
+Cloud computing experience with either Azure, AWS or GCP.
+
+Communication skills will be vital as you’ll be dealing with internal and external stakeholders regularly.
+
+Experience managing and mentoring junior members of the team.
+
+What You'll Get In Return For Your Experience
+
+The salary on this is up to £95K (depending on experience) as well as the chance to join an exciting media company working with state-of-the-art technologies. They also offer a generous benefits package including; good work/life balance, high street discounts, healthcare and dental plan and more.
+
+What next?
+
+If this sounds like the role for you, get in touch with Adam with your updated CV and we’ll handle the rest.
+Seniority Level
+Associate
+Industry
+Staffing & Recruiting
+Employment Type
+Full-time
+Job Functions
+Engineering Information Technology

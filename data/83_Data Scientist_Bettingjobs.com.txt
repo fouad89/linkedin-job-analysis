@@ -1,0 +1,35 @@
+Data Scientist
+Bettingjobs.com
+Edinburgh, Scotland, United Kingdom
+Posted by
+Stuart Armstrong
+Recruitment Consultant at bettingjobs.com
+Send InMail
+As Data Scientist you will extracting, analysing and interpreting large amounts of data using algorithmic, data mining, artificial intelligence and statistical tools, in order to make it accessible to businesses. You will be responsible for business analytics, be involved in building data products and software platforms, along with developing visualizations and machine learning algorithms. 
+ Mandatory skills and requirements:
+• Degree in Computer Science, Software Engineering, Applied Mathematics, or any quantitative field
+• Experience with open source statistical languages and packages, preferably R/Python.
+• Experience working with relational databases and SQL
+• Familiarity with visualization software and techniques (e.g. Tableau)
+• Understanding of, and interest in, AI and machine learning methods and algorithms, e.g., gradient-based optimization and neural networks
+• Fluent working proficiency in English;
+• Ability to set priorities, take responsibility and manage tasks independently;
+• Attention to detail;
+• Exceptional analytical skills;
+• Exceptional communication skills
+• Smart and keen to learn – that’s during the whole employment period.
+
+Tasks:
+• Perform analysis on large sets of data to extract impactful insights on user behaviour that will help drive product, marketing and customer experience decisions
+• Construct analytical models and tools to predict future customer behaviour
+• Apply machine learning and statistics to analyse and solve customer and product-based challenges
+• Work closely with DWH team on getting data and features for research and feeding models as well as storing scores/segments produced by models
+• Contribute to AI/ML stack and architecture development 
+Seniority Level
+Associate
+Industry
+Gambling & Casinos
+Employment Type
+Full-time
+Job Functions
+Research Analyst Information Technology

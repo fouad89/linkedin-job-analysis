@@ -1,0 +1,50 @@
+Senior Machine Learning Engineer – Data Platform Team (Bangkok based, relocation provided)
+Agoda
+Edinburgh, Scotland, United Kingdom
+About Agoda
+
+Agoda is an online travel booking platform for accommodations, flights, and more. We build and deploy cutting-edge technology that connects travelers with more than 2.5 million accommodations globally. Based in Asia and part of Booking Holdings, our 4,000+ employees representing 90+ nationalities foster a work environment rich in diversity, creativity, and collaboration. We innovate through a culture of experimentation and ownership, enhancing the ability for our customers to experience the world.
+
+Get to Know Our Team
+
+The Data department oversees all of Agoda’s data-related requirements. Our ultimate goal is to enable and increase the use of data in the company through creative approaches and the implementation of powerful resources such as operational and analytical databases, queue systems, BI tools, and data science technology. We hire the brightest minds from around the world to take on this challenge and equip them with the knowledge and tools that contribute to their personal growth and success while supporting our company’s culture of diversity and experimentation. The role the Data team plays at Agoda is critical as business users, product managers, engineers, and many others rely on us to empower their decision making. We are equally dedicated to our customers by improving their search experience with faster results and protecting them from any fraudulent activities. Data is interesting only when you have enough of it, and we have plenty. This is what drives up the challenge as part of the Data department, but also the reward.
+
+The Opportunity
+
+As part of a Machine Learning – Data Platform team, you participate in building large scale ML backed solution to drive the business forward. You will split your time between working on our offline environment, where you will build Spark Jobs running on our Hadoop clusters Or on GPUs, and our Online environment, where dozens of models are predicting more than 1B predictions per day in a multi-DC, low latency environment.
+
+In This Role, You’ll Get to
+Work alongside experienced engineers, data scientists and product owners to identify business opportunities, design and create new data pipelines from scratch, all the way to deploying them to production
+Develop solutions for real world, large scale problems
+Participate in cutting edge research in machine learning applications
+Improve scalability, speed and performance of existing models
+Contribute to the full life cycle of ML models – data analysis, modeling, tuning & productization
+What You’ll Need To Succeed
+5+ years of industry experience, including software development experience
+Experience in one or more object-oriented languages, including Scala, Python, Java or C++
+Experience working in an agile environment using test driven methodologies
+Adherence to data driven development where decisions are based on data and A/B experimentation
+Desire to learn the details of advance machine learning algorithms
+It’s Great If You Have
+Work or educational experience in Machine Learning or Artificial Intelligence
+Experience working with Apache Spark, Tensorflow, Caffe, Torch, Theano, or Scikit-Learn
+Experience building large-scale distributed products
+Passionate about functional programming
+#sydney #melbourne #perth #paris #london #tokyo #dhaka #vienna #edinburgh #liverpool #manchester #amsterdam #munich #berlin #toronto #vancouver #moscow #dublin #seoul #hcmc #telaviv #taipei #ENG #IT #4
+
+Equal Opportunity Employer
+
+At Agoda, we pride ourselves on being a company represented by people of all different backgrounds and orientations. We prioritize attracting diverse talent and cultivating an inclusive environment that encourages collaboration and innovation. Employment at Agoda is based solely on a person’s merit and qualifications. We are committed to providing equal employment opportunity regardless of sex, age, race, color, national origin, religion, marital status, pregnancy, sexual orientation, gender identity, disability, citizenship, veteran or military status, and other legally protected characteristics.
+
+We will keep your application on file so that we can consider you for future vacancies and you can always ask to have your details removed from the file. For more details please read our privacy policy .
+
+To all recruitment agencies: Agoda does not accept third party resumes. Please do not send resumes to our jobs alias, Agoda employees or any other organization location. Agoda is not responsible for any fees related to unsolicited resumes.
+
+Seniority Level
+Mid-Senior level
+Industry
+Internet
+Employment Type
+Full-time
+Job Functions
+Engineering Information Technology

@@ -1,0 +1,52 @@
+Data Science Developer
+tlmNexus Ltd
+Brighton, England, United Kingdom
+Job Title:           Data Science Developer
+Location:          Brighton with travel to customer sites across the UK, may consider remote working
+Reporting to:   Technical Lead, Evolution
+Hours:               37.5 hours per week, Monday to Friday, which are to be completed at employee                           discretion whilst observing the core hours of 10:00am to 12:00pm and 2:00pm to                           4:00pm
+Salary: £30,000 - £40,000 dependent on experience
+ ﻿Job Purpose:
+ The Data Science Developer role is one of software developer with a specialisation in data science and data visualisation. The developer will typically work as a member of a cross discipline team that would include other developers, analysts and testers.
+ The developer will be required to work on a variety of projects ranging in size from small R&D projects, proof of concepts, demonstrations to fully mature products.
+ The developer will take the lead when it comes to designing data models and visualisations and be prepared to mentor and inspire other developers with the techniques used.
+  
+Responsibilities:
+ Work with stakeholders to identify opportunities for leveraging customer data to add value to products and services.
+Design, build, test and maintain data models and algorithms.
+Design effective data visualisations that add value for the end user.
+Grow the appreciation of data science and data visualisation within the company.
+  
+Person Specification
+
+Essential Experience, Knowledge and Skills
+ Strong programming experience in Python, C# and .NET.
+An understanding of data science, statistics and probability.
+Experience in developing machine learning models using either Python, cloud services or C#.
+Experience in developing reports and other data visualisations using a variety of technologies that could pull in data from a variety of sources.
+Able to work autonomously and be self-motivated, with a positive attitude and an adaptable approach.
+Able to communicate ideas effectively e.g. presentations, demonstrations and mentoring other developers and testers.
+A higher education qualification in Computing, Computer Science, Data Science or similar.
+Must be able to achieve Security Clearance (SC) status.
+ Desirable Experience, Knowledge and Skills
+ Agile, Lean and/or Six Sigma experience
+Warehousing and ETL
+Microsoft MVC
+Microsoft Entity Framework
+Experience with relational databases e.g. SQL Server.
+No SQL databases e.g. MongoDB
+Azure – machine learning services
+ML.NET
+Python Machine learning packages such as Numpy, Pandas, SciKit-learn, Tensorflow.
+Experience in using a BI system such as Power BI, Tableau or similar
+Git
+Containerisation e.g. Docker, Kubernetes.
+Experience of working on defence-related projects.
+  Seniority Level
+Mid-Senior level
+Industry
+Defense & Space
+Employment Type
+Full-time
+Job Functions
+Information Technology

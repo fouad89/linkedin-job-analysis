@@ -1,4 +1,5 @@
 Senior Data Engineer
+
 Apex Systems
 Ireland
 Posted by
@@ -11,6 +12,7 @@ Duration: 6 months rolling project
 
 
 Key Requirements
+
 Senior level SQL experience – database design
 Object oriented programming in Python, Go, Java, C++, or other similar language
 Strong algorithm / data structures experience

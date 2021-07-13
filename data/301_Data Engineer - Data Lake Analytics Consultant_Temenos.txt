@@ -1,0 +1,68 @@
+Data Engineer - Data Lake Analytics Consultant
+Temenos
+London, England, United Kingdom
+About Temenos
+
+We’re passionate about helping banks to perform better, so we solely focus on creating banking software. Temenos offers cloud-native, cloud-agnostic, API-first digital banking, core banking, payments, fund management, and wealth management software products, enabling banks to deliver consistent, frictionless customer journeys and achieve market-leading cost/income performance. Our products combine the richest end-to-end packaged country model bank functionality and the most advanced technology, helping our clients go-live faster, giving them the freedom to innovate and deliver personalized experiences.
+We are technology first, with 700+ published APIs, we partner with 100+ Fintechs in our marketplace. We have been recognized year after year by Gartner, IBS, and Forrester for our award-winning solutions.
+Temenos is the 4th largest European Software company, with over 3000 clients in 150 countries. We are proud of our 7500+ Temenosians working across the globe to make banking better!
+
+THE ROLE
+
+The Technical Consultant focused on Temenos Analytics /Data Lake suit exclusively developed for banks - must apply advanced analysis skills and technical experience in implementing system on the client site. He/she must have current experience with implementation of Banking Analytics solutions.
+
+Key Responsibilities
+
+Provide detailed technical work on Data Lake projects being implemented.
+Typically the jobholder be working either remotely or on customer sites as part of the Data Lake implementation process.
+
+
+
+Skills & Experience
+
+Enterprise-scale technical experience with cloud and hybrid infrastructures, architecture designs, database migrations, and technology management.
+Deep knowledge using relational databases MS SQL, Azure SQL.
+Data Governance.
+Advanced Analytics (SQL DW with Star Schema).
+Reporting and Data Visualisation using tools like PowerBI.
+Knowledge about Apache Spark, Kafka and/or Kinesis, Azure Events Hub.
+Expertise in HDInsight, Hadoop, Cloudera.
+The technical aptitude and experience to learn new technologies and understand the relevant cloud/on-prem trend required.
+Excellent attention to detail.
+Independent problem solver.
+Excellent written and verbal communication skills.
+Willing to travel from Mon-Friday within Europe.
+SQL including OSS (Postgres, MySQL etc).
+NoSQL Databases including OSS (Maria, Mongo etc), Cosmos DB.
+Big Data including SQL DW, Snowflake, Big Query, Redshift.
+Working knowledge of other data integration tools like SSIS or Azure Data Factory is beneficial.
+Working knowledge of Linux is beneficial.
+Data Science.
+Competitive Landscape: Knowledge of cloud development platforms preferred.
+Linear Algebra knowledge.
+Machine learning.
+Scala, Python, Java.
+
+
+WHY TEMENOS
+
+You will work at the cutting edge of technology innovation; we challenge the status quo and are transforming banking every day.
+You will experience in a fast-paced environment, ambitious team; we look forwards and continuously strive to be the best.
+You will be part of a team that values integrity; we support each other and keep our promises.
+You will be able to work freely, flexibly and true to your authentic self; we champion diversity.
+You will be joining a global and diverse family that works together through the good times and bad; we care deeply about each other and our clients.
+You will experience what we call – Temenosity!
+
+
+We value applications from people from all walks of life; if you are excited to be part of our journey and want to make a real impact, we would love to hear from you.
+
+Please make sure to read our Recruitment Privacy Policy
+
+Seniority Level
+Mid-Senior level
+Industry
+Information Technology & Services Computer Software Financial Services
+Employment Type
+Full-time
+Job Functions
+Information Technology

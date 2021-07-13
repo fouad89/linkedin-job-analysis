@@ -1,0 +1,31 @@
+Machine Learning Lead
+Monzo Bank
+London, England, United Kingdom
+We're excited to be looking for a Lead Machine Learning Scientist to help build the bank of the future. You'll have the opportunity to lead the adoption and delivery of machine learning systems across entire areas of Monzo, working at the intersection of Data Science and Engineering, helping us to identify the best opportunities to pursue, and leading the specialist team.
+The role
+
+As Part Of This Role You'll
+Be a key leader in building Machine Learning as a discipline; you will manage exceptional Machine Learning Scientists and help their career progression and development
+Establish yourself as a trusted partner to leadership teams and build a strategic understanding of the business - while structuring complex projects to bring them to life, be it either hands-on or by leading others
+Work with our Machine Learning Scientists and Backend Engineers to ensure that we capture the right data and build our systems with rigour
+Be able to work on all aspects of machine learning as we operate as one team
+
+You'll be embedded within our broader Data Science discipline at Monzo and our mission is to Enable Monzo to Make Better Decisions, Faster.
+
+We have a strong culture of data-driven decision making across the whole company. And we're great believers in powerful, real-time analytics and empowerment of the wider business. We empower Machine Learning Scientists to work across the entire lifecycle of their models, including shipping the models they train into production.
+
+We work across the entire company: Machine Learning Scientists alternate between working closely with cross-functional squads and investigating early ideas within the central machine learning team, all while being embedded into the broader Data Science discipline.
+Logistics
+We can help you relocate to London & we can sponsor visas.
+This role can be based in our London office or remotely within the UK
+We offer flexible working hours and trust you to work enough hours to do your job well, at times that suit you and your team.
+Diversity and inclusion is a priority for us – if we want to solve problems for people around the world, our team has to represent our customers. So we need to attract the best talent and create an environment that supports and includes them. You can read more about diversity and inclusion on our blog
+The application process consists of a 30 min phone call with a recruiter, an initial call with someone from the team, followed by a practical written exercise and 2-3 video interviews. We promise not to ask you any brain teasers or trick questions.
+Seniority Level
+Associate
+Industry
+Information Technology & Services Computer Software Financial Services
+Employment Type
+Full-time
+Job Functions
+Engineering Information Technology

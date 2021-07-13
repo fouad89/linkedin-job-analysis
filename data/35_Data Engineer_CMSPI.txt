@@ -1,0 +1,62 @@
+Data Engineer
+CMSPI
+Manchester Area, United Kingdom
+Posted by
+Shahrzad Flanagan
+Global Talent Manager at CMSPI
+Send InMail
+ROLE: Data Engineer
+REPORTING TO: Head of Data
+LOCATION: Role based in Manchester, UK, with the flexibility to work from home.
+
+This is a brand new opportunity to join one of CMSPI's fastest-growing teams. We have made tremendous steps towards recognising the power of data across our company. As an organisation, our key differentiator is the independent analytics that we use to help our clients transform the payments experience of their customers. We know our greatest asset is our data, but there is so much more we could be doing! Which is where we are hoping you come in…
+
+We are looking for a talented Data Engineer, someone who is passionate about data and insights is a creative problem solver and wants to lead from the front in aligning our data systems with business goals. The successful candidate will have the opportunity to build products that are revolutionary, using the data we have access to and instrumental in architecting the data models that fuel our products around cost, approvals, and fraud. As our next Data Engineer, you will be vital in expanding our relationship network to increase our data and ultimately engineer and sustain the future of our long-term business.
+
+You will be based out of our office in Manchester, England and work closely with our data team and the wider business based out of Atlanta and Singapore. Normal working hours will be 9 am - 5 pm Monday to Friday, however, working outside these hours may be necessary at times. 
+
+What you will be doing...
+Our next Data Engineer will use various methods to transform raw data into useful data systems, develop and maintain datasets and strive to improve data quality and efficiency by aligning our data systems with business goals. You will be involved in, and take ownership of, the following activities:
+Collaborate with data scientists on several projects and product managers across the business to deliver data-driven solutions
+Analyse and organise raw data and use various methods to transform raw data into useful data systems
+Building of ETL pipelines
+Conduct complex data analysis and be able to explain complex technical concepts to management
+Prepare data for prescriptive and predictive models
+Build algorithms and prototypes
+Combine raw information from different sources for example FTP server, websites, API etc. 
+Explore ways to enhance data quality and reliability and identify opportunities for data acquisition
+Develop analytical tools and programs
+
+What we are looking for...
+REQUIRED
+Educated to degree level with a minimum 2:1 in Computer Science, IT, Mathematics, or relevant analytical field.
+1+ years previous experience as a Data Engineer
+Knowledge of programming languages; Python, SQL
+Excellent numerical and analytical skills
+HIGHLY DESIRABLE 
+Knowledge of programming languages; Scala, Spark
+Experience with Azure Data factory and Databricks
+Engineering big data for machine learning
+Master’s degree in computer science, IT, Mathematics, or relevant analytical field
+Data engineering certification (e.g. IBM certified Data Engineer or Azure Certified Big Data)
+
+What we can offer you...
+Very competitive annual company bonus
+Very generous non-contributory pension plan
+Private healthcare including discounted gym membership and many other rewards
+22 days holiday + Office shutdown over Christmas
+Flexibility to work from home plus flexi-time hours post probation
+Quarterly employee awards
+Discretionary awarding of company share option scheme
+Cycle to work scheme post probation
+Company laptop plus all the latest tech
+Regular team-building and social events - currently all virtual!
+6-months payments industry training plus contributions made to external training & development
+Seniority Level
+Mid-Senior level
+Industry
+Management Consulting
+Employment Type
+Full-time
+Job Functions
+Information Technology

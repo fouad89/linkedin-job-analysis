@@ -1,0 +1,62 @@
+Data Scientist
+Acolyte Resource Group
+London, England, United Kingdom
+Company: Schroders
+Role: Client Insights Unit - Data Scientist
+Location: London
+
+Team Description
+This is a data science role embedded within the Client Insights Unit (CIU) although the role forms part of the wider Data Insights Unit (DIU). The DIU uses data science skills and technologies to unlock the value in data for decision-making and is primarily focused on supporting Investment desks, however, in order to support and nurture a community of data scientists within Schroders, some DIU members are embedded in other functions within the business.
+ The Client Insights Unit (CIU) is a business facing team embedded within the Distribution division, located primarily in London, but serving a diverse and global set of stakeholders at all levels right across Distribution and Marketing. The team is responsible for designing and developing a series scalable tools and widgets to generate and deliver insights into the hands of sales staff, relationship managers and marketing practitioners. This encompasses everything from running data science research projects, to developing proof of concepts, building scalable, automated solutions, and integrating these into the day to day lives of users.
+ Overview of role
+This role will be focused on the recently formed CIU Data Science team. The team is essentially acting as the bridge between the business and the data.
+ The Data Scientist will engage with internal customers, understand their needs and deliver insights to shape their actions. These will take the form of analysis reports and presentations, the creation of models, prototypes and dashboards using a variety of tools and involvement in the creation of other enabling analyses and tool sets including predictive models. Naturally, this requires a blend of skills including data analysis and statistics as well as communication and business experience.
+ Your day-to-day priorities will be defined by the CIU Data Science Manager, providing a clear picture of where most business value can be created. You’ll be in close collaboration with the DIU, which can provide mentorship and support on technical areas of the role as well as connecting you to the wider data science community in Schroders.
+ Responsibilities
+1.  Exploration of new and existing data sets
+2.  Application of data science techniques to solve stakeholders questions or create actionable insights for sales and marketing
+3.  Delivery of outcomes and recommendations supporting them using a variety of formats such as documents, dashboards, presentations, etc.
+4.  Contributing towards the creation of a set of tools, techniques and practices that maximise the impact and efficiency of the team in…
+turning raw data into useful and analysable derived data sets, and
+developing re-usable analytical and visualisation methods
+5.  Work with the DIU, CIU Data Science Engineers, and IT to develop and enhance the technical tools including steering the development of the analytics data warehouse for enterprise data, and interconnections with various internal data systems.
+6.  Sharing data science knowledge to the wider DIU and Distribution Functions. 
+ Ideal Profile
+·   An interest in investment or finance.
+·   Has a natural flair for insightful analysis.
+·   Passionate to provide insight and clear information to others so they can make better decisions.
+·   Experience working in a data science function within a B2B environment.
+·   Experience in CRM systems such as Salesforce.
+·   Fascinated by the problem of how to make analysis useful and actionable.
+·   Ability to perform and discuss a number of technical information /statistical techniques to a variety of audiences.
+ Skills / Experience
+Desired Technical Skills
+·   Strength in Maths, Statistics and the craft of creating forecasts that non-technical stakeholders can act upon.
+·   Predictive analysis, machine learning/modelling experience (supervised and unsupervised techniques for regression/classification/exploration)
+·   Excellent data cleaning and processing skills
+·   Programming in Python and SQL
+·   Effective communication of outcomes, including visualisation and presentation skills.
+Desired Business Skills
+·    Creativity and problem solving
+·    Commercial focus
+·    Pragmatic, action-oriented
+Useful
+·    Relevant degree subject (e.g. Statistics, OR, Data Science, any Science)
+·    Experience with scalable data analysis
+·    Asset Management / Investment practices
+·    Specific experience with CRM (Salesforce), Sales Teams and Digital analytics 
+ Team Culture
+As a Data Scientist in Schroders, you will also be part of the Data Insights Unit, which is a friendly, lively and exciting team of over 25 data professionals, and welcomes applications from a diverse range of people at all levels of hiring. Schroders supports flexible working practices, including modern technology for remote working. As such we offer a friendly and welcoming home for people with various home/family arrangements.
+
+The DIU consciously adopts a strengths-based style of personal development. We strive to understand people’s motivations and strengths and orient their roles to play to these. This applies to their immediate role and as part of their ongoing career development into future roles.
+Schroders offers exceptional benefits, including excellent pension and flexible benefits worth roughly 25% of base salary in total. In addition all team members benefit from Schroders’ bonus scheme. In this, bonus is shared out across the DIU team with far more weight on team performance than individual performance – we all succeed as a team, and so we share in the rewards as a team.
+
+Schroders is an equal opportunities employer and welcomes applications regardless of sex, marital status, ethnic origin, sexual orientation, religious belief or age.
+  Seniority Level
+Mid-Senior level
+Industry
+Financial Services
+Employment Type
+Full-time
+Job Functions
+Consulting Finance Other

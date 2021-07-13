@@ -1,0 +1,67 @@
+Data Scientist - GCS Digital Engagement
+AVEVA
+Cambridgeshire, England, United Kingdom
+Data Scientist – GCS Digital Engagement, Cambridge
+
+AVEVA infuses industrial software with intelligence to empower people to shape a sustainable future. We work with our customers and harness the power of our ecosystem to deliver operational agility and empower human expertise. Our solutions advance engineering and operations with Performance Intelligence. From water and energy to food and infrastructure, we inspire insights that transform opportunity into sustainable business value. We combine unparalleled intelligence with collaborative innovation to enable people and industries to thrive.
+
+There are 6,000 of our people at 90 locations in more than 40 countries who challenge themselves and each other to create and improve the transformative technology our customers need. With our help, industries across the world can make a positive difference to the lives of people everywhere.
+
+We take pride in our core values and the diversity of our people, valuing the unique experience and expertise that people from different backgrounds bring to our business. At AVEVA, we’re all about Limitless possibilities. Are you?
+
+
+We are looking for a data scientist that will help us discover the information hidden in vast amounts of data and help us make smarter decisions to deliver even better support services and experiences. Your primary focus will be in applying data mining techniques, doing statistical analysis, and building high quality prediction systems integrated within our tool infrastructure to help understand our support & success services’ performance, determine reasons for performance levels and build models that help predict or pre-empt actions to move AVEVA GCS to a highly productive, data-led support & success organization.
+
+Example of expected deliverables contains but not limited to:
+• Data mining for delivering insights to customers that they can use to improve their operations or buy more from us.
+• Trends that determine what materials could be sent to our customers during their journey.
+• Trends that help identify customers who are ready for an upsell-cross sell conversation.
+• Development of health score algorithms by product/technology/offering/customer types.
+• Development of performance levels for support services
+
+
+
+Responsibilities
+
+• Lead the development of our Support/Success and it’s CX intelligence as a lead scientist creating models, selecting features, building and optimizing classifiers using deep data analysis and machine learning techniques
+• Lead the development of data mining using state-of-the-art methods, extending company’s data with third party sources of information when needed and enhancing data collection procedures to include information that is relevant for building analytic systems
+• Processing, cleansing, and verifying the integrity of data used for analysis
+• Support or lead the creation of core analytical profiles including, automate scoring using machine learning techniques, build recommendation systems, improve and extend the features used by our existing analytics systems, develop internal A/B testing procedures.
+• Doing ad-hoc analysis and presenting results in a clear manner
+
+
+
+Skills & Qualifications
+
+• 10+ years’ experience in data science, statistical analysis or a relevant discipline
+• Experience with common data science toolkits, such as R, Weka, NumPy, Python, MatLab, etc.
+• Experience with core visualization tools, such as Salesforce Einstein, Microsoft PowerBI, Tableau, QLIK etc.
+• Proficiency in using query languages such as SQL.
+o Experienced with MS SQL and Azure SQL database technologies.
+o Exposure to others such as MySQL, Oracle beneficial.
+• Good applied statistics skills, such as distributions, statistical testing, regression, etc.
+• Data-oriented personality
+• Exceptional result-oriented mindset and track record
+• Strong communication style and able to communicate effective to multiple stakeholders
+• Strong execution focus and ability to manage ambiguity with tenacity and diligence in driving programmes forward
+• Ability to build consensus and manage diverse, group-wide stakeholders through influence (not control) with excellent Stakeholder Management and Impact at all levels
+
+Beneficial Skills and Qualifications:
+
+• BS/BA Degree; Engineering degree and/or MBA a plus
+
+
+
+AVEVA is an Equal Opportunity Employer. We are committed to being an exemplar employer with an inclusive culture, developing a workplace environment where all our employees are treated with dignity and respect. We value diversity and the expertise that people from different backgrounds bring to our business.
+
+Come and join AVEVA to create the transformative technology that enables our customers to engineer a better world.
+
+Concerning agencies: AVEVA does not accept unsolicited resumes and will not be responsible for fees related to such.
+Seniority Level
+Mid-Senior level
+Industry
+Computer Software
+Employment Type
+Full-time
+Job Functions
+Analyst Information Technology Research

@@ -1,0 +1,39 @@
+Data Scientist Lead
+The Economist
+London, England, United Kingdom
+The Economist is seeking an experienced data scientist to join our Insight & Data Science Team. Our Insight & Data Science Team is a central source of data skills working across all commercial teams in the business. Reporting to the Head of Insight and Data Science you will be leading the application of data science across the business including predictive modelling, segmentation and A/B testing. Initially line managing one data scientist, you will be a key part of growing our data science capability at The Economist.
+ We believe that data science can bring us a better understanding of our customers’ needs, opportunities to improve their experience and a clearer view of what is driving our business performance. In this role you will help advance The Economist’s data science capability, bringing projects to production and cementing the role of data science in the way our business operates. You will be doing hands on data science work with transactional and behavioural datasets in our data lake. You will also be involved in strategic discussion about data science priorities and setting a roadmap that supports the business strategy. You will be directly speaking to stakeholders across the business to understand their needs and explain your work, while collaborating with data engineers and insight analysts to deliver projects cross-functionally.
+ We believe data science is essential to the success of our business. This role is an opportunity to apply data science to make a real difference to The Economist’s business.
+
+How will you contribute?
+Help identify areas where data science can be applied to generate value for the business
+Work with stakeholders and technical teams to propose data science projects
+Execute data science projects using a range of datasets and techniques
+Delegate tasks to junior team members providing mentoring where appropriate
+Collaborate with other technical teams to deliver solutions as needed
+Communicate the outcomes and value of your work to business stakeholders
+Provide feedback and define best practice where teams are using 3rd-party tools with a statistical/machine learning component, especially in relation to A/B testing
+
+The ideal skills for this role are:
+Prior experience as a data scientist, ideally in a B2C business that interacts with customers through digital channels
+A solid understanding of statistical modelling and machine learning from one of:
+A research degree such as a PhD with a significant data/statistics component
+Equivalent commercial experience
+Ability to understand the relationship between data science and real world problems
+Ability to write code to implement statistical models and machine learning processes in Python and/or R
+Experience extracting, cleaning and preparing data for data science work including good knowledge of SQL
+An understanding of software development best practice for production systems
+Ability to communicate complex technical concepts to non-technical colleagues and practically deliver a data science solution to a business problem
+Ability to mentor and manage a small team
+A meticulous approach to all work, completed to high level of quality
+The ability to work under time pressure while providing high quality output
+The ability to work on your own with conviction to prioritize workload
+Excellent communication skills (written and verbal)
+Seniority Level
+Mid-Senior level
+Industry
+Publishing Online Media Internet
+Employment Type
+Full-time
+Job Functions
+Analyst

@@ -1,0 +1,48 @@
+Data Science Analyst
+Mackin Talent
+London, England, United Kingdom
+Our client in London is currently seeking a highly experienced and motivated Data Analyst.
+
+This is a 12 month position with possibility of extension.
+
+The Partnerships Science team is an analytics group within the Partnerships Organization that is focused on optimizing value for our partners and accelerating the growth of their businesses, while continuing to deliver great products to the world. In service of this goal, the team works with leading partners in the entertainment, sports, news, gaming, and other verticals to optimize their performance through research and insights that will guide their strategy.
+
+The Partnerships Science Analyst will have a hands-on role focusing on understanding the complex partner ecosystem and collaborating with internal stakeholders to inform decision-making across product, marketing, sales, strategy, and operations. A large portion of the role will require building relationships with new teams while also diving deep into analyses, building pipelines and dashboards, thinking creatively around new solutions and communicating compelling solutions that drive business growth. The ideal candidate will have a solid foundation in analytics, research and statistics, and strong communication skills. Applicants should have a strong quantitative background, and experience analyzing large datasets.
+
+Responsibilities
+Lead analyses to improve our understanding of clients needs and objectives.
+Provide analytical/technical expertise on how to measure and grow value to our partners.
+Make recommendations and guide product and business decisions based on data analyses and an understanding of long-term strategy.
+Work cross functionally with product, marketing, and sales to define problem statements, access and manipulate data, build analytical models, explain data-gathering requirements, deliver analytics insights, and make recommendations.
+Independently query internal data using SQL to support investigations, research/insights and to drive key decisions across leadership and the organization
+Manage requests and priorities
+Build pipelines and dashboards to support analyses and internal stakeholder needs.
+Minimum Qualifications
+5+ years of experience with SQL (Oracle, Vertica, Hive, MySQL, etc.)
+8+ years of experience in data analytics roles
+Experience with querying large data systems independently (e.g. Hive).
+Experience with data visualization tools and building dashboards (e.g. Tableau).
+Proven communication and cross functional collaboration skills.
+Experience working independently and a track record of taking initiative in dynamic environments
+Demonstrated experience multi-tasking and adapting well to a changing environment
+Bachelor's degree in an analytical field (such as Computer Science, Engineering, Mathematics, Statistics, Economics, or Finance).
+Preferred Qualifications
+Experience with SAAS product
+Experience building out large data sets and pipelines.
+Strong presentation and communication skills
+Benefits
+Competitive salary, with great onsite benefits including canteen with all meals, drinks and snacks included.
+Healthcare contribution and inclusion in company pension scheme
+Work laptop and phone
+State of the art modern offices
+25 days annual leave (pro-rata) plus paid bank holidays
+Expanding workforce with potential for career progression for top performers
+Working with a company that will make your CV stand out.
+Seniority Level
+Entry level
+Industry
+Environmental Services Information Technology & Services Staffing & Recruiting
+Employment Type
+Full-time
+Job Functions
+Information Technology

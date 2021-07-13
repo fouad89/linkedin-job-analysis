@@ -1,0 +1,65 @@
+Data EngineerScientist
+Fluidly
+London, England, United Kingdom
+At Fluidly, we are solving the biggest problem facing small businesses - cashflow. We provide real-time cashflow forecasting & management that helps small businesses to be more confident in their financial decisions, and sleep a little better at night!
+
+Our team was recognised as one of WIRED magazine’s top 10 London startups 2018 and the FinTech50 in 2019 / 2020.
+
+Role Overview
+
+This role sits at the intersection of engineering and data science - with the opportunity to work with our vast set of small business financial data to build predictive models for internal and external users. It is critical to not only care about the data and modelling but also upholding engineering best practices in data science products and beyond. Domain experience would be helpful, but not essential.
+
+Responsibilities
+Build and maintain models and data science tooling for our SaaS and funding product
+Own your code/models and deploy into production. This is an engineering role with a data science specialisation
+Understand the financial data of small businesses and extract insights to help our customers stay afloat
+You will not always be working on data science projects so should be happy doing some data engineering
+
+
+Requirements
+
+Skills / Knowledge
+As a data scientist, you will work on established systems as well as start projects from scratch - in both cases you’ll have a lot of autonomy and the chance to make a big impact. You should be happy taking the initiative and, at times, working independently
+You should have a strong analytical background - for example, an MSc in a relevant discipline or sufficient self-study into statistical and data science concepts
+We’re pragmatic about our technology choices, at the moment we use Python / PostgreSQL / BigQuery / Google Cloud Platform / Terraform / CircleCI
+We practise continuous deployment with no test environments, so each PR gets merged to master and is in production within minutes. Last month we deployed 1030 times with 11 engineers.
+We feel comfortable doing this because we practise TDD/CD. Constantly deploying small changes minimises big surprises and allows us to act quickly when something does go wrong
+We practice test-first, outside-in TDD. We’re pragmatic about TDD, but given this is our main safety net we want our tests to provide value and invest time to make sure our approach is effective.
+We operate in an open feedback culture where new ideas and new ways of working are always welcomed
+We’re constantly seeking to better understand our infrastructure. All of our engineers work closely with our product and commercial teams to keep them in touch with the customer needs
+
+
+Experience
+You’re comfortable with using at least one programming language. We're pretty agnostic, but currently using Python a lot
+You have a strong interest in data modelling
+You’ve built up a good understanding of *nix command line including tools such as Bash and Git.
+You’ve studied Designing Data Intensive Applications or have equivalent experience
+
+Behaviours
+You value honest feedback and creating an environment where it flourishes
+You’re curious and constantly learning new things
+You challenge the existing approach when you see the cliff edge racing towards us, but also get on board once the options have been debated and the team has made a decision
+You're comfortably organised amongst chaos
+You’re a broad thinker and have the capability to see the potential impact of decisions across the wider business
+We strive to create an inclusive workplace where people have the opportunity to succeed, regardless of gender, gender identity, gender expression, sexual orientation, marital or civil partner status, race, religion or belief, disability, age or pregnancy
+We embrace difference and know that if you can be yourself at work, you'll be happier, more motivated and creative. We want you to bring your whole self to work, to have your own perspective and know that you belong
+
+Benefits
+
+🌱 Equity. We want people to have a stake in the business so that all of our interests are aligned. It’s your baby too.
+
+🗺 25 days holiday – and we will make you take it. Burnout is not big or clever.
+
+💪 Our Vitality health insurance covers your physical and mental health and provides you with a discounted gym membership and half-price health screens.
+
+👩‍💻 Flexible working - Whatever that means when the world returns to normal.
+
+🖱 Your choice of the best kit.
+Seniority Level
+Mid-Senior level
+Industry
+Marketing & Advertising Computer Software Internet
+Employment Type
+Full-time
+Job Functions
+Engineering

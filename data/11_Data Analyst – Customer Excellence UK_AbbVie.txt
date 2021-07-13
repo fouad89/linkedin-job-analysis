@@ -1,0 +1,45 @@
+Data Analyst – Customer Excellence UK
+AbbVie
+Maidenhead, England, United Kingdom
+About AbbVie
+
+AbbVie’s mission is to discover and deliver innovative medicines that solve serious health issues today and address the medical challenges of tomorrow. We strive to have a remarkable impact on people’s lives across several key therapeutic areas: immunology, oncology, neuroscience, eye care, virology, women’s health and gastroenterology, in addition to products and services across its Allergan Aesthetics portfolio. For more information about AbbVie, please visit us at www.abbvie.com. Follow @abbvie on Twitter, Facebook, Instagram, YouTube and LinkedIn.
+Based in the offices in Marlow reporting into the Business Analytics Manager
+Highly competitive salary, bonus, comprehensive benefits package and extensive development options.
+
+
+Role Objective
+
+The Data Analyst is responsible for the consulting within our business to gather specification, design and analytical requirements for the build and delivery of feasibility prototypes, find efficiencies and interpret data to make recommendations. The role is an integral part of the Customer Excellence team, working across multiple business units to provide predictive and prescriptive analytics.
+
+Key Responsibilities
+Being the integral point of liaison between business stakeholders and team in Customer Excellence, responsible for the design and build of feasibility prototyping for specific business needs
+Lead support on business deep dive analysis which reacts to the priority needs of senior leadership across multiple key brands, leveraging existing analytics solutions, platforms and data
+Balances an innovative mindset with technical considerations throughout, building feasibility prototypes which in turn can be efficiently leveraged for wider systemization
+Build Data Models and export views to enable Data Visualization
+Responding to business requests for ad-hoc analysis and higher analytics, own the design, development, and maintenance of ongoing analysis in order to drive intelligent, well informed business decisions
+
+
+Qualifications
+Experience of programming languages (Python)
+SQL and Python coding experience, building linear dimensional, regression-based and logistic models
+Expert analytical and problem-solving skills, able to manage project timelines and deliverables
+Excellent interpersonal skills with demonstrated ability to work effectively in multifunctional teams and with senior management
+Ability to influence, partner, challenge thinking and gain credibility with internal stakeholders
+
+Travel
+No
+Job Type
+Experienced
+Schedule
+Full-time
+Job Level Code
+IC
+Equal Employment Opportunity
+At AbbVie, we value bringing together individuals from diverse backgrounds to develop new and innovative solutions for patients. As an equal opportunity employer we do not discriminate on the basis of race, color, religion, national origin, age, sex (including pregnancy), physical or mental disability, medical condition, genetic information gender identity or expression, sexual orientation, marital status, protected veteran status, or any other legally protected characteristic.
+Industry
+Pharmaceuticals Biotechnology
+Employment Type
+Full-time
+Job Functions
+Project Management Other Information Technology

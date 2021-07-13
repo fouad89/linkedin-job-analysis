@@ -1,0 +1,27 @@
+DevOps Engineer - Data Science  Machine Learning
+Propel
+London, England, United Kingdom
+Posted by
+Ashley Palmer 2nd
+Senior Consultant - QA & DevOps at Propel
+Send InMail
+Propel are currently working with a an exciting MediaTech who are in the process of scaling their DevOps engineering team, as they expand their service offering and product portfolio!
+
+They are looking for an experienced DevOps Engineer to come in and build out best-in-class Cloud Infrastructure, taking ownership of the designing, architecture and implementation across their multiple products.
+
+Experience required:
+- 3+ years experience across DevOps / Cloud.
+- Excellent knowledge of DevOps processes and Best Practices.
+- Solid experience across Ansible, Jenkins, Github actions.
+- Containers with Docker and/or Kubernetes.
+- Machine Learning and/or Data Science experience a plus.
+
+Please apply here to register interest in this opportunity.
+Seniority Level
+Mid-Senior level
+Industry
+Computer Software
+Employment Type
+Full-time
+Job Functions
+Information Technology Other

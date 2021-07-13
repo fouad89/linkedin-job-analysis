@@ -1,0 +1,80 @@
+Data Engineer
+Infinity
+Reigate, England, United Kingdom
+Location: Reigate/Manchester
+Job type: Full time
+Reports To: Head of Architecture
+
+About Us 
+Infinity delivers call intelligence pioneered for business. We unlock clarity from the conversations companies have with their customers. We are a cloud-based call tracking platform, and an integral part of the technology stack for marketing teams and contact centres across our extensive international client base.
+Our journey started in 2010 when we identified the need for a call tracking product from over a decade of experience of managing paid search campaigns.
+Following a steady, organic growth and a strategic investment, we now have a presence across five locations, including London, Manchester, and San Francisco.
+Despite our continued growth we stick to a set of core values which we think makes us a great place to work and has made us the success that we are today, and the success we will be in the future. To be part of this inspiring team, you will need to have Impact in all you do, work smart, and be daring, fun and positive! In return you will get a great work environment, a set of colleagues like no other, and be able to build your skills and career with us.
+ Profile of Role
+We are looking for an experienced data engineer to join our team. You will use various methods to transform raw data into useful data systems. For example, you’ll create algorithms and conduct statistical analysis. Overall, you’ll strive for efficiency by aligning data systems with business goals. 
+To succeed in this data engineering position, you should have strong analytical skills and the ability to combine data from different sources. Data engineer skills also include familiarity with some programming languages and knowledge of machine learning methods.
+If you are detail-oriented, with excellent organisational skills and experience in this field, we’d like to hear from you.
+
+About You
+You enjoy working in an agile environment, and taking part in backlog refinements, sprint planning, daily stand ups and end of sprint demos.
+You like to get work done.
+You are a tenacious team player and enjoy working in a fast-paced environment.
+You are a resourceful and proactive problem solver with a keen attention to detail, able to deliver on quantity without compromise to quality. 
+You have a focus on delighting the end customer.
+You don’t mind working outside your usual realms of expertise.
+You have a willingness to accept changes to priorities when business requirements require it.
+ Required Knowledge, Skills & Experience
+Previous experience as a data engineer or in a similar role
+2+ years’ experience with ETL processes
+2+ years’ experience with SQL
+Excellent problem solving and troubleshooting skills
+Process oriented with great documentation skills
+Great numerical and analytical skills
+Excellent oral and written communication skills with a keen sense of customer service
+Knowledge of DevOps practices and mindset
+Knowledge of cloud-native architecture
+Technical expertise with data models, data mining, and segmentation techniques
+Hands-on experience with SQL database design
+Ability in managing and communicating data warehouse plans to internal clients
+Experience designing, building, and maintaining data processing systems
+
+Beneficial, but not essential
+Hands on AWS experience
+Hands on Machine Learning experience
+MarTech industry experience
+Experience with Infrastructure as Code
+Knowledge of programming language (e.g. Python)
+Experience with Git
+Knowledge of Agile Scrum
+
+Key Responsibilities
+Develops and maintains scalable data pipelines and builds out new API integrations to support continuing increases in data volume and complexity.
+Collaborates with analytics and business teams to improve data models that feed business intelligence tools, increasing data accessibility, and fostering data-driven decision making across the organisation.
+Implements processes and systems to monitor data quality, ensuring production data is always accurate and available for key stakeholders and business processes that depend on it.
+Writes unit/integration tests, contributes to engineering wiki, and documents work.
+Performs data analysis required to troubleshoot data related issues and assist in the resolution of data issues.
+Works closely with a team of frontend and backend engineers, product managers, and analysts.
+Defines company data assets (data models)
+Designs data integrations and data quality framework.
+Designs and evaluates open source and vendor tools for data lineage.
+Works closely with all business units and engineering teams to develop strategy for long term data platform architecture.
+Work closely with the Data Protection Officer to action any concerns around data protection and governance.
+ Line Manager Responsibilities
+None
+
+Benefits you will enjoy
+Alongside a great team environment, tea and coffee on tap you will also get:
+22 days holiday (increasing to 23 after 1 years’ service, and 24 after 2 years’ service)
+Private family healthcare
+Auto Enrolment pension savings 
+Life Assurance x 4 salary
+Ride2Work Scheme
+Business handset (If required) 
+Breakfast club 
+Flexible working 
+Industry
+Computer Software Information Technology & Services
+Employment Type
+Full-time
+Job Functions
+Information Technology

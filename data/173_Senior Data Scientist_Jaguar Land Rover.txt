@@ -1,0 +1,32 @@
+Senior Data Scientist
+Jaguar Land Rover
+Coventry, England, United Kingdom
+Posted by
+Elliot Dower
+Supporting Jaguar Land Rover to find and attract the best talent
+Send InMail
+Beyond Property, Purchasing, HR and IT, more than being part of our Finance or Marketing teams, beyond even Sales and Service, every role in every business area offers unique opportunities to make an impact on the future of mobility and the automotive industry.
+ WHAT TO EXPECT
+We are searching for a Senior Data Scientist to support our newly formed Business Performance Analytics (BPA) Team. 
+ You will provide data science expertise to enable the management of Parts and Accessories Revenue and Loyalty performance processes and metrics. You will be responsible for the development and implementation of modelling algorithms across the BPA tools (using Python, GCP, Tableau, Anaplan, SQL). We are looking for someone who can support us in understanding and predicting how changes in driving behaviours, and how changing market dynamics (i.e. lockdown measures, limited supply) will impact our Parts and Accessories revenues. We’ll need you to help us improve our existing forecasting models (both for short-term / in-year forecasting and for longer business planning periods), driving improvements in revenues, retailer performance and customer satisfaction. 
+ You will be responsible to create/improve our analytics tools and models, and you’ll be helping the team by advising on how to ingest and use better data, at a more granular level, by increasing automation and self-service of dashboards across the whole BPA team. 
+ You will be working cross-functionally on a series of projects to develop the insights of the new team, with ambitious plans for scaling and embedding these within the existing processes.
+ You will have a crucial role in helping us achieve our vision: developing industry-leading analytics models and tools supporting a) our customers; b) our retailers and finally, Jaguar Land Rover.
+ WHAT YOU’LL NEED
+You will have comprehensive experience in coding in Python within cloud environments (GCP preferred). You will need deep technical knowledge of SQL, BigQuery and Tableau and knowledge of the processes, tools and techniques for joining, cleaning and shaping data from multiple sources for subsequent analysis, ability to create robust data set models to help drive business insights. You will need experience in developing forecasting models from both low/high sample sizes and continuously improve these models. 
+ You will also possess:
+Knowledge of Machine Learning, Modelling & Forecasting
+Data Wrangling
+Statistical analysis and measurement – Knowledge of math and statistics; ability to use relevant tools, techniques, statistical principles, and methods required to perform statistical analysis and measurement.
+ SO WHY US?
+Bring all this to the home of premium innovation, and you’ll find the opportunities to further your career with a world-class team, a discounted car purchase and lease scheme for you and your family, membership of a competitive pension plan and a performance related bonus scheme. All this and more makes Jaguar Land Rover the perfect place to continue your journey.
+ Please be aware that we may close this vacancy for applications before the stated deadline if we receive a high volume of interest. We strongly advise you to submit your application as early as possible.
+ Jaguar Land Rover is committed to equal opportunity for all.
+Seniority Level
+Mid-Senior level
+Industry
+Automotive
+Employment Type
+Full-time
+Job Functions
+Engineering Information Technology

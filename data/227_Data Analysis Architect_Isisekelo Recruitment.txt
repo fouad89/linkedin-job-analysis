@@ -1,0 +1,37 @@
+Data Analysis Architect
+Isisekelo Recruitment
+United Kingdom
+Purpose
+
+There are jobs and there are places where you get to do your best work. Work that gives you itchy fingers. Work that gives other people goosebumps. Because you are ready to go to the moon. Because you are ready to start co-creating something that you will be remembered for. If you want your fingerprints on something big - you are welcome here.
+
+We are looking for a strong Data Analysis Architect. The successful candidate will design data systems to collect, transform and model data, converting this data into digestible information, information into insight and insight into business decisions.
+
+You will need to architect solutions to transform, structure, model and analyze large datasets. Building systems and processes to effectively store and retrieve large datasets will be part of your day to day, as will be the selection and implementation of effective data analysis tools, business intelligence platforms and reporting mechanisms. Understanding both how to manage and present data is important in this role.
+
+Responsibilities
+Maintain a working knowledge of both well established and emerging data technologies.
+Gather and understand data requirements
+Develop conceptual and logical data models to store and represent information.
+Design and implement databases, along with integrations and transformations.
+Assess and implement data analysis, BI reporting and visualization tools.
+Interpret data and analyze results, leveraging statistical techniques.
+
+Requirements
+Proven working experience as a Data Analyst, Engineer, Scientist or Architect
+Technical expertise regarding data modeling and database design development.
+Experience with data visualization tools.
+Adept at queries, report writing and presenting findings.
+Understanding of integration and data transformation (ETL)
+Good understanding of established and emerging technologies in data streams, databases and data warehouses.
+Strong analytical skills with the ability to collect, organize, analyze, and disseminate significant amounts of information with attention to detail and accuracy.
+Bachelor's degree in Computer Science, Information Management, Mathematics or Statistics.
+Financial or Fintech experience is an advantage
+Seniority Level
+Entry level
+Industry
+Information Technology & Services
+Employment Type
+Full-time
+Job Functions
+Information Technology

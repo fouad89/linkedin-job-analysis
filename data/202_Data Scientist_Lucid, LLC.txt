@@ -1,0 +1,46 @@
+Data Scientist
+Lucid, LLC
+London, England, United Kingdom
+Lucid is a research technology (ResTech) platform that provides programmatic access to first-party data. With respondents in more than 100 countries, Lucid enables anyone, in any industry, to survey online audiences and get the answers they need. These answers reveal the sentiments, motivations, and behaviors of target demographics – data that can be used to build business strategies, measure the impact of digital advertising, publish research, and more. Founded in 2010, Lucid is headquartered in New Orleans, LA with offices throughout the US, Europe, and Asia.
+
+As a Product Data Scientist you will have the opportunity to collaborate with product and engineering teams to work on Survey Design and Measurements, Identity, Trust & Safety and more . This includes product analyses, validation and establishing statistical methodology standards and development. The right candidate has the ability to independently research, develop and maintain products that align Lucid capabilities with market claims.
+
+Responsibilites
+Supports research and discovery phase for new and existing products. The primary areas include but are not limited to trend analyses, outlier detection, generalization, harmonization, as well as working with different data sources.
+Analyze large and diverse datasets to extract impactful insights that can drive product strategy. Collaborate with cross-functional teams to design, implement, and test new and existing measurement products- develop statistical modeling and methodologies.
+End-to-end development and maintenance of Lucid’s measurement products.
+Ongoing evaluation and validation of both internal and external products to ensure Lucid’s success.
+Communicate insights and recommendations through visualizations and presentations that will resonate with a wide range of audiences.
+
+Qualifications
+Minimum 3+ years working experience in data science capacity.
+Minimum Master's degree or equivalent in Statistics, Quantitative Sciences, Data Science, Operations Research or other quantitative fields
+Ability to manipulate, analyze, and interpret large data sources
+Deep understanding of advanced statistical techniques and concepts (e.g. properties of distributions, hypothesis testing, parametric/non-parametric tests, survey design, sampling theory, experimental design, regression/predictive modeling and more)
+Strong Knowledge of a variety of machine learning techniques (clustering, regression, decision trees and etc) and their real-world advantages/ drawbacks.
+Must have working knowledge in the application of statistical and modeling techniques
+Proficient in Python (as statistical and ML package tools). Proficient in SQL and working with large-scale databases
+Comfortable in researching and learning new methods, tools, and techniques
+
+Nice to have
+Experience in media measurement and digital attribution
+Experience in online survey methodologies
+Experience employing causal inference methods
+Experience in Identity graphs and fraud detection methodologies
+Experience working with big data technologies (e. g. Spark)
+
+Lucid's Hiring Commitment
+
+We understand that many candidates may not be perfectly qualified for a job posting. Experience comes in different forms; many skills are transferable – and passion goes a long way. Even more important than your resume is a clear demonstration of dedication, impact, and the ability to thrive in a dynamic, collaborative environment. We want you to learn new things in this role, and we encourage you to apply if your experience is near the desired qualifications.
+
+We also know that diversity of background and thought can enhance problem-solving and encourage more creative thinking, which is why we're dedicated to adding new perspectives to the team.
+
+At Lucid we foster a collaborative and inspiring workplace. We pride ourselves in doing this by recruiting, hiring and retaining diverse, passionate, and forward-thinking talent. Lucid is committed to and encourages an inclusive environment and we are dedicated to providing equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or Veteran status. If you have a disability or special need that requires accommodation, please let us know.
+Seniority Level
+Entry level
+Industry
+Computer Software Market Research
+Employment Type
+Full-time
+Job Functions
+Engineering Information Technology

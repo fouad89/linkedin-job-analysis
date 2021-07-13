@@ -1,0 +1,79 @@
+Senior Data Scientist - Computer Vision (FinCrime)
+Revolut
+London, England, United Kingdom
+About The Team
+
+Data sits at the heart of Revolut and plays a uniquely crucial role in what we do. With data we build intelligent real-time systems to personalise our product, tackle financial crime, automate reporting, track team performances and enhance customer experiences.
+
+Fundamentally, data underpins all operations at Revolut and being part of the team gives you the chance to have a major impact across the company – apply today to join our world class data department.
+
+Since 2015, Revolut has introduced over 20 million customers to a new way to handle their money. From instant spending notifications and built-in budgeting controls, to global currency exchange and stock trading, customers simply get more with Revolut.
+
+We approach Data Science at Revolut the same way that we approach everything else. We take complex problems, and create extraordinary solutions that our customers love. From on-boarding flows to new feature presentations, our goal is to both inform and delight.
+
+Put simply, we build things we want to use ourselves, that we’re proud to show to our friends and families.
+
+About The Role
+
+Our team builds and deploys systems that interact with different parts of Revolut's infrastructure and leverage machine learning and computer vision to most efficiently automate compliance-related matters, such as developing automatic measures for ID verification during the onboarding process. As Revolut continues to experience the incredibly fast-paced growth of its user base, the business impact of the team grows as well, as every step the team automates is a step-less that needs to be handled manually, enabling Revolut to hit a global scale.
+
+We are looking for a Computer Vision Engineer to help us better automate these compliance-related processes, through developing and putting into prod online and offline algorithms that leverage our backend and the data. If you are skilled in software engineering, machine learning, computer vision and applied maths, possess a passion for building solutions and have a strong aptitude for data technologies, then this is your gig!
+
+What You'll Be Doing
+
+You will be responsible for building new machine learning models to automate Compliance processes. Our machine learning engineers are end-to-end practitioners responsible for coming up with an idea, prototyping the model, implementing it in our pipelines and measuring its impact in production
+Expect a great sense of ownership for the projects you develop while benefiting from the support of the wider Computer Vision team as we have a strong collaboration culture
+Our data stack is based mainly on Python and TensorFlow. We are hosted on GCP and our data scientists and engineers rely heavily on Jupyter, Flask, RabbitMQ, Kubernetes, Docker for their machine learning data solutions
+
+What You'll Need
+
+Previous experience in a Data Science or Machine Learning based role
+Great skills with Python, SQL or other programming languages
+Hands on experience with Deep Learning related libs (e.g. TensorFlow, Keras, PyTorch)
+Knowledge of version control, model deployment, developer environments
+Evidence of strong mathematical & statistics knowledge
+
+NICE TO HAVE
+
+Advanced degree in a quantitative discipline
+Strong experience with additional programming languages (such as: Java, Scala, C++…)
+Previous experience in anti fraud departments
+Experience in system design and distributed computing
+Experience with CI/CD and containerisation
+Experience with cloud-based infrastructure such as GCP or AWS
+
+From employee 1 to employee 14000, you will be slotting into a global team that shares a number of traits.
+
+You will work autonomously and take ownership. We thrive with the space and responsibility to solve problems.
+
+You operate best without lots of bureaucracy. We don’t hide behind fancy job titles or clunky processes ‘because that’s how things are done’.
+
+You approach work in a logical way. We are not afraid to make mistakes but we use data and logic to backup decisions and improve understanding.
+
+And you share our mission to improve people’s relationship with their money.
+
+A little about us…When Revolut was founded in 2015, we had a vision to build a sustainable, digital alternative to traditional big banks. Our mission now is to help our customers improve their financial health, empower them to have more control, and promote financial cohesion across the communities in which we operate. Launching into 2020 with 10 million Personal customers and over a quarter of a million Business customers only reinforced our belief in the vast need across the world for better financial services. As our customer base has boomed in the last year, we’ve expanded our team to match that growth. We started 2019 with several hundred employees; we closed it out with 2000.
+
+What we’re looking for…Revolut is being scaled up by people all around the world who share our vision. We’re looking for people who align with our five core values: we believe that we Get it Done because we Think Deeper and are strongly rooted in the Dream Team. We Never Settle hence why we always Deliver Wow. You want to join a community forward thinking people - we are here for you. We believe in empowering our Revoluters in their work, giving them autonomy and ownership of what they do. We want everyone at Revolut to own their story and their successes - working with us means you’re not just another cog in the machine.
+
+The Benefits
+
+Competitive salary
+Biannual equity bonuses
+All the latest tech you need
+Roll with a free Revolut Metal subscription
+Pension plan
+Private health insurance
+Start the day properly with fresh fruit and cereals
+Stay refreshed: get juice, tea, coffee and soft drinks on tap
+Rest up with 29 days’ holiday per year
+
+By applying for the above role, you confirm that you have reviewed our Data Privacy Notice for Candidates .
+Seniority Level
+Associate
+Industry
+Information Technology & Services Computer Software Financial Services
+Employment Type
+Full-time
+Job Functions
+Engineering Information Technology

@@ -1,0 +1,105 @@
+Senior Machine Learning Engineer
+Ieso Digital Health
+Cambridge, England, United Kingdom
+The rise in mental ill-health is a worldwide problem. Our blend of science, technology and clinical expertise has already helped nearly 80,000 NHS patients recover from common mental health problems in the UK. But we've only just begun. You'll be part of our Research & Development Lab and enable us to create breakthroughs across the world.
+
+
+
+
+
+
+As a senior software engineer, you will be designing and building systems to support the creation and deployment of machine learning models within research and production environments. Reporting to the Director of AI Research, this role will suit a Software engineer with 5+ years of experience in industry or academic research, a proven track record of delivery, and an interest in working at the intersection of software development and AI.
+
+
+Responsibilities:
+
+
+
+
+
+Design and maintain CI/CD pipelines for machine learning models
+Design and maintain infrastructure used to deploy and host ML models in the Azure cloud environment for production
+Work with scientists to produce software solutions based on statistical models
+Disseminate and instil good engineering practice, whilst able to work with scientists who may be less rigorous
+Manage and mentor other engineers
+Help scientists, who may be less technically skilled, by providing technical advice and support to achieve their research goals
+Support the team's focus on quality of care, good ethics, and respect for data security and protection of privacy.
+Exhibit the behaviours expected within our organisation, and support others in doing the same.
+
+Requirements:
+
+Essential:
+
+
+
+
+
+
+
+Agile thinker, able to work with underspecified requirements
+Proven ability to deliver software
+Proven ability to mentor and support others
+Proven ability to ‘see the bigger picture'
+A desire to change the world for the better
+An interest in working with data, understanding AI, and machine learning
+
+
+
+Desirable:
+
+
+
+
+
+
+
+Experience delivering software in a research environment
+Experience delivering software in a clinical environment
+Experience with deep learning frameworks, such as Tensorflow, PyTorch, or similar
+Experience using Azure
+Experience working in a regulated environment
+Experience in a programming language relevant to working with data (Python, R, Java, Scala, or similar)
+
+Benefits:
+
+We'll reward you with a competitive basic salary along with a range of excellent benefits including:
+
+
+Up to 5% matched pension contribution
+25 days holiday per year plus 8 bank holidays, plus 3 extra days for Christmas office closure, and the ability to purchase more
+Death in Service 3x salary
+Discretionary bonus scheme (following successful probation)
+Extensive training and development options
+Five Ways to Thrive Well-being Programme
+Active Sports and Social Clubs (COVID permitting!)
+Flexible benefits package including healthcare cash plan, cycle to work, gym and shopping discounts and much more
+
+
+
+
+
+Closing date: 18th July 2021
+
+
+
+Desired Skills and Experience
+AI
+Agile
+Azure
+Clinical
+Mental Health
+PyTorch
+Python
+Research
+Tensorflow
+java
+machine learning
+scala
+Seniority Level
+Mid-Senior level
+Industry
+Mental Health Care
+Employment Type
+Full-time
+Job Functions
+Engineering

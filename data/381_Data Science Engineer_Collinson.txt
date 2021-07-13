@@ -1,0 +1,88 @@
+Data Science Engineer
+Collinson
+London, England, United Kingdom
+Here at Collinson, we make dreams happen, our Technologists like to dream big, from big data through to big enterprise-scale solutions! Our dream-makers have helped design and automate software solutions that enhance the travel experience for over 20 million managed customers each year, with 17 offices globally, we enrich and provide confidence in the traveller journey with our world-renowned Priority Pass airport lounge and loyalty experiences program, while also creating and managing our own airport spaces where we offer the only UK in terminal Covid-19 testing. 
+
+What does a Data Science Engineer at Collinson do?
+
+
+Supporting the Head of Data Science to implement our data strategy and be instrumental in its rollout across the Collinson Group.
+
+You will collect, collate, manage, and analyse large sets of data to turn information into powerful insights and analytics using multiple platforms and machine learning workflows.
+
+Working across multiple datasets of varying scale and complexity, you will collaborate with cross-functional teams to build data-driven solutions.
+
+Acting as a conduit between the data science and data engineering teams creating ML models using the engineering stack, developing prototypes and proof of concept solutions.
+
+Supporting the business to understand data science integration including functional, non-functional, quality of service, and product support requirements.
+
+Engineering products or solutions that demonstrate capabilities both to a technical and non-technical data audience.
+
+Be an active member of the Business Intelligence and Analytics team, contribute to team dynamics, ways of working, and assisting with improvement opportunities.
+
+Provide accurate data-driven reports and metrics to Technical and Project leads
+
+Maintain a deep technical awareness of the latest technologies and techniques in Data Science, Integration, and Business Intelligence Analytics.
+
+How will you make a difference as a Data Science Engineer?
+
+
+Applicants must have a good level of commercial experience as a Data Science Engineer ideally gained in a Loyalty, Insurance, Marketing, or Machine Learning Analytics enterprise.
+
+You will have a passion for data science techniques including, data preparation, exploration, data mining, statistical modelling, visualization, text mining, and optimization.
+
+Prior experience of working with different cloud service providers such as AWS, Azure, etc.
+
+Good understanding of engineering concepts in cloud to help efficiently manage resources.
+
+Deep knowledge of workflows using classification, clustering, regression, and dimensionality reduction blended with prototyping statistical analysis and data modelling algorithms.
+
+Excellent stakeholder presentation and communication skills providing regular data science updates, including technologies, principles, processes, and benefits.
+
+Proven capability of building relationships across multi-level functions to influence key decisions that affect data science integration.
+
+A natural problem-solver who can make recommendations working at pace.
+
+Self-driven and constantly striving to improve Data Science by working collaboratively.
+
+A Data Science, Computer Science degree, or AWS Certification is highly desirable.
+
+Deep knowledge or experience with using as much of the following: PySpark | Python | SQL | Hadoop | Hive | Postgres | Sk-learn | Apache | Atlas | Ranger | Knox | Nifi | Tableau | Plotly | Zeppelin| NLP | Decision Trees | Regression | Clustering | AWS | Kubernetes | APIs | EMR |
+
+This role will can be fully remote based with occasional travel into the London office.
+
+You can look forward to a competitive salary, pension scheme, and further benefits:
+
+
+Life Assurance Scheme
+
+Personal Income Protection
+
+Private Medical
+
+Discounted gym membership
+
+Wellness advice and support
+
+Cycle to Work Scheme
+
+Priority Pass Membership (Collinson Exclusive)
+
+Travel Insurance (Collinson Exclusive)
+
+Our values form the foundation of our business, and the Collinson company culture is built around these values that help to shape a long-term, financially successful enterprise for both our customers and employees. They are summarized across four pillars: Act smarter, Do the right thing, One team, and Be insight-led. 
+
+Collinson’s journey started over 30 years ago, when our chairman, Colin Evans, was Managing Director of IAPA, a global travel benefits business with a history stretching back to 1963. 
+
+Once formed, Collinson was further strengthened by the acquisition of established companies that allowed us to expand on our offerings. 
+
+We have a team of more than 2,000 employees serving over 5 million own customers each year. In 2020 Collinson was included in both the Top Track 100 and the Profit Track 100 lists from the Sunday Times.
+
+Seniority Level
+Entry level
+Industry
+Information Technology & Services Computer Software Financial Services
+Employment Type
+Full-time
+Job Functions
+Information Technology

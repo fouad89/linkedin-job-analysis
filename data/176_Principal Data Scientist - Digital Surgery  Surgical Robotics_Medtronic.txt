@@ -1,0 +1,45 @@
+Principal Data Scientist - Digital Surgery  Surgical Robotics
+Medtronic
+London, England, United Kingdom
+Careers that Change Lives
+
+5 billion people, two-thirds of the world’s population, do not have access to safe and affordable surgical care. As a result, millions go untreated every year causing unnecessary suffering, permanent debilitation, or death. This is all caused by a shortage of surgeons, varying quality of care, rising costs of training surgeons, lack of funding and lack of accessibility to quality surgery. Digital Surgery is on a mission to change all of this.
+
+With our award-winning Touch Surgery application and web platform, it is the dawn of Digital Surgery. Digital Surgery has created a digital data-driven ecosystem that uses cutting-edge technologies like AI, augmented reality and computer vision to modernize surgical training, orchestrate surgical teams in the OR and deliver safer surgery around the world.
+
+A Day in the Life
+
+As a Principal Data Scientist, you will be responsible for creating statistical tools and machine learning models to drive actionable insights relating to surgical videos we collect through our surgical analytics platform. You will proactively identify opportunities to drive insights from the data and work closely with product and design teams on data visualisations incorporated into our products.
+
+Requirements
+MSc or PhD in a STEM subject.
+Broad statistical and deep learning knowledge including experience in solving complex problems using statistical and machine learning techniques.
+Experience with deploying machine learning models to a production environment (preferably using AWS).
+Experience with mentoring junior members of a team.
+A demonstrated ability for developing innovative experimentation and analysis methods to infer insights from complex sets of data.
+Advanced knowledge of SQL.
+Practical object-oriented programming experience in Python with knowledge of relevant packages including Pandas, Numpy, SciPy, Matplotlib, Scikit-learn, Statsmodels.
+Knowledge of at least one deep-learning framework (e.g. Tensorflow, Pytorch, Keras).
+Experience in writing clean and maintainable code for collaborative working and using code versioning tools.
+Excellent communicator - You are comfortable talking with programmers, marketers, surgeons, business leaders, and everyone in-between.
+About Medtronic
+
+Together, we can change healthcare worldwide. At Medtronic, we push the limits of what technology, therapies and services can do to help alleviate pain, restore health and extend life. We challenge ourselves and each other to make tomorrow better than yesterday. It is what makes this an exciting and rewarding place to be.
+
+We want to accelerate and advance our ability to create meaningful innovations - but we will only succeed with the right people on our team. Let’s work together to address universal healthcare needs and improve patients’ lives. Help us shape the future.
+
+Physical Job Requirements
+
+The physical demands described within the Responsibilities section of this job description are representative of those that must be met by an employee to successfully perform the essential functions of this job. Reasonable accommodations may be made to enable individuals with disabilities to perform the essential functions. For Office Roles: While performing the duties of this job, the employee is regularly required to be independently mobile. The employee is also required to interact with a computer, and communicate with peers and co-workers. Contact your manager or local HR to understand the Work Conditions and Physical requirements that may be specific to each role. (ADA-United States of America)
+
+Additional Information
+Posting Date: Jul 1, 2021
+Travel: No
+Seniority Level
+Director
+Industry
+Medical Device Hospital & Health Care Pharmaceuticals
+Employment Type
+Full-time
+Job Functions
+Information Technology Accounting/Auditing

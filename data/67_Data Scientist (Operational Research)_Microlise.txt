@@ -1,0 +1,65 @@
+Data Scientist (Operational Research)
+Microlise
+Nottingham, England, United Kingdom
+As part of the on-going expansion of our Data Science and Operational Research team, Microlise, a leading Transport Management Solutions Provider, are looking for a Data Scientist specialising in Operational Research to join us at our Head Office in Nottingham, to support the growth and exciting projects we are working on!
+
+Our Data Science and Operational Research team consists of five PhD-level Data Scientists, a Junior Data Scientist and a Senior Research Developer. As a team, we regularly collaborate with a number of universities on various R&D projects and MSc/PhD research studies, as well as work on a great variety of collaborative R&D projects with partners and customers globally in the area of Operational Research, Predictive modelling, Analytics, and Artificial Intelligence.
+
+If you are a Data Scientist, experienced in and passionate about Operational Research, Optimisation, and Big Data Analytics, and you are looking for an opportunity where you will be supported with your continuous professional and personal development – then we want to hear from you!
+
+Role & Responsibilities
+Applying operational research, combinatorial optimisation, heuristics, computational/artificial intelligence and big data analytics techniques
+Designing and implementing Local Search, Heuristics and Meta-heuristics algorithms
+Performing exploratory, experimental, analytical and visualisation works
+Complete the analysis, design and build of data models, analytical models and business and personal insights
+Preparing technical and scientific reports, presentations and patent applications
+Framing business problems into questions that can be answered through data analysis, and translating business needs into requirements that can be understood by technical teams
+Knowledge & Experience Required
+A MSc or PhD degree (or close to completion) in Operational Research, Computer Science, Mathematics, Engineering or a related discipline
+One year experience in operational research, mathematical modelling, combinatorial optimisation or computational intelligence as a minimum
+Experience of designing and developing optimisation, local search, heuristics and meta-heuristics algorithms
+Proven knowledge of at least one programming language such as; C# or C++
+Demonstrable in-depth knowledge of operational research, analytics and mathematical modelling
+Strong reporting and communication skills whilst working on a number of tasks on a variety of different projects at the same time
+Ability to change direction quickly based on data analysis
+Naturally inquisitive and enjoy discovering then solving problems
+Build collaborative partnerships with data scientists, data architects, technical leads, product managers and key individuals within other functional organizations.
+Adaptable and flexible to respond to the changing needs of a dynamic business
+Embrace challenge and be passionate about solving hard problems
+Collaborate effectively in interdisciplinary teams
+Desirable
+2 years of experience in operational research, mathematical modelling, combinatorial optimisation, computational intelligence, research computing or data science
+Experience in working on routing and scheduling algorithms
+Experience in working with analytical tools such as R
+Experience in working with large data sets (multi-gigabytes)
+Experience in working with data visualisation tools such as Tableau and Power BI
+Knowledge of vehicle telematics systems and transport logistics
+Why Microlise?
+
+When your groceries arrive at your door or you sign for your online parcel, one or more of our software, telematics or proof-of-purchase solutions has probably been used. Our solutions deliver value to many of the UK’s leading grocery retailers and food logistics providers as well as to household names including JCB, Eddie Stobart, Carlsberg, Waitrose and Royal Mail.
+
+Proudly Midlands-based, Microlise has been privately-owned for thirty years. Our growing business is guided by our culture which drives the way we behave, the way we work, the way we connect with our customers, and the way we support and develop our people.
+Full support and training to ensure you are well equipped to succeed in your role
+We believe in our culture, values and staff successes, take a look around our careers page to see why our employees love Microlise
+25 days holiday, excluding bank holidays
+Vitality Health Insurance, Employee Assistance Programme and subsidised eye tests and glasses
+Free Costco membership
+20% off EE mobile and line rental, and other local discounts
+Great staff extras: Easter eggs, yearly BBQ, Christmas gifts and annual staff awards!
+Recruitment Process
+
+For successful candidates, interviews will take place whilst the advert is still live, via telephone and video conferencing; so don’t delay getting your application in! Whilst ordinarily this role is based from our Head Office in Nottingham, we suspect the successful candidate will be working remotely initially, in line with government guidelines.
+
+Please note that we are able to offer visa sponsorship for the right candidate; if you require sponsorship, please ensure this is stated on your application.
+
+Recruitment Agencies
+
+Whilst we make every effort to directly source candidates for our live roles, we do have a very small preferred supplier list on the occasion we may require additional support. We therefore we do not accept speculative CVs and/or cold calls to our Recruitment Team or Hiring Managers. Any queries should be directed to jobs@microlise.com in the first instance.
+Seniority Level
+Entry level
+Industry
+Information Technology & Services Computer Software Staffing & Recruiting
+Employment Type
+Full-time
+Job Functions
+Engineering Information Technology

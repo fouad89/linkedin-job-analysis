@@ -1,0 +1,98 @@
+Staff Data Analyst
+bp
+Sunbury-on-Thames, England, United Kingdom
+Job Profile Summary
+
+The Governance Risk and Compliance portfolio sits within Digital Security which is part of the Innovation and Engineering entity in bp. The GRC purpose is to provide bp with the capability to manage Cyber, IT and Compliance risks and sustain shareholder value.
+
+Digital Security Measurement & Reporting is a new service within the Governance, Risk and Compliance portfolio. Our goal is to build and enable a consistent and measurable view of bp’s Cyber and IT controls posture, underpinned by automation and data. The aim is to provide data driven insights through assessments, analytics and reporting that improves awareness and decision making capability across the business from mid to board level management.
+Job Advert
+
+The Senior Data Analyst will take a lead role in the M&R team and work closely with our customers, stakeholders and data teams. They will be responsible for creating consistent and easy to consume views of Cyber and IT Control metrics through data analytics and reporting. They will support the team in delivering bp LT and board reporting in a format that provides the appropriate business insights. They will provide governance of the metrics to make sure the sources are correct and consistently represented across the organization.
+
+The Senior Performance Analyst will also work towards building our capability through making recommendations on leveraging what we already have in place to avoid duplication, best practices, working across bp teams and using existing or new tools to meet our business.
+
+About The Job
+Work as part of a cross-disciplinary team and across Digital Security, working closely with team members from the wider I&E teams, data teams, product managers and business partners.
+Provide actionable, data-driven business and product insights by combining data manipulation capabilities, analysis and business acumen.
+Visualise and translate technical data into meaningful business information relevant to the appropriate audience, from bpLT executive level through to operational mid level management.
+Define, instrument and maintain metrics and dashboards.
+Proactively identify impactful opportunities and autonomously execute data analysis.
+Be a bridge between business and digital organizations, combining in-depth business intelligence with analytical knowledge.
+Identify sources of data and be able to clean and prepare such data for analysis.
+Interface with data teams on data models and data pipelines to ensure sufficient data is provided for appropriate analysis and reporting.
+Adhere to and advocate for data and analytics best practices
+Present results to peers and senior management, influencing decision making.
+Mentor others.
+Understand agile and dev/sec/ops ways of working across teams.
+
+About You
+Significant hands-on experience carrying out analytics, data visualization and product analytics in complex, fast-paced environments.
+Applied knowledge of data & analytics tools (e.g. business intelligence applications, cloud platforms) and approaches across all data lifecycle stages.
+Experience in using tools such as PowerBI, Splunk and Tableau to visualise data. PowerBI preferred.
+Good Excel and database skills
+Basic understanding of underlying mathematical foundations of statistics, including k nowledge of experimental design and analysis and causal inference from observational data.
+Strong business acumen.
+Customer-centric and pragmatic mindset. Focus on value delivery and swift execution, while maintaining attention to detail.
+Strong communication and stakeholder management skills. Ability to lead large organizations through influence.
+Continuous learning and improvement mindset.
+Cyber security experience preferred, but not essential.
+No prior experience in the energy industry required.
+
+About Bp
+A company culture where we respect our diverse teams and are proud of our achievements
+Possibility to join social communities and networks
+A healthy work-life balance
+Chill-out and collaboration spaces in a modern office environment
+Learning and development opportunities to craft your career path
+Life & health insurance, medical care package
+And many other benefits!
+We are an equal opportunity employer and value diversity at our company. We do not discriminate on the basis of race, religion, colour, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status
+#bpDataAnalytics
+
+Entity
+Innovation & Engineering
+Job Family Group
+IT&S Group
+Relocation available
+No
+
+Travel Required
+
+Negligible travel
+Time Type
+Full time
+Country
+United Kingdom
+
+About BP
+
+INNOVATION & ENGINEERING
+
+Join us in creating, growing, and delivering innovation at pace, enabling us to thrive while transitioning to a net zero world. All without compromising our operational risk management.
+
+Working With Us, You Can Do This By
+
+deploying our integrated capability and standards in service of our net zero and safety ambitions
+driving our digital transformation and pioneering new business models
+collaborating to deliver competitive customer-focused energy solutions
+originating, scaling and commercialising innovative ideas, and creating ground-breaking new businesses from them
+protecting us by assuring management of our greatest physical and digital risks
+
+Because Together We Are
+
+Originators, builders, guardians and disruptors
+Engineers, technologists, scientists and entrepreneurs
+Empathetic, curious, creative and inclusive
+
+Experience Level
+
+Senior
+Seniority Level
+Mid-Senior level
+Industry
+Oil & Energy
+Employment Type
+Full-time
+Job Functions
+Information Technology

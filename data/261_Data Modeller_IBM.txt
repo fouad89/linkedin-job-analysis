@@ -1,0 +1,84 @@
+Data Modeller
+IBM
+London, England, United Kingdom
+Introduction
+
+Would you like to work in a fun and experimental studio atmosphere? Do you want to help us transform the way IBM engages with its Business Partners?
+
+We are looking for the right person to join our cross-functional agile software development team. We are a diverse and empowered, co-located team of researchers, analysts, designers, developers, and managers located in a purpose-built space designed to encourage collaboration and creativity.
+
+We are a part of IBM's global Chief Information Office responsible for building applications and solving problems for IBM's 300,000 software sales and 20,000 Business Partners around the globe. Our vision is to become a world-class delivery organization and deliver business value at speed.
+
+Our team incorporates Design Thinking and cutting-edge technologies and practices to design and build signature experiences that make people’s lives easier. We operate in an open and flat organization where everyone’s ideas are valued, and we’re able to learn from each other and share successes.
+
+Our team is fully responsible for data assets including an Operational Data Store, Data Warehouses, and a Data Lake. We work on data integration, building reports, data visualizations, and KPI dashboards communicating actionable insight to our stakeholders.
+
+IBM’s greatest invention is the IBMer. We believe that progress is made through progressive thinking, progressive leadership, progressive policy and progressive action. IBMers believe that the application of intelligence, reason and science can improve business, society and the human condition. Restlessly reinventing since 1911, we are the largest technology and consulting employer in the world, with more than 380,000 IBMers serving clients in 170 countries.
+
+Your Role and Responsibilities
+
+Are you looking for an opportunity to influence, impact and inspire change?
+
+As a Data Modeler, you will be part of a cross-functional agile team to ensure that the design, implementation and documentation of data architecture and data modelling solutions enable efficient and value-added support of enterprise information management, data analytics and other business interests. The Data Modeler is expected to work independently and collaboratively with various data project/initiative teams.
+
+Here Are Some Of The Activities You Can Expect To Participate In, During a Typical Iteration
+
+Our teams embrace Agile culture in delivering business value frequently and iteratively.
+
+Implement the data strategy, build data flows, and develop conceptual/logical/physical data models across data platforms
+Define and govern data modeling and design standards, tools, best practices, and related development for the enterprise data model
+Becoming knowledgeable in data sources and expected outputs in specific data domains, reducing redundancies
+Work closely with Data Engineering teams to ensure that the collection, storage, transformation, and consumption of data is consistent with the objectives as implemented in the data models and data architectural artifacts
+Dig into data issues among different upstream and downstream systems and resolve them quickly, for example data integrity related issues
+
+In order to be successful in this role, you will have a successful track record in the following areas
+
+Work effectively as part of a diverse software development team
+Analyse large and complex data sets to determine how to realize business value
+Give meticulous attention to detail; you notice things that others miss
+Have excellent written and verbal communication skills
+Exhibit great planning and organizational skills, time management, and ability to handle and prioritize your own workload
+
+Required Technical and Professional Expertise
+
+Experience in the implementation of operational data stores, data marts and data lakes on target platforms
+Hands-on relational, dimensional, or analytic experience (using RDBMS, dimensional, NoSQL, data platform technologies, and ETL and data ingestion protocols)
+Experience with data warehouse, data lake and enterprise big data platforms in multi-location data centre setup
+Good knowledge of metadata management, data lineage, data modelling and related tools
+
+Preferred Technical And Professional Expertise
+
+Experience with Design thinking methods to understand personas and develop great user design
+Deliver high levels of customer satisfaction, addressing business problems and questioning assumptions
+Highly motivated and productive, an entrepreneurial self-starter
+Demonstrable experience coaching junior members of your teams
+
+About Business Unit
+
+The IBM Finance organization is responsible for driving enterprise performance and transformation. We are the financial stewards of IBM, delivering IBM’s financial strategy, developing new business models, and mitigating enterprise risk. Do you have a passion for creating business value? Join our team in accounting, financial planning, pricing, business controls, tax, treasury, business development (acquisitions & divestitures), and global financing.
+
+Your Life @ IBM
+
+What matters to you when you’re looking for your next career challenge?
+
+Maybe you want to get involved in work that really changes the world? What about somewhere with incredible and diverse career and development opportunities – where you can truly discover your passion? Are you looking for a culture of openness, collaboration and trust – where everyone has a voice? What about all of these? If so, then IBM could be your next career challenge. Join us, not to do something better, but to attempt things you never thought possible.
+
+Impact. Inclusion. Infinite Experiences. Do your best work ever.
+
+About IBM
+
+IBM’s greatest invention is the IBMer. We believe that progress is made through progressive thinking, progressive leadership, progressive policy and progressive action. IBMers believe that the application of intelligence, reason and science can improve business, society and the human condition. Restlessly reinventing since 1911, we are the largest technology and consulting employer in the world, with more than 380,000 IBMers serving clients in 170 countries.
+
+Location Statement
+
+IBM wants you to bring your whole self to work and for you this might mean the ability to work flexibly. If you are interested in a flexible working pattern, please talk to our recruitment team to find out if this is possible in the current working environment.
+
+Being You @ IBM
+
+IBM is committed to creating a diverse environment and is proud to be an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, gender, gender identity or expression, sexual orientation, national origin, genetics, pregnancy, disability, age, veteran status, or other characteristics. IBM is also committed to compliance with all fair employment practices regarding citizenship and immigration status.
+Industry
+Computer Hardware
+Employment Type
+Full-time
+Job Functions
+Other

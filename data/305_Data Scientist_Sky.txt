@@ -1,0 +1,61 @@
+Data Scientist
+Sky
+Isleworth, England, United Kingdom
+Want to do the best work of your life? With 24 million customers in 7 countries, make your mark at Europe's leading media and entertainment brand. A workplace where you can proudly be yourself; our people make Sky a truly exciting and inclusive place to work.
+
+Data science is at the heart of decision making in Sky and drives a majority of decisions across marketing, customer interactions and customer services at Sky. We are scaling up our data science practice to transform how we manage customers across all life cycles for both experience profitability. We have built and successfully deployed intelligence into Sky and are already delivering realisable value into the business.
+
+What You'll Do
+
+Responsible for developing and driving actionable customer intelligence from our core data assets using advanced analytics
+Develop advanced analytics algorithms exploiting our rich data assets including viewing behaviours and content engagement on multiple platforms (linear, on demand, streaming etc), online engagement with Sky digital (apps, website), customer service interactions, service quality and performance information and customer metrics
+Engage with key stakeholders (marketing, retention, service, finance) to understand business objectives and support these objectives through best use of advanced analytics approaches.
+Engage with our technology teams and data engineers to build solutions for managing customer treatments at Sky.
+Strengthen our internal data science capabilities by continuously innovating and driving new ideas, building technology partnerships with our vendors, training and developing our people and creating a world class data science team at Sky.
+What You'll Bring
+Experience in at least one advanced analytical area including Predictive Modelling, Optimisation, Clustering or NLP.
+Python programming for modelling and/or data analysis is essential
+Experience using SQL for data extraction, feature development etc. is essential
+Ability to quickly understand a business objective, problem solving to create an analytical solution and stakeholder communication
+A commercial outlook of the applications of data science to drive commercial value – everything we do drives value into the business.
+Experience in data engineering, data modelling for advanced analytics, data processing on cloud, model management and app deployment on cloud is highly desirable.
+Team Overview
+
+Data, Technology & Analytics (DTA) at Sky is on a mission to bring customers more of what they love by unlocking the power of data and making Sky more relevant. We are leading the way in many areas of data, from delivering business critical reporting, providing an essential analytics platform to an elite team of data scientists and analysts. Our solutions are essential to hundreds of users, providing key insights on Sky's customers, products and viewing content and a whole lot more.
+
+The Rewards
+
+There's a reason people can't stop talking about #LifeAtSky. Our great range of rewards really are something special, here are just a few:
+Sky Q, for the TV you love all in one place
+A generous pension package
+Private healthcare
+Discounted mobile and broadband
+Where You'll Work
+
+Osterley
+
+Our Osterley campus is a 10-minute walk from Syon Lane train station. Or you can hop on one of our free shuttle buses that run to and from Osterley, Chiswick Park, Gunnersbury, Acton Town and Ealing Broadway tube stations. There's also plenty of parking, bike shelters and showers.
+
+On campus you'll find six subsidised restaurants and a Waitrose. You can keep in shape at our subsidised gym, catch the latest shows and movies at our cinema, get your car washed and even get pampered at our beauty salon.
+
+Inclusion
+
+Recognised as an 'Inclusive Top 50 Employer' and a 'Times Top 50 Employer for Women', we're working hard to ensure we're a truly inclusive place to work. This means we don't just look at your CV. We're more focused on who you are and the potential you'll bring to Sky. We also know that everyone has a life outside work, so we're happy to discuss flexible working.
+
+And we'll do everything we can to support you during your application. If you need us to make any adjustments to our recruitment process, speak to our recruitment team who will be happy to support you.
+
+Why wait?
+
+Apply now to build an amazing career and be part of a brilliant team. We can't wait to hear from you.
+
+To find out more about working with us, search #LifeAtSky on social media. A job you love to talk about.
+
+Just so you know: if your application is successful, we'll ask you to complete a criminal record check. And depending on the role you have applied for and the nature of any convictions you may have, we might have to withdraw the offer.
+Seniority Level
+Entry level
+Industry
+Information Technology & Services Computer Software Financial Services
+Employment Type
+Full-time
+Job Functions
+Engineering Information Technology

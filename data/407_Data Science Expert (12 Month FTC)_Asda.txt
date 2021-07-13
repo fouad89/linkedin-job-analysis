@@ -1,0 +1,65 @@
+Data Science Expert (12 Month FTC)
+Asda
+Lutterworth, England, United Kingdom
+Job Id: 21289396
+
+We are seeking a talented Data Scientist with Python, R coding and Java expertise with the ability to work with large datasets using tools like Apache Spark. The ideal candidate should be able to design and deploy machine learning models into complex data pipelines with a micro-services approach. We operate to highest standards in our development process and would welcome a standout developer to play a pivotal role in developing the platforms for our multiple applications using latest cutting edge technologies. This is a great opportunity for candidates interested in challenging work on strategic products.
+
+The role
+
+A highly skilled Python/Java/R developer with good data manipulation experience is required to work on our applications. This role would work closely with the architect and the user community to translate the user requirements to scalable solutions. Candidate would be responsible for developing prototypes, design artifacts and real implementations. Candidate should continue to conduct research on new products and technologies, to ensure they and the team are aware of the latest products available. They would also ensure that the application components are built to the highest standards across the application lifecycle with a constant eye for process improvement through unit testing automation, build and deployment.
+
+The requirements
+5– 7 years of industry experience
+Strong knowledge of Python, R and/or Java
+Expertise creating high level visualizations
+Experience designing and implementing machine learning models and/or solutions.
+Excellent analytical, debugging and problem solving skills
+In addition to above, the person should be strong in one of the below tech stack (with reasonable knowledge about the other tech stack)
+Oracle - PL/SQL and able to write queries , stored procedures, Indexes , triggers
+Be able to work with large datasets with tool such as Apache Spark.
+Version control systems such as Git knowledge.
+Any experience with the following will be considered added advantage
+ETL tools
+Docker and/or similar containerization tools.
+Agile development
+API development frameworks
+Soft skills
+Organized and able to deliver in multiple projects in the stream
+Excellent communication and presentation skills
+Ability to work independently and in a team
+-------------------------------------------------
+
+Job Family Group:
+
+Technology
+
+-------------------------------------------------
+
+Job Family:
+
+Applications Development
+
+------------------------------------------------------
+
+Time Type:
+
+------------------------------------------------------
+
+Citi is an equal opportunity and affirmative action employer.
+
+Qualified applicants will receive consideration without regard to their race, color, religion, sex, sexual orientation, gender identity, national origin, disability, or status as a protected veteran.
+
+Citigroup Inc. and its subsidiaries ("Citi”) invite all qualified interested applicants to apply for career opportunities. If you are a person with a disability and need a reasonable accommodation to use our search tools and/or apply for a career opportunity review Accessibility at Citi.
+
+View the "EEO is the Law" poster. View the EEO is the Law Supplement.
+
+View the EEO Policy Statement.
+
+View the Pay Transparency Posting
+Industry
+Banking Financial Services Investment Banking
+Employment Type
+Full-time
+Job Functions
+Engineering Information Technology

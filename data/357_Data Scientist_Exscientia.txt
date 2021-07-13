@@ -1,0 +1,50 @@
+Data Scientist
+Exscientia
+Oxford, England, United Kingdom
+Exscientia is at the forefront of Artificial Intelligence (AI) driven drug discovery and the first company to design drug molecules entirely by AI that are heading into the clinic. We are a technology company that combines the latest science and engineering with knowledge acquired from experienced medicinal chemists to automate drug discovery and develop novel therapeutics on a large scale.
+
+We are currently seeking data scientists who will work closely with our business development and drug discovery teams to identify and evaluate novel potential drug targets.
+
+You will be an integral member of a world-class team of developers, engineers, researchers and drug hunters focused on applying AI to achieve unprecedented productivity gains in small molecule drug discovery. Bring your whole self to work and use your hard-earned skills for the benefit of the whole of society and deliver AI as a force for good.
+
+What will you be doing in this role?
+Primary responsibilities will be the creation and maintenance of a portfolio of validated and emerging commercially attractive targets.
+Support our business development organisation through assessment of target opportunities.
+Develop and implement novel statistical approaches to analyse diverse genome scale life science data types
+Implement and utilise machine learning methods to extract biological information from text
+Analysing, transforming, and integrating large amounts of structured data (e.g. omics and patient derived data) including with the use of knowledge graphs.
+Evaluate outcomes and present results with project teams
+Staying up-to-date with novel bioinformatics and AI methodologies, tools and applications
+What will you bring to the role?
+PhD in bioinformatics, data science or in life sciences related disciplines with demonstrable experience in collecting, mining and visualising complex biological data.
+Biological domain knowledge in oncology, immunology or immune-oncology
+Knowledge of common bioinformatics databases, resources and tools.
+Scripting skills in R or python
+Strong organisational and time management skills with the ability to prioritise and balance competing demands.
+Strong oral and written communication skills and ability to communicate complex ideas to both technical and nontechnical audiences.
+Ability to work independently and co-operative as a member of a multidisciplinary team.
+A positive "can-do" and result oriented attitude, with openness to new ideas and the ability to work flexibly in a highly dynamic environment.
+Desirable Skillset
+Experience of target identification and validation as part of an industrial focused drug discovery project.
+Generation and analysis of knowledge graphs or other network analysis experience
+Experience with modern natural language processing approaches.
+Clinical expertise
+Knowledge of advanced statistical or machine learning methods
+Experience of analysing and interpreting human genetic data
+What can you expect from us?
+The opportunity to make a positive contribution to patients by revolutionising the pharmaceutical industry
+Work alongside experience drug hunters and learn about drug discovery from start to clinical candidates
+Joining a rapidly growing organisation with world class technical and scientific leaders
+An opportunity to develop your career with us at your own pace as we grow our organisation
+Opportunity to be inventors on multiple patents
+A highly competitive compensation package to support our employees as we continue to grow and thrive
+The chance to join our inclusive, collaborative and intellectually stimulating culture.
+Exscientia embraces equal opportunity and is committed to providing a diverse and inclusive community where everybody feels welcome. We welcome applications from all people regardless of background.
+Seniority Level
+Entry level
+Industry
+Computer Software Research Biotechnology
+Employment Type
+Full-time
+Job Functions
+Engineering Information Technology

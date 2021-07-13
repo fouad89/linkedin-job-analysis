@@ -1,0 +1,59 @@
+Technical Data Analyst
+Planet Forward
+Wales, United Kingdom
+Posted by
+Shaunna Doherty
+Recruiter at Planet Forward
+Send InMail
+We are an award-winning Global Fintech business who enable our clients to use software and APIs to accept payments, send pay outs, and manage their businesses online.
+
+We are looking to recruit a Data Analyst with advanced SQL Knowledge and a passion for turning data into insight and action to join our team on a permanent basis.
+
+You will be a thought partner to the stakeholder community and help them understand data and generate further questions. This individual will dig into raw and processed data (e.g., backend DBs, Google Analytics, and event/message data), transform information into visualizations/self-service reporting using Looker, Excel, and effectively articulate the story behind the data.
+
+The role involves close interaction with product management, user design groups, data engineers and software development teams and, as such, prior experience in a similar role and strong communication and interpersonal skills are essential.
+
+Duties and Responsibilities
+
+Partner with key stakeholders to prioritize, scope, and perform in-depth analyses that drive and inform strategic decisions, primarily related to portfolio assessment, financial modeling, and growth initiatives.
+Develop insights to answer complex questions via thorough and well-designed data analyses using Looker, SQL, and other tools to optimize learning outcomes.
+Oversee advanced data analytics and interpretation, define key performance indicators and other performance metrics.
+Collaborate with Data Engineering teams to map source data, create data pipelines, and define business rules and reporting requirements to support business units with the onboarding of new data.
+Provide thought leadership with internal stakeholders so that they may be able to better leverage insights.
+Drive optimization and data-minded culture inside the company.
+Develop frameworks, models, tools, and processes to ensure that analytical insights can be incorporated into critical decision-making.
+Connect with Product and Engineering teams to produce instrumentation to generate insightful measurements on our new and existing products.
+Identify information and visualizations required to tell a compelling and meaningful story using data, establish baselines, and monitor growth or decline in metrics.
+Contribute to tools, documentation, and instruction to enable our customers to use data independently increasingly.
+Serve as a point of contact with our business partners and cross-functional teams for the day-to-day management of the Data Analytics program.
+Help create and maintain the plan, schedules, and other documentation required to manage deliverables to our customers effectively.
+
+Qualifications
+
+Bachelor's degree in statistics, mathematics, computer science, or a related quantitative discipline
+5+ years of experience with advanced SQL Knowledge (Snowflake, BigQuery, Redshift, Oracle, PostgreSQL, MSSQL, etc.).
+3+ years of experience with reporting/visualization tools, design, and standards – Looker, Tableau, PowerBI, etc.
+Strong knowledge of Looker / LookML highly desired.
+Strong understanding of data preparation, processing, and classification.
+Familiarity with the software product lifecycle.
+Experience working within an Agile environment.
+Must be proactive, demonstrate initiative, and be a logical thinker.
+Extensive consultative skills, including understanding and applying stakeholder requirements, drawing out unforeseen implications, and making design recommendations.
+The ability to define design reasoning and understand potential impacts of design requirements.
+Strong collaboration, prioritization, and adaptability skills.
+Strong leadership, communication, and collaboration skills with a track record of taking solution ownership.
+Strong problem-solving and troubleshooting skills
+ Package Includes: 
+ Unlimited Holiday Allowance, plus bank holidays / Bonus / 4 x death in service benefit / income protection / medical / monthly home office allowance £60 / one off payment remote set up allowance to pay for desk, chair etc. 
+
+Please press apply now to submit your application. Alternatively, if you would like further information on this position or other positions win a similar sector, please feel free to contact Shaunna Doherty on +44121 468 0019 for a confidential conversation.
+ We are an equal opportunities Business. We welcome applications from all suitably qualified candidates regardless of their race, sex, disability, religion/belief, sexual orientation or age.
+Each company within the Planet Equity Group is a “data controller”. This means that we are responsible for deciding how we hold and use personal information about you in line with GDPR guidelines. Full details regarding how we hold your data is available within our Privacy Notice accessible at our website.
+Seniority Level
+Mid-Senior level
+Industry
+Computer Software Information Technology & Services Computer Games
+Employment Type
+Full-time
+Job Functions
+Analyst Consulting Other

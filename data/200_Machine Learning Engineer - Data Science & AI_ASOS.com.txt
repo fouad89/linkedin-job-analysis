@@ -1,0 +1,36 @@
+Machine Learning Engineer - Data Science & AI
+ASOS.com
+London, England, United Kingdom
+ASOS Technology is going through an exciting period of transition and major investment. This includes a number of strategic programmes to deliver the amazing technology and business solutions to support our ambitious global growth plans. At the heart of these plans is the rebuilding of our digital platforms and channels to provide the best shopping experience for our customers. Our plan is designed to enable us to really put our mobile experience first, enable personalisation and support a data driven organisation. We are also making significant investments in all our Buying, Merchandising, Finance and People systems with the latest toolsets and applications to accelerate the next phase of our global growth. We are also improving our ways of working within Technology to enable autonomous platform development and improve our engineering and agile practices.
+
+ASOS is one of the UK’s top fashion and beauty destinations, expanding globally at a rapid pace. Our values are to be authentic, brave and creative, and we live and breathe these in everything we do.
+
+We believe fashion can make you look, feel and be your best and, with technology in our DNA, we deliver the latest trends to our digital-obsessed 20-something market. Our award winning Tech teams sit at the heart of our business. We deliver technical innovation and pioneer incredible solutions, which are crucial to our continued success. We’re extremely ambitious and thrive on the individuality of our amazing employees. Our values encompass everything needed for our tech people to be the thought leaders of tomorrow.
+
+Machine Learning Engineer
+
+We are looking for Machine Learning Engineers to join our team and play a key role in helping ASOS provide the best shopping experience to our millions of customers. The role offers broad exposure to ASOS, requiring close collaboration with retail, marketing and technology divisions. You will be part of a highly innovative AI platform working alongside data engineers and machine learning scientists to solve and productionise interesting and difficult problems and leveraging cutting edge technology. At ASOS, as an online only retailer, we have unique datasets – transactions and click streams for millions of customers and photos, videos, and text descriptions of hundreds of thousands of products.
+
+The ideal candidate will have a strong technical background and experience solving tough problems with large datasets. You will be a highly intelligent self-starter, able to work independently with a strong attention to detail.
+
+What You'll Be Doing...
+Building and improving internal and external facing data products as part of a cross-functional tea m
+Driving the implementation and scale-up of algorithms for measurable impact across the business
+Deploying batch/online machine learning models at the scale that ASOS operates
+Creating the tool s , frameworks and infrastructure that enables the accel eration of our ML products delivery and optimisation of our operations
+Taking an active part in our AI platform to establish ML Ops standards and drive quality across our estate
+
+We'd love to meet someone with...
+An advanced degree in Computer Science, Machine Learning or similar
+Hands-on e xperience in implementing and deploying machine learning models at scale in Python, Scala, .NET or similar languages
+Comfortable working with at least one machine learning framework ( TensorFlow , PyTorch , XGBoost , scikit -learn , etc…)
+Experience accessing and combining data from multiple sources and building data pipelines in a cloud environment – in particular large sca l e data computation technologies like Apache Spark
+Strong u nderstanding of software development lifecycles and engineering practices (Data pipelines, API workflows, CI/CD , containerisation ) – specifically ML Ops principles, techniques and tooling
+The ability to work collaboratively and proactively in a fast-paced environment alongside both scientists, engineers and non-technical stakeholders
+An understanding of the retail, marketing, and/or ecommerce industry is a plu s
+Industry
+Apparel & Fashion Internet Retail
+Employment Type
+Full-time
+Job Functions
+Engineering Information Technology

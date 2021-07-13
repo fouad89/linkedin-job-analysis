@@ -1,0 +1,53 @@
+Refine by titles
+data scientist
+data analyst
+Posted by
+Ruth Sena Amusquivar
+Talent Acquisition Teamlead at Brambles
+Send InMail
+Brambles companies, including CHEP, help move more goods to more people, in more places than any other organisation on earth. Our 330 million pallets, crates and containers are continuously in motion, forming the invisible backbone of the global supply chain and the world’s biggest brands trust us to help them transport their goods more efficiently, sustainably and safely. As pioneers of the sharing economy, Brambles created one of the world's most sustainable logistics businesses through the share and reuse of its platforms under a model known as ‘pooling’. Brambles primarily serves the fast-moving consumer goods (e.g. dry food, grocery, and health and personal care), fresh produce, beverage, retail and general manufacturing industries. The Group employs more than 10,000 people and operates in over 60 countries with its largest operations in North America and Western Europe. For further information, please visit www.brambles.com.
+
+Job Description
+
+Join our Digital & Data Team where you will help us change the way the world moves goods by using information to power smarter, more sustainable supply chains. As a Data Analyst, you will have the opportunity to create unparalleled insights that transform our business and supply chains around the world. You will make a tangible impact on our internal and external customers by building data-driven solutions and providing analytical insights. 
+You will:  
+
+Have an opportunity to make a significant impact on our business. 
+Massive data sets with untapped potential. 
+Diverse challenges and scope for innovation. 
+330+ million pallets across 300,000+ supply chains, where improvements you make will lead to big outcomes.  
+Apply cutting edge technologies and to real-world challenges. 
+Improve the effectiveness of the business so that we can do more, with less, positively impacting the environment. 
+ Key Accountabilities:  
+
+Develop Machine Learning algorithms to improve the effectiveness of key business functions.   
+Productionize Models using Cloud Technology (AWS)  
+Utilize your inquisitive mindset, analytical skills & ask the right questions to understand complex business challenges. 
+Present analysis to stakeholders, using Data to justify business recommendations.  
+Work in a cross-functional team of Data Scientists, Data Engineers, BI Developers & Subject Matter Experts  
+ Previous Experience:  
+
+Building, analysing & producing Machine Learning Systems  
+Use of Cloud Technology, Python & SQL 
+Understanding complex business requirements & communicating with Stakeholders 
+Ideally, you have some experience with Computer Vision 
+ What we offer:  
+
+Competitive Remuneration package 
+Annual bonus based on company & personal performance 
+Opportunity to take part in the Brambles share program  
+Fully committed to a future of flexible working  
+Pension contribution and Private Medical insurance 
+Various health & wellbeing events and programs  
+25 Days holidays per year 
+3 Working Days per anum to use for social projects  
+ As an inclusive employer, Brambles wants to see every candidate performing at their best throughout the job application process, interview process and whilst at work. We therefore encourage you to inform your Talent Acquisition Partner of any reasonable adjustments you might need to enable this to happen. 
+Brambles employs more than 10,000 people and operates in over 60 countries with its largest operations in North America and Western Europe. For further information, please visit www.brambles.com. 
+Seniority Level
+Associate
+Industry
+Logistics & Supply Chain
+Employment Type
+Full-time
+Job Functions
+Information Technology

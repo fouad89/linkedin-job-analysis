@@ -1,0 +1,87 @@
+Senior Specialist - Digital Assurance Solutions (Data Scientist)
+DP World
+United Kingdom
+Job Purpose
+
+This role would actively contribute to drive the Digital Transformation of Group Internal Audit (GIA) by providing innovative digitalized solutions to enhance the deliverables and overall performance of the department.
+The role is responsible to build new analytic dimensions to provide strategic insights to the Group Internal Audit, Enterprise Risk & Resilience and Fraud Risk Services teams by analyzing both internal and external data sources. 
+Provide subject matter expertise in digital innovation within internal audit universe.
+Contribute to expansion of ‘DAS Universe’ a digital map of the DAS footprint, and achievement of DAS objectives i.e. provide real time updates on potential risk triggers related to Risk, Control and Governance stand point of DP World from strategic to operational levels.
+ Key Accountabilities
+
+Analytics
+The role is responsible for delivering cutting-edge analytic services to GIA team, enabling them to make fact-based decisions. Based on multiple data sources, to manage the generation of insights that help Group Internal Audit team to gain understanding of potential risks, governance and audit concerns.
+Design and implement predictive models to provide insights and early warning to the GIA highlighting areas of importance and escalation.
+
+Consulting
+Assist Manager of DAS to Drive Smarter Audit identifying opportunities for continuous improvement through digitization.
+Advise and guide GIA stakeholders on how to adopt digital assurance and what tools and technologies could be utilized to ‘change the way we work’ to enable smarter audit.
+Develop and maintain a strong stakeholder network with high level of trust that facilitates action-ability of insights.
+Assist & guide DAS Analysts where assigned on specific project implementations.
+
+Innovation
+Build a strong internal and external network, informing the GIA community on the latest trends and technological advances and continuously strive to identify use cases for adopting such technologies and practices.
+Identify avenues for improvements within GIA through analytics
+Stay current with emerging tools and techniques in machine learning, statistical modeling & analytics and identify opportunities to educate the GIA team and apply on DAS work.
+
+Responsibilities 
+Contribute to gradually move of the GIA team towards real time audit analytics by designing advanced analytic models.
+Identify valuable data sources and automate collection processes in collaboration with relevant IT teams.
+Undertake preprocessing of structured and unstructured data.
+Analyze large amounts of information to discover trends and patterns.
+Build predictive models and machine-learning algorithms to support predict potential control failures or risk exposures.
+Combine models through ensemble modeling.
+Present information using data visualization techniques.
+Act as a thought leader for cutting edge technology topics.
+Contribute to internal audit activities for overall process improvements and innovation.
+Able to understand business requirement and communicate effectively with business stakeholders.
+Clearly explain what the data and results indicate and how it can be utilized to support the GIA objectives.
+Demonstrates know-how of company and business process flows and company’s business and applies this knowledge to identify recommendations.
+Perform all assigned audit duties in manner that reflects the highest professional standards and complies with the guidelines of the Institute of Internal Auditors.
+Complies with Fatal Risk Standards, Health & Safety Policy and safe working practices, ensure responsibility for safety and discipline in work area and report accidents and ‘near misses’ in accordance with defined safety procedures.
+Act as an ambassador for DP World at all times when working; promoting and demonstrating positive behaviors in harmony with DP World’s Founder’s Principles, values and culture; ensuring the highest level of safety is applied in all activities; understanding and following DP World’s Code of Conduct and Ethics policies.
+Perform and assist on other related duties as assigned
+ Qualifications, Experience and Skills
+
+Qualifications and experience
+University degree or Masters in the field of Statistics, AI, Data Analytics or equivalent
+7+ years of experience in delivering advanced analytics projects
+Expertise in performing data-mining, modeling and hypothesis generation in support of high-level business goals.
+Programming –expert in one or more of the programming languages like R, Python, SAS etc.
+Hands on experience in scripting, data modelling, data mining, managing ETL processes.
+Proven visualizations expertise that understands the right output for each audience and creates best in class visually stunning and intuitive materials.
+Advanced knowledge and experience in using visualization tools like Power BI, Tableau, QlikView etc.
+Strong knowledge and experience in implementing RPA or AI based solutions to resolve practical problems would be advantageous.
+
+
+Other skills
+Personal Drive - willingness and desire to go the extra mile in solving difficult business problems, even when it lies outside traditional boundaries
+Team Player - willingness desire to be part of a strong team and contribute to a strong culture within and across organizations; in support of Sales, Product, Ops and other organizations.
+Understanding of benefits od digitalization, value adds, and how these ties back to risk, controls, business needs
+Ability to adapt to changing environments and willing to take challenges
+Strong communication skills and a desire to work in a team environment
+Proven experience communicating technical concepts to a non-technical audience
+Excellent verbal and written communication skills
+Strong organizational and multi-tasking skills
+Good cultural awareness and ability to work with employees from different cultural and national backgrounds
+
+About Us
+We are the leading provider of worldwide smart end-to-end supply chain & logistics, enabling the flow of trade across the globe. Our comprehensive range of products and services covers every link of the integrated supply chain – from maritime and inland terminals to marine services and industrial parks as well as technology-driven customer solutions.
+
+We deliver these services through an interconnected global network of 128 business units in 60 countries across six continents, with a significant presence both in high-growth and mature markets. Wherever we operate, we integrate sustainability and responsible corporate citizenship into our activities, striving for a positive contribution to the economies and communities where we live and work.
+
+Our dedicated, diverse and professional team of more than 53,220 employees from 131 countries is committed to delivering unrivaled value to our customers and partners. We do this by focusing on mutually beneficial relationships – with governments, shippers, traders, and other stakeholders along the global supply chain – relationships built on a foundation of mutual trust and enduring partnership.
+
+We think ahead, anticipate change and deploy industry-leading technology to further broaden our digital vision to disrupt world trade and create the smartest, most efficient and innovative solutions, while ensuring a positive and sustainable impact on economies, societies and our planet.
+
+DP World is committed to the principles of Equal Employment Opportunity (EEO). We strongly believe that employing a diverse workforce is central to our success and we make recruiting decisions based on your experience and skills. We welcome applications from all members of society irrespective of age, gender, disability, race, religion or belief.
+
+By submitting your resume and application information, you authorize DP World to transmit and store your information in the world-wide recruitment database, and to circulate that information as necessary for the purpose of evaluating your qualifications for this or other job vacancies.
+Seniority Level
+Mid-Senior level
+Industry
+Logistics & Supply Chain
+Employment Type
+Full-time
+Job Functions
+Information Technology Strategy/Planning Science

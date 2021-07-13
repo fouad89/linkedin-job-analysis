@@ -1,0 +1,80 @@
+Data Science Manager
+Papier
+London, England, United Kingdom
+Founded in May 2015, Papier is a fast-growing, London based start-up, which has raised ~£18.5 million since launch and is changing the face of online personalisation. Papier offers a sophisticated user experience and delivers beautifully designed stationery, on-demand and all over the world.
+
+What's the job?
+
+We are now looking for an experienced Data Scientist to join our Data team and establish the Data Science function defining and building what it looks like at Papier, in order to help us achieve our mission to inspire people to connect with each other more often and in more meaningful ways.
+
+Reporting into the Data Director, you will use statistics, computer science, and business domain knowledge to extract meaningful insights from data and turn them into business value.
+
+You’ll be a subject matter expert in data science methodologies, and someone who enjoys applying predictive modelling to business problems in order to get tangible results. A strong collaborator, you will be confident in communicating across the business, sharing your knowledge and advocating for the new function.
+
+This is an exciting opportunity for an experienced Data Scientist looking to make the next step and establish and manage the function in a growing business on the cusp of Series C funding and already operating in three markets.
+
+What will you do?
+
+Statistically enhanced reporting – Inform business processes, reporting, and decision making with statistically sound data models.
+Create and maintain repeatable data models that effectively calculate performance across strategic priorities, such as non-click-based marketing channels.
+Explore new data sources and enhance BI data models, like attribution and LTV, with meaningful inputs that improve accuracy and deepen our understanding of our business.
+Develop and incrementally improve predictive models to forecast future outcomes which will improve planning accuracy and enable faster decision making.
+Design, test, and monitor quality controls to ensure high levels of accuracy and confidence
+Build tools that effectively disseminate the results of data models to stakeholders
+
+Data Science as a service – Advise cross-functional projects with statistical rigour.
+Acquire, process, interrogate, and analyse data to produce insightful and impactful results
+Unpack high-level results to identify the underlying drivers and incremental impact
+Provide subject matter expertise and quality assurance on complex data analysis
+Collaborate with stakeholders to ask the right questions, develop domain knowledge, and identify key factors that expedite the data discovery and insight process
+
+Data Science advocacy – Advocate for applications of Data Science across the business.
+Proactively identify use cases to improve business performance with Data Science
+Define and educate stakeholders on capabilities, methodologies, and best practices
+Evangelize the creative use of data science to solve challenges
+Effectively identify projects that will add tangible value and have a high chance of success
+
+Machine learning – Develop Papier’s machine learning capabilities to better use models that automatically inform technology to take smarter actions based on data.
+Advise and support cross-functional, 3rd party ML models across Papier to be best-in-class
+Be pragmatic on when to build vs. buy Papier’s ML capabilities
+Create machine learning models that use data and technology to deliver improved results
+Build production-ready, value-add models; monitor, measure, & report their performance
+Design models that are explainable and repeatable and a ML infrastructure that is scalable
+
+
+About You
+
+Requirements
+
+You will succeed in this role if you have
+At least 3+ years of experience in Data Science with proven practical applications of predictive modelling to business problems with tangible results
+A quantitative degree in a STEM subject or equivalent experience.
+Fluency using languages to analyse and model data such as SQL, Python, and R.
+Proficiency with advanced statistics and statistical data models.
+Advanced knowledge of machine learning models and infrastructure such as AWS Machine Learning, Sagemaker, and/or other comparable software.
+A results-orientated attitude, looking to derive real impact from insights
+Excellent communication skills, you enjoy making complex ideas easy to understand, and collaborating with stakeholders across the business
+Ideally, experience with ecommerce data sets
+
+
+Benefits
+
+What will you get?
+A seat at Maison Papier, our lovely Camden office (we’re trialling a new hybrid working pattern of 2-3 days per week in the office)
+Enrolment into Papier Pension
+Enhanced Parental Leave Policies
+Cycle to Work Loan Scheme
+£40 per month cultural allowance to spend on anything inspiring!
+£75 Personal Stationery Allowance
+Generous Staff Discount
+Access to Mental Health & Wellbeing Resources
+Team Lunches & Trips
+Friendly and fantastic team!
+Seniority Level
+Mid-Senior level
+Industry
+Marketing & Advertising Internet Retail
+Employment Type
+Full-time
+Job Functions
+Analyst

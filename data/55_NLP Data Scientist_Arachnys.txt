@@ -1,0 +1,57 @@
+NLP Data Scientist
+Arachnys
+London, England, United Kingdom
+We are looking to expand our tech team and have some really exciting opportunities coming up! if you are interested in joining our team and think you would be a great fit for any of the upcoming roles, please apply below and we will be in touch with you soon
+
+What You'll Be Doing
+
+As our NLP Data Scientist, your role will be:
+Responsible for driving R&D progress to support the development of new models and product enhancements
+Analysing unstructured data volumes to enhance internal knowledge of our data assets
+Analysing unstructured data to build prototype solutions for important business problems
+Working with other data scientists and engineers to develop prototypes into product features and enhancements
+Leveraging off-the-shelf NLP models as well as training & evaluating our own approaches
+Responsible for ML model design and execution
+Communicating findings with technical and non-technical audiences
+Bringing creative ideas to work and enjoying the problem solving process
+Comfortable working in a team environment and taking direction when required
+
+
+The Essentials You Will Need For This Role
+Significant experience of applied NLP across academia or industry, with commercial experience being ideal
+Excellent Python skills. We are especially looking for someone with a good working knowledge of common ML/NLP libraries and frameworks, such as Scikit-learn, PyTorch, spaCy etc
+Ability to identify elegant solutions to complex problems
+Advanced understanding of Machine Learning theory and associated algorithms
+Demonstrable experience training and evaluating ML models
+Comfortable with software engineering principles
+A healthy degree of pragmatism
+
+The "Nice to Haves" that will help you in this role
+Experience deploying NLP based solutions in a commercial setting
+Experience of either building or leveraging existing deep learning based language model solutions
+Multilingual modelling and translation experience would be beneficial
+Conceptual understanding of search relevance and applicability of NLP to the problem space
+Experience using Elasticsearch
+
+
+Benefits
+£500 budget for home-office equipment (we have an excellent remote-first working setup).
+£2,000 training budget available to spend on books, courses or conferences once you've been with the company for a year.
+Employee wellbeing support - Free and completely confidential online therapy sessions and wellbeing resources available to all of our staff via Spill
+Bonus.ly - Our in-house micro-rewards scheme redeemable for haircuts, spotify memberships, games consoles and much more.
+Generous parental leave.
+A diverse and growing remote social culture that already includes gaming (board and video) and book club, as well as daily social calls and weekly coffee buddies.
+Career progression - Arachnys is a growth-stage company and there are plenty of opportunities to work across different parts of the stack and progress in your career.
+Amazing colleagues - everyone at Arachnys cares passionately about what they do and our teams are filled with friendly, smart and highly collaborative individuals.
+
+Our commitment to Diversity & Inclusion
+
+We're proud to have a team made up of individuals from all over the world. We're passionate about diversity and inclusion, and we believe variety in age, race, ethnicity, disability, gender or sexual orientation enhances our work and our environment.We commit to champion an environment where all differences are valued, practices are equitable and everyone experiences a sense of belonging.
+Seniority Level
+Entry level
+Industry
+Information Technology & Services Computer Software Financial Services
+Employment Type
+Full-time
+Job Functions
+Engineering Information Technology

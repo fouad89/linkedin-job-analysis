@@ -1,0 +1,40 @@
+Data Platform Analyst
+Wavemaker
+London, England, United Kingdom
+Reports to: Global Data and Platforms Director
+
+Role context:
+The Data Platform Analyst sits within Wavemaker Technology team. The Technology team, in turn, is part of the Wavemaker Global Consulting Hub. The role of the Consulting Hub is to set Wavemaker strategy across the technology agenda, to help our largest clients and client teams deliver the highest quality consulting services that complement our media agency responsibilities. 
+You will be working on a variety of projects focusing on the collection, aggregation and visualization of data. You will work with some of the worlds leading brands to help shape their data strategy and to drive value for Wavemaker. 
+
+Core responsibilities: 
+       Automated reporting including key stages data collection, data harmonization, data transformation and data visualization steps (ETL) 
+       Datawarehouse architecture and management  
+       Data visualization, creation and support of dashboards 
+       Develop automated data QA processes and solutions 
+       Communicate technical terms to non-technical people in easy and understandable way 
+       Requirements gathering for new projects 
+       Evolving product offerings – how can we improve what we do today? 
+ Required skills: 
+       Proven Experience as a Business Analyst
+       Development skills
+       SQL 
+       Power BI 
+       Tableau 
+       Excel 
+       May be experienced with cloud tech such as Google Cloud and Azure 
+ About Wavemaker
+We believe there always is a better way to grow. We positively provoke growth for our clients by reshaping consumer decision-making and experiences through media, content and technology. Fueled by the world’s most powerful consumer data, we understand where and how marketing can intervene decisively to help the world’s leading brands win more sales.
+Our 7,600 people across 90 markets provoke growth through:
+deep knowledge of our clients’ business
+confidence to challenge what’s gone before
+the support to go further than we thought possible
+We are a part of GroupM, WPP’s global media investment management company. Discover more on wavemakerglobal.com, Twitter and LinkedIn
+Seniority Level
+Mid-Senior level
+Industry
+Marketing & Advertising
+Employment Type
+Full-time
+Job Functions
+Information Technology

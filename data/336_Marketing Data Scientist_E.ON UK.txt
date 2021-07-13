@@ -1,0 +1,49 @@
+Marketing Data Scientist
+E.ON UK
+Street, England, United Kingdom
+We are looking for a data whizz, a story-teller, a strategist - or in other words a Marketing Data Scientist to analyze complex marketing and customer data and present insight-led stories that inspire action. As a Marketing Data Scientist on the Marketing team, you will join an organization whose mandate is to drive E.ON Next's revenue growth with special focus on our online acquisition. This includes facilitating discussions with Strategic Marketers to understand marketing objectives and define KPIs, distilling customer and marketing data from various sources and presenting actionable insights through the art of storytelling.
+
+We spread the energy feel-good by:
+
+Lowering CO2 levels through 100% renewable electricity.
+
+Hitting over 80% customer happiness by creating an amazing customer experience.
+
+Become the preferred energy supplier by smashing our Trustpilot score.
+
+Creating a happy place to work, grow, perform and deliver as part of one awesome team.
+
+Using data driven technology to constantly enhance and adapt our offering.
+
+Your responsibilities:
+
+Develop and implement an audience data strategy that spans all campaigns run out of E.ON Next;
+Identify and utilize internal and external data sources to build comprehensive segmentation strategies;
+Drive tactical campaigning such as driving offline customers online;
+Identify demand signals from first party and third-party customer data and partner with marketing and sales team to create targeted marketing campaigns and next best offers;
+Make use of data and analytics to fuel campaign or content ideation, design, and implementation and deliver actionable insight;
+Partner with marketing and sales stakeholders to design experiments and A/B tests that have clear goals and can be clearly interpreted, reported on and concluded from;
+Develop a rigorous, analytics-enabled, testing framework to drive real improvement in campaigns and customer engagement;
+Extract, transform and blend a diverse data set of data sources from systems and relational databases (e.g., CRM, SQL, Adobe Analytics) using tools such as Excel, Alteryx, SQL and Tableau;
+Flag and monitor data quality to ensure confidence in the data used for analysis;
+Be a great data storyteller. Synthesize complex data sets into clear, concise, and compelling insights that inspire action through powerfully engaging narratives that drive growth for our brand and business;
+Establish and advance use of a campaign management system, exploiting its function as a marketing tool to maximise renewals, cross-sell and engagement with the brand.
+
+Desired Skills and Experience
+We are looking for someone who has the following experience and skills
+Extensive experience as Data Scientist with focus on customer data and marketing
+Solid experience in building and activating an integrated 1st and 3rd party data strategy
+Strong analytical skills with the proven ability to work through large amounts of data
+Expert knowledge in data modeling concepts, especially for customer value and customer segmentation
+Solid knowledge of Martech tooling, incl. CDP, retention and A/B automation
+Expertise with standard data science tooling and build up of respective architecture
+Experience with product marketing in utility sector (energy, telecom,…) and/or with startup a plus
+BS degree in Engineering, Computer Science, Math or a related technical field would be benefitical
+Seniority Level
+Mid-Senior level
+Industry
+Utilities
+Employment Type
+Full-time
+Job Functions
+Marketing

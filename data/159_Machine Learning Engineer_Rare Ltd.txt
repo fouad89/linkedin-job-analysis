@@ -1,0 +1,42 @@
+Machine Learning Engineer
+Rare Ltd
+Atherstone, England, United Kingdom
+Overview
+
+Rare is a one-of-a-kind game studio where we create the kind of games the world doesn't have, games that are uniquely Rare! Working here offers opportunities unlike anywhere else. You'll be providing players with unforgettable shared experiences in games loved by millions worldwide. Our pirate adventure Sea of Thieves, launched in 2018, is still going strong - and alongside that we're busy creating our next magical world, Everwild, announced in 2019 to a global audience.
+
+We strive to make Rare an amazing place to work, embracing a culture of respect and building a supportive environment for our developers. Our custom-built Twycross studio is situated in the beautiful English countryside, surrounded by woodland and wildlife, with plenty of room for us to grow. Studio benefits are catered to making life easier for staff, including flexible working, a bonus scheme, an industry-leading pension package, private healthcare, mental health initiatives and free events for employees and their families.
+
+By joining Rare, you'll be joining one of the finest studios in the industry with support from the wider Xbox Game Studios network. We're always on the lookout for exceptional people who can bring their expertise and unique thinking to help make our team even stronger!
+
+ROLE PURPOSE
+
+Our Data Engineering team is expanding! We are looking for an experienced Machine Learning Engineer to join our crew. Do you have strong MLOps skills? Are you experienced with data services within Azure? Are you ready to tackle a variety of challenges around data structuring and transformation? Please get in touch to find out more!
+
+Responsibilities
+
+KEY ACCOUNTABILITIES
+Driving the use of machine learning to improve player experiences.
+Consulting with stakeholders, including engineering and insights teams to determine and refine machine learning objectives.
+Designing and delivering machine learning systems and self-running artificial intelligence (AI) software to automate predictive models.
+Documenting machine learning processes
+Championing MLOps best practice for model management and refinement
+Responsibility for compliance with organizational policies and privacy requirements.
+Working with the wider Data Engineering team on the Development and support of the Data architecture.
+Qualifications
+
+REQUIRED SKILLS AND EXPERIENCE
+A minimum 3 years of relevant experience with Azure, specifically Databricks/spark.
+Advanced proficiency with Python.
+Extensive knowledge of ML frameworks, libraries, data structures, data modelling, and software architecture.
+A self-starter who can effectively priorize, manage time and workload.
+A team player who can communicate effectively with other engineers and analysts.
+Microsoft is an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to age, ancestry, color, family or medical care leave, gender identity or expression, genetic information, marital status, medical condition, national origin, physical or mental disability, political affiliation, protected veteran status, race, religion, sex (including pregnancy), sexual orientation, or any other characteristic protected by applicable laws, regulations and ordinances.
+
+Benefits/perks listed below may vary depending on the nature of your employment with Microsoft and the country where you work.
+Industry
+Computer Hardware Computer Software Information Technology & Services
+Employment Type
+Full-time
+Job Functions
+Engineering Information Technology

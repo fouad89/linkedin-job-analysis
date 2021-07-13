@@ -1,0 +1,121 @@
+Data Engineer
+Elvie
+London, England, United Kingdom
+Description
+
+Life at Elvie - Meaningful work. Exceptional people
+
+We develop extraordinary and smart technologies designed to improve the lives of women. It's a fascinating and challenging area that requires us to solve the problems that no one else has ever tackled before.
+
+Our first product, Elvie Trainer, is an award-winning app-connected trainer that helps women strengthen their pelvic floor muscle via fun, five-minute workouts. It took the wellness industry by storm and is now available via the NHS Supply Chain. Our street cred is backed up by more than 12 awards for innovation and design, including the prestigious Red Dot Award and an IDA Design Award.
+
+Our second innovation: Elvie Pump, the world’s first silent hands-free, wearable breast pump, has received international praise, including being listed as one of the Times 100 best inventions in 2019 and ‘wearable design of the year’ at the Dezeen Awards.
+
+Our 3rd & 4th innovation: Elvie Catch and Elvie Curve launched on 7th October 2020. Elvie Curve uses natural suction to gently express milk during let-down while feeding or pumping from the other breast. It is small, compact, and securely worn in-bra. Elvie Catch, "Stops your leaks, not your day" is a set of two breast milk collection cups with slip-proof silicone skirts designed for total comfort and confidence. Discreet and fuss-free.
+
+Elvie has received more than 30 awards, including being named one of 15 startups “To Watch” by The Sunday Times and ranked as the 6th fastest growing business in the UK by SyndicateRoom in 2019. Tania Boler has recently been rated as the 8th most influential person shaping british technology in 2019 by Business Insider and both products have been featured in the Oscar Nominee Gift Bags. In April 2019, Elvie announced a $42 million Series B, the largest ever fundraise in Femtech.
+
+How do we like to work?
+
+You will be surrounded by people who want to improve everything and everyone around them. People who are passionate about our mission. People who are driven to solve tough problems and constantly consider the best ways to improve the health and wellbeing of women.
+
+We Take Them Seriously Because We Want Our Culture To Thrive
+
+We're deeply proud of our values, which are intrinsic to the way we behave every day.
+We make an impact - we are mission driven and not afraid to break boundaries. We relentlessly focus on going the extra mile to solve problems
+We are fearless innovators - we are passionate, curious and data-driven. We continuously embrace change and innovation
+We are in it together - we fail and learn fast, always as one team, and have fun along the way. We stay authentic and embrace our differences
+
+
+Who You Are
+
+We are looking for a Data Engineer to join our award winning team. For this role, we would ideally like you to be able to commit to a minimum of 4 days per week.
+
+At Elvie, Data Team is integral to every stage of the product life cycle. Our members are embedded in multi-disciplinary product teams from day one of development: understanding the science and championing best-practice, providing guidance on the most appropriate sources of data to power our products, and designing and building algorithms which will provide the most relevant and accurate insight to our users.
+
+Our involvement doesn't end after the product hits the market. We maintain comprehensive databases of user interactions and behaviour regarding our products and we take advantage of these resources to provide analyses and actionable insights on user behaviour and product performance in the field.
+
+This engineering role will involve strong collaboration with the Data Scientists, Design Engineers and Product Managers. The successful applicant will work to build and maintain systems and tools, primarily in Python, to ensure the free flow of data and analysis throughout the Product Team and wider business. Their software will be embedded in Elvie's products, providing real time detection and insight to users when they need it most. Within the team they will challenge assumptions and champion software development best-practices.
+
+A core responsibility will be to iteratively improve the Data Scientists’ access to data. This will include involvement in:
+Data Capture and Cleaning (be it simulated, lab conditions, user trials or semi-structured real-world data)
+Data Availability (Relational Databases, Document Stores, Distributed Systems, etc)
+Data Versioning (storage and availability of iteratively evolving data-sets for training and testing models)
+Developing tools (Shell/CLI) or packages (usually in python) to support data access and processing
+
+Opportunities will exist to go beyond curating the data and data processes, to be involved in the analysis, model training and validation, algorithm design, and other applications of the data being managed. In particular there will be the need to take models and algorithms developed by the team, then implement them in a variety of environments (such as in python on a server or in C on a product’s micro-controller). This would require a strong focus on ensuring robustness through defensive programming, unit testing, integration testing, etc.
+
+It's an exciting time to join us. We are expanding rapidly and as a Data Engineer embedded in the team in either London or Bristol, you will have a significant impact on new and existing products and contribute to developing the processes and tools used by the Data Team. We are guided by our company’s mission and vision, and we live and shape an open and friendly culture that does not shy away from challenging assumptions and stereotypes.
+You are a data engineer with at least 4 years of commercial experience
+You are skilled at coding in Python
+You have a proven track record of software development best-practice
+You are interested in working closely with Data Scientists and implementing mathematically challenging software
+You are motivated to champion rigour and engineering principles at all stages of a product life cycle
+The idea of working within a successful, high-growth scale up in a fast-paced role excites you
+Experience developing embedded software in C is also desirable
+
+
+What You'll Be Doing In This Role
+
+Developing innovative solutions to challenging problems
+
+You Will
+Develop, productionize and deploy algorithms in Elvie products, using appropriate machine learning and signal processing techniques in Python and potentially C
+Design and maintain internal tools for parsing and processing product and user data, enabling the Data Scientists to perform analysis in a timely manner
+Import, clean and process data from a variety of sources (in-app user behaviour, multiple types of physical sensor, user surveys, etc.) using Python, with a focus on reusability and reproducibility
+Be involved in improving the tools and systems in which we work
+Practise critical thinking and understand the flaws and limitations of work performed by yourself and others
+Contribute to developing novel products and algorithms, and be involved in generating a big picture of a solution, including technological choices, risks and opportunities, data requirements and limitations, costs and time frames.
+
+Educating, explaining and supporting
+
+You Will
+Work collaboratively within the growing Data Team on challenging technical projects
+Provide expert opinion on the Python programming and software development more generally
+Share knowledge on best practices on data, analysis and the Data Science team’s work across the business
+
+
+Requirements
+4 years of commercial experience
+Advanced programming skills in Python, with a focus on the numeric and scientific libraries and unit testing
+Experience with tools for managing data flow and data versioning for machine learning experiments and training (such as git-lfs, DVC, or similar)
+Extensive experience with git
+Excellent communication skills, both scientific and non-technical, with the ability to write reports, present, and discuss results and decisions
+Experience with varying data storage and processing platforms, such as Relational Databases (OLAP in particular), Document Stores, Distributed Systems (Spark, Hadoop, etc) are desirable
+Experience programming in C desirable
+
+
+Please note: we are not able to offer visa sponorship for this role
+
+Location: Flexible, as long as you're happy to come into either our London or Bristol office a couple of days a week
+
+Benefits
+
+We're on an exceptional journey, and can offer you a truly purpose led career, with a culture built on trust, autonomy and flexibility. In addition, we'll give you:
+Lots of flexibility – whether it’s working from home, doing the school run or life admin we understand that flexibility is essential and we trust you to do the right thing for you and us
+Share options - we want everyone to have a stake in our success
+An annual discretionary bonus scheme
+33 days annual leave (inc bank holidays), plus additional days to get married or move house
+£100 contribution to your home working set up, to spend as you see fit
+An annual personal development allowance of £150 & unlimited access to our learning & development platform, Learnably
+Great parental leave policies, including paid emergency childcare
+Healthcare plans, life insurance and an employee assistance programme for you and your family
+A free Elvie trainer for you to keep or give away when you join
+Generous employee / friends & family discounts on Elvie products
+Wellbeing support from YuLife & access to SmartHealth app with unlimited GP appointments for you and your family, plus various well-being initiatives throughout the year
+Lovely offices in great locations, with drinks and snacks provided, along with fun social events (when we're able to again!)
+
+
+Belonging at Elvie
+
+At Elvie, we believe having diverse teams in which everyone can be their authentic self is key to our success. We encourage people from all backgrounds to apply and we don't discriminate based on race, colour, religion, gender, gender identity or expression, sexual orientation, national origin, genetics, marital status, disability or age.
+
+If you need any support with your application, please get in contact with us: elvie@jobs.workablemail.com or 0203 745 5201.
+Seniority Level
+Entry level
+Industry
+Marketing & Advertising Internet Consumer Goods
+Employment Type
+Full-time
+Job Functions
+Information Technology

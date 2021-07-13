@@ -1,0 +1,42 @@
+Data Scientist
+Inbox Insight
+Winchester, England, United Kingdom
+Posted by
+Hannah Bateman (Assoc CIPD)
+HR Assistant - Currently hiring various roles!
+Send InMail
+Inbox Insight are a rapidly expanding B2B marketing company, working extensively with a host of blue chip clients, media buying agencies and enterprises across EMEA and North America.
+
+Inbox Insight is looking to appoint a Data Scientist to join the Data Science Team based in their Winchester headquarters.
+
+Inbox Insight are a rapidly expanding B2B lead generation company, working extensively with a host of blue-chip clients, media buying agencies and growing enterprises across EMEA and North America. We publish omnichannel digital content for a global business audience and work closely with clients such as Google, KPMG, IBM. Oracle and Vodafone.
+
+Located in central Winchester, our modern offices have good commuter links and a short walk from the train station. We offer a competitive remuneration package, ongoing training, a friendly office environment, a relaxed dress code and regular staff events.
+
+Initially, the role will be home-based, although we anticipate reopening our offices in Q3 2021 (along with a degree of flexible working).
+
+Responsibilities
+Through the application of mathematical modelling, machine learning and data analysis, design, build and deploy analytical tools to generate insight, recognise patterns and predict behaviour
+Retrieve, cleanse and verifying data used for processing
+Collaborate with internal stakeholders to generate accurate and meaningful business requirements
+Research, design, and implement technical solutions to satisfy business requirements
+Present analysis/ insight in thoughtful and intuitive forms and visualisations
+
+Skills
+Required
+Intermediate-level SQL (MSSQL)
+Advanced Python/R for data retrieval, pre-processing and analysis
+
+Desirable
+Experience with NoSQL technologies (e.g. ElasticSearch)
+Experience with Data Warehouses/ Data Lakes
+Scikit learn/ TensorFlow/ NLTK
+Microsoft Certification
+Seniority Level
+Associate
+Industry
+Marketing & Advertising
+Employment Type
+Full-time
+Job Functions
+Engineering Information Technology

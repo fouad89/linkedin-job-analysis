@@ -1,0 +1,68 @@
+AIML - ML Researcher (Federated Learning), ML Platforms & Technology
+Apple
+Cambridge, England, United Kingdom
+Summary
+
+Apple's Machine Learning and AI team transform every Apple product and because we fully integrate hardware and software, we can collaborate to deliver amazing experiences while protecting user data.
+
+
+Privacy is a fundamental human right. At Apple, it’s also one of our core values. Your devices are important to so many parts of your life. What you share from those experiences, and whom you share it with, should be up to you. We design Apple products to protect your privacy and give you control over your information. It’s not always easy. But that’s the kind of innovation we believe in.
+
+
+Join us to build the next generation of privacy technology. Work on groundbreaking innovations, federated learning and huge datasets to protect the privacy of users.
+
+
+Key Qualifications
+
+Passionate about user privacy
+
+Authority on Federated Learning
+
+Able to formulate research problems, experiment and implement solutions
+
+Proficient with ML Toolkits (e.g. Tensorflow, PyTorch and Dynet, etc.)
+
+Competent scripting skills (e.g. Python, Lua, Perl, bash scripting, etc)
+
+
+Description
+
+The Privacy Preserving ML team at Apple is responsible for developing technologies that enable machine learning with strong privacy guarantee, such as Private Federated Learning. Your valuable work will impact the lives of hundreds of millions of Apple users worldwide every day.
+
+
+Working as part of an extraordinary team, you, as a specialist in privacy-preserving machine learning techniques, will spend your time researching, developing and experimenting with a wide variety of existing and novel private machine learning solutions. Through your work, you will contribute towards our goal of crafting techniques which protect the privacy of our users, whilst driving improvements in the technologies we support (which include, but are not limited to language technologies).
+
+
+Our research relies on very large quantities of data, state-of-the-art methods in deep learning, and a sophisticated distributed learning framework, used to tackle real world problems at scale. You should therefore be passionate about building extraordinary products that are used by millions of people.
+
+
+Working closely with scientists and engineers from many teams at Apple, we look for team-mates who thrive in a dynamic environment with constantly evolving priorities.
+
+
+If this is you, we'd love to hear from you!
+
+
+Education & Experience
+
+Strong research and computer science fundamentals required - no matter how you got them.
+
+
+Additional Requirements
+
+Apple’s most important resource, our soul, is our people. Apple benefits help further the well-being of our employees and their families in meaningful ways. No matter where you work at Apple, you can take advantage of our health and wellness resources and time-away programs. We’re proud to provide stock grants to employees at all levels of the company, and we also give employees the option to buy Apple stock at a discount — both offer everyone at Apple the chance to share in the company’s success. You’ll discover many more benefits of working at Apple, such as programs that match your charitable contributions, reimburse you for continuing your education and give you special employee pricing on Apple products.
+
+
+Apple benefits programs vary by country and are subject to eligibility requirements.
+
+
+Apple is an equal opportunity employer that is committed to inclusion and diversity. We take affirmative action to ensure equal opportunity for all applicants without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability, Veteran status, or other legally protected characteristics. Apple is committed to working with and providing reasonable accommodation to applicants with physical and mental disabilities. Apple is a drug-free workplace.
+
+
+Role Number: 200261028
+
+Industry
+Consumer Electronics
+Employment Type
+Full-time
+Job Functions
+Other

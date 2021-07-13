@@ -1,0 +1,47 @@
+Data Scientist - Python - Unstructured Data Move to Management
+hireful
+Birmingham, England, United Kingdom
+Role overview
+
+Fantastic company operating in the health sector seek a Data Scientist to help them drive business decisions out of large pools of unstructured and unformatted data (e.g. free text cells) and also move to manage a team of commercial analysts (prior management experience is not required). The current team are BI / Visualisation specialists using Power BI and they seek someone who can use Python or something similar to help cleanse and / or structure the data they are dealing with as they are currently having to do a lot of this manually using excel.
+
+Location - Central Birmingham
+
+Salary - 55K
+
+Keywords - Data Scientist, Data Engineer, Data Analyst, Python, BI Analyst, Analytics Manager, Data Analytics, Python, Power BI, Tableau, QlikView, SQL Server
+
+Key Requirements
+Delivers expertise in statistical modeling, database modeling and structuring complex datasets from various sources to achieve robust data mining capability - Using Python or similar
+Data mining tools and techniques experience (Descriptive, Predictive and Prescriptive analytics)
+Advanced MS Excel (VBA/Macros level) and T-SQL skills
+Project management skills specifically relating to data and analytics projects.
+Experience of Data Visualisation tools / Techniques - Ideally Power BI but any would be fine - Tableau, QlikView etc
+Visio
+Nice to have
+People Management / Team Lead experience - Ability to Delegate
+Commercial experience to enable forecasting and statistical analysis
+Experience of training analysts / end users
+The role its will be a mixture (50/50) of hands on analysis work and management / departmental development looking at training, delegating, and evaluating and improving the analytics platform they use.
+
+The departments focussed is essentially financial and commercial analysis particularly around sourcing and group purchasing. The teams focus is to improve data quality across the business while providing expertise in statistical modelling, ad-hoc financial and statistical reports such as multi-tier currency price modelling, advanced scenario modelling for multi-millions spends new categories, assessing big new customers/categories opportunities.
+
+Great opportunity for someone with a grounding in data science looking to move into management.
+
+We are fairly open regarding some of the requirements here if you tick quite a few boxes please send your cv!
+
+Summary
+Job Type:
+Full time
+Contract Type:
+Full time
+Closing Date:
+2021-03-09
+Seniority Level
+Entry level
+Industry
+Information Technology & Services Computer Software Staffing & Recruiting
+Employment Type
+Contract
+Job Functions
+Engineering Information Technology

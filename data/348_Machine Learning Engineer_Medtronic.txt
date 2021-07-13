@@ -1,0 +1,47 @@
+Machine Learning Engineer
+Medtronic
+London, England, United Kingdom
+Careers that Change Lives
+
+A Day in the Life
+
+As a Machine Learning Engineer within the Innovation team in Digital Surgery, you will help to design, implement and test Machine Learning frameworks and pipelines to support other engineers and researchers of the team. You will also play a role in the whole life cycle of machine learning development, from data preparation and feature engineering to model development and validation. You will collaborate with our other machine learning engineers, platform engineers, and research experts of the team.
+
+Our computer vision/machine learning team is responsible for developing solutions that allow us to scale our automatic surgical understanding from raw video data. This includes (but is not limited to) performing tasks such as object detection, localization and tracking, segmentation, and scene understanding. For these tasks, we rely on surgical video data recorded across different specialties.
+
+We want people who: work well in teams, have experience in state-of-the-art technology areas, are able to drive a concept into a prototype, and have proven experience in benchmarking and training models across different datasets and generate thorough yet concise reports.
+
+Responsibilities may include the following and other duties may be assigned.
+Maintaining high-quality datasets and design computer vision methods to semi-automatically quality control them
+Developing machine learning models for surgical video analysis
+Deliver well-written and high-quality code
+Presenting your results (we share our findings with the team mostly during our catch-up meetings)
+Keeping updated with state of the art methods and to be capable of adapting them for problems at hand.
+Must Have: Minimum Requirements
+A Master or PhD in, Computer Science, Mathematics, Computer Vision/Machine Learning or similar related field.
+Proven ability of results driven application of machine learning.
+Proven knowledge of at least one of the main deep learning frameworks (Pytorch, Tensorflow, Keras...)
+Very knowledgeable in Python and relevant numerical libraries (numpy, scikit-learn, opencv, etc.)
+Computer Vision experience
+Data visualization experience would also be useful for this role.
+About Medtronic
+
+Together, we can change healthcare worldwide. At Medtronic, we push the limits of what technology, therapies and services can do to help alleviate pain, restore health and extend life. We challenge ourselves and each other to make tomorrow better than yesterday. It is what makes this an exciting and rewarding place to be.
+
+We want to accelerate and advance our ability to create meaningful innovations - but we will only succeed with the right people on our team. Let’s work together to address universal healthcare needs and improve patients’ lives. Help us shape the future.
+
+Physical Job Requirements
+
+The physical demands described within the Responsibilities section of this job description are representative of those that must be met by an employee to successfully perform the essential functions of this job. Reasonable accommodations may be made to enable individuals with disabilities to perform the essential functions. For Office Roles: While performing the duties of this job, the employee is regularly required to be independently mobile. The employee is also required to interact with a computer, and communicate with peers and co-workers. Contact your manager or local HR to understand the Work Conditions and Physical requirements that may be specific to each role. (ADA-United States of America)
+
+Additional Information
+Posting Date: Jun 11, 2021
+Travel: No
+Seniority Level
+Associate
+Industry
+Medical Device Hospital & Health Care Pharmaceuticals
+Employment Type
+Full-time
+Job Functions
+Information Technology Accounting/Auditing

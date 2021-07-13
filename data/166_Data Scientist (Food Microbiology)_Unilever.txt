@@ -1,0 +1,68 @@
+Data Scientist (Food Microbiology)
+Unilever
+Sharnbrook, England, United Kingdom
+Data Scientist (Food Microbiology)
+
+Location: Colworth
+
+About Unilever
+
+Unilever is one of the world’s leading suppliers of Food, Home and Personal Care products with sales in over 190 countries and reaching 2 billion consumers a day. Unilever has more than 400 brands found in homes around the world, including Persil, Dove, Knorr, Domestos, Hellmann’s, Lipton, Wall’s, PG Tips, Ben & Jerry’s, Marmite, Magnum and Lynx. Faced with the challenge of climate change and the need for human development, we want to move towards a world where everyone can live well and within the natural limits of the planet. That’s why our purpose is ‘to make sustainable living commonplace”
+
+The future begins in Research & Development (R&D). In R&D, you’ll find out what consumers want and need, and then design the science and technology to make our innovations come to life. We have over 6,000 R&D employees designing, creating and developing exciting new products using innovative technologies - from scientists and product development experts to professionals such as hairdressers and chefs who have the skills to evaluate new products. You could be designing and developing new innovations for brands like TRESemmé, Magnum, Cornetto and Domestos – straight from your team to the shelves!
+
+At the core of our values is sustainability, and our teams are dedicated to making our products better for you, for our customers and for the world. We are committed to ensuring that all of our packaging is fully reusable, recyclable or compostable by 2025, and that we are using more recycled content. To achieve this, we collaborate closely either within the various R&D teams, with other Unilever colleagues like Marketeers and the Supply Chain, and with leading scientific experts from around the world.
+
+The role is based in Colworth, a site that has a strong track record of building and contributing to a number of our brands including Lipton, PG Tips, Magnum, Cornetto, Ponds and Dove. It is one of our two main R&D centres in the UK.
+
+Job Purpose
+
+Are you passionate about data science and food safety? Are you ready to protect our planet by being a key player in the design of microbiologically safe and stable foods? Then look no further!
+
+At Unilever we have set out to make a difference to those big issues that matter most to our business and to the world. Our goal: transformational change at system level.
+
+Fundamental change to whole systems is needed if we are to make a genuine difference. Our transformational change agenda combines direct action on the UN Sustainable Development Goals with partnerships and external advocacy to create change on a systemic scale – while creating business opportunities and delivering relevant innovations at the same time. Our purpose-led, future-fit Unilever Compass strategy is guiding us and is built on three beliefs: brands with purpose grow; companies with purpose last; and people with purpose thrive.
+
+(link: https://www.unilever.com/sustainable-living/our-strategy/about-our-strategy/)
+
+The Science & Technology (S&T) team in the Foods & Refreshment (F&R) division is an agile team of enthusiastic world-class scientists who deliver business relevant solutions underpinning brand innovation programmes, based on scientific and technological capabilities. One such key capability is food microbiology, accountable for the delivery of microbiological solutions across R&D and Supply Chain (SC). The strength of the team lies in the integration of microbiological and processing knowledge to develop safe/stable formulation & process designs to deliver winning products.
+
+You will take a leading role in the microbiology team driving efficient acquisition, analysis and storage of robust (lab) data. This will assure the safety and shelf-life stability of our current and future F&R product portfolio, with primary focus on ice cream and beverages, supporting iconic brands such as Magnum, Cornetto and Lipton. This is a critical business need as robust data-driven microbiological designs can: (1) provide the unlock for the F&R Division to maximise value from data (faster and sustainable innovation, less testing, cost efficiencies) and (2) provide a solid basis to perform microbiological risk assessments.
+
+Responsibilities
+
+Working as an integral member of our enthusiastic team of microbiologists, you will play a key role in implementing a strategic microbiological data knowledge base across F&R for evidence-based decision making in close connection to global & regional design centres as well as supply chain. Main responsibilities include:
+Define and manage the microbiological risk assessment knowledge base with a main focus area in ice cream and beverages.
+Provide expertise on optimal Design of Experiments at the interface between product development centres and lab technicians to ensure safe by design sustainable product innovation.
+Work in multi-disciplinary project teams to support creative problem-solving input for the application of (new) data analysis & statistical approaches on microbial (lab) study results for R&D and business support.
+Provide in silico capability for Unilever’s future product portfolio through clear recommendations for data and system requirements for risk assessment and present well-designed and documented outputs to relevant stakeholders for informed decision-making.
+
+All About You
+Degree in data science (at least MSc or equivalent) with proven experience in microbiological risk assessment.
+Expertise in food microbiology, with track-record of data management and statistical data analyses informing microbial risk assessment (e.g. using PowerBI, JMP, R, Python, AI, ML techniques)
+Proactive team working; ability to engage more broadly than just within the R&D science & technology area e.g. product developers, supply chain, quality managers.
+A strategic thinker with good influencing and communication skills; ability to convince and defend own science-based knowledge in front of internal stakeholders.
+
+What We Offer
+
+Opportunity to work on brands with the power to brighten peoples’ lives all over the world. Be part of a diverse and ambitious team shaping the future of F&R brands. Exciting career opportunities in a global, purpose led business. We are looking for the right people for our roles and our ambition, we are open to talk about how our flexible working policies can make this role the right one for you. In addition, we offer:
+Competitive Salary (base salary + bonus)
+Agile Working
+Share scheme
+Private medical insurance (BUPA)
+Well-being resources
+Unilever Discounts
+
+The role is based in Colworth, a site that has a strong track record of building and contributing to a number of our brands including Lipton, PG Tips, Magnum, Cornetto, Ponds and Dove. It is one of our two main R&D centres in the UK.
+
+Not only do we offer a competitive salary, but also our pension scheme, an annual bonus, a free gym, a staff shop and shares. You’ll get the opportunity to work directly with our renowned and exciting brands in a flexible and agile environment. We strive to achieve a family-friendly culture and to, above all, create possibilities for all.
+
+Diversity at Unilever is about inclusion, embracing differences, creating possibilities and growing together for better business performance. We embrace diversity in our workforce. This means giving full and fair consideration to all applicants and continuing development of all employees regardless of age, disability, gender reassignment, race, religion or belief, sex, sexual orientation, marriage and civil partnership, and pregnancy and maternity.
+Seniority Level
+Entry level
+Industry
+Consumer Goods Food Production Food & Beverages
+Employment Type
+Full-time
+Job Functions
+Research Science

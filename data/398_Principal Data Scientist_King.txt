@@ -1,0 +1,80 @@
+Principal Data Scientist
+King
+London, England, United Kingdom
+Craft
+
+Data, Analytics & Strategy
+
+Job Description
+
+Lead Data Science for Crash Bandicoot - On the Run!
+
+Location: London / Stockholm / Barcelona
+
+As a Principal/Lead Data Scientist, you will lead a team of Data Scientists working on Crash Bandicoot: On the Run, which we have just launched from our New Games Studio. You will be working with stakeholders across the New Games Studio and King to have a direct impact on the success of Crash Bandicoot: On the Run. You’ll help us to develop and optimise the game as well as understand, model, predict, segment and retain our players and be part of a community of 100+ data science and analytics experts across King in a fun, dynamic and fast- paced environment.
+
+Specifically, You’ll
+Proactively develop new analyses, experiments and data- driven tools to better understand our players’ behaviour and performance in Crash Bandicoot: On the Run
+Provide your experience and expertise in modelling player/customer behaviour in digital products or services
+Be self- motivated to learn and drive your team’s development while improving methodology and working practices across the company
+Provide an analytics perspective to discussions and prioritisation within your team, so that the overall team selects the right ideas to work on
+Identify potential business opportunities through data/analysis
+Translate business needs to technical requirements and AB- tests, then work with development teams to ensure correct implementation and tracking
+Carefully check, debug, and problem solve issues to ensure you deliver accurate and clear analysis and reports, even when confronted by subtle data complications
+Champion data within the team, and share your knowledge with the wider Data Science community
+
+Skills To Create Thrills
+
+Our ideal candidate will have solid experience leading technical projects in an analytical team in a commercial environment. There is plenty of scope at King for you to learn from your colleagues in the areas where you have less experience, and to share your own skills where you are stronger.
+
+Specific factors that are helpful to excel in this role include:
+Modeling Expertise: The ability to think, build and work with models (Mechanistic, Statistical or Algorithmic) in order to better understand players and how they interact with our games
+Stakeholder Management: The ability to recognise dependencies, build relationships and influence others
+Business Insight: The ability to understand the problems and issues our games and business wants to solve, and then defining the right data, analysis or interpretation to lead to the right recommendations and decisions
+Communication: Designing good ways of communicating, visualising or reporting your results/analysis so they are clear and unambiguous
+SQL: The ability to write complex SQL queries to analyse our databases with over a billion players and work with relational database systems
+Analytical coding: Using tools such as R or Python for analytical purposes
+Leadership: Inspiring and mentoring the other members of data science teams to expand their knowledge while continuing to produce high- quality analysis
+
+BONUS POINTS
+
+Other experience that might be helpful, but is not required, includes:
+Work in the games industry or similarly customer- facing digital businesses
+Familiarity with massive data sets and tools to deal with them (BigQuery/AWS/Hadoop etc)
+Experience in behavioural psychology/economics and experimental design
+Experience in predictive analytics, segmentation, and related areas
+Software engineering skills in Java and other languages (beyond R and Python which we use most frequently)
+Skills with standard reporting tools such as Looker/QlikView/Tableau/etc.
+
+A GREAT SAGA NEEDS ALL SORTS OF HEROES
+
+Making games is fun. Especially when you do it with people that share the same idea of what makes a good workplace great. No matter where you’re from, it’s all about what we can achieve together when creating truly magical moments for all our players. That’s why we hire all sorts of talent – because a great saga needs all sorts of heroes.
+
+APPLY NOW!
+
+Want to join our Kingdom?
+
+Application needs to be in English.
+
+About King
+
+King is a leading interactive entertainment company for the mobile world, with people all around the world playing one or more of our games, including franchises such as Candy Crush, Farm Heroes, Pet Rescue and Bubble Witch.
+We have 249 million monthly active users as of fourth quarter 2019 across web, social and mobile platforms. King was acquired by Activision Blizzard Inc. (Nasdaq ATVI) in February 2016 and operates as an independent unit of the
+company.
+
+A Great Saga Needs All Sorts of Heroes
+
+Making games is fun. Especially when you do it with people who share the same idea of what makes a good workplace great. We design games for everyone, no matter where they are or who they are, and we employ all sorts of people from all kinds of backgrounds to bring them to life. Truth is, we simply cannot expect diversity in our players and originality in our games without first nurturing it in our people. A great saga needs all sorts of heroes.
+
+Making the World Playful
+
+Making the World Playful is what inspires us to create new experiences and raise the bar. It’s what makes King a place where we can all dream bigger, continue to add innovation to our games, broadening the portfolio and exploring new territories in mid- core and casual. We take the art and science of gaming to the next level through our curiosity for the unexplored, passion for games, respect for each other and love for our players – and we’re not afraid to have fun along the way. In fact, together with our parent company Activision Blizzard and experts around the world, we believe having fun is good for you. There has never been a better time to join us. We're dreaming bigger and see a world of possibilities ahead. If you share our passion, our values, and our hunger to shape the future, join us in Making the World Playful!
+
+Applications needs to be in English.
+Discover King at careers.king.com
+Industry
+Computer Games Computer Software Entertainment
+Employment Type
+Full-time
+Job Functions
+Engineering Information Technology

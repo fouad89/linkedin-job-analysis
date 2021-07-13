@@ -1,0 +1,45 @@
+Data Scientist
+HackerOne
+Northmoor Green or Moorland, England, United Kingdom
+This is an exciting time to join us as a data scientist. We are using the latest tools and techniques to evolve our business intelligence platform and to achieve our objective of data democratization across the company.
+
+You will have a point of view on data science best practices and will play a key role in the evolution and implementation of our strategy. You will work with analysts and stakeholders across the company on internal and customer focussed topics and must be curious, collaborative and analytical.
+
+Mission of the BI Team at HackerOne
+
+Data & analytics is key to what we do at HackerOne, and our BI team brings deep analytical, technical, partnering and consulting skills to help our customers and internal teams understand the success, efficiency and effectiveness of our customers programs and our internal operations.
+
+Your Journey at HackerOne
+Partner with stakeholders across the company (customer success, community, sales, marketing, finance and product) to establish and document data requirements
+Own business KPIs, monitoring on-going applicability and relevance as we continue to grow and develop our business
+Champion the overall data & BI strategy at HackerOne by sharing knowledge, techniques and standards
+Identify, document and promote data analytics best practices
+Establish operating processes to ensure operational excellence and openness
+Introduce standard methodologies and principles around analytics and governance to enable consistent delivery and alignment with the strategic direction
+Work with our product and engineering organizations to transform business requirements into architecture and integrate data into our longer term platform strategy
+Who you are
+5+ years of experience in the data and analytics space, with deep knowledge around data strategy, data architecture, data modelling, data analytics, visualizations, AI & ML
+Experience in Business Process Re-Engineering, Process Management, Solution design and Project Management for business intelligence engagements
+Knowledgeable in data transformation processes, data pipelines, API integrations
+Demonstrated ability to present analyses, business performance results and actionable recommendations to business and technical teams
+Intellectually curious and analytically rigorous with a collaborative work style
+Proficiency in SQL, Looker, Snowflake, DBT
+Strong analytical, verbal, and written communication skills
+BS / MS in Computer Science, Engineering or a related field
+HACKERONE VALUES
+
+HackerOne commits to maintaining the strong, inclusive culture we’ve built for our employees and our community of hackers. All that we do is driven by our 5 core values. We recognize that our mission is bigger than us, and therefore act with integrity at all times. As a team, we believe that transparency builds trust so we default to disclosure in our communications. Each individual acts like an owner creating an environment of greater alignment and greater autonomy. We win as a team and empower our community because together we hit harder. For more information about our values check out our blog HERE.
+
+What We Do
+
+HackerOne was started by hackers and security leaders who are driven by a passion to make the internet safer, and is now the #1 hacker-powered security platform. Powered by the largest community of hackers on the planet, HackerOne has helped over 2,000 customer programs find and fix vulnerabilities before they could be exploited.. HackerOne is headquartered in San Francisco with offices in London, and the Netherlands.
+
+As a team, we believe in integrity, transparency, trust, collaboration and community. We believe in the positive power of hackers and work tirelessly to promote the success of our community to the broader, mainstream audience.
+Seniority Level
+Entry level
+Industry
+Information Technology & Services Computer Software Internet
+Employment Type
+Full-time
+Job Functions
+Engineering Information Technology

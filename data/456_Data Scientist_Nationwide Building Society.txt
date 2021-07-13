@@ -1,0 +1,58 @@
+Data Scientist
+Nationwide Building Society
+Swindon, England, United Kingdom
+Posted by
+Rebekah Wynne
+Technical Recruiter at Nationwide Building Society
+Send InMail
+Data for Proposition Innovation is a part of the Data & Analytics community within Nationwide Building Society that provides business intelligence, advanced analytic and data science-based solutions, and data perspectives for self-service data inquisition to all areas of the Society.
+All of Nationwide aligns into three Missions that have been created to best service our members’ needs through different focusses and priorities. Data for Proposition Innovation is comprised of a number of teams, all working together to drive member value by providing solutions to real business problems that directly improve customer experience, drive efficiency in our data processing systems, and identifying potential new product offerings through member-focused personalization to achieve the strategic ambitions of our three Missions.
+The business demand for using data to make decisions and create innovative solutions is growing, so you’ll be part of a fast-paced, dynamic environment which employs forward thinking approaches to delivering real value to the Society.
+At Nationwide we openly put our 15 million members at the centre of every decision we make as a business. Every role, no matter what it’s doing, is member focused.
+
+What you’ll be doing
+You will be supporting Nationwide through use of Advanced Analytics techniques to solve a variety of problems that span the whole enterprise. Because the Analytics Centre of Excellence supports all of the analytics and insights of Nationwide Building Society, the data you use will be varied and multi-faceted and span many different business opportunities, and the insights you generate along the way will provide a rich variety of value.
+We are constantly looking to utilise more varied structured, semi-structured and unstructured data sources to bring additional dimensions into our analysis and leveraging the latest cloud-based technologies to develop solutions that have the wow-factor with Stakeholders to envision the art of the possible.
+You will have the focus to create algorithms and design models at the direction of Senior Data Scientists who look for opportunities to use real-world problems solving as a conduit for individual development in alignment with your interests.
+The Analytics Centre of Excellence is led by a Head of Data Science who ensures that work done by the team adheres to best practices, full transparency and auditability, and brings in research trends to provide the most optimal and complete solutions to bring value to the Society. 
+
+About you
+We are looking for a Data Scientist who has demonstrable industry expertise using mathematical modelling and advanced analytics techniques to deliver solutions to business problems.
+In addition to having a passion for and rich understanding of mathematics and statistics, you are also resourceful and innovative in your approaches to solving problems. Your fresh ideas and innovative thinking will underpin the manner in which Nationwide tackles it’s most value-driving initiatives that span across the enterprise and leverage the latest approaches in Advanced Analytics techniques.
+We are especially interested in candidates with a rich experience in Natural Language Processing methods and solutions to help shape and build a world-class textual/sentiment analytics function. 
+
+As a minimum, you’ll have:
+·  Have a Masters or PhD in maths, statistics, computer science, physics, economics or related field.
+·  Understand the foundational elements of using advanced analytics and data science to problem solve (e.g. Linear Algebra, Multivariable Statistics, Support Vector Machines, Decision Trees, Timeseries Analysis, Natural Language Processing, Geospatial Analysis, Random Forests, Hidden Markov Models, Stochastic Calculus, Artificial Neural Networks, etc.).
+·  Have superior communication skills that allow you to describe the details of your approaches through the aid of visualizations and data story telling for a wide variety of stakeholders.
+·  Have experience with different data storage systems (relational databases, Hadoop, NoSQL) and have worked with unstructured data.
+·  Have a passion for creating innovative solutions and championing new ideas, spotting opportunities, and learning the latest research trends along the way.
+·  Experience of SAS EM, VA/VS, productionising solutions, and PySpark would be beneficial.
+We’re also interested in who you are as a person. Why? Because our membership is made up of so many different kinds of people, so we want our employees to be just as diverse. We’d love to hear about:
+·  Your values, and what makes you who you are
+·  How you’d make a difference to our members in this role
+We know applying for jobs can sometimes feel like you’re sending an application into a black hole. We review each application individually. So, it’s a good idea to call out your most relevant experience on your application to give yourself the best chance.
+
+The extras you’ll get
+There are all sorts of employee benefits available at Nationwide, including:
+·  A personal pension – if you put in 7% of your salary, we’ll top up by a further 16%
+·  Up to 2 days of paid volunteering a year
+·  Life assurance worth 8x your salary
+·  A great selection of additional benefits through our salary sacrifice scheme
+·  Access to an annual performance related bonus
+·  Access to training to help you develop and progress your career
+·  25 days holiday
+·  London location allowance
+
+Why work at Nationwide
+We’re a building society founded by ordinary people, our members, who came together to help each other get the most from their money, buy homes and save for their futures. For over 130 years, we’ve supported each other and our communities, and we’ve done the right thing for wider society too.
+If you come to work here at Nationwide, you’ll be part of that. Part of something a bit different. And something really quite special.
+What’s more, we have a strong ethic of care for each other and our members. We recognise that our employees feel most appreciated when their thoughts and values are respected and considered. We’re committed to creating a culture that recognises and truly values our individual differences and identities. So, if you’d like to be a part of an inclusive workplace where you can be yourself, where your talents are nurtured, and you feel empowered to contribute, then please apply and help us in building society, nationwide.
+  Seniority Level
+Mid-Senior level
+Industry
+Financial Services
+Employment Type
+Full-time
+Job Functions
+Information Technology

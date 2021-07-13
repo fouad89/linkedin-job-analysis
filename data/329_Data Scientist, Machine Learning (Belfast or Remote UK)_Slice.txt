@@ -1,0 +1,66 @@
+Data Scientist, Machine Learning (Belfast or Remote UK)
+Slice
+Belfast, Northern Ireland, United Kingdom
+Pizza is at the heart of our communities. From birthday parties to gameday potlucks, life’s special moments are bettered by the craftsmanship and tradition found behind local pizzerias’ counters. We’re here to make sure these iconic small businesses serve our communities for generations to come by giving them the digital tools and services commonly found at big chains. Can you imagine what a small mom and pop pizza shop could achieve with the resources of Domino’s?
+
+Read more about our initiatives here.
+
+In this role, you will be one of the founding members of the Machine Learning Data Science team for our leading marketplace technology company. You will develop and implement machine learning algorithms and personalisation products from scratch that directly impact our customers. You will be partnering closely with our Product, Engineering and Business stakeholders to open up new opportunities and accelerate the growth of the business. Your strong foundations in mathematics, statistics and machine learning and exceptional communication and leadership skills will bring unique insights into our strategy. Your passion for solving problems and sense of urgency will fuel the success of the team.
+
+We are open to applications from UK candidates who are interested in working on a permanent remote basis.
+
+What You'll Do
+Develop ML models to derive insights on customer behaviour and inform product opportunities and strategy.
+Partner with Product teams on developing product roadmaps and leveraging ML techniques to curate a better user experience and drive business results.
+Work with Engineering teams to build the infrastructure and processes to productionise and iterate ML models.
+Collaborate with other Data teams on solidifying the data foundation of Slice, including event logging, experimentation, data modelling etc.
+Essentials
+
+What we're looking for:
+Graduate degree in Computer Science, Mathematics, Operations Research or equivalent quantitative fields.
+1+ year's of industry experience in Machine Learning or Data Science using mainstream languages such as Python, Spark etc.
+Experience in partnering with product and engineering teams in developing production-level code to deliver ML-backed product features.
+A fun and positive approach to your work, and treat others well.
+Excellent problem solving, analytical and organisational skills.
+Strong communication skills.
+Desirable
+Familiarity with programming languages such as Java / Scala, C++ etc.
+Experience in search and recommendation product a plus.
+PhD preferred.
+Interested?
+
+We operate like a startup, so being self-motivated, curious, and flexible is a good start. You prefer to come up with your own solutions to problems but are not afraid to ask for help. You enjoy making suggestions for how to improve our product and business, no matter the department. You’re the kind of person who roots for the underdog. And lastly, this job will probably be a lot easier if you have a soulmate-level love for authentic pizza.
+
+Why Slice?
+
+Join a community of best-in-class engineers who combine creativity, curious minds and a commitment to excellence with the desire and commitment to grow and build on the engineering skill base and community here in NI.
+
+Benefits
+Market Leading Salary
+Strong Pension contribution
+Personal Health, Dental and Eye Care
+Income and Death insurance
+Cycle Scheme of up to £2500
+£750 per annum self-learning budget
+Health and wellbeing benefits
+Market leading Maternity and Paternity Schemes
+Flexible working / Hours and WFH
+Generous time off allowance and policies
+Free Friday Pizza and Monday Breakfast
+Fully stocked kitchen/snacks
+Annual conference attendance and training/development budget
+Substantial gym membership discount
+Discounts for local Pizzerias
+How to apply?
+
+We do not use agencies as we have a strong network of referrals, and also want you to have the best recruiting experience possible. A CV gives us a good idea of your background, we are interested in your latest work and projects. Education is great to see, but it's not overly important to us. If you have them, be sure to include links to any personal projects, blogs, contributions, or anything you want to add to your application.
+
+My Pizza Slice Ltd is an equal opportunities employer and we value Diversity. We appreciate the differences in style and perspective as we believe it adds value to the organisation, and we aim to recruit like-minded employees. We are also proud members of the Diversity Mark NI initiative as a Bronze Member.
+Seniority Level
+Entry level
+Industry
+Marketing & Advertising Computer Software Internet
+Employment Type
+Full-time
+Job Functions
+Engineering Information Technology

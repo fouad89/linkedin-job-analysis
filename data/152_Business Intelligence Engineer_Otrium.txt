@@ -1,0 +1,60 @@
+Business Intelligence Engineer
+Otrium
+London, England, United Kingdom
+Posted by
+Mukul Sharma 2nd
+Talent Acquisition tech partner at Otrium
+Send InMail
+About this role
+As a BI Engineer, you will play a pivotal role in ensuring data-driven decision-making at Otrium. You will be a part of the growing Business Intelligence team and work on maintaining & elevating the data warehouse, building big data ETL pipelines, creating dashboards, and answering complex questions about our customers and our business.
+
+About Otrium
+Founded and headquartered in Amsterdam, we’re a purpose-led business – we believe all clothing should be worn.
+Right now, lots of fashion stays unsold. For the resources that went in and for the people who miss out, it’s such a shame. We’re here to fix this. We are an online fashion outlet marketplace and we tech-enabled designer brands to find an owner for every item they produce.
+We give brands an online outlet channel and digital tools to smartly connect dynamically-priced end-of-season collections with fashion lovers. Then we give them the data so they can reproduce the most wanted items.
+Our app re-imagines outlet shopping helping customers easily find reduced-price gems. We give end-of-season fashion a new start, which is smarter for the wardrobe, smarter for the wallet and smarter for the industry.
+
+Responsibilities
+You will develop robust end-to-end BI & Analytics solutions according to requirements or proactively to support a variety of stakeholders make data-driven decisions
+You will be the go-to person for all aspects of the DWH (single source of truth) –design, performance, data quality
+You will build and optimize ‘big data’ ETL pipelines in Spark - consolidate data relating to the business from disparate sources, collaborate with teams to integrate more data sources
+You will leverage analytics & machine learning to answer complex questions about our customers and our business
+You will create dashboards with actionable insights and identify process improvement opportunities
+You will ensure that company-wide reporting & department-specific reporting is available in a timely manner
+The BI team’s technology stack –Redshift, Spark, Looker, R/Python
+
+Experience, knowledge & skills
+3+ years of professional experience in a comparable BI Engineer or Data Engineer role
+Profound understanding of databases (relational, column-based, NoSQL), DWH design, SQL querying, and optimization
+Experience with big data tools and writing code for big data ETL pipelines using Spark/Scala/Hadoop
+Experience in performing complex analyses, statistical techniques, and implementing machine learning models in Python/R
+Dash-boarding & storytelling skills (experience in Looker would be an advantage)
+Working knowledge of scalable BI&A infrastructure, APIs, workflow management tools, message queuing, stream processing, and ‘big data’ data stores
+Bonus points for relevant Master’s degree with a strong quantitative orientation (e.g., business, economics, tech, data, econometrics, mathematics, physics);
+Bonus points for relevant industry knowledge (marketing, pricing, strategy, supply chain, etc.)
+
+About you
+You possess strong quantitative & problem-solving skills
+You are solutions-oriented, a self-starter, and have an eye for detail
+You are a quick learner, motivated, and enjoy working with new technologies
+You are able to and enjoy working in a fast-paced, dynamic and international team environment
+You have excellent communication skills in English (written and verbal)and are able to effectively communicate technical subject matter to technical & business stakeholders
+
+What it’s like to work at Otrium
+You will be part of an enthusiastic and highly ambitious team with growth and entrepreneurial mindset;
+The possibility to learn, grow and contribute to one of the fastest-growing startups in Europe, and soon the US (with your help!);
+Freedom and responsibility: we believe in ownership, so we will give you full responsibility to make sure you can get the job done;
+You’ll be working with very talented colleagues - in a different time zone - that know what they are doing as everyone has experience at other amazing fast-growing companies;
+Next to working together, we celebrate our success together. With every target we make and record we break, we celebrate!
+
+What's next
+Excited about what you're reading? Let us know more about who you are and why we should work together! Apply now!
+We look forward to hearing from you!
+Seniority Level
+Mid-Senior level
+Industry
+Internet Apparel & Fashion
+Employment Type
+Full-time
+Job Functions
+Information Technology Engineering

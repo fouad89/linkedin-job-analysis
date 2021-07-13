@@ -1,0 +1,56 @@
+Junior Data Scientist
+QBE Europe
+London, England, United Kingdom
+Who we are:
+
+QBE is one of the world’s top general insurance and reinsurance companies, writing 13.4 billion USD in premium globally. We specialise in commercial insurance providing cover for a wide variety of risks in multiple industries such as Energy, Cyber, Property, Marine, Casualty, Motor, and Financial Lines.
+
+Who’ll you’ll be working with:
+
+Our Data Scientists utilise machine learning and artificial intelligence technologies to help QBE select and price risk, detect fraudulent claims, identify target opportunities, develop new products, and make operational processes more efficient.
+
+The European Operations ‘Pricing and Data Science’ team sits within the Underwriting division. The team consists of 11 experienced data scientists: and 15 pricing actuaries and pricing managers. Additionally, we collaborate closely with Data Scientists in claims, and the internal application development team who provide Software Engineering, Data Engineering, and DevOps support.
+
+The Opportunity:
+
+The Data Scientist will blend traditional actuarial techniques with data science and machine learning expertise to develop industry leading pricing models. The path is focused on the practical application of data science techniques within the Pricing domain.
+
+Your responsibilities for this role may include, but are not limited to:
+
+Work in close partnership with the Underwriting and Pricing teams to add value to the business using Data Science techniques and modern technologies.
+Implementation of Data Science workflows: Discovery / problem definition, Data Acquisition and Processing, Model Build and Tuning, Performance Validation, Results Communication.
+Development of high-quality, compliant Data Science solutions and services.
+Develop strong relationships with underwriting teams in order to understand business needs.
+Collaborate and learn from the wider team through code review.
+Collaborate with the IT Applications Engineering team to ensure that models / Services are deployable and maintainable in production.
+Develop and maintain strong technical Data Science skills, learn from the team, and share knowledge and expertise within the team.
+
+You will need to be able to display you have the following qualifications and experience:
+
+Data Scientists with a specific interest / experience in Insurance and Pricing.
+Interest / Aptitude for developing strong programming skills in Python.
+Strong skills /aptitude in Python programming – in particular use of the core scientific programming stack: Pandas, Matplotlib, Scikit learn.
+Knowledge of GIT, Dash, GCP would be useful.
+An understanding of good data visualisation principles.
+
+At QBE, we view our people as our most precious asset. We understand the importance of fostering a work environment that is responsive to the changing needs of today's workforce. QBE aims to build a workplace that is fair and inclusive because we want to attract and retain the best people to do the job. We’re ‘Happy to talk Flexible Working’
+
+Please click the ‘Apply’ button to be taken to the job on our system.
+
+Number of Openings:
+
+1
+
+How to Apply:
+
+To submit your application, click "Apply" and follow the step by step process.
+
+Equal Employment Opportunity:
+
+QBE is an equal opportunity employer and is required to comply with equal employment opportunity legislation in each jurisdiction it operates.
+Industry
+Information Technology & Services Insurance Financial Services
+Employment Type
+Full-time
+Job Functions
+Engineering Information Technology

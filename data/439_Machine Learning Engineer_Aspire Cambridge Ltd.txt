@@ -1,0 +1,35 @@
+Machine Learning Engineer
+Aspire Cambridge Ltd
+Cambridge, England, United Kingdom
+Posted by
+Toby Kelly
+Senior IT Recruitment Consultant at Aspire Cambridge
+Send InMail
+Start: ASAP
+Location: Cambridge, Cambridgeshire
+Hours: Full Time (Remote working available) 
+Salary: £40,000 to £50,000
+
+Essential:
+Master’s or PhD in related scientific or engineering field.
+Good theoretical understanding of machine learning/deep learning.
+Experience using modern machine learning frameworks such as PyTorch, TensorFlow or MXNet.
+Imperative language. e.g. Python, C++.
+Development under Linux, including Git and OSS.
+
+Aspire Cambridge are looking for a machine learning engineer to a Cambridge technology business pioneering in deep learning. Our client works on projects from world changing self-drive cars to reducing power consumption of data centres.
+ This role will involve training and compressing the latest deep learning models for workloads related a wide variety of applications, especially in recommendation, speech, NLP and vision. You will also develop and ship customer-facing libraries that integrate state-of-the-art model compression research and techniques.
+
+If you are interested in this position, feel you have the relevant experience and skills and would like to apply, please call our team now on 01223 855440 or apply online.
+
+Our client is an equal opportunities employer and welcome applications from all suitably qualified persons regardless of their race, sex, disability, religion/belief, sexual orientation or age.
+
+Aspire Cambridge is acting as an Employment Agency in regards to this Permanent opportunity.
+Seniority Level
+Mid-Senior level
+Industry
+Staffing & Recruiting
+Employment Type
+Full-time
+Job Functions
+Engineering Information Technology

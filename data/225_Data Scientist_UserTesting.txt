@@ -1,0 +1,40 @@
+Data Scientist
+UserTesting
+Glasgow, Scotland, United Kingdom
+UserTesting was founded in 2007, and is now present in 12 countries, with regional offices in Atlanta, Edinburgh, Singapore, and Oslo. Today, more than 2,000 organizations in 45 countries use the UserTestingⓇ Human Insight Platform to make more informed, customer-first decisions at scale.
+
+Choosing to join our team means being part of a passionate group focused on transforming the way companies learn about their customers and build better products and experiences. UserTesting’s industry-leading platform enables companies to get rapid feedback on all types of customer interactions and experiences: websites, mobile apps, prototypes, campaigns, real world experiences, and more! A recent Forrester study found the ROI of using UserTesting to be 655%!
+
+We’re proud that this is our third year of being honored as an Inc. Best Workplace and a Fortune Best Workplace in the Bay Area, along with having received a variety of additional workplace and corporate growth awards. We actively look to add amazing people to our team who will bring diversity, including race, ethnicity, religion, sexual orientation, age, marital/family status, disability, gender identity, sex, and country of origin, in addition to bringing a variety of backgrounds, interests and opinions. At the end of 2020, our global team was 43% women and 36% minority; in the U.S., our underrepresented minority population was 16%. We do everything we can to make UserTesting a place where you feel you belong and are empowered to do the best work of your career.
+
+About The Team
+
+As a member of the Data Science team, you will work with our growing team of quantitative researchers and machine learning engineers to improve the user experience for our customers. You will apply statistical models and analytics to inform product decisions, direction, and strategy. Integral to the role is your curiosity, deep analytic instinct, and your ability to design, implement, and communicate quantitative research using a variety of data. You'll have an opportunity to interact directly with our Product, Design, and Business teams to surface critical topics, identify innovative practices, and develop high-impact solutions that create great user experiences and advance the state-of-the-art in user experience research.
+
+The Opportunity
+Define and measure quantitative Product/UX goals and metrics in collaboration with Product Managers, Qualitative Researchers, Designers, and Engineers.
+Drive quantitative research and statistical modeling to improve user experience and product results.
+Leverage data to find actionable insight of strategic importance to UserTesting and practical value to customers
+Communicate analyses and results in ways that are accessible, relevant, and meaningful to a diverse audience
+Create and support a data-driven culture among company decision makers
+
+
+What We’re Looking For
+Strong working knowledge of research methodology and statistical techniques including experimentation, statistical inference, and machine learning
+Experience performing advanced data analytics in a business, academic, or related context (e.g., high-tech, market research, management consulting, operations research, finance, etc.)
+Ability to explain value of different analytic methods, and the output of data analyses, to non-technical audiences, including executives and managers
+Big picture perspective balanced with a healthy obsession with detail
+Deep curiosity and love of problem solving
+Bachelor's degree with relevant industry experience or advanced degree in a field that uses quantitative approaches to understand human behavior such as Economics or Psychology. Statistics, Mathematics, Science, Engineering or other quantitative degrees welcome.
+2 years of experience in an applied research setting, preferably in Consumer or B2B software
+Coding experience with data/statistical packages (eg. Python (Pandas + Statsmodels + Scikit-learn), SQL/Hive, R, etc)
+
+To learn more about our team, culture, and customers, check out our careers page, company blog, and press/awards. Aside from a great work environment and the opportunity to change the world, we’re also growing the team quickly - join us!
+Seniority Level
+Entry level
+Industry
+Marketing & Advertising Computer Software Internet
+Employment Type
+Full-time
+Job Functions
+Engineering Information Technology

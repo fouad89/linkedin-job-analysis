@@ -1,0 +1,68 @@
+Data Analytics  Data Engineering Consultant - Fixed Term Contract
+PA Consulting
+Bristol, England, United Kingdom
+Locally based project consultants (Bristol, Cheltenham, Edinburgh, Manchester) 6 Months Fixed Term Contract
+
+Become part of the team
+Are you driven by a desire to make a difference?
+Are you comfortable engaging with and becoming a trusted adviser to clients from all levels of seniority?
+Would you be keen to work collaboratively with diverse teams of experts and draw on your own experiences to develop and publicise insight that could shape thinking across a sector?
+Is being able to shape your own career pathway and support the development of others through leading teams important to you?
+Do you enjoy solving complex problems using logic, creativity, analytics and interpersonal skills to find appropriate solutions?
+
+Isn’t it time you joined us?
+We’re looking for team members with great interpersonal skills, who thrive off problem solving and who love working with others to deliver great outcomes for our clients. We value a diverse professional background, but we expect you to have a successful track record, be appropriately qualified (ideally with a degree or equivalent professional qualifications in mathematics, operational research, physics, finance and economics or computer science), be an experienced specialist in one of our core capabilities like Data Science, BI/ Visualisation and data engineering/ data management. Our opportunities are at all grades, your entry level will depend on your experience and range of skills. If you have some of the following skills and experience, we can offer the opportunity to make the most of them and to develop in other areas to build your career.
+This is a 6 month fixed term contract position.
+
+What we're looking for
+Personal Skills
+-Experience conducting analysis for evidence-based decision making by either using:
+Business Intelligence / Visualisation tools;
+Data science techniques, approaches and algorithms;
+Data engineering and data management processes and platforms; or
+Developing financial models
+-An inquisitive mind that wants to solve the trickiest challenges whilst working with incredible colleagues.
+-Existing experience in consulting would be beneficial although we equally like in-house experience.
+-Balancing your analytical abilities with your stellar communication skills; you will be comfortable taking data and turning it into digestible information.
+ Technical Skills – Experience in one of the following areas
+-For data visualisation: you will be experienced in working in one of the principal Cloud environments of Azure, AWS and GCP
+Experienced in using BI tools like Tableau, Power BI, Qlik, SAS and Cognos.
+-For data engineering: you will be experienced in working in one of the principal Cloud environments of Azure, AWS and GCP
+Familiarity with legacy data warehouse platforms such as Oracle, Teradata would be an advantage
+Familiarity with common ETL tools such as Informatica, Talend would also be an advantage
+SQL and NoSQL knowledge
+Familiarity with programming languages such as Python, Java, Scala
+Data APIs
+-For data science: you will be experienced in working in one of the principal Cloud environments of Azure, AWS and GCP.
+Experience of R and Python with knowledge of NumPy, SciPy, Pandas, Matplotlib, Scikit-learn and Tensorflow/Keras. NLP packages (e.g. NLTK, spaCy), visualisation packages (e.g. Plotly, Dash, Power BI).
+Demonstrable experience of translating business problems into data science solutions is highly preferred.
+ Some of our clients require Security Clearance and it would be helpful if you already had this in place.
+
+Benefits
+• Pension
+• 25 days holiday
+
+About us
+We believe in the power of ingenuity to build a positive human future in a technology-driven world.
+
+As strategies, technologies and innovation collide, we create opportunity from complexity.
+Our diverse teams of experts combine innovative thinking and breakthrough use of technologies to progress further, faster. Our clients adapt and transform, and together we achieve enduring results.
+
+An innovation and transformation consultancy, we are over 3,200 specialists in consumer, defence and security, energy and utilities, financial services, government, health and life sciences, manufacturing, and transport. Our people are strategists, innovators, designers, consultants, digital experts, scientists, engineers and technologists. We operate globally from offices across the UK, US, Europe, and the Nordics.
+
+PA. Bringing Ingenuity to Life.
+
+Inclusion & Diversity
+We believe that diversity makes us a stronger firm and look to employ people with different ideas, styles and skillsets. This diversity stimulates a rich, creative environment – one in which our people develop, and our clients enjoy enduring results. We’re committed to recruiting, promoting and rewarding our people solely based on their ability to contribute to PA’s goals, without regard to their sex, race, disability, religion, national origin, ethnicity, sexual orientation, age or marital status.
+
+We welcome international applications, but we are unable to offer sponsorship for work permits, so you will need to have the full right to live and work in the UK. Unfortunately, your application will be automatically rejected if you do not have these rights.
+
+Should you need any adjustments to the recruitment process, at either application or interview, please contact us on recruitmentenquiries@paconsulting.com
+Seniority Level
+Associate
+Industry
+Management Consulting
+Employment Type
+Contract
+Job Functions
+Consulting Design General Business

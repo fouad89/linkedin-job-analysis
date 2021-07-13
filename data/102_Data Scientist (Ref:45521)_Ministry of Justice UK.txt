@@ -1,0 +1,108 @@
+Data Scientist (Ref:45521)
+Ministry of Justice UK
+London, England, United Kingdom
+We welcome and encourage applications from everyone, including groups currently underrepresented in our workforce and pride ourselves as being an employer of choice. To find out more about how we champion diversity and inclusion in the workplace, visit: https://www.gov.uk/government/organisations/ministry-of-justice/about/equality-and-diversity
+
+MoJ People Group
+
+The Ministry of Justice (MoJ) is one of the largest government departments and serves the public by upholding the rule of law and by delivering an efficient, fair, timely and effective justice system in which the public has confidence.
+
+MoJ People Group is an exciting place to work, as we support the organisation through striving to make a positive contribution to people’s work experience from the time they join the organisation, to the point at which they leave. We want everyone who works for the Ministry of Justice to feel confident in their skills, ambitious for the future and fulfilled by their work and relationships with their colleagues. This is even more important within the current Covid context as we strive to identify and create the optimal working environment and experience for employees, in which they can be as effective and productive as possible.
+
+We Are Committed To
+Getting the basics right;
+Focusing on the outcome we want to achieve and less on process;
+Putting the needs of the customer at the centre of what we do;
+Innovating wherever the opportunity presents;
+And demonstrating efficiency and value for money.
+Workforce Planning, Insight and Research Team
+
+The Workforce Planning, Insight and Research Team within MoJ People Group, is a dynamic team which provides data-based evidence and insight across business and People Group regarding long-term future workforce trends, medium and short-term workforce plans and the experience and dynamics of our workforce today. These outputs ensure our people plans, policies and processes are data driven and evidence based, employing horizon scanning, expert forecasting, workforce planning, and people analytics using qualitative and quantitative research techniques. This is an exciting time to join a team that works to build confidence in the quality of our evidence base and the capability of our clients’ when using it, and seeks to provide future focused insight that drives improvements in the employment experience MoJ creates for its employees.
+
+We are looking for a motivated Data Scientist to work in a challenging and exciting environment within the team. We are looking for candidates with a track record of delivering innovative solutions that have a real impact, whilst working collaboratively with others to ensure the right analytical/statistical solution is delivered in an effective and efficient way. You will have the opportunity to further embed an evidence-based approach within the MoJ and influence people and business-related decision making, covering all aspects of an employees’ experience with us. The role will include ensuring analytical methods transform findings to insightful actions and drive improvements in all people related experiences, and in doing so help to ensure the delivery of MoJ business objectives and the Civil Service workforce agenda. This could include, but is not limited to, the areas of recruitment, leadership, employee engagement, employee wellbeing, retention, talent and development. The roles will make a pivotal contribution to what we do in the future, conducting predictive analysis about the culture and experience we need to create for employees. You will lead projects independently and work as part of larger teams consisting of data scientists and analysts.
+
+Responsibilities
+
+Specific responsibilities will be tailored to reflect your strengths and development needs, but you will also contribute to:
+The vision for data science and analytics, recommending ways to improve the quality of our outputs
+The team’s awareness of the wider data science landscape and emerging technologies
+Drive up knowledge and build capability in the team and more widely, employing a broad range of analytical methods, techniques and approaches to enhance the maturity of analytical findings produced
+Building best practices such as version control, unit testing, code review, and well documented applications
+Conducting statistical analysis on bespoke questions to provide deeper understanding from experiences across the employee lifecycle
+Working with analytical colleagues, you will bridge the gap between analysis and insights, finding effective ways to explain findings with context, to drive action and deliver business outcomes
+Supporting the delivery of effective practices in partnership with the other People Group functions for example, drive informed recruitment practices by working with the Resourcing function or delivering predictive workforce planning analysis to support business areas achieve the required future workforce
+We’re looking for a highly motivated person who meets the essential criteria:
+A first- or second-class degree in behavioural science, mathematics, statistics or another relevant STEM discipline; or equivalent experience.
+Strong analysis skills, including the ability to derive insight from multiple data sources, use of data to support debate, and problem solve.
+Knowledge of statistical analysis techniques and an aptitude for interpreting and disseminating analytical findings.
+Experience of coding in at least one statistical/mathematical package or programme.
+An adaptable team player, with experience of working collaboratively and confidently with others yet is comfortable using initiative when working alone.
+Experience of R programming.
+Experience of using innovative visualisation techniques such as Tableau and R Shiny.
+Desirable Skills
+Experience of conducting statistical analysis on people related data to deliver insights.
+A willingness to work towards achieving professional badging within the Government analytical disciplines.
+Experience of working within a People related or HR environment with knowledge of the nuances across people behaviour, characteristics and traits.
+Experience of communicating insights with a range of executive and non-executive stakeholders to influence people and policy decision making and drive positive action.
+Civil Service Recruitment Process
+
+You will be assessed against Civil service success profiles framework and be asked to provide the following information as part of the application process.
+
+Experience
+
+You will be asked during the application to submit:
+An anonymised CV (Please keep the CV to no more than 2 sides of A4,
+remove all personal information and do not save the file with your name); and
+A 1000-word Statement of Suitability, in which you should explain why you are the right candidate for these roles based on the technical data science skills and behaviours outlined below (note that the technical analytical competency will only be assessed at the interview stage). You may wish to provide 2 or 3 examples that cover off multiple requirements, or to address each in turn. You should include evidence on ‘how’ you demonstrated the requirements as well as ‘what’ you did. All these requirements are important for the job; however, we do not expect candidates to be expert in all of them; just give as much evidence as you can for each
+Applicants Invited for Interview
+
+If you successfully reach the interview stage, we will assess you against the following:
+
+Behaviours
+
+We will assess you against the Civil Service recruits using Success Profiles. Success profiles are made up of 5 elements.
+
+This vacancy will be assessed against the following success profile:
+Experience
+Strengths
+Behaviours
+Technical
+Civil Service Success Profiles
+
+www.gov.uk/government/publications/success-profiles
+
+You Will Be Assessed Against The Following Behaviours
+Making Effective Decisions
+Communicating and Influencing
+Changing and Improving
+Technical 1
+As well as a ten-minute presentation (details of this will be sent to candidates before interview); you will be asked to provide examples of analytical evidence during the interview. This will include evidence that you can:
+Apply quantitative analytical/data science methods effectively to drive insights that influence decision making, add value and has had impact
+Identify, gather and bring a range of often large data sets together, identifying and resolving quality issues
+Apply appropriate data science techniques through the use of programs such as Python and R
+Produce robust and reproducible analysis, including using quality assurance, and automated testing
+Use appropriate techniques to analyse the data to gain insight and evidence that solves problems or questions
+Develop your own capability and the capability of others
+Present findings and insights persuasively so customers engage and understand the evidence and use it to influence decisions
+Anticipate potential further uses of data wider than solving initial problem, and can raise awareness and engagement in value of quantitative approaches
+Additional information
+
+We are an agile, smarter working team and are encouraging applications from all staff wherever they are based.
+
+We promote and support flexible working. Our digitally enabled team are encouraged (subject to business needs) to work remotely at least twice a week.
+
+We will consider all applications for alternative working patterns, including reduced hours, job share, annualised hours.
+
+For the sift we will focus on the lead competence of Making Effective Decisions. A reserve list will be held for a period up to 6 months from which further appointments may be made.
+
+Responsibilities
+
+Please refer to Job Description
+Seniority Level
+Entry level
+Industry
+Staffing & Recruiting Government Administration Financial Services
+Employment Type
+Full-time
+Job Functions
+Engineering Information Technology

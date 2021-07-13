@@ -1,0 +1,52 @@
+Data Scientist
+networx | Recruitment Software & Services
+Swindon, England, United Kingdom
+The RSK Group is one of Europe’s fastest growing environmental, geotechnical and contaminated land consultancies, with offices in the UK, Europe and the Gulf. WRc is one of the companies in the RSK Group which is undergoing an exciting period of growth. WRc is an Independent Centre of Excellence for Innovation and Growth. As a fast growing consultancy we operate across different sectors including Water, Environment, and Waste industries. Our clients include regulators, water and utility companies, government organisations, NGOs, trade organisations, industrial manufacturers. Building on a legacy in the international water and environment sector stretching back over 90 years, we bring a shared purpose of discovering and delivering new and exciting solutions that enable our clients to meet the challenges of the future.
+
+Our success is founded on the talent of our employees, so we recognise the importance of personal growth, encouragement and earned rewards. As a company, we want you to share in our achievements and we want to be a conduit for your success.
+
+We are now looking to recruit a DATA SCIENTIST to work full time. This role will be based out of SWINDON.
+
+Role
+
+WRc is looking for a data scientist to work alongside an enthusiastic team of junior data scientists, analysts, and subject matter experts. In this role you will be tasked with conducting statistical data modelling and deploying machine learning techniques to provide solutions to our clients in the water, gas and rail sectors. You will help your colleagues continue to develop their understanding of statistics within the broader data science domain, and together, ensuring the best tools and techniques are deployed to solve our clients’ challenges.
+
+The datasets you will work with will be varied - often involving time series and spatial data - and often from disparate sources. You will need to be creative and work closely with our subject matter experts and come up with methods to turn your insights into meaningful outcomes for our clients given the constraints these real-world datasets impose.
+
+You will be hands-on and keen to work on all stages of the data science pipeline from data wrangling and cleaning, to analysis and data insights, to creation and deployment of models, allowing clients to make business decisions based on these outputs. As part of our vibrant consultancy business, you will work on a range of diverse projects at once, ensuring that you will be intellectually and technically challenged.
+
+Responsibilities
+Collaborate with a multi-disciplinary team of subject matter experts and analysts to lead the development and delivery of analytics solutions for our clients.
+Build innovative solutions for a myriad of diverse problems.
+Support the technical mentoring and professional development of colleagues.
+Support the business development, exploitation and commercial deployment of WRc’s analytics offerings.
+
+Person Specification
+Educated to first degree level or higher, in mathematics, statistics or a relevant scientific discipline.
+Applied experience modelling complex problems mathematically and/or computationally and in providing compelling interpretations of results.
+Demonstrable programming ability in R (preferred) or Python.
+Experience recognising how statistical modelling/machine learning methods can be used most effectively to solve clients’ problems.
+Excellent written and verbal communication skills; ability to explain solutions to both technical and non-specialist audiences.
+
+Salary And Benefits
+£commensurate with experience
+Contributory Pension Scheme
+Life Assurance
+A flexible benefits programme including the option to buy additional holidays and private health care
+Regular training and career development
+
+At RSK we operate an open and relaxed management culture that nurtures continuous improvement and innovation, adopting a proactive growth strategy helps us to run a sustainable and profitable business while providing new and exciting career opportunities for all. The company prides itself on providing employees with a rewarding and challenging career, encouraging Continuous Professional Development and enabling them to reach their full potential. Listed as being in the top 3 environmental consultancies and listed in the Sunday Times PwC Top Track 250, there has never been a more exciting time to join.
+
+Furthermore, retaining our employees is the building block of a successful organisation and we want to ensure you maintain a healthy work life balance, with many opportunities for flexible working, social activities, and community involvement projects.
+
+RSK is also committed to our Corporate Responsibility strategy. We seek to minimise our impact on the environment; to engage positively with the community and education groups; to provide a safe and supportive atmosphere in which to work; and to promote Corporate Responsibility throughout our supply chain.
+
+RSK Group is an Equal Opportunities Employer
+Seniority Level
+Entry level
+Industry
+Civic & Social Organization Non-profit Organization Management
+Employment Type
+Full-time
+Job Functions
+Engineering Information Technology

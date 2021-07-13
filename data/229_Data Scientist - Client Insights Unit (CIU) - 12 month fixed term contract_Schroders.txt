@@ -1,0 +1,72 @@
+Data Scientist - Client Insights Unit (CIU) - 12 month fixed term contract
+Schroders
+London, England, United Kingdom
+Who We're Looking For
+
+This role will be focused on the recently formed CIU Data Science team, whose core responsibility is to deliver insights into the hands of sales teams, RMs and marketing practitioners.
+
+This encompasses everything from running data science research projects, to developing proof of concepts, building scalable, automated solutions, and integrating these into the day to day lives of users. The team is essentially acting as the bridge between the business and the data.
+
+The Data Scientist will support other data scientists in the team in data exploration and preparation as well as during the modelling (and automation) process. Other tasks will involve the production of analysis reports and presentations or the creation of prototypes and dashboards. Naturally, this requires a blend of skills including data analysis and statistics as well as communication.
+
+Your day-to-day priorities will be defined by the CIU Data Science Manager, providing a clear picture of where most business value can be created.
+
+About Schroders
+
+We're a global investment manager. We help institutions, intermediaries and individuals around the world invest money to meet their goals, fulfil their ambitions, and prepare for the future.
+
+We have around 5,000 people on six continents. And we've been around for over 200 years, but keep adapting as society and technology changes. What doesn't change is our commitment to helping our clients, and society, prosper.
+
+The base
+
+We moved into our new HQ in the City of London in 2018. We're close to our clients, in the heart of the UK's financial centre. And we have everything we need to work flexibly.
+
+
+The team
+
+This is a data science role embedded within the Client Insights Unit (CIU) although the role forms part of the wider Data Insights Unit (DIU). The DIU uses data science skills and technologies to unlock the value in data for decision-making and is primarily focused on supporting Investment desks, however, in order to support and nurture a community of data scientists within Schroders, some DIU members are embedded in other functions within the business.
+
+The Client Insights Unit (CIU) is a business facing team embedded within the Distribution function, located primarily in London, but serving a diverse and global set of stakeholders at all levels right across Distribution and Marketing.
+
+The team is responsible for designing and developing a series scalable tools and widgets to generate and deliver insights into the hands of sales staff, RMs and marketing practitioners. This encompasses everything from running data science research projects, to developing proof of concepts, building scalable, automated solutions, and integrating these into the day to day lives of users.
+
+What You'll Do
+Delivery of ad-hoc analysis requests from Distribution or Marketing stakeholders, delivered in tools such as PPT, Excel or Python
+Exploration and preparation of new and existing data sets for modelling and analysis
+Support in the creation of prototype models, self-service analytical tools and dashboards.
+. Contributing towards the creation of a set of tools, techniques and practices that maximise the impact and efficiency of the team in…
+turning raw data into useful and analysable derived data sets, and
+developing re-usable analytical and visualisation methods
+Work with the DIU, CIU Data Science Engineers, and IT to develop and enhance the technical tools including steering the development of the analytics data warehouse for enterprise data, and interconnections with various internal data systems.
+Sharing data science knowledge to the wider DIU and Distribution Functions.
+The Knowledge, Experience And Qualifications You Need
+Strength in Maths, Statistics, Econometrics or any other related subject.
+Demonstrated experience handling and synthesising large data sets
+Attention to detail and able to effectively identify and describe data quality issues
+Exposure to Machine learning/Modelling experience – Regression, Classification, Frequentist/Bayesian methods, boosting/bagging algorithms etc.
+Effective communication and presentation skills and ability to visualise results in one or more of Qlikview, D3.js, R.Shiny, Jupyter, Office-Suite (Excel/Powerpoint)
+The Knowledge, Experience And Qualifications That Will Help
+Relevant degree subject (e.g. Statistics, OR, Data Science, any Science)
+Experience with server-scale data analysis
+Asset Management / Investment practices
+Specific experience with CRM (Salesforce), Sales Teams and Digital analytics
+What You'll Be Like
+An interest in investment management or finance.
+Has a natural flair for insightful analysis.
+Passionate to provide insight and clear information to others so they can make better decisions.
+Experience working in a data science function within a B2B environment.
+Experience in CRM systems such as Salesforce.
+Fascinated by the problem of how to make analysis useful and actionable.
+A strong statistician, who can technically adapt to a number of software tools.
+Ability to perform and discuss a number of technical information /statistical techniques to a variety to sponsors.
+We're Looking For The Best, Whoever They Are
+
+Schroders is an equal opportunities employer. You're welcome here whatever your socio-economic background, race, sex, gender identity, sexual orientation, religious belief, age or disability.
+Seniority Level
+Entry level
+Industry
+Information Technology & Services Computer Software Financial Services
+Employment Type
+Contract
+Job Functions
+Engineering Information Technology

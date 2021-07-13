@@ -1,0 +1,53 @@
+Quantum Data Scientist (Project Implementation)
+Cambridge Quantum
+London, England, United Kingdom
+Cambridge Quantum (CQ) is a global leader in software and enterprise applications that help its partners, collaborators, and clients to work effortlessly across multiple platforms and solve some of the most intriguing problems in their industry through quantum computing. Our focus is in the areas of quantum chemistry, quantum machine learning, and quantum encryption.
+
+Quantum Data Scientist (Project Implementation)
+
+Applying Quantum Machine Learning at Cambridge Quantum (CQ)
+
+Quantum computers have become commercial and are ready to tackle ambitious problems relevant to scientists and practitioners already at this early stage. Moreover, the pace at which hardware is developing is accelerating and even incremental improvements, both in hardware and algorithm, are anticipated to be pivotal in practically all industries.
+
+At CQ, we focus on Quantum Machine Learning (QML) as one of the most promising approaches to exploit quantum computation for mainstream applications in the near term. With our proprietary quantum algorithms and software tools, and an unparalleled scientific understanding of the state of the art we work with Fortune 500 companies to transform industries with the early adoption of quantum software solutions. The impact we are making is broad and we have significant expertise in domains such as Data Science, Finance, Genomics, and Operational Research.
+
+CQ is looking to expand its Machine Learning and Quantum Algorithms division with a full-time, talented Quantum Data Scientist. The successful candidate will work closely with the scientific team to understand and develop new algorithmic and QML approaches to problems of applied interest and implement them in client projects.
+
+In This Role You Will
+Discuss with external technical stakeholders the state of the art of quantum software and algorithms to identify project opportunities
+Work closely with the project manager and the client technical team on scoping, hands-on project execution and delivery
+Participate in auxiliary technical client-related activities such as presentations, pitches, and workshops.
+Contribute to the development of proprietary QML software.
+You will be joining a team of enthusiastic science and tech professionals that are using quantum algorithms to crack some of the most pressing industrial problems. Our clients are leading worldwide companies in Finance, Life Sciences, Energy, Transportation, to name a few. This role will offer the successful candidate plenty of growth opportunities both professionally and in terms of technical skills.
+
+The candidate must have
+PhD in Quantum Physics, Maths, Computer Science, or related field
+Familiarity with quantum algorithms for machine learning or optimization
+Experience in scientific software development in an academic or industrial environment
+Solid knowledge of Python and its key data science packages, unit testing, and version control systems
+Hands-on experience in Data Science projects, data exploration and data presentation
+A proactive adaptable approach to problem-solving
+The ability to support with technical and scientific work when needed
+Desirable experience
+Familiarity with implementation of quantum software on near-term quantum hardware
+Professional experience as a hands-on software/Data Science consultant
+Familiarity with AGILE project management concepts
+What is in it for you?
+
+Working alongside a highly talented team, with leading names in the quantum computing industry. We offer a highly competitive package including equity participation, 28 day’s paid annual leave, a workplace pension and a positive approach to flexible working.
+
+About Us
+
+Founded in 2014, CQ operates at the very core of quantum computing and is backed by some of the world’s leading partners with strong domain expertise including IBM, Honeywell and JSR Corp. Our core focus is in quantum software and enterprise applications in the area of quantum chemistry, quantum machine learning, and quantum encryption. With over 150 professionals, CQ has a strong and unique scientific grounding in terms of its core team with over 100 scientists, of which over 70 are Ph.D. holders. CQ has a “Science Led; Enterprise Driven” approach and built a tier one ecosystem of customers, investors, and partners including IBM, Honeywell, JSR Corp, Total, Nippon Steel, and many other Fortune 500 companies. We are in the process of expanding our operations significantly across our offices in Cambridge (U.K.), Oxford, London, Washington, DC, and Tokyo.
+
+Please note that employment at CQ is subject to successfully passing our pre-employment screening checks.
+
+CQ is an inclusive equal opportunity employer
+Seniority Level
+Entry level
+Industry
+Information Technology & Services Computer Software Research
+Employment Type
+Full-time
+Job Functions
+Engineering Information Technology

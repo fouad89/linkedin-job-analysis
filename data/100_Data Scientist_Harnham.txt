@@ -1,0 +1,57 @@
+Data Scientist
+Harnham
+London, England, United Kingdom
+Posted by
+Nick Mandella
+Senior Manager - Data Science & Machine Learning at Harnham
+Send InMail
+Data Scientist
+London / Fintech
+£65,000
+
+OVERVIEW
+
+The Harnham Data Science team are currently working with a fintech company based in London who have achieved notable success in recent years and have won numerous awards for their market-leading product!
+
+They have exciting plans for the next 2 years, including building out a brand new Data Science capability - this position will help to lead that effort!
+
+You will be working within a talented team of Data Scientists, responsible for utilising your knowledge of statistics/machine learning to solve problems in marketing, risk, digital and fraud. 
+
+There is a great culture here, particularly if you are keen to work in a learning environment. 
+
+THE ROLE
+
+On a daily basis you will be:
+
+Experimenting with large datasets, formulating hypotheses and using your statistical/machine learning knowledge to generate insights
+Using a variety of the latest tools and technologies (Python/Spark)
+Exploring the use of deep learning techniques on complex problems
+Competing in the company's annual hackathons to test your skills against other Data Scientists
+
+SKILLS AND EXPERTISE
+
+You must have:
+
+A proven experience in programming with Python
+An MSc or Ph.D. in a quantitative discipline (e.g. Maths, Stats, Computer Science, Physics etc)
+Knowledge of a database query language (SQL preferred)
+
+SALARY
+
+In this role you could earn up to £65,000 + benefits.
+
+HOW TO APPLY
+
+To be considered for this exciting opportunity, please submit your details using the Apply button on this page. Or for more information regarding other roles please contact Nick Mandella at Harnham.
+
+KEYWORDS
+
+Python, Spark, SQL, machine learning, statistics, statistical analysis, Data Scientist, Data Science, Deep Learning.
+Seniority Level
+Associate
+Industry
+Computer Software Information Services
+Employment Type
+Full-time
+Job Functions
+Research Science Information Technology

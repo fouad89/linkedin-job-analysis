@@ -1,0 +1,47 @@
+Data ScientistSoftware Engineer - Athena Applied Intelligence - London
+JPMorgan Chase & Co.
+London, England, United Kingdom
+About Athena Applied Intelligence
+
+Athena is a cross-asset platform transforming technology at JP Morgan. It delivers innovative and efficient applications to a wide range of the firm's business, including sales, trading, operations, risk and research. Athena combines the best of open source technologies with innovative components developed internally, and serves a wide spectrum of users and stakeholders including the front office, quantitative researchers and technology teams.
+
+In Athena Applied Intelligence team, we combine the power of Data Science (DS), AI, ML, optimization algorithms and automation to augment human intelligence and solve business problems at scale. We are on a mission to make better and smart use of data, identify and solve high-impact decision and optimization problems to unlock business value at scale.
+
+You will be part of a highly creative, innovative and passionate team of engineers looking to generate actionable insights and advance the state-of-the-art in automated and scalable intelligent decision making. We embrace a culture of experimentation, collaboration, creativity and innovation, and constantly strive for improvement and continuous learning.
+
+Responsibilities
+
+As an Applied Data Scientist/Software engineer, you are expected to have proficient knowledge and experience in Applied Data Science and AI/ML. Prior experience with optimization algorithms is desirable. You are a strong engineer with deep expertise in cutting-edge technologies, robust design, development, coding and testing of high standard and scalable software.
+
+You will participate in the efforts to translate complex datasets and mission-critical business challenges into technical problems and solve them at scale using the appropriate methodologies and tools. Your deep expertise and interest in data analytics, AI/ML and algorithms, as well as strong practical experience with modern engineering technologies will enable you and the team to intelligently transform data into value, innovate, create high-standard robust production capabilities and deliver increased business benefits.
+
+You will engage with exciting new and ongoing projects in collaboration with internal teams. Some of the projects include high performance compute optimization, intelligent resource allocation and automated inefficiency/anomaly detection, all of which offer opportunities for creative problem solving, analytical techniques and automation. The project domain continues to grow as per business needs. You will have exposure to the business challenges and the firm's unique and rich datasets, and are expected to play an active part in the journey from ideation to production delivery.
+
+You will take part in the research and development lifecycle beginning with understanding the business context, technical problem articulation, data discovery and analysis, insights generation, designing algorithms, delivering successful prototypes and working with the team to ship robust production engineering solutions.
+
+Required Qualifications And Experience
+MSc in a quantitative discipline, e.g. Computer Science, Applied Mathematics, Operations Research, Data Science, AI/ML, or similar BSc and experience in a highly quantitative position
+Practical experience with solving analytical, data-driven decision and optimization problems, developing and deploying DS/AI capabilities in commercial contexts
+Must be curious, detail-oriented, results- and client-focused, highly motivated by complex analytical problems, and proficient in uncovering meaning and relevant opportunities from complex datasets
+Strong development skills in Python or similar programming language
+Strong SDLC mindset and familiarity with agile paradigms
+Excellent creative problem solver, a data enthusiast and passionate about realizing the full power of applied data analytics and intelligence in real complex and commercial settings
+Ability to convey results clearly, collaborate and communicate effectively with stakeholders of various backgrounds
+Preferred Qualifications And Experience
+Experience in applying Data Science to Software Engineering problems
+Deep knowledge of AWS technologies (including SageMaker)
+Practical experience with analytical and data science/ML platforms, libraries and toolkits
+Experience with big data technologies, modern data engineering practices, frameworks and data visualization tools
+Expertise in one or more specialized areas such as deep learning, reinforcement learning, graph and optimization algorithms
+Practical experience with or proficient knowledge in high performance computing technologies and performance engineering
+J.P. Morgan is a global leader in financial services, providing strategic advice and products to the world's most prominent corporations, governments, wealthy individuals and institutional investors. Our first-class business in a first-class way approach to serving clients drives everything we do. We strive to build trusted, long-term partnerships to help our clients achieve their business objectives.
+
+We recognize that our people are our strength and the diverse talents they bring to our global workforce are directly linked to our success. We are an equal opportunity employer and place a high value on diversity and inclusion at our company. We do not discriminate on the basis of any protected attribute, including race, religion, color, national origin, gender, sexual orientation, gender identity, gender expression, age, marital or veteran status, pregnancy or disability, or any other basis protected under applicable law. In accordance with applicable law, we make reasonable accommodations for applicants' and employees' religious practices and beliefs, as well as any mental health or physical disability needs.
+Seniority Level
+Entry level
+Industry
+Financial Services
+Employment Type
+Full-time
+Job Functions
+Engineering Information Technology

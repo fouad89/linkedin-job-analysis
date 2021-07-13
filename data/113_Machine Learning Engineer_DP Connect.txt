@@ -1,0 +1,37 @@
+Machine Learning Engineer
+DP Connect
+Cambridgeshire, England, United Kingdom
+Posted by
+Michael Orriss
+Recruitment Consultant at DP Connect Specialising in the HealthTech, BioTech and Med-tech Industry
+Send InMail
+Machine Learning Engineer
+Cambridgeshire
+Up to 60-70k + competitive bonus
+Fully remote currently - moving to 3 days in office hybrid style
+
+My client are looking for an experienced Machine Learning Engineer to join there AI team in their Cambridgeshire office. You will work closely with the clinical, data and engineer teams by driving projects and influencing the techniques applied to various AI products.
+
+Responsibilities
+Developing the existing AI/ML models.
+Test, Evaluate, deploying and maintain our AI/ML pipelines.
+You will review academic papers to establish utility for given challenges
+You will work with large datasets for implementation of innovative AI/ML solutions for the healthcare industry.
+
+Essential skills:
+Solid understanding of machine learning and statistics.
+Good understanding of genetics and genomics either academically or from working in this domain.
+Strong Python programming skills including data analysis libraries such as pandas and scikit-learn, and test frameworks such as pytest.
+Experience in working with large datasets.
+Practical knowledge of Unix/Linux operating systems.
+Background in a Bioinformatics area
+
+If this sounds like you then please get in touch.
+Seniority Level
+Mid-Senior level
+Industry
+Staffing & Recruiting
+Employment Type
+Full-time
+Job Functions
+Engineering Information Technology

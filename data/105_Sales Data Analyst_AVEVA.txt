@@ -1,0 +1,48 @@
+Sales Data Analyst
+AVEVA
+United Kingdom
+Posted by
+Cami May Brough
+Senior Talent Acquisition Specialist - EMEA at AVEVA
+Send InMail
+Sales Data Analyst – UK - FTC - 12-14 Months
+
+AVEVA infuses industrial software with intelligence to empower people to shape a sustainable future. We work with our customers and harness the power of our ecosystem to deliver operational agility and empower human expertise. Our solutions advance engineering and operations with Performance Intelligence. From water and energy to food and infrastructure, we inspire insights that transform opportunity into sustainable business value. We combine unparalleled intelligence with collaborative innovation to enable people and industries to thrive.
+There are 6,000 of our people at 90 locations in more than 40 countries who challenge themselves and each other to create and improve the trans-formative technology our customers need. With our help, industries across the world can make a positive difference to the lives of people everywhere.
+We take pride in our core values and the diversity of our people, valuing the unique experience and expertise that people from different backgrounds bring to our business. At AVEVA, we’re all about Limitless possibilities. Are you?
+ We are looking for a data analyst that will help us deliver a major sales integration project as a result of a recent acquisition, This individual will help design the future orientated data strategy for sales data and will work with the project teams and the business to merge, align and clean the existing data from multiple systems and to develop an effective and scalable strategic data management and reporting strategy, based on the strategic development of a Sales Data Lake that supports the Data Integration work but also future Sales Data needs.
+  Responsibilities
+
+Lead the integration of our sales intelligence tool sets by interpreting data, analysing results and providing ongoing reports
+Develop plans to map and model the integration of historical and future data across the two organisations, including the development of a data lake, data mining strategy and enhancing data collection procedures to include information that is relevant for building analytic systems
+Processing, cleansing, and verifying the integrity of data used for analysis
+Doing ad-hoc analysis and presenting results in a clear manner
+
+Skills & Qualifications
+
+Data extraction and integration from various data platform according to the business requests from stakeholders
+Build effective visualisations to communicate data to key decision-makers. Build models to detect anomalies.
+Investigate and resolve data discrepancies between systems.
+Provide source-to-target mappings and information-model specification documents for data sets.
+Develop and maintain databases and build scripts that will make the data evaluation process more flexible & scalable across data sets.
+Data validation, Monitor, report and manage escalation of all operational data issues
+Analyse and validate data quality to identify errors in different data sources in data platform
+Determine opportunities to improve and automate processes and functions
+Perform data analyses, analyse historical data and identifying patterns.
+Identify and perform downstream, usage and impact analysis
+5+ years’ experience in data analysis, statistical analysis or a relevant discipline
+Exceptional result-oriented mindset and track record
+Strong communication style and able to communicate effective to multiple stakeholders
+BS in Mathematics, Economics, Computer Science, Information Management or Statistics
+
+AVEVA is an Equal Opportunity Employer. We are committed to being an exemplar employer with an inclusive culture, developing a workplace environment where all our employees are treated with dignity and respect. We value diversity and the expertise that people from different backgrounds bring to our business.
+Come and join AVEVA to create the transformative technology that enables our customers to engineer a better world.
+Concerning agencies: AVEVA does not accept unsolicited resumes and will not be responsible for fees related to such.
+  Seniority Level
+Mid-Senior level
+Industry
+Computer Software
+Employment Type
+Contract
+Job Functions
+Information Technology Sales Analyst

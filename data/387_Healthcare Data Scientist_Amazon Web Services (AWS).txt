@@ -1,0 +1,49 @@
+Healthcare Data Scientist
+Amazon Web Services (AWS)
+London, England, United Kingdom
+Description
+
+Are you looking to work at the leading edge of advanced Machine Learning and Artificial Intelligence in healthcare and research?
+As a member of the AWS International Public Sector Healthcare Data Science team, you'll partner with our customers and AWS technology and business teams to help transform research, health and social care using AI and Cloud technologies.
+Example focus areas include Genomics, Clinical Decision Support, Population health and health system productivity.
+You will be working with terabytes of text, images, and other types of data to solve real-world problems. You'll develop novel use cases, design and run projects, research new algorithms, and find new ways of helping to improve clinical outcomes, productivity and research using cloud.
+
+The Primary Responsibilities Of This Role Are To
+Work with sales, business development and solution architecture teams to design and develop innovative solutions to healthcare customer needs
+Use deep learning, machine learning and analytical techniques to create scalable solutions to address healthcare needs
+Interact with customers directly to understand business challenges, develop use cases and solutions and help customers implement DL/ML algorithms and cloud technologies to solve problems
+Analyze and extract relevant information from large amounts of historical data to help automate and optimize key processes
+Work closely with account teams, research and product engineering teams to drive model implementations and new algorithms
+
+Basic Qualifications
+Masters degree (or European advanced degree equivalent) in Computer Science, or related technical, math, or scientific field
+Relevant experience in building machine learning or deep learning models and/or systems in a production environment
+Experience in using Python, R or Matlab or other statistical/machine learning software language
+Experience with statistical modelling/machine learning
+Relevant experience with deep learning models (e.g., BERT, CNN, RNN, LSTM, etc.)
+Experience in project management of customer ML projects, including planning, tracking and execution
+Ability to think creatively and solve problems working closely with customers and other AWS stakeholders
+Fluency in written and spoken English
+Preferred Qualifications
+Strong understanding of a relevant healthcare area - bioinformatics, hospital data systems, population health or other related area
+PhD degree in Computer Science, or related technical, maths, or scientific field
+Track record scoping, designing and delivering ML healthcare projects through to production
+Strong working knowledge of deep learning, machine learning and statistics
+Hands on experience building models with deep learning frameworks like MXNet, Tensorflow, Caffe, or similar
+Experience of building effective solution architectures
+Experience in Agile delivery methodologies
+Experience hiring or mentoring more junior colleagues
+Strong communication and data presentation skills
+The motivation to achieve results in a fast-paced environment
+Strong attention to detail
+Comfortable working in a fast paced, highly collaborative, dynamic work environment
+Fluency in at least one other language
+
+Company - AWS EMEA SARL (UK Branch)
+Job ID: A1557639
+Industry
+Computer Software Information Technology & Services Internet
+Employment Type
+Full-time
+Job Functions
+Engineering Information Technology

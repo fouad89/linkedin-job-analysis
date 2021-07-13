@@ -1,0 +1,52 @@
+DATA ENGINEER INTERN - Dubai or Remote
+Cobblestone Energy
+London, England, United Kingdom
+About Cobblestone
+
+Cobblestone Energy is an independent trading firm. Founded in 2017, we are part of the next generation of companies defining the future of global commodity trading. Although we have experienced very strong growth so far, we are still near the start of our journey. We have ambitions to go a lot further.
+
+Energy in one form or another is fundamental to almost all the world's economic activities. By understanding the demand, supply, and logistics of these commodities, we can better understand the world.
+
+We specialise in the proprietary trading of the short-term wholesale electricity markets across Europe. We make use of advanced data analytics and extensive research to drive profitable decision making, trading enough electricity every day to power a small country and growing every day. Technology and risk management form the backbone of our business.
+
+Over the years we have grown organically. As part of our journey to be the best in all markets we enter, we would like to welcome Data Engineer interns into our team.
+
+Cobblestone Values:
+Lifelong learning with continuous reflection
+Independent thinking through a meritocracy of ideas
+The team is more important than the individual
+Being the best in any market we enter
+Hiring and keeping only the most effective people
+Others must benefit from our existence.
+
+Job Location:
+
+It can be in our Dubai office or remotely with periodic travel to Dubai
+
+Office Location:
+
+Jumeirah Business Centre 2, Cluster V, Jumeirah Lake Towers, Dubai, United Arab Emirates
+
+Responsibilities:
+
+Data Engineer Intern will be contributing to the development, testing and delivery of our data pipelines and data infrastructure to support real-time collection and real-time processing of our data. He/she will be also participating in some of our Data Analytics projects.
+
+This role might be converted to a full-time Data Engineer position, based on the performance of the hire during the internship period.
+
+Requirements:
+Candidates should be available to seek an internship of a minimum of 6 months.
+Candidates must have a Bachelors/Masters in Data Science, Data Engineering or Data Analytics.
+Strong academic performance with a GPA of A or B+ is required.
+Strong skills/knowledge in Data Engineering are required.
+Strong knowledge/expertise in Algorithms, Data Structures, Databases and AWS resources is required.
+Experience in AWS Kinesis services is a big plus.
+Excellent coding skills & problem-solving skills.
+Candidates must be Autonomous, fast learners and result driven with the ability to adapt to a fast-paced dev environment.
+Seniority Level
+Internship
+Industry
+Oil & Energy
+Employment Type
+Internship
+Job Functions
+Information Technology

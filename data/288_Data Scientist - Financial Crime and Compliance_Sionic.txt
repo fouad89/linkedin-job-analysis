@@ -1,0 +1,60 @@
+Data Scientist - Financial Crime and Compliance
+Sionic
+London, England, United Kingdom
+At Sionic, we are dedicated to building a culture of diverse perspectives and talent to support individual growth and superior business results. We strive to cultivate a dynamic, diverse, and inclusive workplace where all employees feel engaged, valued and that they belong. Our global Charter summarises commitment to diversity and inclusion. We are committed to living our corporate values of Leadership, Teamwork and Expertise.
+
+JOB TITLE: Data Scientist Financial Crime and Compliance
+
+Sionic is a global consulting firm specialising in financial services. Our purpose is to accelerate the business, technology, and people performance of our clients and to have a positive impact on our society. We are expert-led specialists across banking, asset and investment management, financial markets infrastructure, wealth management, insurance, and reinsurance. We offer multi-disciplinary, multi-capability expertise across six core areas: business strategy, operational excellence and improvement, technology transformation and digitisation, international regulatory compliance, risk, finance and control, leadership, talent and cultural transformation. Our main offices are in New York, Toronto and London and we have 300+ staff based across North America, Europe and Asia. We offer a unique blend of subject matter expertise, senior industry experience and specialism in transformation and change with a commitment to deliver measurable value. We are straight-forward, adaptable, and outcomes-focused. We build affinity, work with integrity and we always do what is right for our clients.
+
+Do you have what it takes to be part of Sionic? You will be representing all that Sionic stands for –
+
+Leadership - We provide thought leadership; we take ownership and accountability, and we display ingenuity, resourcefulness, and versatility.
+Expertise - We develop and implement best-practice solutions; we offer expert advice, and we share knowledge and grow talent.
+Teamwork - We work in partnership; we interact with respect and understanding, building team performance.
+
+The Role:
+
+The Financial Crime and Compliance practice helps clients to formulate strategic approaches and demonstrate measurable progress in reducing risks while maximising the efficiency and effectiveness of financial crime and compliance programs, applications, and solutions. You will be part of a highly skilled, open and cross functional team, we have created a dynamic and empowered environment where you can share innovative ideas, learn from your peers and be exposed to the latest technologies and exciting client programmes.
+
+Within this particular role, you will learn new techniques based on the patented partner solutions we integrate, combining Topology, Information Theory and Machine Learning to create the world's most powerful global pattern discovery capabilities. During each project you will help our customers solve their biggest and most impactful problems whether it be discovering the sinister Unknown Unknown's to emerging risks evading their detection systems
+
+This is a unique opportunity for an individual who is energetic, enthusiastic and eager to learn and progress in a career in Financial Compliance. Although the role is currently remote due to COVID-19 restrictions, in the future there will be opportunities for travel throughout Europe (and possibly the USA) to work onsite with our clients, whilst flexible working practices will continue to be offered.
+
+Key responsibilities:
+
+Deliver successful deployment and Pilots
+Manage and design the Customer-specific technical solution throughout the project life cycle.
+Work on various data sources and apply sophisticated feature engineering capabilities
+Extract insights and actionable recommendations from large volumes of data and Investigate anomalies in Big Data
+Build and manage technical relationships with customers and partners.
+Provide product requirements input to Product Management team
+Train the customers on the system – system usage and monitoring aspects.
+Willingness to travel abroad to customers as needed
+
+
+Experience required:
+
+Experience in applying data analytics/machine learning solutions to solve business problems, preferably analysing financial data.
+Experience working with customers. Advantage – financial customers
+Hands-on experience and knowledge of scripting languages: Python / PySpark / SQL and the ability to translate analytical ideas into code
+Familiar with one or more Big Data toolkits such as Spark, HIVE, etc.
+Prior experience developing and maintaining Machine learning models (AML & Fraud)
+Minimum 3 years in a Data Scientist role
+Financial Crime domain knowledge
+Excellent English (speaking, presenting, reading)
+Ability to design creative solutions for complex requirements
+Ability to learn independently and to work with minimal supervision at customers' sites
+Strong interpersonal relationship building
+A motivated, self-starter who can demonstrate above average analytical and technical skills
+Proven strength in conceptual and logical thinking, ability to abstract information and look at the bigger picture
+Experience of working within large, complex and geographically dispersed Programmes essential
+Ability to execute multiple projects and drive key business results under tight deadlines
+Seniority Level
+Entry level
+Industry
+Banking Management Consulting Financial Services
+Employment Type
+Full-time
+Job Functions
+Engineering Information Technology

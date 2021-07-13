@@ -1,0 +1,43 @@
+Data Scientist - UK
+Shift Technology
+London, England, United Kingdom
+At Shift Technology, we’re transforming insurance with AI. We help insurers fully automate more claims, deliver a great customer experience while protecting against risk and accurately identifying suspected fraud, making internal teams more effective and improving financial performance.
+
+Since our launch in 2014 in Paris, we've raised over $320M with Tier 1 investors, opened offices in Boston, Tokyo, Singapore, London, Madrid, Mexico, Hong-Kong, and Sao Paulo, and currently work with more than 80 of the world’s leading insurers. If you are excited about joining a fast-growing insurtech innovator with a passion for excellence and global culture, Shift is the place for you.
+
+Shift Technology offers a unique opportunity to brilliant candidates to accelerate their careers in data science
+Data scientists work on a broad range of subjects, acquiring a lot of technical and professional experience in data science, data engineering, coding, business understanding and client interactions; skills invaluable in any career.
+Our company is small enough that each person’s achievements have an impact on overall performance, yet big enough to be a world leader in our domain.
+We are a fast growing company, the best contributors will grow to managerial or product tech lead positions much more rapidly than in bigger companies
+YOUR ROLE
+
+It Is a Hands-on Job, Expect To Be Doing Everything You Can Imagine From The Technical Side In An AI Company
+
+The data science team is in charge of technically delivering the Shift products to clients, the key role in the success of our projects with clients.
+Implementation of the data engineering, usually from client extracts to the insertion of the data in our data stores (SQL, ElasticSearch)
+Developing, testing, tuning models and putting them in production for tasks such as fraud detection and automation detection in complex environments.
+Automate key business tasks by implementing them in our production process framework in C#
+Conduct meetings with clients and interact with external stakeholders, whether it is direct user feedback, presenting business cases or defining the roadmap of evolutions for that client
+You will actively participate in the definition and development of our suite of products on fraud detection, anti-money laundering and claim automation, working on various data types such as structured data, free text, documents and images.
+
+What We Are Looking For
+
+As a result of the range of the role, we are looking for people with diverse skills and proficiencies to help make our customers successful.We are open to people not having exactly all of the required skills, but in each one of those they must be willing to build expertise.
+
+As a Result, We Expect Data Scientists To Be
+Code-savvy, either by having a degree in computer science and/or having developed some apps with actual users, or by willing to spend a lot of time practicing. Writing scripts for models and notebooks is not enough at Shift, we thrive on people who can write maintainable, production-quality code that will run everyday without breaking.
+AI-savvy, either by having a degree in machine learning and/or statistics or be looking to work on those subjects. Having a clear understanding of statistics and machine learning problems, tasks and common resolutions is important to communicate internally and explain to the client how the product is working.
+Client facing. You will need to be comfortable, clear and professional when talking to clients during meetings and by email. Expect to talk with a client every other day and grow your communicational and presentational skills!
+Business smart. We don’t expect candidates to know the insurance sector, but we want people who can learn and master the business aspects of our products
+English speakers. We are an international company with offices in many countries and 40+ nationalities, the Shift working language is English.
+EEO Statement
+
+At Shift we thrive to be a diverse and inclusive workforce. We hire and trust people without regard to race, color, religion, marital status, age, national or ethnic origin, physical or mental disability, medical condition, pregnancy, genetic information, gender identity or expression, sexual orientation, or other non-merit criteria. Shift is proud to be an Equal Opportunity Employer.
+Seniority Level
+Entry level
+Industry
+Information Technology & Services
+Employment Type
+Full-time
+Job Functions
+Engineering Information Technology

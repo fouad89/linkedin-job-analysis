@@ -1,0 +1,38 @@
+Data Engineer SQL Python Machine Learning
+Client Server
+London, England, United Kingdom
+2337
+London, England, £50000 - £60000 per annum + benefits
+
+Job Type: Permanent
+
+Managed by: Data Team
+
+Data Engineer (SQL Python Machine Learning Python Cloud REST API) *Remote Interview WfH*. Global games software house is seeking a data centric technologist. You'll be working on complex and interesting systems using the latest technology within a modern Cloud based environment, continually learning and progressing your career.
+
+As a Data Engineer you will collaborate with software developers, architects and data engineers with the aim of making more intelligent decisions for players to give them what they want, when they want it. You'll work across different areas of the business to help identify and develop models to ensure members have the best possible onsite experience; you'll have the freedom to come up with new ideas, proof of concepts and prototypes, collaboratively problem solving as part of a diverse and supportive team.
+
+Typically you'll be building predictive models, partnering with data engineers to ensure models run efficiently, summarising complex concepts and making them presentable for stakeholders, building scalable solutions and RESTful APIs to expose models as a service. You'll explore new tools, data, algorithms and analytical techniques, staying up to date with new innovations in the field of Machine Learning.
+
+Driven by technology this company can offer a remote interview / onboarding process and work from home during the current social distancing measures; thereafter you'll be based in awesome offices in Central London with a wide range of facilities and flexibility to work from home for part of the week (1-2 days).
+
+Requirements
+You have a strong knowledge of SQL, PL/SQL and Data Warehousing
+You have experience of data processing with Python
+You have experience with Cloud based engineering, GCP or AWS
+You've worked with Agile software development teams, have great communication skills and translate complex information for non-technical stakeholders
+You're collaborative, keen to share ideas and continually improve
+You're degree educated in a relevant STEM discipline
+As a Data Engineer you will earn a competitive salary (to £60k) plus benefits.
+
+Apply now or call to find out more about this Data Engineer (SQL Python Machine Learning Python Cloud REST API) opportunity.
+
+REF: BB/16753/B/KS/120721_1626081078
+Seniority Level
+Mid-Senior level
+Industry
+Computer Software Information Technology & Services
+Employment Type
+Full-time
+Job Functions
+Information Technology

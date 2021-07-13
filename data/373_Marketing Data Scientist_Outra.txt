@@ -1,0 +1,51 @@
+Marketing Data Scientist
+Outra
+London Area, United Kingdom
+Posted by
+Annika Zablocka
+Chief Of Staff at Outra
+Send InMail
+Outra is a data science company that uses its unique UK property data, household segmentation, and predictive models to improve business outcomes for clients. Our AI and machine learning power better, faster results in areas like lead generation, customer retention, risk management, portfolio valuation, and forecasting. Outra’s high-quality proprietary data plus its fantastic team of data scientists gives a competitive advantage, proven in the blue-chip companies who work with us. Now we’re scaling up and shooting for the moon, and want ambitious talent to join our fantastic team. 
+
+Automation and responsible data science are two key principals at Outra and central to all our products and services. We use Artificial Intelligence to turn business problems into predictive problems, and automation to scale the solution. We learn from the past, optimise the present and shape the future. We create better predictions and experiences to delight clients and customers and maximise return from investment in data.
+We are a fast-paced business in growth mode. We are looking for a candidate excited to take on new challenges and adapt to market changes and scientific innovations alike. You must have a proven ability to drive business results with data-based insights and comfortable working with a wide range of stakeholders and functional teams.
+
+The Role
+At Outra, we use a layered approach of machine learning algorithms and our proprietary property data set to produce granular geographic targeting on social media for clients across a variety of sectors.
+We are looking for an enthusiastic data scientist to join our team who will specialize in designing, training and deploying machine learning solutions focused on customer behavior modelling and marketing automation and optimization.
+Example projects for this role include: ad spend optimization, geographic targeting and retargeting, monitoring campaign performances, designing and testing targeting changes.
+
+Responsibilities:
+To develop custom data models and algorithms to apply to various data sets and use predictive modelling to improve clients marketing campaigns.
+To develop processes and tools to monitor and analyze marketing campaign performance by lead generation and conversion metrics.
+Collaborate with the data science team to share knowledge and experience.
+
+Technical Abilities:
+Proficiency in SQL and Python.
+Knowledge of Snowflake and/or Dataiku are a plus.
+Knowledge of statistics (correlations, design of experiments, hypothesis testing) and its application in data science.
+Domain knowledge in marketing and social media strategies, digital marketing campaigns, and campaign performance metrics.
+Knowledge of advanced machine learning algorithms such as regression, simulation, scenario analysis, modelling, clustering, decision trees, random forests, gradient boosting, and neural networks.
+Must possess strong problem-solving skills, excellent written and verbal communication skills for coordinating with teams and clients, and a committed drive to constantly learn and master new techniques and technologies.
+
+Personal Characteristics:
+Passionate about data, models and visualizations.
+Enthusiasm for understanding and modelling human behaviour.
+Curious and motivated to explore and expand capabilities in a sector which is digitally immature.
+You're passionate about start-ups - you want to work hard and build something great and have the ability to learn and adapt in a rapidly changing environment.
+ Education and Work Experience:
+Experience analysing lead generation and conversion.
+Experience with geo-spatial analysis
+Experience working with multi-channel marketing: search, social, and display.
+A Bachelor’s or Master’s degree in Statistics, Mathematics, Computer Science or another relevant field.
+2+ years commercial experience in a role focused on statistical modelling, econometrics, marketing attribution, marketing analytics, data science or relevant PhD .
+Experience working with Google Analytics, Facebook Ad Manager, Smartly, and advertising platforms highly desirable.
+Experience working with demographic, consumer and real estate data would be advantageous but not essential.
+Seniority Level
+Mid-Senior level
+Industry
+Information Technology & Services
+Employment Type
+Full-time
+Job Functions
+Marketing Information Technology

@@ -1,0 +1,104 @@
+Data Scientist
+GSK
+Brentford, England, United Kingdom
+Site Name: USA - North Carolina - Durham, UK - London - Brentford
+Posted Date: Jun 30 2021
+
+At GSK, we're a company with a special purpose, to help people do more feel better and live longer. Realising our purpose starts with us. When we feel at our best, we perform at our best.
+
+When you set out on your adventure at GSK, we make a deal. You commit to living GSK's values and expectations and performing against our Innovation, Performance and Trust priorities. And in return, GSK commits to providing the right environment for you to thrive. Put simply, it’s about you being motivated to do your best work, in a place where you can be you, feel good and keep growing.
+
+Together we build an environment where we can all thrive and focus on what matters most to each of us. It is only through the energy, dedication, drive and passion of all of us that we can be the very best for GSK, and importantly, for our patients and consumers.
+
+Data Scientist
+
+Do you have a passion for discovering solutions hidden in large data sets and working with partners to improve business outcomes? Is making discoveries whilst swimming in data something that excites you? Do you enjoy the challenge of facing technical limitations but discovering novel solutions?
+
+We’d like to hear from you if you think you might make a good fit!
+
+Job Purpose
+
+As a Data Scientist, you will be accountable for driving projects and improvement activities through technical consulting and value delivery leadership, for a range of Pharma Supply Chain activities within GSK.
+
+In this position you will execute sophisticated computational approaches to accelerate and optimize the pharmaceutical product supply chain, generating insights by merging diverse data streams, internal and external data sources, and using modelling, statistical, data visualisation and decision analytics techniques.
+
+We are looking for somebody who is adept at using high volume data sets to find opportunities for product and process optimisation and using models to test the effectiveness of different courses of action. You must have good experience using a variety of data mining/data analysis methods, tools for building and implementing models, and creating algorithms and simulations. You will also be responsible for leading and collaborating with others within GSK in discovery, experimentation and modernisation in new and emerging data science technologies such as Machine/Deep Learning and Artificial Intelligence (AI).
+
+This is a fantastic opportunity to exploit established statistical tools such as multi-variate regression analysis and utilise data modelling and optimisation tools. The Data Scientist will use structured sources of enterprise data and unstructured external data to deliver insights to accelerate time to market, reduce inventory, increase first time right, improve automation, increase Overall Equipment Effectiveness and On-Time-In-Full.
+
+Key Responsibilities Include The Following
+Apply a broad array of analytics skills including machine learning, deep learning, statistics, text-mining/NLP, and modelling to extract insights to structured and unstructured sources and complementary real-world & digital information streams.
+Work on and often lead a number of team-based projects guiding in analytical and computational approaches within the Data Science & AI Centre of Excellence.
+Work with the latest tools and technologies to impact manufacturing and supply chain processes.
+Contribute to the Sophisticated Analytics plans for projects across all part of GSK.
+Build and construct prototypes of Sophisticated Analytic workflows.
+Work with partners and domain specialists throughout the organisation to seek opportunities for using company data to drive business solutions. Use analytics involving large datasets to refine and improve data models.
+Analyse data from company databases to drive optimisation and improvement of product development, supply chain, quality and manufacturing business strategies.
+Assess the effectiveness and accuracy of new data sources and data gathering techniques.
+Develop processes and tools to supervise and analyse model performance and data accuracy.
+Develop custom data models and algorithms to apply to data sets.
+Use predictive modelling to increase and optimise end to end performance across the supply chain.
+Use excellent written, verbal communication and digital media skills to coordinating across teams and engage partners.
+Demonstrate a passion and aim to learn and master new technologies and techniques.
+
+Basic Qualifications
+Graduate in science, engineering, computing, statistics or similar mathematically based subject area.
+Extensive understanding of ML, Statistics and AI methods (preferably PhD. or Masters) and continuous use of BI and ML/AI systems.
+Deep expertise in handling enterprise implementation of algorithms and enterprise data handling.
+
+Preferred Qualifications
+
+If you have the following characteristics, it would be a plus:
+Pharmaceutical industry experience a plus.
+A background in Engineering would be beneficial to this role.
+Higher Degree (MSc, MBA, PhD.) or relevant profession qualification in Statistics, Mathematics, Computer Science or another quantitative field, and is familiar with the relevant software tools.
+Strong problem-solving skills with an emphasis on product development.
+Knowledge and experience creating and using a variety of advanced machine learning techniques (clustering, decision tree learning, CNN, RNN, etc.) and their real-world advantages/drawbacks.
+Knowledge and experience of sophisticated statistical techniques and concepts (regression, properties of distributions, statistical tests and proper usage, etc.) and experience with applications.
+An aim to learn and master new technologies and techniques.
+Excellent written and verbal communication skills for coordinating across teams and engaging and influencing partners.
+Experience using statistical computer languages (R, Python, SQL, etc.) to manipulate data and draw insights from large data sets.
+Experience in visualising/presenting data for partners.
+Knowledge and experience in statistical and data mining techniques: GLM/Regression, Random Forest, Gradient Boosted Trees, Text Mining, social network analysis, etc.
+Coding knowledge and experience with several languages: C, C++, Java, JavaScript, etc.
+Experience with distributed data/computing tools such as Map/Reduce, Hadoop, Hive, Spark, Gurobi, MySQL.
+
+As a company driven by our values of Patient focus, Transparency, Respect and Integrity, we know inclusion and diversity are essential for us to be able to succeed. We want all our colleagues to thrive at GSK bringing their unique experiences, ensuring they feel good and to keep growing their careers. As a candidate for a role, we want you to feel the same way.
+
+We’re open to all talent – whatever your gender, disability, marital status, religion or belief, age, race, sexual orientation, ethnic or national origin.
+
+We believe in an agile working culture for all our roles. If flexibility is important to you, we encourage you to explore with our hiring team what the opportunities are.
+
+Please don’t hesitate to contact us if you’d like to discuss any adjustments to our process which might help you demonstrate your strengths and capabilities. We will ensure that individuals with disabilities are provided reasonable adjustments to participate in the job application or interview process. You can either call us on 0808 234 4391, or send an email ukdiversity.recruitment@gsk.com
+
+As you apply, we will ask you to share some personal information which is voluntary. This will be used to help us understand how well we are doing against our inclusion and diversity ambitions. We would really appreciate it if you could take a few moments to complete it. Rest assured, Hiring Managers do not have access to this information, it is not used in any part of the selection process, and we will treat your information confidentially.
+
+Why GSK?
+
+GSK is a place where outstanding people do amazing things. As a science-led global healthcare company, we exist to help people do more, feel better, live longer. This special purpose – along with our goal of being one of the world’s most innovative, best performing and trusted healthcare companies – helps us attract some of the best and brightest minds in the world.
+
+We take pride in providing access to all and continually focus on our opportunity and obligation to do more to improve inclusion and diversity: for our people inside GSK; in the way we do business; and in the communities where we operate.
+
+We want our company to be a place where diversity of people and thought is valued everywhere and where we’re all able to be ourselves and feel a sense of belonging. An inclusive organization where we all feel valued, engaged and supported, knowing that our work makes an important contribution to our mission. Reinforced by our clear values and expectations, it is part of our DNA. Together we achieve extraordinary things for our patients and consumers, who rely on us each and every day.
+
+As a company driven by our values of Patient focus, Transparency, Respect and Integrity, we know inclusion and diversity are essential for us to be able to succeed. We want all our colleagues to thrive at GSK bringing their unique experiences, ensuring they feel good and to keep growing their careers. As a candidate for a role, we want you to feel the same way.
+
+As an Equal Opportunity Employer, we are open to all talent. In the US, we also adhere to Affirmative Action principles. This ensures that all qualified applicants will receive equal consideration for employment without regard to race/ethnicity, colour, national origin, religion, gender, pregnancy, marital status, sexual orientation, gender identity/expression, age, disability, genetic information, military service, covered/protected veteran status or any other federal, state or local protected class*(*US only).
+
+We believe in an agile working culture for all our roles. If flexibility is important to you, we encourage you to explore with our hiring team what the opportunities are.
+
+Please don’t hesitate to contact us if you’d like to discuss any adjustments to our process which might help you demonstrate your strengths and capabilities. You can either call us on 0808 234 4391, or send an email ukdiversity.recruitment@gsk.com
+
+As you apply, we will ask you to share some personal information which is entirely voluntary. We want to have an opportunity to consider a diverse pool of qualified candidates and this information will assist us in meeting that objective and in understanding how well we are doing against our inclusion and diversity ambitions. We would really appreciate it if you could take a few moments to complete it. Rest assured, Hiring Managers do not have access to this information and we will treat your information confidentially.
+
+Important notice to Employment businesses/ Agencies
+
+GSK does not accept referrals from employment businesses and/or employment agencies in respect of the vacancies posted on this site. All employment businesses/agencies are required to contact GSK's commercial and general procurement/human resources department to obtain prior written authorization before referring any candidates to GSK. The obtaining of prior written authorization is a condition precedent to any agreement (verbal or written) between the employment business/ agency and GSK. In the absence of such written authorization being obtained any actions undertaken by the employment business/agency shall be deemed to have been performed without the consent or contractual agreement of GSK. GSK shall therefore not be liable for any fees arising from such actions or any fees arising from any referrals by employment businesses/agencies in respect of the vacancies posted on this site.
+
+Please note that if you are a US Licensed Healthcare Professional or Healthcare Professional as defined by the laws of the state issuing your license, GSK may be required to capture and report expenses GSK incurs, on your behalf, in the event you are afforded an interview for employment. This capture of applicable transfers of value is necessary to ensure GSK’s compliance to all federal and state US Transparency requirements. For more information, please visit GSK’s Transparency Reporting For the Record site.
+Industry
+Pharmaceuticals
+Employment Type
+Full-time
+Job Functions
+Strategy/Planning Analyst Information Technology

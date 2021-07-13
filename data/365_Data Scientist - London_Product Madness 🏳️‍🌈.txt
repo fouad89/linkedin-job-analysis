@@ -1,0 +1,40 @@
+Data Scientist - London
+Product Madness 🏳️‍🌈
+London, England, United Kingdom
+At Product Madness you’ll join one of the fastest growing mobile game development studios, ranked among the top 30 in the world. Since our start-up days, we’ve tripled in size and stacked up awards for our chart-topping games such as Lightning Link and Heart of Vegas. How did we get here, you ask?
+
+We follow our creative intuition focusing on quality and content to make world class games we’re passionate about. We know if we love the final product, our players will too.
+
+We design games for all kinds of players, so we need all kinds of people creating them. We’ve hired leading talent from over 30 nationalities and actively seek out those who bring something different to the table. This way we’re constantly learning from each other and collaborating on unique and exciting projects.
+
+We also firmly believe that having fun together leads us to create better games. We are not an office where people keep to themselves — we’re a family. Our dynamic as a team mixed with the freedom to work autonomously enables us to break boundaries and feel excited to come into work.
+
+Role
+
+We are looking for a Data Scientist who will help us optimise our user acquisition efforts. Your primary focus will be in doing statistical analysis, building time-series models and using causal inference. You will be working closely with our User Acquisition team to advise them on optimal budget allocation and helping them devise strategies for entering new markets.
+
+Responsibilities
+Build forecasting models (e. g., for number of organic installs, cost per install, user LTV)
+Use various statistical techniques/models to assess effectiveness of multiple marketing channels
+Use causal inference to understand the relationship between our paid and organic traffic
+Based on your analysis/forecasting models, make recommendations for optimal allocation of user acquisition budget across countries, channels and platforms
+Based on your analysis and dialogue with the UA team, make recommendations for new markets to enter and how to do it
+
+
+Requirements
+Degree in a quantitative field required
+Working experience (you can count time spent in research environment, e.g during PhD, towards that)
+Strong SQL
+Experience coding in Python or R
+Experience in building forecasting models and/or doing causal inference
+Ability to explain ideas and present results to non-technical audiences
+Strong stakeholder management skills
+Experience with marketing mix models and/or Bayesian time series would be a big plus
+Seniority Level
+Mid-Senior level
+Industry
+Computer Software Internet Computer Games
+Employment Type
+Full-time
+Job Functions
+Engineering Information Technology

@@ -1,0 +1,63 @@
+Senior Data Scientist
+Mastercard
+Peterborough, England, United Kingdom
+Our Purpose
+
+We work to connect and power an inclusive, digital economy that benefits everyone, everywhere by making transactions safe, simple, smart and accessible. Using secure data and networks, partnerships and passion, our innovations and solutions help individuals, financial institutions, governments and businesses realize their greatest potential. Our decency quotient, or DQ, drives our culture and everything we do inside and outside of our company. We cultivate a culture of inclusion for all employees that respects their individual strengths, views, and experiences. We believe that our differences enable us to be a better team – one that makes better decisions, drives innovation and delivers better business results.
+
+Job Title
+
+Senior Data Scientist
+
+Mastercard is a global technology company in the payments industry. Our mission is to connect and power an inclusive, digital economy that benefits everyone, everywhere by making transactions safe, simple, smart, and accessible. Using secure data and networks, partnerships and passion, our innovations and solutions help individuals, financial institutions, governments, and businesses realize their greatest potential.
+Our decency quotient, or DQ, drives our culture and everything we do inside and outside of our company. With connections across more than 210 countries and territories, we are building a sustainable world that unlocks priceless possibilities for all.
+
+Overview
+
+The UK Finance Systems team is looking for Senior Data Scientist to drive our information an support strategy forward by consistently innovating and problem-solving. The ideal candidate is passionate about data and process minded, highly motivated, intellectually curious, analytical, and possesses a can do attitude.
+
+Role overview
+Responsible for developing data-driven innovative analytical solutions and identifying opportunities to support business and client needs in a quantitative manner and facilitate informed recommendations / decisions
+Activities include developing and creating predictive models, behavioral segmentation frameworks, profitability analyses, ad hoc reporting and data visualizations
+Responsibilities
+Independently manages and manipulates large data sets and applies various technical and statistical analytical techniques to draw insights from large data sets
+Communicates with client counterparts to ensure customer needs are being addressed when designing data analyses and technical solutions
+Reviews and applies complex analytical techniques or tools to draw meaningful and insightful observations and trends from large/ complex data sets
+Develops sophisticated multivariate models and analytic solutions (e.g., dashboards, prototypes), utilizing complex statistical and data science techniques and methods
+Meets project deadlines for accountable deliverables and anticipates delays or foreseeable barriers to progress, escalating issues when necessary
+Conducts due diligence quality assurance testing for prototypes and tools in beta and resolves reoccurring complex issues and bugs
+Assist with data R&D work as delegated by senior level colleagues
+Experiences
+Demonstrated ability to combine, interrogate, and manipulate large data sets
+Extensive experience leveraging open source tools, predictive analytics, machine learning, and other data techniques to perform complex analyses for project work
+Consistently delivered accurate, technically advanced and valid analyses with impactful insights and conclusions
+Demonstrated success when deciding on technical methodologies for project work
+Track record handling direct client communications professionally and effectively
+Extensive experience collaborating across functions within Mastercard (O&T specific)
+Served as an expert resource or go-to person for a specific consulting tool(s), system(s), and/or application(s)
+All About You
+
+The ideal candidate for this position should:
+The role will involve working with stakeholders from across the business requiring ability to explain technical problems succinctly and clearly.
+Strong data analysis combined with an adaptable logical approach to problem solving.
+Ability to interpret and understand requirements and explain complex findings to stakeholders
+Identify areas where resources fall short of needs and provide thoughtful and sustainable solutions to benefit the team
+Adept and finding potential solutions to solve problems and improve efficiencies.
+The ideal candidate will have some, or all the below skills:
+Strong Excel ability including Functions and Macro.
+Coding knowledge and or Background.
+SQL (Data Analysis Skills). (Oracle / Impala / Mongo)
+Knowledge of reporting tools SSRS PowerBI, OBIEE, Domo, Tableau.
+Due to COVID-19, most of our employees are working from home. We’ve implemented a virtual hiring process and continue to interview candidates by phone or video and are onboarding new hires remotely. We value the safety of each member of our community because we know we’re all in this together.
+
+Mastercard is an inclusive Equal Employment Opportunity employer that considers applicants without regard to gender, gender identity, sexual orientation, race, ethnicity, disabled or veteran status, or any other characteristic protected by law.
+
+If you require accommodations or assistance to complete the online application process, please contact reasonable.accommodation@mastercard.com and identify the type of accommodation or assistance you are requesting. Do not include any medical or health information in this email. The Reasonable Accommodations team will respond to your email promptly.
+Seniority Level
+Associate
+Industry
+Financial Services Information Technology & Services Internet
+Employment Type
+Full-time
+Job Functions
+Engineering Information Technology

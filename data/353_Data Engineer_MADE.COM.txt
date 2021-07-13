@@ -1,0 +1,72 @@
+Data Engineer
+MADE.COM
+London, England, United Kingdom
+Description
+
+Job Title: Data Engineer
+
+Department/Group: Analytics
+
+Line Manager: Lead Data Engineer
+
+Location: London (Old Street)
+
+Contract Type: Full Time, Permanent
+
+Travel Required: No
+
+Who We Are
+
+At MADE.COM we believe that everyone should have access to great design. So, we’ve taken a unique approach to making and selling furniture - no middlemen, no agents or importers and no high street stores. Instead we work directly with designers and manufacturers so we can offer high-end furniture at attractive prices.
+
+It’s not an easy task – it takes a creative and dedicated team to make it happen where everyone has an important part to play. We combine our individual passions and skills to create innovative work that’s as exciting and unconventional as the business itself. It’s a place where all ideas are listened to, where brainstorming means job titles get left at the door and where a self-starter can really make their mark.
+
+What You’ll Be Doing
+
+MADE.COM is a company that runs on the quality and availability of its data. Supporting various teams in the business (finance, marketing, logistics to name a few), the Analytics team provides access to operation and digital analytics data that underpins everything we do.
+
+Data is ingested from various sources (such as external APIs, flat files, transactional databases, event databases) and is enriched by the Analytics Team before being stored in a Data Warehouse. The team proposes schema, builds new data sets and generally sanitises and filters the data that will ultimately serve our Business Intelligence platforms where it can be accessed to create reports and gather insight. Our data warehouse is also used internally to build predictive models that drive the performance of the business, making our team a critical point of MADE.COM development.
+
+The volume of internal data analysis and insight requests across our business is higher and more varied than it’s ever been. As such we are keen to appoint an experienced Data Engineer to maintain our high standards of data provision.
+
+Our data platform relies on GCP and AWS clouds, where we constantly improve existing processes and toolkits. BigQuery and Airflow are the main engines behind our pipelines that are written in SQL, Python and R.
+
+Finally, but importantly, we're an agile team that does things that works to deliver business value through prioritisation and technical excellence., We're passionate about developing, testing, code reviews, coding standards and learning from each other to guarantee a high level of data availability and quality.
+
+Requirements
+
+What you’ll need
+Strong experience with SQL, having used it for procedures like joining tables, grouping, aggregating, filtering, cleaning data, merging columns etc.
+Good understanding of ETL processes: this means being able to articulate the purpose, function and advantages of maintaining a Data Warehouse, and experience with designing the schema of a data warehouse, extracting data from various sources, loading and sanitizing data for reporting and predictive modelling.
+Excellent grasp of Python or R scripting, having used your skills to perform complex transformations with commercial data solving real life problems.
+Experience working with source control.
+Good communicator and confident in your dealings with internal stakeholders, who may have varying levels of technical ability.
+You should be able to quickly and efficiently measure the validity of requests and understand the effect of the work on the product roadmap - all the while managing expectations and keeping teams updated as to your progress.
+Capable of working autonomously and taking responsibility for those tasks which you have ownership.
+To stand out
+Knowledge in cloud and engineering platform solutions such as AWS.
+Experience in retail, marketing, ecommerce, or digital advertising.
+Continuous integration and test automation experience.
+Google Analytics Premium and Google BigQuery.
+Benefits
+
+What we offer
+Great opportunities to make the role your own and get involved with exciting projects in a fast-paced, creative and fun office environment.
+We’re proud of our diverse, supportive company and culture. Our very own in-house Culture Club plans a variety of activities from our annual parties, Friday drinks, social events and more.
+Temptingly good employee discounts on MADE.COM (30% for you and 15% for your family & friends).
+25 days holiday per year (on top of bank holidays), plus an extra day of holiday for every year served up to a ceiling of 30 days.
+We know that flexibility is important. Our Everyday Flex policy enables you to determine your start and finish times, and we’re open to discussing other flexible working arrangements too.
+Free, unlimited access to over 13,000 eLearning courses to support your development.
+We believe it’s important to give back, so we give you one paid day off each year to get involved in any community or charity volunteering activity of your choice.
+Excellent employee benefits including private healthcare (with discounted gym membership), pension, life insurance, eyecare vouchers, cycle to work scheme and season ticket loan to name but a few.
+Up your street? apply for the opportunity to join our growing team in our brand new offices in the heart of Shoreditch!
+
+MADE is committed to creating a diverse and inclusive work environment, where all of our employees have equal access to opportunities and everyone’s voices are heard. We respect and value all differences (seen and unseen) and encourage applications from all backgrounds, which will be considered regardless of race, colour, religion or belief, gender expression, sexual orientation, national origin, pregnancy and maternity, disability or age.
+Seniority Level
+Entry level
+Industry
+Marketing & Advertising Design Retail
+Employment Type
+Full-time
+Job Functions
+Information Technology

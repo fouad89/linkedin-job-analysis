@@ -1,0 +1,67 @@
+Data Scientist
+Incora
+Derby, England, United Kingdom
+Posted by
+Michał Chęciński
+Acting Talent Acquisition Manager at Incora
+Send InMail
+About us
+ Incora™ (a merge of 2 great companies’: Pattonair and Wesco) is a leading, global provider of innovative supply chain solutions. Our promise to our customers is to reduce complexity and increase reliability so they can deliver mission-critical solutions that improve our world. We exist to enable the mission critical.
+ With a strong foundation in the aerospace and defence markets, we manage all aspects of supply chain from procurement to warehouse management, from logistics to on-site customer services.
+ We pride ourselves on offering:
+ Industry-leading capabilities
+Innovative solutions
+Greater customer value
+Trusted supplier relationships
+Business growth and operational efficiency
+ Our people make us unique, and we offer an Outstanding Colleague Experience.
+
+We live by our values: Courage, Collaboration and Commitment and are proud to add real value to our customers’ businesses. Our people-centric philosophy is underpinned with strong engagement, consistent communication, and opportunities for personal development, enabling our colleagues to grow and make a difference in our company.
+
+We are seeking a Data Scientist!
+
+The Data Science team at Incora is focused on providing innovative solutions to business problems through the application of advanced analytics & machine learning. The Data Science team provides machine learning based forecasts of customer demand for parts and develops tools that aid better overall forecasting and impact analysis. As a Data Scientist you will be engaged with stakeholders in our various business domains with a mission to drive data science adoption creating added value within our company.
+
+Please note: Due to COVID we are open to flexible/remote working
+
+Key responsibilities:
+ As a Data Scientist you will participate in multiple data science projects right from initial problem statement formulation, data exploration & transformation to application of machine learning algorithms and integrating with existing business processes and systems in a live environment.
+ Provide data science-based solutions to business problems of varying complexity
+Apply data science & machine learning concepts and python development skills to develop machine learning models in diverse business domains such as Sales & Commercial, Procurement, Supply Chain , SIOP
+Maintain and continuously enhance the Incora Machine Learning Platform
+Contribute in ideas and thoughts leading towards solutions to business problems
+Progress from initial ideas to solution development
+
+Essential requirements:
+
+Proven experience of participation in one or more full life cycle projects in Data Science & machine learning
+Broad knowledge of multiple machine learning frameworks & algorithms
+Knowledge of databases (Relational & non-relational) in the context of data science
+Software development skills in Python for data science using best practice quality guidelines
+Hold a Degree qualification with numerical content or equivalent
+Intermediate level with Microsoft Office including Excel
+Strong analytical skills with accuracy and attention to detail
+
+Desirable requirements:
+
+Experience in supply chain and/or logistics environment
+Experience in building data visualisation tools
+
+What we offer
+
+Great opportunity to start your career in aerospace and defence supply chain industry.
+Strong learning & development opportunities in Data Science, AI & Aerospace Supply Chain Management.
+Attractive compensation and benefits package: Medical Care, Holiday Allowance.
+Challenging work in an international environment with highest standards.
+Friendly work environment.
+Opportunity to collaborate with experts in Data Science and other Incora Teams.
+
+We are an equal opportunities employer and welcome applications from all suitably qualified persons regardless of their race, sex, disability, religion/belief, sexual orientation or age.
+  Seniority Level
+Associate
+Industry
+Information Technology & Services Airlines/Aviation Logistics & Supply Chain
+Employment Type
+Full-time
+Job Functions
+Information Technology Science Supply Chain

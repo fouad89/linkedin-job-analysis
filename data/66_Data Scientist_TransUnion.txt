@@ -1,0 +1,61 @@
+Data Scientist
+TransUnion
+Leather Lane, England, United Kingdom
+About TransUnion
+
+What We'll Bring:
+
+TransUnion UK provides the data, analytics and software that enable businesses to build more valuable customer relationships.
+
+We specialise in managing consumer data for businesses across every sector. We focus on developing innovative products and services that help businesses make smarter and more informed decisions throughout the customer lifecycle.
+
+We are TransUnion and we believe in Information for Good.
+
+About The Role
+
+What You'll Bring:
+
+In this role you will apply your data science skills to deliver new products and services, enhance existing propositions and conduct fundamental R&D into new approaches to provide our clients best in class solutions, ensuring the TU business remains at the forefront of the credit industry. Key applications will include fraud detection, real-time decisioning, credit risk & affordability decisioning and event-based triggers.
+
+Key Responsibilities
+You will partner with internal and external cross-functional teams to drive new business initiatives and deliver long term value-added solutions to various TransUnion customers. These tasks will include –among others- the development of predictive models and business intelligence solutions of high complexity for customers within the various industries served by TransUnion.
+You will lead client / product development engagements for DSA involving descriptive, predictive, and prescriptive aspects for a variety of business use cases leveraging multiple data science techniques. As a project leader, you will take ownership of all aspects of the project from design (including helping articulate and shape client needs that may, at first, not be clearly defined) and pre-mortem, to development, to peer review, to client presentation, to implementation and audit.
+You will design and write programs for data extraction, segmentation, statistical / ML / AI analysis on large population datasets using languages such as R and Python. Where applicable you will work to develop such programs into packages/ libraries / workflows which can be shared across the TU DSA organization for the benefit of all.
+You will identify strategies and opportunities for customers to test and adopt TransUnion’s data science capabilities and develop project proposals, sales presentations, and promotional collateral to enable the adoption of integrated customer solutions, applying your practical analytic experience to find areas of new value. In the context of these opportunities, you will interact directly with TransUnion sales and business unit partners and provide a data science perspective as needed.
+You will deliver data science driven insights and recommendations in succinct and compelling presentations for internal and external customers representing a wide range of backgrounds and levels, including executive audiences.
+You will provide mentorship and training to junior colleagues, maintain progress on all initiatives and make significant contributions to the TU DSA community.
+You will foster a high-performance culture and cultivate an environment that promotes excellence and reflects the TransUnion brand.
+Impact You'll Make
+
+Skills & Experience:
+Master's or PhD degree in statistics, applied mathematics, financial mathematics, engineering, operations research, or another highly quantitative field. A consistent track record of academic excellence.
+Professional experience performing data science within financial services or related industries (e.g., fraud, identity).
+Deep professional expertise in one or more subject-matter areas or technical disciplines that would complement and significantly enhance TransUnion's existing data science capabilities. A consistent record of applying this expertise to achieve positive outcomes, and a drive to share with colleagues and business partners.
+Outstanding analytical, critical thinking, and creative problem-solving skills.
+Advanced programming skills; mastery of R or Python; experience with other programming and data manipulation languages (e.g., SQL, C/C++, Java); proficiency with Linux and Microsoft Office tools.
+Comprehensive predictive modelling / machine learning (ML) / artificial intelligence (AI) knowledge and experience; dimension reduction, feature generation / engineering, outlier detection, statistical techniques, supervised / un-supervised learning (e.g., ensemble modelling, neural networks / deep learning).
+Keen motivation for continued professional development, keeping abreast of the latest data science / ML / AI research and techniques, alongside applications within the industries served by TransUnion, such as financial services, insurance, fraud, or digital.
+Versatile interpersonal and communication style (including presenting compelling visualizations) with the ability to effectively influence at multiple levels within and outside the organization.
+Strong project and time management skills, managing effectively multiple assignments within a complex, fast-paced and dynamic environment; evidence of initiative-taking.
+Willingness to participate in client-facing consulting work (such as TU’s innovation labs), developing their understanding of our capabilities and appropriate ML / AI approaches to solve key business challenges; to include some travel at times.
+What’s in it for you?
+
+At TransUnion you will be joining a friendly, forward thinking global business.
+
+As well as a competitive salary, our benefits package includes 26 days’ annual leave (plus bank holidays) a generous contributory pension scheme, private health care and a host of other employee lifestyle benefits.
+
+We take Corporate Social Responsibility seriously; our TU Good Works scheme supports communities around the world by advancing financial inclusion and education.
+
+Remote Interview & Hiring Process
+
+Protecting the health and wellness of our colleagues and candidates considering a career at TransUnion is our highest priority. Our recruitment and on-boarding experience for this role is fully virtual for the time being. Candidates interviewing will get to know our team over the phone and video, and this role will operate virtually upon hire until we return to the office. Even though we're not physically together right now, our goal is to provide you a supportive candidate and on-boarding experience that will immerse you in our culture and set you up for success at TransUnion
+
+TransUnion Job Title
+
+Advisor, Data Science and Analytics
+Industry
+Financial Services Information Services Information Technology & Services
+Employment Type
+Full-time
+Job Functions
+Engineering Information Technology

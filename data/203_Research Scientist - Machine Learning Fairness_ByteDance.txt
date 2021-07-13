@@ -1,0 +1,32 @@
+Research Scientist - Machine Learning Fairness
+ByteDance
+London, England, United Kingdom
+Posted by
+Rong Jiang
+Senior Talent Acquisition Partner - Tech at TikTok
+Send InMail
+Founded in 2012, ByteDance is a technology company operating a range of content platforms that inform, educate, entertain and inspire people across languages, cultures and geographies.
+
+With a suite of more than a dozen products, including TikTok, Douyin, Toutiao, Helo and Resso, ByteDance now has a portfolio of applications available in over 150 markets and 75 languages.
+
+Our MLF (machine Learning Fairness) team is dedicated to building a technology center to provide technical support for all ByteDance products from the perspectives of machine learning fairness. We are looking for machine learning researchers who have solid technical skills while being passionate about pursuing excellence in machine learning fairness and related areas.
+
+Responsibilities
+
+Research and development of technologies on machine learning fairness and ethics for products (including but not limited to machine learning interpretability, robustness, and privacy);
+- Conduct research on machine learning fairness and collaborate with experts in related fields in academia and industry
+- Carry out design and theoretical analysis of algorithms, and apply them to recommendation, search, CV, NLP and other fields.
+
+Qualifications
+- Researchers or PhD graduates in machine learning and other related fields;
+- In-depth understanding of machine learning with rich experiences in relevant fields;
+- Solid mathematical background and coding ability;
+- Publications at the top conferences is a big plus;
+Seniority Level
+Mid-Senior level
+Industry
+Internet
+Employment Type
+Full-time
+Job Functions
+Engineering

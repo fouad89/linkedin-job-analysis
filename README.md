@@ -42,3 +42,13 @@
   </ol>
   
   </li> 
+</ul>
+
+## References
+<ol style="fontsize=15px"> 
+  <li><a href="https://towardsdatascience.com/natural-language-processing-workflow-1dddf3a48ab5">Natural Language Processing Workdflow</a></li>
+  <li></li>
+  <li></li>
+  <li></li>
+</ol>
+<img src="graphs/workflow.png"></img>
